@@ -164,9 +164,11 @@ audio: /public/audio/games/deva/3005.mp3
 
 # Rahula Square
 
-You are standing in Rahula Square.  Huge marble steps lead up to the temple gate.  The entrance to the Clerics Guild is to the west, and the old
-Grunting Boar Inn, is to the east.  Just south of here you see the market
-square, the center of Midgaard.
+You are standing in Rahula Square. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Central Market, the center of Amaravati.
+
+----
+doc: games/deva/3005
+
 ~
 30 0 1
 D0
@@ -175,17 +177,17 @@ You see the temple.
 ~
 0 -1 3001
 D1
-You see the good old Grunting Boar Inn.
+You see The Amaravati Inn.
 ~
 ~
 0 -1 3006
 D2
-You see the Market Square.
+You see The Central Market.
 ~
 ~
 0 -1 3014
 D3
-You see the entrance to the Clerics Guild.
+You see the entrance to The Monastery.
 ~
 ~
 0 -1 3004
