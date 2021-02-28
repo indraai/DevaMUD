@@ -165,7 +165,7 @@ doc: games/deva/3004
 
 ----
 north: The Table
-south: The Circle
+east: The Circle
 ~
 30 8 0
 D0
