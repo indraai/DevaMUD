@@ -159,7 +159,12 @@ You see the Temple Square.
 S
 #3005
 Rahula Square~
-   You are standing in Rahula Square.  Huge marble steps lead up to the temple gate.  The entrance to the Clerics Guild is to the west, and the old
+image: /public/img/games/deva/3005.png
+audio: /public/audio/games/deva/3005.mp3
+
+# Rahula Square
+
+You are standing in Rahula Square.  Huge marble steps lead up to the temple gate.  The entrance to the Clerics Guild is to the west, and the old
 Grunting Boar Inn, is to the east.  Just south of here you see the market
 square, the center of Midgaard.
 ~
