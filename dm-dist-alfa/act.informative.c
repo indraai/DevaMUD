@@ -692,12 +692,12 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 	char buf[MAX_STRING_LENGTH];
 	char *exits[] =
 	{
-		"North",
-		"East ",
-		"South",
-		"West ",
-		"Up   ",
-		"Down "
+		"north",
+		"east",
+		"south",
+		"west",
+		"up",
+		"down"
 	};
 
 	*buf = '\0';
@@ -707,12 +707,10 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 			if (EXIT(ch, door)->to_room != NOWHERE &&
 			    !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
 				if (IS_DARK(EXIT(ch, door)->to_room))
-					sprintf(buf + strlen(buf), "%s - Too dark to tell\n\r", exits[door]);
+					sprintf(buf + strlen(buf), "%s: Too dark to tell\n\r", exits[door]);
 				else
-					sprintf(buf + strlen(buf), "%s - %s\n\r", exits[door],
+					sprintf(buf + strlen(buf), "%s: %s\n\r", exits[door],
 						world[EXIT(ch, door)->to_room].name);
-
-	send_to_char("Obvious exits:\n\r", ch);
 
 	if (*buf)
 		send_to_char(buf, ch);
