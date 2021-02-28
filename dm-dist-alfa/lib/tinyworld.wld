@@ -52,13 +52,29 @@ The only exit in your dimension unfortunatly leads right back here.
 0 520 0
 S
 #3001
-The Temple Of Midgaard~
-   You are in the southern end of the temple hall in the Temple of Midgaard.
-The temple has been constructed from giant marble blocks, eternal in
-appearance, and most of the walls are covered by ancient wall paintings
-picturing Gods, Giants and peasants.
-   Large steps lead down through the grand temple gate, descending the huge
-mound upon which the temple is built and ends on the temple square below.
+----
+image: /public/img/games/deva/3001.png
+# The Great Hall of Amaravati
+
+youtube: yU67c_SXykI
+
+You have arrived at the Southern End of The Great Hall of Amaravati, the capitol city of Svarga.
+
+The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts.
+
+Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Square below.
+
+
+note: We would like to thank you for joining us in the City of Amaravati in the Land of Svarga, Home to King Indra. Please enjoy your stay, but remember be RESPECTFUL. Thank You!
+
+thanks: Thank you for visiting!
+----
+doc: games/deva/TheGreatHall
+audio: /public/audio/games/deva/TheGreatHall.mp3
+----
+north: The Offering Table
+down: Rahula Square
+
 ~
 30 12 0
 D0
@@ -3381,7 +3397,7 @@ S
 West trail around Midgaard~
    You are on a dusty trail following the outside wall of Midgaard.
 To the east the wall towers over you and to the west you see the
-forest of Haon-Dor. The trail leads north and south along the wall. 
+forest of Haon-Dor. The trail leads north and south along the wall.
 ~
 30 0 2
 D0
@@ -3399,11 +3415,11 @@ S
 West trail around Midgaard~
    You are on a dusty trail following the outside wall of Midgaard.
 To the east the wall towers over you and to the west you see the
-forest of Haon-Dor. The trail leads north and south along the wall. 
+forest of Haon-Dor. The trail leads north and south along the wall.
 ~
 30 0 2
 D0
-To the north you notice the path makes a turn, following the City wall. 
+To the north you notice the path makes a turn, following the City wall.
 ~
 ~
 0 -1 3902
@@ -3416,7 +3432,7 @@ S
 #3902
 Northwest corner of dusty trail.~
    You are standing outside the northwestern corner of the city wall.
-The trail leads east following the north wall and south towards the gate.  
+The trail leads east following the north wall and south towards the gate.
 ~
 30 0 2
 D1
@@ -3433,7 +3449,7 @@ S
 #3903
 Dusty trail along north wall.~
    You are walking on the trail following the outside of Midgaard's
-northern wall.  
+northern wall.
 ~
 30 0 2
 D1
@@ -3442,7 +3458,7 @@ The dusty trail is winding along the north wall of Midgaard.
 ~
 0 -1 3904
 D3
-The dusty trail turns left around the corner of the wall, behind it Haon-Dor. 
+The dusty trail turns left around the corner of the wall, behind it Haon-Dor.
 ~
 ~
 0 -1 3902
@@ -3461,7 +3477,7 @@ A small path extends into the plains.
 ~
 0 -1 5000
 D1
-The dusty trail is winding along the north wall of Midgaard. 
+The dusty trail is winding along the north wall of Midgaard.
 ~
 ~
 0 -1 3905
@@ -3479,11 +3495,11 @@ S
 #3905
 Dusty trail along north wall.~
    You are walking on the trail following the outside of Midgaard's
-northern wall.  
+northern wall.
 ~
 30 0 2
 D1
-The dusty trail turns right around the corner of the wall. 
+The dusty trail turns right around the corner of the wall.
 You notice some mountains in the distance.
 ~
 ~
@@ -3497,7 +3513,7 @@ S
 #3906
 Northeast corner of dusty trail.~
    You are standing outside the northeastern corner of the city wall.
-The trail leads west following the north wall and south towards the gate.  
+The trail leads west following the north wall and south towards the gate.
 ~
 30 0 2
 D2
@@ -3515,11 +3531,11 @@ S
 East trail around Midgaard~
    You are on a dusty trail following the outside wall of Midgaard.
 To the west the wall towers over you and far to the east you see
-some mountains. The trail leads north and south along the wall. 
+some mountains. The trail leads north and south along the wall.
 ~
 30 0 2
 D0
-To the north you notice the path makes a turn, following the City wall. 
+To the north you notice the path makes a turn, following the City wall.
 ~
 ~
 0 -1 3906
@@ -3533,7 +3549,7 @@ S
 East trail around Midgaard~
    You are on a dusty trail following the outside wall of Midgaard.
 To the west the wall towers over you and far to the east you see
-some mountains. The trail leads north and south along the wall. 
+some mountains. The trail leads north and south along the wall.
 ~
 30 0 2
 D0
@@ -3650,7 +3666,7 @@ others haven't breathed before you.
 To the north a small tunnel continues into the mountain.
 ~
 40 9 2
-D0 
+D0
 ~
 ~
 0 0 4011
@@ -3668,7 +3684,7 @@ S
 #4011
 The tunnel~
    You squeeze your way through a small, narrow tunnel. The sharp-edged rocks
-protruding from the walls threathen to scratch and cut you. 
+protruding from the walls threathen to scratch and cut you.
 To the south you sense a freshness in the air which is rather unusual in these
 damp, stuffy tunnels. To the north the tunnel continues.
 ~
@@ -3701,7 +3717,7 @@ S
 #4013
 The tunnel~
    This tunnel, leading east-west, seems to be seldomly used. A thick layer
-of dust covers the floor making the air stuffy and dry. 
+of dust covers the floor making the air stuffy and dry.
 ~
 40 9 3
 D1
@@ -3977,7 +3993,7 @@ D2
 S
 #4030
 The light cave~
-   You are in a light cave, through a hole large above you, you see 
+   You are in a light cave, through a hole large above you, you see
 the sky. A small tunnel to the south is the only way out.
 You notice the source of the strange smell, all around you there is
 corpses from several monsters.
@@ -3994,7 +4010,7 @@ IT STINKS!
 S
 #4031
 The valley~
-   You are in a small valley, surrounded by hills and a mountain to 
+   You are in a small valley, surrounded by hills and a mountain to
 the south. In the mountain there is a cave.
 ~
 40 0 2
@@ -4086,7 +4102,7 @@ D3
 S
 #4055
 The maze~
-   You are in a maze of small damp tunnels. Only exit is west to a 
+   You are in a maze of small damp tunnels. Only exit is west to a
 light cave.
 ~
 40 9 3
@@ -4156,7 +4172,7 @@ D1
 S
 #4060
 The tunnel~
-   You are in a small tunnel, to the west the tunnel continues and 
+   You are in a small tunnel, to the west the tunnel continues and
 to the east you see some light.
 ~
 40 9 3
@@ -4218,7 +4234,7 @@ D1
 S
 #4064
 The tunnel~
-   You are in a tunnel, only exit is west - Only exit, well there is 
+   You are in a tunnel, only exit is west - Only exit, well there is
 also a hole in the ceiling.
 ~
 40 9 3
@@ -4394,7 +4410,7 @@ D5
 S
 #4100
 The tunnel~
-   Suddenly you feel that the tunnel leads slightly down.. The only 
+   Suddenly you feel that the tunnel leads slightly down.. The only
 exit is to the west, and it leads down..
 ~
 41 13 3
@@ -4617,7 +4633,7 @@ D3
 S
 #4113
 The passage~
-   You are in a passage that leads towards the south. To the east 
+   You are in a passage that leads towards the south. To the east
 you see a tunnel.
 ~
 41 9 3
@@ -4637,7 +4653,7 @@ S
 #4114
 The golden cave~
    You are in a giant cave, all the walls are shining with a soft golden
-light. The cave continues to the north, to the west you see a dark 
+light. The cave continues to the north, to the west you see a dark
 passsage.
 ~
 41 8 1
@@ -4839,7 +4855,7 @@ The dark hole~
    You are standing at a hole, a small passage leads south. You see
 some inscriptions on the wall, most of 'em the usual stuff, like :
 'Super Snude was here' and 'Why does the mayor likes secretarys with
-small hands?' - But one inscription gets you attention, it says : 
+small hands?' - But one inscription gets you attention, it says :
 The Balrog is ALIVE...
 ~
 41 13 3
@@ -5319,7 +5335,7 @@ the beautifull landscaping here. The Path leads north and south.
 50 0 2
 D0
 The path continues north as small foothills begins to appear.
-~ 
+~
 ~
 0 -1 5005
 D2
@@ -5551,7 +5567,7 @@ Here you see the road go towards the intersection.
 S
 #5015
 Gallow hill~
-   You walk in the grassy plains. On this litlle hill you can see 
+   You walk in the grassy plains. On this litlle hill you can see
 two gallows, with rotting human tissue hanging from the robe.
 There is a sign here.
 ~
@@ -5583,7 +5599,7 @@ The sign sais:
   Loyal citizens of Midgaard. These are the earthly remains of the
   two herretics 'Dim' and 'Gamma' of this world. Having forged them-
   selves to immortality, they called upon themselves the anger of the
-  implementators. Let this be a lesson too all ..... 
+  implementators. Let this be a lesson too all .....
 
                                     -- the Powers that Be.
 ~
@@ -5780,7 +5796,7 @@ The small foothills extend far to the west.
 S
 #5023
 The steep foothills~
-   You walk in the steep foothills. It is rather hard to move here. 
+   You walk in the steep foothills. It is rather hard to move here.
 To the north you can see the mountains. Several pinetrees is growing here,
 making the place look dark and evil.
 ~
@@ -5818,9 +5834,9 @@ the sky.
 S
 #5024
 The steep foothills~
-   You are walking in the steep foothills. It is rather hard to move here. 
+   You are walking in the steep foothills. It is rather hard to move here.
 To the north you can see the mountains towering over you. Several pinetrees
-grow here 
+grow here
 ~
 50 0 4
 D0
@@ -5857,7 +5873,7 @@ The all too quiet trees suggest that something roams theese woods.....
 S
 #5025
 The steep foothills~
-   You are walking in the steep foothills. It is rather hard to move here. 
+   You are walking in the steep foothills. It is rather hard to move here.
 Further to the north you can see the mountains towering over you.
 Several pinetrees grow here.
 ~
@@ -5919,7 +5935,7 @@ you can't see the bottom of it ... it must be pretty deep.
 S
 #5027
 The foothills~
-   You are walking in some foothills. It is rather hard to move here. 
+   You are walking in some foothills. It is rather hard to move here.
 Further to the north you can see the mountains towering over you.
 Several pinetrees grow here.
 ~
@@ -5948,7 +5964,7 @@ The foothills extend far to the west.
 S
 #5030
 In front of hut in foothills~
-   You are standing in the foothills. To the west, well hidden among the small 
+   You are standing in the foothills. To the west, well hidden among the small
 foothills and pines, you see a small hut. To the north you can see
 the foothills, and some pineforrest. Further on mountainpeaks are visible.
 ~
@@ -5977,7 +5993,7 @@ S
 #5031
 Hermits hut~
    You are inside the hermits hut.  It is rather old, but serves it purpose
-It keeps its habitant from the rough winds and dangerous beasts of the 
+It keeps its habitant from the rough winds and dangerous beasts of the
 plains and foothills. There is a small fireplace here.
 ~
 50 8 0
@@ -6151,7 +6167,7 @@ S
 #5039
 The Stones of G'harne~
    You are in the center of 7, 15 ft tall monolith like black stones.
-In the center of the ring formed by the monolith you can't help 
+In the center of the ring formed by the monolith you can't help
 noticing a big sacrifice altar. The ground is covered with dirt, but the
 altar shows no sign of such. West of here is the ancient path.
 ~
@@ -6186,7 +6202,7 @@ Dark smelly tunnels~
    You are standing in a gloomy tunnel leading south and west,
 right under the altar of G'harne.
 The walls are covered with a smelly slime and small rotting
-pieces of a meat like substance, fills the air with an unbearable 
+pieces of a meat like substance, fills the air with an unbearable
 stench.
 You might be able to force your way up into fresh air from here.
 ~
@@ -6227,7 +6243,7 @@ S
 Dark smelly tunnels~
    You are standing in a gloomy tunnel leading east and west,
 The walls are covered with a smelly slime and small rotting
-pieces of a meat like substance, fills the air with an unbearable 
+pieces of a meat like substance, fills the air with an unbearable
 stench.
 ~
 50 265 0
@@ -6250,7 +6266,7 @@ You puke.
 S
 #5043
 Dark smelly tunnels~
-   You are standing in a small smelly tunnel under the plains. 
+   You are standing in a small smelly tunnel under the plains.
 The smell is growing stronger to the west, so is the density of the
 slime and other undeterminable substances....
 ~
@@ -6267,7 +6283,7 @@ The tunnel seems to extend into some kind of cave........
 0 -1 5044
 E
 slime substance~
-BWADR! ... 
+BWADR! ...
 ~
 S
 #5044
@@ -6372,7 +6388,7 @@ The small alley~
 From here you see the village street to the west and a small
 reception lies to the south.
 ~
-51 0 1  
+51 0 1
 D2
 It looks as a reception for storing goods.
 ~
@@ -8564,7 +8580,7 @@ the smell is absolutely OVERWHELMING.
 S
 #7002
 The muddy sewer junction~
-The muddy sewer stretches into the dark to the south. It looks as if 
+The muddy sewer stretches into the dark to the south. It looks as if
 no person has ever sat his foot here before. It's too muddy for that
 anyway. The sewer leads north, south and east from here.
 ~
@@ -8592,7 +8608,7 @@ the smell is absolutely OVERWHELMING.
 S
 #7003
 The mudhole~
-You stand in mud all the way up to your thighs and it's not too 
+You stand in mud all the way up to your thighs and it's not too
 comfortable since you are used to a somewhat different environment.
 The sewer leads to the north of here. In the middle you can just make
 out an enormous drainpipe leading down.
@@ -8627,7 +8643,7 @@ East. The sewer leads into the sewer junction.
 ~
 0 -1 7009
 D5
-The Dark Pit leads down an down and down ... well you can't see the 
+The Dark Pit leads down an down and down ... well you can't see the
 bottom anyway. There are bars that function as a ladder on the side.
 ~
 ~
@@ -8646,7 +8662,7 @@ East. The mud stretches on into the darkness.
 ~
 0 -1 7011
 D2
-South. There is even more mud in that direction than where you are now. 
+South. There is even more mud in that direction than where you are now.
 Incredible.
 ~
 ~
@@ -8660,7 +8676,7 @@ S
 #7006
 The muddy sewer~
 You are standing in something that reminds you very much of porridge, this
-has the advantage that it's not hot, it's rather cold actually. The pipe 
+has the advantage that it's not hot, it's rather cold actually. The pipe
 bends to the north and east.
 ~
 70 9 5
@@ -8689,13 +8705,13 @@ bend in which you stand leads west and south.
 ~
 70 9 5
 D3
-The pipe (still filled with mud) leads into a intersection that goes north 
+The pipe (still filled with mud) leads into a intersection that goes north
 and south. Interesting.
 ~
 ~
 0 -1 7002
 D2
-The pipe leads into a intersection that goes south and east. The floor here 
+The pipe leads into a intersection that goes south and east. The floor here
 is still covered in mud.
 ~
 ~
@@ -8722,13 +8738,13 @@ The bend leads west.
 0 -1 7007
 D1
 East. This way like a place for the annual mud festival, although the stench
-wouldn't allow any happiness at all. The pipe leads into a bend that leads 
+wouldn't allow any happiness at all. The pipe leads into a bend that leads
 north.
 ~
 ~
 0 -1 7014
 D2
-South. There's less mud in that direction. *smile*. Your light doesn't 
+South. There's less mud in that direction. *smile*. Your light doesn't
 cover enough space for you to see much more than that it leads into some
 sort of junction.
 ~
@@ -8758,7 +8774,7 @@ YYEEUUCH! BOOH! THAT looks like a nice place for creepy crawlies.
 ~
 0 -1 7017
 D2
-North. This direction looks quite nice actually. The pipe leads into 
+North. This direction looks quite nice actually. The pipe leads into
 a bend that goes east.
 ~
 ~
@@ -8795,7 +8811,7 @@ S
 #7011
 The muddy sewer pipe~
 You have entered a kind of tube intersection that leads south, west and east.
-Your legs are covered in mud up to the knees. REAL yucky! 
+Your legs are covered in mud up to the knees. REAL yucky!
 ~
 70 9 5
 D3
@@ -8847,8 +8863,8 @@ the smell is absolutely OVERWHELMING.
 S
 #7013
 A MUDDY intersection~
-You wouldn't want to know the true feeling of standing in this mud up to 
-your hips. >BWAADR<. All that fills your mind right now is the dream of 
+You wouldn't want to know the true feeling of standing in this mud up to
+your hips. >BWAADR<. All that fills your mind right now is the dream of
 a hot bath. This is NOT very clean mud you know, remember you're in the
 sewer! The pipes leads north, south and east.
 ~
@@ -8938,7 +8954,7 @@ enough for you to climb down, WITH both hands on them.
 S
 #7016
 The ordinary bend~
-You are in the middle of a bend in the pipe system of the sewer system, 
+You are in the middle of a bend in the pipe system of the sewer system,
 WHAT a place!!! The pipe leads to the south and the east.
 ~
 70 9 1
@@ -8993,7 +9009,7 @@ To the north you can see a junction like this one, leading north and west.
 ~
 0 -1 7017
 D1
-To the east there's nothing of particular interest, though there's a 
+To the east there's nothing of particular interest, though there's a
 junction with pipelines leading norht and east.
 ~
 ~
@@ -9043,7 +9059,7 @@ entryway~
 S
 #7024
 The sewer~
-You are standing in mud up to your ankles. This is an intersection with 
+You are standing in mud up to your ankles. This is an intersection with
 sewer pipes leading east, south and west.
 ~
 70 13 1
@@ -9082,7 +9098,7 @@ Another intersection lies to the south. It leads west and south.
 ~
 0 -1 7026
 D1
-East. You see nothing of interest in that direction, just another 
+East. You see nothing of interest in that direction, just another
 intersection. This one leads east and south.
 ~
 ~
@@ -9091,7 +9107,7 @@ S
 #7026
 A junction~
 This one seems interesting, a big difference from all the other junctions.
-It seems cleaner than the rest of them. Weird. Something that looks like 
+It seems cleaner than the rest of them. Weird. Something that looks like
 an air shaft leads upwards, but it looks far too slippery to climb.
 The pipes lead to the south, west and north.
 ~
@@ -9140,12 +9156,12 @@ To the east you can see a bend in the pipe going south.
 S
 #7029
 The Triple Junction~
-You stand in the middle of a huge junction of concrete sewer pipes. The 
+You stand in the middle of a huge junction of concrete sewer pipes. The
 pipes lead into three different directions : east, south and west.
 ~
 70 9 1
 D3
-To the west you can just make out another junction similar to the one 
+To the west you can just make out another junction similar to the one
 you are standing in.
 ~
 ~
@@ -9165,9 +9181,9 @@ S
 #7030
 The Quadruple Junction Under the Dump~
 You are standing in something that reminds you of an entry to an ant hive.
-There are enormous concrete pipes leading north, south, east and west. 
+There are enormous concrete pipes leading north, south, east and west.
 There's also a metal ladder built into the concrete wall leading up through
-a layer of garbage. 
+a layer of garbage.
 ~
 70 13 1
 D0
@@ -9244,11 +9260,11 @@ To the south you can see another bend leading west.
 S
 #7035
 The sewer pipe bend~
-You can look in two different directions where the pipe goes : west and 
+You can look in two different directions where the pipe goes : west and
 north.
 ~
 70 9 2
-D0 
+D0
 North. You see another bend leading west.
 ~
 ~
@@ -9315,7 +9331,7 @@ To the south you can see what looks like a store room.
 S
 #7039
 The Sewer Store Room~
-You stand in a small room lit by a single torch set in the wall. The only 
+You stand in a small room lit by a single torch set in the wall. The only
 way out of here is to the north.
 ~
 70 8 1
@@ -9333,7 +9349,7 @@ leads south from here.
 ~
 70 9 1
 D5
-Down and utter darkness. There's absolutely nothing to be seen in that 
+Down and utter darkness. There's absolutely nothing to be seen in that
 direction.
 ~
 ~
@@ -9416,7 +9432,7 @@ looks very bright. To the south the floor is covered with yucky water. The
 North leads to sort of a Guard Room.
 ~
 70 8 1
-D0 
+D0
 To the north you can see the guard room.
 ~
 ~
@@ -9461,7 +9477,7 @@ The junction~
 You stand in a junction leading north, west and east.
 ~
 70 9 1
-D0 
+D0
 ~
 ~
 0 -1 7048
@@ -9480,7 +9496,7 @@ and west.
 S
 #7050
 The small room~
-The only thing in this room of interest is a chair, and that's tight to the 
+The only thing in this room of interest is a chair, and that's tight to the
 rock floor. A doorway leads south and another leads east into darkness.
 ~
 70 9 1
@@ -9497,7 +9513,7 @@ Utter darkness...!
 S
 #7051
 The Sewer pipe~
-You are in what reminds you of a foul sewer, as if you liked being here! 
+You are in what reminds you of a foul sewer, as if you liked being here!
 You can see two exits leading either north or south.
 ~
 70 8 1
@@ -9513,7 +9529,7 @@ To the south you can see a strange light flowing from there.
 S
 #7052
 The Grand Sewer~
-You are in a Grand Sewer Pipe. This stretches toward the south. It's large 
+You are in a Grand Sewer Pipe. This stretches toward the south. It's large
 indeed! A doorway leads to the east from here.
 ~
 70 8 1
@@ -9560,7 +9576,7 @@ D3
 ~
 0 -1 7050
 D1
-You can hardly make out much more than that the next place is in a pipe 
+You can hardly make out much more than that the next place is in a pipe
 with more water.
 ~
 ~
@@ -9589,7 +9605,7 @@ You can see nothing at all, because it's completely dark in that direction.
 S
 #7057
 The dark passageway~
-You can't see anything but the ground where you put your feet. The 
+You can't see anything but the ground where you put your feet. The
 passageway seems to continue south and north.
 ~
 70 9 1
@@ -9873,9 +9889,9 @@ S
 #7069
 A ledge by the dark pool~
 You can't see much here but the echo tells you that there's quite a drop
-down. You can just make out a huge dark pool out there in the darkness, 
+down. You can just make out a huge dark pool out there in the darkness,
 mostly because of the trickling of water. The water from the sewer actually
-washes over this ledge and makes it quite slippery. From here it drops, 
+washes over this ledge and makes it quite slippery. From here it drops,
 like a waterfall, into the pool far down.
 ~
 70 9 5
@@ -9926,7 +9942,7 @@ S
 #7099
 The fissure under the ledge~
 This is a small fissure in the solid rock. Under you lies the deep dark pool.
-The water trickles quietly down from the ledge above you. The water smells 
+The water trickles quietly down from the ledge above you. The water smells
 like the water in a sewer.
 ~
 70 13 5
@@ -9943,9 +9959,9 @@ S
 #7101
 Under the mudhole~
 You stand in a small room with a great big opening in the ceiling. From this
-opening there's mud dripping down in large lumps. >YUCK<. You can smell the 
-foul stench of the slimy sediment as you try not to get covered by the 
-falling sludge. To the east there is an entryway leading out from here and 
+opening there's mud dripping down in large lumps. >YUCK<. You can smell the
+foul stench of the slimy sediment as you try not to get covered by the
+falling sludge. To the east there is an entryway leading out from here and
 it seems absolutely impossible to force the muddy decent.
 ~
 71 13 5
@@ -9966,7 +9982,7 @@ two exits, Up and East. A tall ladder is left here so that you can climb
 up through the Pit without the use of a rope.
 ~
 71 9 1
-D4 
+D4
 Up. You can't see a thing up there, it's way too dark.
 ~
 ~
@@ -9994,7 +10010,7 @@ your legs up to you knees as well. The pipe leads west and south.
 ~
 71 9 4
 D3
-You can see a room in which mud drips from the roof onto the floor in 
+You can see a room in which mud drips from the roof onto the floor in
 great cakes of sludge. There doesn't seem to be any exits from that room
 apart from in you direction.
 ~
@@ -10027,7 +10043,7 @@ West. There's a room with a ladder leading up.
 ~
 ~
 0 -1 7102
-D1 
+D1
 East. You can't even make out what it might look like, it's just too dark.
 ~
 ~
@@ -10036,7 +10052,7 @@ S
 #7105
 Down the old well~
 You are dangling on the slippery sides of the old well leading down and up.
-The only secure point here is the metal bars that are cemented into the 
+The only secure point here is the metal bars that are cemented into the
 sides, the ones that you cling frantically to so that you don't fall. Who
 knows how deep this well is? The bars lead down and up and nowhere else.
 ~
@@ -10049,8 +10065,8 @@ Anyway it SEEMS darker down here than up there, if that is possible.
 0 -1 7015
 D5
 Down there nothing at all can be spotted. The darkness that engulfs this
-decent seems utterly impossible in a mortal world. It's so thick that a 
-torch down there would be utterly useless ... or so it seems to you. Not 
+decent seems utterly impossible in a mortal world. It's so thick that a
+torch down there would be utterly useless ... or so it seems to you. Not
 the kind of thing to cheer you up on this voyage , eh?
 ~
 ~
@@ -10063,7 +10079,7 @@ enough for you to climb down, WITH both hands on them.
 S
 #7106
 The northwestern corner of the ledge~
-You stand, swaying out from the ledge, with only a couple of inches of safe, 
+You stand, swaying out from the ledge, with only a couple of inches of safe,
 solid ledge under your feet. The ledge continues to the east but not back
 south. It seems that the ledge is too narrow to turn on so you'll have to
 continue foreward.
@@ -10091,10 +10107,10 @@ rock step edge~
 E
 edge odd-looking~
 This is truly a weird piece of craftsmanship in your eyes. The edge seems to
-form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there 
+form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there
 leading to seemingly total destruction.
 ~
-E 
+E
 step~
 A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
 SPLAT!!!
@@ -10103,7 +10119,7 @@ E
 rock~
 It looks as if it can be opened in a door-like fashion. Maybe this will lead
 the way down.
-~ 
+~
 S
 #7107
 The narrow ledge~
@@ -10124,7 +10140,7 @@ South. The ledge leads further south into utter darkness.
 ~
 0 -1 7108
 D1
-You stare into mid-air, and right under there's absolutely nothing but 
+You stare into mid-air, and right under there's absolutely nothing but
 darkness. You shiver by the thought of falling an utterly unknown distance.
 ~
 ~
@@ -10143,7 +10159,7 @@ North. The ledge leads further north.
 ~
 ~
 0 -1 7107
-D2 
+D2
 The ledge continues further south into darkness.
 ~
 ~
@@ -10207,8 +10223,8 @@ darkness. You shiver by the thought of falling that distance.
 S
 #7111
 The southwestern corner of the ledge~
-This seems like a ledge that is a little broader than the one just to the 
-north of here. The ledge seems to lead around some sort of Abyss of total 
+This seems like a ledge that is a little broader than the one just to the
+north of here. The ledge seems to lead around some sort of Abyss of total
 darkness. The ledge seems to have an odd-looking edge here.
 ~
 71 13 5
@@ -10235,10 +10251,10 @@ rock step edge~
 E
 edge odd-looking~
 This is truly a weird piece of craftsmanship in your eyes. The edge seems to
-form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there 
+form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there
 leading to seemingly total destruction.
 ~
-E 
+E
 step~
 A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
 SPLAT!!!
@@ -10247,7 +10263,7 @@ E
 rock~
 It looks as if it can be opened in a door-like fashion. Maybe this will lead
 the way down.
-~ 
+~
 S
 #7112
 An odd intersection~
@@ -10266,7 +10282,7 @@ D1
 ~
 ~
 0 -1 7122
-D3 
+D3
 ~
 ~
 0 -1 7104
@@ -10323,13 +10339,13 @@ D4
 S
 #7115
 The Broad ledge~
-You are standing on a ledge that seems quite a lot larger than the rest 
+You are standing on a ledge that seems quite a lot larger than the rest
 of the ledges. This one leads to the west and the east, plus it has an exit
-going to the south. Though you could jump into mid-air, but it probably 
+going to the south. Though you could jump into mid-air, but it probably
 wouldn't be such a good idea. The way south is in utter darkness.
 ~
 71 13 4
-D0 
+D0
 ~
 ~
 0 -1 7114
@@ -10369,7 +10385,7 @@ secret trapdoor entrance~
 E
 ground ledge rock~
 The ground here seems a little different from all the other ledges along the
-Abyss. There's a kind of soft soil on this ledge, maybe you should look 
+Abyss. There's a kind of soft soil on this ledge, maybe you should look
 carefully at this. It seems to be of some interest.
 ~
 E
@@ -10490,10 +10506,10 @@ rock step edge~
 E
 edge odd-looking~
 This is truly a weird piece of craftsmanship in your eyes. The edge seems to
-form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there 
+form a step leading down, but WHAT a STEP DOWN. The Abyss opens down there
 leading to seemingly total destruction.
 ~
-E 
+E
 step~
 A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
 SPLAT!!!
@@ -10502,7 +10518,7 @@ E
 rock~
 It looks as if it can be opened in a door-like fashion. Maybe this will lead
 the way down.
-~ 
+~
 S
 #7122
 Under the pit~
@@ -10514,7 +10530,7 @@ D3
 ~
 0 -1 7112
 D1
- 
+
 ~
 crack wall rock~
 0 -1 -1
@@ -10599,8 +10615,8 @@ S
 The Edge of the Water~
 The pool side is dimly lit up by your light. You can see absolutely nothing
 else nearby. The darkness her seems enormously oppressive here. The air is
-damp and the rock on which you stand is slippery. The pool seems too dark 
-to make anything clear. The pool seems to extend to the east. The rock can 
+damp and the rock on which you stand is slippery. The pool seems too dark
+to make anything clear. The pool seems to extend to the east. The rock can
 be climbed upwards from here.
 ~
 71 13 5
@@ -10636,7 +10652,7 @@ You read the number '666'.
 S
 #7201
 The inner Lair~
-You are in a octagonal room with smooth purple stone walls.  The floor is 
+You are in a octagonal room with smooth purple stone walls.  The floor is
 made from black stone.  In the western wall you see a large black stone door.
 ~
 72 9 0
@@ -10654,7 +10670,7 @@ S
 #7202
 The Lair~
 On the floor you see a lot of human decay, like bones and skulls. You also
-see a lot of slime. On the wall is a torch sitting in its sconce. To the north 
+see a lot of slime. On the wall is a torch sitting in its sconce. To the north
 are a wooden door.
 ~
 72 8 1
@@ -10675,7 +10691,7 @@ You see another part of the lair.
 0 -1 7203
 E
 skull skulls bones decay~
-On all the skulls you notice that there is a three inch hole in the 
+On all the skulls you notice that there is a three inch hole in the
 forehead. All the bones are broken and old.
 ~
 E
@@ -10710,7 +10726,7 @@ You see another part of the lair.
 0 -1 7204
 E
 skull skulls bones decay~
-On all the skulls you notice that there is a three inch hole in the 
+On all the skulls you notice that there is a three inch hole in the
 forehead. All the bones are broken and old.
 ~
 E
@@ -10745,7 +10761,7 @@ door wooden~
 1 -1 7208
 E
 skull skulls bones decay~
-On all the skulls you notice that there is a three inch hole in the 
+On all the skulls you notice that there is a three inch hole in the
 forehead. All the bones are broken and old.
 ~
 E
@@ -10775,7 +10791,7 @@ You see another part of the lair.
 0 -1 7202
 E
 skull skulls bones decay~
-On all the skulls you notice that there is a three inch hole in the 
+On all the skulls you notice that there is a three inch hole in the
 forehead. All the bones are broken and old.
 ~
 E
@@ -10839,7 +10855,7 @@ You see another part of the lair.
 1 -1 7204
 E
 skull skulls bones decay~
-On all the skulls you notice that there is a three inch hole in the 
+On all the skulls you notice that there is a three inch hole in the
 forehead. All the bones are broken and old.
 ~
 E
@@ -10853,7 +10869,7 @@ The torch is bolted to the sconce and the sconce to the wall.
 S
 #7208
 The lair entrance.~
-You are in a dry part of the sewer. To the north is a wooden door, you 
+You are in a dry part of the sewer. To the north is a wooden door, you
 can see some slime at the lower part of the door. You also see some skulls
 and some broken bones.
 ~
@@ -10895,12 +10911,12 @@ You are in a sewer junction. To the north is a small hole, to the west is a
 narrow crawlway and to the east and south the sewer continues.
 ~
 72 9 3
-D0 
+D0
 You can see a small cave-like room.
 ~
 ~
 0 -1 7211
-D1 
+D1
 You can see a sewer drain.
 ~
 ~
@@ -10994,12 +11010,12 @@ The water is dirty but it looks like you would be able to swim in it.
 S
 #7216
 Under water in the sewer.~
-You swim in some dirty water and is holding you breath. You'll better 
+You swim in some dirty water and is holding you breath. You'll better
 continue before you drown. It is a good thing that you can hold your light
 above water-level.
 ~
 72 9 6
-D0 
+D0
 It is hard to see, but it looks like the drain runs slightly upwards.
 ~
 ~
@@ -11086,7 +11102,7 @@ You can see another drain to the east.
 S
 #7221
 The sewer drain.~
-You are in a sewer drain, there is nothing special inhere, exept for a 
+You are in a sewer drain, there is nothing special inhere, exept for a
 loud echo.
 ~
 72 9 3
@@ -11145,11 +11161,11 @@ S
 #7224
 The sewer junction~
 You stand in a junction of three sewer drains. You see some odd scrates on
-the pipe wall, as from a gigantic rat.North and south the sewer continues 
+the pipe wall, as from a gigantic rat.North and south the sewer continues
 as usual, but west it looks a little strange.
 ~
 72 9 3
-D0 
+D0
 You see nothing but a sewer drain.
 ~
 ~
@@ -11168,7 +11184,7 @@ S
 #7225
 The sewer~
 You are in a sewer, where the slimy water runs down through a tiny hole.
-You see some odd scrates on the pipe wall, as from a gigantic rat. There 
+You see some odd scrates on the pipe wall, as from a gigantic rat. There
 is a sewer drain south.
 ~
 72 9 3
@@ -11198,7 +11214,7 @@ You see a slimy sewer drain.
 S
 #7230
 The damp sewer~
-You are in a sewer drain with a funny damp substance on the floor, in the 
+You are in a sewer drain with a funny damp substance on the floor, in the
 substance you see a lot of decay. You see some odd scrates on the wall, as
 from a gigantic rat. Both to the east and west the pipe seems to run down.
 ~
@@ -11222,7 +11238,7 @@ ad a lot of debris on the floor.
 72 9 3
 D1
 You see a sewer.
-~ 
+~
 ~
 0 -1 7230
 D3
@@ -11255,7 +11271,7 @@ S
 #7233
 The sewer drain~
 You stand in in a sewer drain, you are able to see some kind of cave-like
-room. You see some odd scrates on the drain wall, as from a gigantic rat. 
+room. You see some odd scrates on the drain wall, as from a gigantic rat.
 The sewer leads south.
 ~
 72 9 3
@@ -11272,7 +11288,7 @@ You see a sewer.
 S
 #7234
 The rat's lair~
-You are in a little cave. You are able to see quite a lot of debris on the 
+You are in a little cave. You are able to see quite a lot of debris on the
 floor. There is a sewer drain west of here.
 ~
 72 9 3
@@ -11284,7 +11300,7 @@ You see the sewer system that way.
 S
 #7279
 The Wall of the Abyss~
-You hang onto some steps leading down into utter darkness. There's an exit 
+You hang onto some steps leading down into utter darkness. There's an exit
 leading up as well, though you'll have to open the tiny rock again to do so.
 ~
 72 9 5
@@ -11357,8 +11373,8 @@ S
 #7282
 The Realm of lost souls~
 You are standing in nothing. All around you there are stars.
-Sometimes a shadow flies closely by you, wailing very loudly. 
-To the north there is a small bright hole. To the west there is 
+Sometimes a shadow flies closely by you, wailing very loudly.
+To the north there is a small bright hole. To the west there is
 a small red hole.
 ~
 72 8 0
@@ -11425,8 +11441,8 @@ the only exit is death..... Mother, I love you'.
 S
 #7285
 The tortureroom.~
-You are standing in a middle of a square room. Along the walls skeletons 
-are hanging in rusty chains. In the middle of the room there is a big metal 
+You are standing in a middle of a square room. Along the walls skeletons
+are hanging in rusty chains. In the middle of the room there is a big metal
 box, covered with dust. To the south you can just make out a small exit.
 ~
 72 8 1
@@ -11437,7 +11453,7 @@ door iron~
 1 -1 7286
 E
 skeletons~
-When you look at the skeletons, you can see that they once had been in great 
+When you look at the skeletons, you can see that they once had been in great
 pain. They are hanging in their arms, and some of them has been killed
 with a sharp instrument.
 ~
@@ -11451,7 +11467,7 @@ S
 The hells yard~
 You are standing in a lot of mud. A disguisting smell surrounds
 the place, and makes you fell sick. Small flames sometimes shoot
-up from the hot mud. To the west there is a small door. To the 
+up from the hot mud. To the west there is a small door. To the
 north you can see an iron door.
 ~
 72 12 5
@@ -11470,8 +11486,8 @@ S
 The Entrance to the Realm of silence~
 This is an utterly silent place. As you look around you see that there
 hasn't been a living thing in a long time. The dust lies here in a thick
-layer on the floor and on the furniture. On the wall hangs a bleak and 
-worn tapestry. A winding stone staircase leads up into darkness. On the 
+layer on the floor and on the furniture. On the wall hangs a bleak and
+worn tapestry. A winding stone staircase leads up into darkness. On the
 wall to the west you can see a huge torch stuck into the solid rock.
 A large portcullis blocks your way to the north.
 ~
@@ -11479,7 +11495,7 @@ A large portcullis blocks your way to the north.
 D4
 ~
 ~
-0 -1 -1 
+0 -1 -1
 D0
 Through the portcullis, you can see a faintly lighted hallway leading east.
 ~
@@ -11491,12 +11507,12 @@ This seems like an exceptionally heavy gate, made of thick iron.
 ~
 E
 torch light~
-This VERY old torch looks as if it has burned for ages, yet no traces of 
+This VERY old torch looks as if it has burned for ages, yet no traces of
 the searing flame can be seen on it!
 ~
 E
 stairs staircase~
-This looks as if it has been standing here for at least 12 centuries. It's 
+This looks as if it has been standing here for at least 12 centuries. It's
 Very worn and cracks in the surface mingle with the cores of mineral that
 penetrates the rock from which these steps are chiselled.
 ~
@@ -11506,7 +11522,7 @@ On the walls of the Abyss~
 You are clutching the steps on the wall so that you don't fall to the ground
 down below.
 A large sign says : I haven't gotten any further ... Yet. But  I'm pushing
-                    to get finished with this sewer. 
+                    to get finished with this sewer.
                                            Greetings and Good Health :)
 
                                                      Redferne The Gentle
@@ -12390,10 +12406,10 @@ The hay is very dirty. The smell of it makes you feel sick.
 S
 #7440
 South-western part of basilisks cave~
-You can see nothing but smoke. 
+You can see nothing but smoke.
 ~
 74 9 5
-D0 
+D0
 ~
 ~
 0 -1 7439
@@ -12452,7 +12468,7 @@ You are swimming in water. It is getting deep here.
 It is also dark in this end.
 ~
 74 9 6
-D3 
+D3
 You see calm water.
 ~
 ~
@@ -12469,7 +12485,7 @@ You standing in water up to you neck.
 You can only see water.
 ~
 74 8 5
-D0 
+D0
 You can see calm water.
 ~
 ~
@@ -12486,7 +12502,7 @@ You are swimming in DARKNESS. You feel something
 touching your right leg.
 ~
 74 9 6
-D0 
+D0
 To dark to tell.
 ~
 ~
@@ -12701,7 +12717,7 @@ This is truly a wonderful relic of the past. In it is a large cushion.
 S
 #7906
 The Kitchen of Naris~
-This must be the place of food and drink. You can hear the faint noise of 
+This must be the place of food and drink. You can hear the faint noise of
 rats feasting on meat and bread from somewhere undeterminable. The sound
 makes you feel the agony of HUNGER. The only visible exit is south to the
 Northern end of the hall. To the north there is a larder, and to the east
@@ -12749,7 +12765,7 @@ S
 #7909
 On the stairs~
 You can see up and down the stairway. It seems to take forever, either going
-up OR down. It's just a seemingly insurmountable climb, either way. Up is the 
+up OR down. It's just a seemingly insurmountable climb, either way. Up is the
 bedroom of Redferne, and Down leads to the Southern end of the hall.
 ~
 79 524 0
@@ -12764,7 +12780,7 @@ D5
 S
 #7910
 The Treasure room~
-This place is gloomy. A HUGE safe is cemented into the west wall. The only 
+This place is gloomy. A HUGE safe is cemented into the west wall. The only
 visible exit is west, through the oak door.
 ~
 79 524 0
@@ -12785,7 +12801,7 @@ A large fireplace adourns the east wall, and sizzling away is the wood that
 is ablaze within. The bed is enormous, covering at least HALF of this great
 room. This stretches at least 140 square feet, so can you imagine the BED?
 A large staircase leads down to the hall. A couple of doors open up to a
-broad balcony to the south. 
+broad balcony to the south.
 ~
 79 524 0
 D2
@@ -12821,8 +12837,8 @@ S
 #7913
 The Monster Pen~
 This looks like the cage in which a large carnivor is being kept. Judging by
-the state the walls are in, this could very well be a large AGGRESSIVE animal. 
-This makes you pretty insecure, this stating your feeling about the place, 
+the state the walls are in, this could very well be a large AGGRESSIVE animal.
+This makes you pretty insecure, this stating your feeling about the place,
 quite mildly.
 ~
 79 8 0
@@ -12853,7 +12869,7 @@ Down below you see the huge chain anchored to the ground in the Road Crossing.
 S
 #7915
 The Chain where it's too windy~
-Hanging on to the chain you figure out that there's no way of leaving down 
+Hanging on to the chain you figure out that there's no way of leaving down
 from here. The wind pulls you from left to right and back. This seems like a
 totally impossible task. The ascend is the only way ahead for you.
 Otherwise you would risk death by falling to the hard ground below. DO NOT
@@ -12868,7 +12884,7 @@ That way seems to be the only way away from here.
 D5
 THAT WAY IS CERTAIN DEATH!!!! You can see the wind tearing at the chain down
 below you. It swings like a furious serpent from side to side! The descend is
-ABSOLUTELY out of the QUESTION. 
+ABSOLUTELY out of the QUESTION.
 ~
 ~
 0 -1 7920
@@ -12897,14 +12913,14 @@ The Chain~
 As you descend, the chain seems to absorbe all weather around it, making it
 swing less and less in the very powerful wind tearing at it. The Chain seems
 to chuckle quietly, and as you descend further you hear a soft whisper
-originating from within the Chain *ITSELF*. 
+originating from within the Chain *ITSELF*.
 It says, " Welcome back some other time, stranger. Your company is always
            ... hmmm ... interesting. God Speed. "
 The chain extends further down through the now spreading clouds.
 ~
 79 4 5
 D4
-It seems to you that the Chain is dissolving again. Maybe it's just an 
+It seems to you that the Chain is dissolving again. Maybe it's just an
 illusion, but still ...!
 ~
 ~
@@ -12941,7 +12957,7 @@ S
 Free fall from the Chain~
 This is probably the third worst place to be in this entire MUD right now.
 You fall
-. 
+.
 .
 .
 and fall
@@ -13024,8 +13040,8 @@ glass. Beneath your feet perfectly straight lines form enormous,
 web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
    There is a strong smell of ozone here, probably caused by a
-circle of pale blue lightening, app. 2 yards diameter, which is 
-hanging in the air 1 yd off the ground, revolving slowly around 
+circle of pale blue lightening, app. 2 yards diameter, which is
+hanging in the air 1 yd off the ground, revolving slowly around
 its vertical axis.
 ~
 80 0 2
@@ -13053,7 +13069,7 @@ The glass stretches all the way to the horizon.
 D4
 Looking through the circle, you see a swirling haze, occasion-
 ally coalescing into a peaceful meadow, or a clump of trees. It
-would be possible to jump through it with a running start, if 
+would be possible to jump through it with a running start, if
 one was careful not to touch the edges.
 ~
 gate circle~
@@ -13218,7 +13234,7 @@ sweeps over the horizon to the south-west.
 ~
 0 -1 8110
 D5
-Treacherous slabs of dull glass wih sharp edges provides a way 
+Treacherous slabs of dull glass wih sharp edges provides a way
 down. One probably wouldn't be able to get back UP again, though!
 ~
 ~
@@ -13231,7 +13247,7 @@ to hexagons, to twisted irregular shapes, and back.
 E
 crack fault~
 It is deep and wide, with sparking root-like strands snaking out
-of the sides. Huge glassy slabs with sharp edges provides a 
+of the sides. Huge glassy slabs with sharp edges provides a
 treacherous and uncertain-looking way down.
 ~
 S
@@ -13279,13 +13295,13 @@ a uniform pale grey, and the horizon seem to be much too close.
 ~
 80 0 2
 D0
-Near the horizon to the north, you can see the top of a _huge_ 
-wall. 
+Near the horizon to the north, you can see the top of a _huge_
+wall.
 ~
 ~
 0 -1 8082
 D1
-You notice a flickering, multicoloured light on the horizon to 
+You notice a flickering, multicoloured light on the horizon to
 the east.
 ~
 ~
@@ -13312,7 +13328,7 @@ Main Matrix~
 glass. Beneath your feet perfectly straight lines form enormous,
 web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
-   There is a tall beacon pole standing here, on top of which a 
+   There is a tall beacon pole standing here, on top of which a
 powerful light strobes dizzyingly through the spectrum.
 ~
 80 0 2
@@ -13507,25 +13523,25 @@ the glassy material, that covers the ground.
 ~
 80 0 2
 D0
-To the north, you can barely make out a flickering light on the 
+To the north, you can barely make out a flickering light on the
 horizon.
 ~
 ~
 0 -1 8015
 D1
-To the east, you can follow the crack around its eastern side. 
+To the east, you can follow the crack around its eastern side.
 ~
 ~
 0 -1 8035
 D3
 To the west, you can see a wide expanse of glass along the faults
-western side. 
+western side.
 ~
 ~
 0 -1 8034
 D5
 Wide slabs of broken, dull glass with sharp edges provide a way
-down amidst the debris. It is uncertain, however, whether they 
+down amidst the debris. It is uncertain, however, whether they
 will provide a way up...
 ~
 ~
@@ -13559,14 +13575,14 @@ The glass stretches along the crack, all the way to the horizon.
 ~
 0 -1 8022
 D1
-A wooden log, doubling as a bridge, has been placed across the 
+A wooden log, doubling as a bridge, has been placed across the
 fault-line to the east.
 ~
 ~
 0 -1 8130
 D2
 To the south, the crack vanishes in the distance, and towering
-above it, you can see the top of a large, pale-blue pyramid, 
+above it, you can see the top of a large, pale-blue pyramid,
 apparently standing on its tip.
 ~
 ~
@@ -13588,7 +13604,7 @@ of the sides.
 ~
 E
 log bridge~
-There are a few green leaves on some twigs, still holding on. It 
+There are a few green leaves on some twigs, still holding on. It
 looks rather incongruous, lying there.
 ~
 S
@@ -13600,7 +13616,7 @@ web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
    To your west, a wide chasm opens in the glassy material, that
 cover the ground. A wooden log has been placed across it here.
-   High above you, a vaguely-seen glass road stretches from 
+   High above you, a vaguely-seen glass road stretches from
 north to south.
 ~
 80 0 2
@@ -13610,14 +13626,14 @@ The glass stretches along the crack, all the way to the horizon.
 ~
 0 -1 8023
 D3
-A wooden log, doubling as a bridge, has been placed across the 
+A wooden log, doubling as a bridge, has been placed across the
 fault-line to the west.
 ~
 ~
 0 -1 8130
 D2
 To the south, the crack vanishes in the distance, and towering
-above it, you can see the top of a large, pale-blue pyramid, 
+above it, you can see the top of a large, pale-blue pyramid,
 apparently standing on its tip.
 ~
 ~
@@ -13639,7 +13655,7 @@ of the sides.
 ~
 E
 log bridge~
-There are a few green leaves on some twigs, still holding on. It 
+There are a few green leaves on some twigs, still holding on. It
 looks rather incongruous, lying there.
 ~
 S
@@ -13674,7 +13690,7 @@ to hexagons, to twisted irregular shapes, and back.
 ~
 E
 crack fault~
-It is deep and narrow (though too wide to jump across..), with 
+It is deep and narrow (though too wide to jump across..), with
 sparking root-like strands snaking out of the sides.
 ~
 S
@@ -13684,7 +13700,7 @@ Main Matrix~
 glass. Beneath your feet perfectly straight lines form enormous,
 web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
-   To the north-west, a narrow, but steep, crack opens in the 
+   To the north-west, a narrow, but steep, crack opens in the
 strange, glassy material, that covers the ground.
 ~
 80 0 2
@@ -13715,7 +13731,7 @@ to hexagons, to twisted irregular shapes, and back.
 ~
 E
 crack fault~
-It is deep and narrow (though too wide to jump across..), with 
+It is deep and narrow (though too wide to jump across..), with
 sparking root-like strands snaking out of the sides.
 ~
 S
@@ -13725,7 +13741,7 @@ Main Matrix~
 glass. Beneath your feet perfectly straight lines form enormous,
 web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
-   Above you, to the south-east, towers a gigantic structure; a 
+   Above you, to the south-east, towers a gigantic structure; a
 pale blue pyramid, several hundred meters tall, standing in-
 verted tip-to-tip on a smaller (some 10-20 meters tall) pyramid.
 ~
@@ -13743,7 +13759,7 @@ near the shimmer.
 ~
 0 -1 8032
 D2
-To the south, under the enormous overhang of the upper pyramid, 
+To the south, under the enormous overhang of the upper pyramid,
 the glassy surface continues to the horizon.
 ~
 ~
@@ -13783,7 +13799,7 @@ web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
    To your west, a wide chasm opens in the glassy material, that
 cover the ground.
-   Above you, southwest of you, towers a gigantic structure; a pale 
+   Above you, southwest of you, towers a gigantic structure; a pale
 blue pyramid, several hundred meters tall, standing inverted tip-to-
 tip on a smaller (some 10-20 meters tall) pyramid.
    High above you, a vaguely-seen glass road stretches south, from
@@ -13849,19 +13865,19 @@ broken.
 ~
 0 -1 8054
 D1
-To the east, you can follow the crack around its eastern side. 
+To the east, you can follow the crack around its eastern side.
 ~
 ~
 0 -1 8035
 D2
 To the west, you can see a wide expanse of glass along the faults
-western side. 
+western side.
 ~
 ~
 0 -1 8034
 D5
 Wide slabs of broken, dull glass with sharp edges provide a way
-down amidst the debris. It is uncertain, however, whether they 
+down amidst the debris. It is uncertain, however, whether they
 will provide a way up...
 ~
 ~
@@ -13893,7 +13909,7 @@ for some strange reason... or perhaps you are hallucinating?
 ~
 ~
 0 -1 8041
-D2 
+D2
 Far to the south you can see the corner of a _very_ tall wall.
 ~
 ~
@@ -13921,7 +13937,7 @@ that remains black and unchanging.
 ~
 E
 square~
-It looks like a trapdoor. There even is a rather small and 
+It looks like a trapdoor. There even is a rather small and
 inconspicuous handle set in it next to a tiny keyhole.
 ~
 S
@@ -13934,7 +13950,7 @@ a uniform pale grey, and the horizon seem to be much too close.
 ~
 80 0 2
 D1
-Far to the east (ENE, actually) you can see a corner of a large 
+Far to the east (ENE, actually) you can see a corner of a large
 pale-blue pyramid, standing top downwards, as far as you can see...
 ~
 ~
@@ -13967,7 +13983,7 @@ Main Matrix~
 glass. Beneath your feet perfectly straight lines form enormous,
 web-like patterns, glowing with a bluish-green light. The sky is
 a uniform pale grey, and the horizon seem to be much too close.
-   Above you, to the north-east, towers a gigantic structure; a 
+   Above you, to the north-east, towers a gigantic structure; a
 pale blue pyramid, several hundred meters tall, standing in-
 verted tip-to-tip on a smaller (some 10-20 meters tall) pyramid.
    High above you, a glass road only faintly seen sweeps to the
@@ -13987,7 +14003,7 @@ line structures sparkle prettily.
 ~
 0 -1 8052
 D0
-To the north, under the enormous overhang of the upper pyramid, 
+To the north, under the enormous overhang of the upper pyramid,
 the glassy surface continues to the horizon.
 ~
 ~
@@ -14021,15 +14037,15 @@ due to the light it sheds, reflecting the lines in the ground.
 S
 #8052
 Main Matrix~
-   You are standing between the base of the lower pyramid (to the 
-north) and the crystalline structures (to the south). The upper 
+   You are standing between the base of the lower pyramid (to the
+north) and the crystalline structures (to the south). The upper
 pyramid looms over you in a way that gives you severe doubts about
 the wisdom of standing underneath what looks like a million tons,
 balanced on a point...
 ~
 80 0 2
 D1
-Beyond the crystal trees to the east, you can see the corner of a 
+Beyond the crystal trees to the east, you can see the corner of a
 HUGE wall, stretching south and further east.
 ~
 ~
@@ -14061,7 +14077,7 @@ the _im_-balanced ones have shattered too the ground...).
 E
 pyramid~
 It looks flat out impossible, but never the less the larger
-pyramid is balanced, point-to-point, on the smaller. 
+pyramid is balanced, point-to-point, on the smaller.
 Where the pyramids intersect, they appear to be open to the air,
 the larger one only supported by four faintly-glowing girders.
 The pyramid is far too smooth to be climbable.
@@ -14071,8 +14087,8 @@ S
 Main Matrix~
    You are standing next to the immensely tall wall, stretching out
 over the horizon to the east and west. Some ten yds up the wall begins
-a steel-girder staircase, looking like a fire-escape, only a bit too 
-high. It continues all the vay to the top off the wall, several hundred 
+a steel-girder staircase, looking like a fire-escape, only a bit too
+high. It continues all the vay to the top off the wall, several hundred
 yds above.
 ~
 80 0 2
@@ -14109,7 +14125,7 @@ to hexagons, to twisted irregular shapes, and back.
 ~
 E
 stairs staircase~
-It is made from thin steel girders, looking much too frail to 
+It is made from thin steel girders, looking much too frail to
 support your weight.
 ~
 S
@@ -14161,7 +14177,7 @@ trees, bars your way.
 ~
 80 0 2
 D0
-Far to the north (NNW, actually) you can see a corner of a large 
+Far to the north (NNW, actually) you can see a corner of a large
 pale-blue pyramid, standing top downwards, as far as you can see...
 ~
 ~
@@ -14201,7 +14217,7 @@ S
 #8071
 Main Matrix~
    You are standing on the glass surface next to a tower thrusting up
-from a steep hole. A narrow bridge leads across what is essentially a 
+from a steep hole. A narrow bridge leads across what is essentially a
 moat, across to a wide gate in the tower wall.
 ~
 80 0 2
@@ -14211,7 +14227,7 @@ The black glassy surface stretches for as far as you can see.
 ~
 0 -1 8061
 D1
-Near the horizon you can see the top of a huge wall, stretching north 
+Near the horizon you can see the top of a huge wall, stretching north
 and south. To the north it disappears beyond some crystalline structures,
 to the south it continues past the horizon.
 ~
@@ -14237,9 +14253,9 @@ on them, written in a truly disgusting neon purple colour.
 E
 letters~
                ======================================
-        		     POWERTOWER   
+        		     POWERTOWER
                       AUTHORIZED PERSONNEL ONLY
-        
+
                           DATABASE IS DOWN
 
                    !   D O   N O T   E N T E R   !
@@ -14259,25 +14275,25 @@ due to the light it sheds, reflecting the lines in the ground.
 ~
 E
 tower~
-The tower is made from the same material as the rest of the matrix; 
+The tower is made from the same material as the rest of the matrix;
 looking closer you can see that the matrix just dips down into the moat-
-like hole, then thrusts up as the tower walls. The lines and patterns 
+like hole, then thrusts up as the tower walls. The lines and patterns
 continue down the hole and up the tower, but they are much more twisted
 and convoluted here. Near the top of the tower there is a balcony, and
 from the flat roof a glass bridge or road leads away, over the horizon
-to the northeast. You can barely make out a guardian-like figure standing 
+to the northeast. You can barely make out a guardian-like figure standing
 on the top.
 ~
 S
 #8072
 Main Matrix~
-   You are standing beneath a huge gate, set into an even higher 
+   You are standing beneath a huge gate, set into an even higher
 wall. It must be at least 300 yds tall! The gates are some 50 yds
 high, and there is no wall above them.
 ~
 80 0 2
 D0
-The way directly to the north along the wall is blocked by some 
+The way directly to the north along the wall is blocked by some
 crystalline structures. To the west of those the glassy expanse
 continues as far as you can see.
 ~
@@ -14294,7 +14310,7 @@ The glassy expanse continues south along the wall.
 ~
 0 -1 8082
 D3
-Far to the west you can see a soaring pillar of light, stretching up 
+Far to the west you can see a soaring pillar of light, stretching up
 from a small tower.
 ~
 ~
@@ -14319,7 +14335,7 @@ stretching up towards infinity.
 ~
 0 -1 8050
 D1
-Far to the east you can see the top of a _really_ high wall, 
+Far to the east you can see the top of a _really_ high wall,
 and somewhere off to the northeast you can see a pillar of light
 stretching up towards infinity.
 ~
@@ -14343,7 +14359,7 @@ to hexagons, to twisted irregular shapes, and back.
 S
 #8082
 Main Matrix~
-   You are standing beneath a huge gate, set into an even higher 
+   You are standing beneath a huge gate, set into an even higher
 wall. It must be at least 300 yds tall! The gates are some 50 yds
 high, and there is no wall above them.
 ~
@@ -14381,7 +14397,7 @@ up to a wide portal set in the south wall, some 40 yds up.
 ~
 80 0 2
 D0
-Around the corner, the glass stretches along the wall beyond the 
+Around the corner, the glass stretches along the wall beyond the
 horizon.
 ~
 ~
@@ -14397,9 +14413,9 @@ The glassy expanse continues for as far as you can see.
 ~
 0 -1 8002
 D3
-The slope leads up to a portal, through which you can see a swirling 
-grey fog, shot through with lightening. Occasionally a tendril of fog 
-snakes out, looking as if sniffing, then withdraws with a shudder. From 
+The slope leads up to a portal, through which you can see a swirling
+grey fog, shot through with lightening. Occasionally a tendril of fog
+snakes out, looking as if sniffing, then withdraws with a shudder. From
 within, a faint wailing can be heard, as if from souls in agony.
 ~
 ~
@@ -14411,56 +14427,56 @@ It is metallic-looking, very smooth and immensely high.
 E
 gate portal slope~
 The slope leads up to a portal, through which you can see a swirling
-grey fog, shot through with red lightening. Occasionally a tendril of 
-fog snakes out, looking as if sniffing, then withdraws with a shudder. 
+grey fog, shot through with red lightening. Occasionally a tendril of
+fog snakes out, looking as if sniffing, then withdraws with a shudder.
 From within, a faint wailing can be heard, as if from souls in agony.
 ~
 S
 #8101
 The trash dump~
-   You are standing knee-deep in a pile of assorted debris, cardboard- 
-like scraps and needle-like bits of bent metal. The room is in fact a 
+   You are standing knee-deep in a pile of assorted debris, cardboard-
+like scraps and needle-like bits of bent metal. The room is in fact a
 part of a curving corridor, going east and south.
 ~
 81 9 0
 D1
-The corridor continues turning right as long as your light reaches. It 
+The corridor continues turning right as long as your light reaches. It
 looks cleaner that way.
 ~
 ~
 0 -1 8102
 D2
-The corridor continues turning left as long as you can see. There are 
+The corridor continues turning left as long as you can see. There are
 no more debris a short stretch down this corridor.
 ~
 ~
 0 -1 8103
 D4
-There is a small hole high above you, barely reachable from the top of 
+There is a small hole high above you, barely reachable from the top of
 the largest pile of trash.
 ~
 ~
 0 -1 8010
 E
 hole~
-It appears to be changing shape continually, widening and narrowing, 
+It appears to be changing shape continually, widening and narrowing,
 though never quite closing.
 ~
 E
 debris junk cardboard needle~
-It is obviously totally useless, even if you do not understand what it 
+It is obviously totally useless, even if you do not understand what it
 actually is.
 ~
 S
 #8102
 The ring~
-   You are standing in a curving corridor, going south and west. 
-Skeletons and pieces of skeletons, clad in once-bright tatters, are 
+   You are standing in a curving corridor, going south and west.
+Skeletons and pieces of skeletons, clad in once-bright tatters, are
 stapled to the wall on the outside of the curve.
 ~
 81 9 0
 D2
-The corridor continues to curve right for as long as your light 
+The corridor continues to curve right for as long as your light
 reaches.
 ~
 ~
@@ -14472,20 +14488,20 @@ For as long as you can see, the corridor keeps turning left.
 0 -1 8101
 E
 skeleton skeletons bones~
-The skeletons are, upon closer examination, actually made from glass, 
-by someone obviously good at what he does. Their clothes are 
+The skeletons are, upon closer examination, actually made from glass,
+by someone obviously good at what he does. Their clothes are
 coarsely woven from spun glass.
 ~
 S
 #8103
 The ring~
-   You are standing in a curving corridor, going north and east. 
-Skeletons and pieces of skeletons, clad in once-bright tatters, are 
+   You are standing in a curving corridor, going north and east.
+Skeletons and pieces of skeletons, clad in once-bright tatters, are
 stapled to the wall on the outside of the curve.
 ~
 81 9 0
 D0
-The corridor continues to curve right for as long as your light 
+The corridor continues to curve right for as long as your light
 reaches.
 ~
 ~
@@ -14497,22 +14513,22 @@ For as long as you can see, the corridor keeps turning left.
 0 -1 8104
 E
 skeleton skeletons bones~
-The skeletons are, upon closer examination, actually made from glass, 
-by someone obviously good at what he does. Their clothes are 
+The skeletons are, upon closer examination, actually made from glass,
+by someone obviously good at what he does. Their clothes are
 coarsely woven from spun glass.
 ~
 S
 #8104
 The ring~
-   You are standing in a long corridor, curving north and west. There 
-is a noticeable layer of fine dust covering everything here. The 
-grey-painted walls are flaking, revealing more of the glass-like 
-material that also covers the ground above. There is a wide crack in 
+   You are standing in a long corridor, curving north and west. There
+is a noticeable layer of fine dust covering everything here. The
+grey-painted walls are flaking, revealing more of the glass-like
+material that also covers the ground above. There is a wide crack in
 the ceiling above, but it is too high for you to reach.
 ~
 81 9 0
 D0
-The corridor continues to curve left for as long as your light 
+The corridor continues to curve left for as long as your light
 reaches.
 ~
 ~
@@ -14524,12 +14540,12 @@ For as long as you can see, the corridor keeps turning right.
 0 -1 8103
 E
 walls wall glass~
-There is something written on the glass-like material in faintly 
+There is something written on the glass-like material in faintly
 glowing blue letters, only partially covered by the paint.
 ~
 E
 writing letters~
-The letters look familiar enough, but the text is wholly 
+The letters look familiar enough, but the text is wholly
 incomprehensible:
 
               ... :=P^; Q^.N:=P^.N; Q^.P:=P; I ...
@@ -14541,9 +14557,9 @@ Perhaps it is some strange and ancient magic?
 S
 #8110
 The glass road~
-You are standing on a glass road, suspended from nothing some 40 
-yds off the ground. The road ends here, connecting to a winding 
-glass staircase leading down. It continues south, curving right 
+You are standing on a glass road, suspended from nothing some 40
+yds off the ground. The road ends here, connecting to a winding
+glass staircase leading down. It continues south, curving right
 as it passes the southern horizon.
 ~
 81 0 2
@@ -14553,8 +14569,8 @@ You feel dizzy...
 ~
 0 -1 8012
 D2
-The barely visible road continues south, where, over the horizon, 
-you can see the top of a great pale-blue pyramid, apparently 
+The barely visible road continues south, where, over the horizon,
+you can see the top of a great pale-blue pyramid, apparently
 standing on its tip.
 ~
 ~
@@ -14562,35 +14578,35 @@ standing on its tip.
 E
 road~
 The road is only visible inasmuch as it reflects you and the ground
-below. It is somewhat disconcerting to see 40 yds of nothing 
+below. It is somewhat disconcerting to see 40 yds of nothing
 between one's feet and the ground.
 ~
 E
 ground horizon matrix~
-Far below you, the Main Matrix spreads in all its splendour. The 
+Far below you, the Main Matrix spreads in all its splendour. The
 glowing lines make out gigantic, intricate and completely incompre-
-hensible patterns, constantly shifting and changing. The beauty is 
+hensible patterns, constantly shifting and changing. The beauty is
 only marred by the wide crack in the glass-like material starting
-some half-mile to the north, going south right underneath where you 
+some half-mile to the north, going south right underneath where you
 stand.
 ~
 S
 #8111
    The glass road~
-You are standing on a glass road, suspended from nothing some 100 
-yds off the ground. The road continues north and south, curving 
+You are standing on a glass road, suspended from nothing some 100
+yds off the ground. The road continues north and south, curving
 left as it passes the northern horizon.
 ~
 81 0 2
 D0
-Near the horizon, it looks as if the road connects to a glass 
+Near the horizon, it looks as if the road connects to a glass
 staircase.
 ~
 ~
 0 -1 8110
 D2
-The barely visible road continues south, where, over the horizon, 
-you can see the top of a great pale-blue pyramid, apparently 
+The barely visible road continues south, where, over the horizon,
+you can see the top of a great pale-blue pyramid, apparently
 standing on its tip.
 ~
 ~
@@ -14598,24 +14614,24 @@ standing on its tip.
 E
 road~
 The road is only visible inasmuch as it reflects you and the ground
-below. It is somewhat disconcerting to see 100 yds of nothing 
+below. It is somewhat disconcerting to see 100 yds of nothing
 between one's feet and the ground.
 ~
 E
 ground horizon matrix~
-Far below you, the Main Matrix spreads in all its splendour. The 
+Far below you, the Main Matrix spreads in all its splendour. The
 glowing lines make out gigantic, intricate and completely incompre-
-hensible patterns, constantly shifting and changing. The beauty is 
+hensible patterns, constantly shifting and changing. The beauty is
 only marred by the wide crack in the glass-like material going from
 north to south, about one-half mile to your west.
 ~
 S
 #8112
 The glass road~
-   You are standing on a glass road, suspended from nothing some 300 
+   You are standing on a glass road, suspended from nothing some 300
 yds off the ground. The road leads to a wide square opening in the side
 of a great, pale-blue inverted pyramid to the south. Some two yards
-into the opening is a wide double door, made from metal. The road 
+into the opening is a wide double door, made from metal. The road
 continues north, sweeping over the horizon.
 ~
 81 0 2
@@ -14625,7 +14641,7 @@ D0
 0 -1 8110
 D2
 Through the door you can see nothing but a grey fog, shot through occa-
-sionally with red lightening. A faint wailing can be heard, as from souls 
+sionally with red lightening. A faint wailing can be heard, as from souls
 in mortal agony.
 ~
 door~
@@ -14633,21 +14649,21 @@ door~
 E
 road~
 The road is only visible inasmuch as it reflects you and the ground
-below. It is somewhat disconcerting to see 100 yds of nothing 
+below. It is somewhat disconcerting to see 100 yds of nothing
 between one's feet and the ground.
 ~
 E
 ground horizon matrix~
-Far below you, the Main Matrix spreads in all its splendour. The 
+Far below you, the Main Matrix spreads in all its splendour. The
 glowing lines make out gigantic, intricate and completely incompre-
-hensible patterns, constantly shifting and changing. The beauty is 
+hensible patterns, constantly shifting and changing. The beauty is
 only marred by the wide crack in the glass-like material going from
 north to south, about one-half mile to your west.
 ~
 E
 door opening~
 The doors lie in shadow, but you can easily make out the large letters
-on them, written in a truly disgusting neon purple colour. There is a 
+on them, written in a truly disgusting neon purple colour. There is a
 large lever on the right-hand side.
 ~
 E
@@ -14668,24 +14684,24 @@ usually nasty-coloured spray paint.
 S
 #8120
 The matrix fault~
-   You are standing on the bottom of a wide crack in the matrix, going 
-north and south. The sides of the fault are alive with writhing 
+   You are standing on the bottom of a wide crack in the matrix, going
+north and south. The sides of the fault are alive with writhing
 worm-like things, snaking out from the cracked glass, sparking madly.
-To your west, a pile of great slabs of glass has fallen into a jumble 
-beside the wall. They are much too large and sharp-edged for you to 
-lose your precious fingers on! To the south, there is at least four 
-yards between the furthest reaches of the worm-like strands, but to the 
+To your west, a pile of great slabs of glass has fallen into a jumble
+beside the wall. They are much too large and sharp-edged for you to
+lose your precious fingers on! To the south, there is at least four
+yards between the furthest reaches of the worm-like strands, but to the
 north, the crack narrows to a point where it is impossible to pass.
 ~
 81 0 2
 D2
-The fault zig-zags out of sight to the south, with plenty of clearing 
+The fault zig-zags out of sight to the south, with plenty of clearing
 between the sparks and good, even footing.
 ~
 ~
 0 -1 8121
 D5
-Between two large slabs of glass, there is a narrow chute, leading 
+Between two large slabs of glass, there is a narrow chute, leading
 _very_ steeply down into darkness.
 ~
 ~
@@ -14693,42 +14709,42 @@ _very_ steeply down into darkness.
 0 -1 8104
 E
 slabs glass wall~
-Between two large slabs of glass, there is a narrow chute, leading 
+Between two large slabs of glass, there is a narrow chute, leading
 _very_ steeply down into darkness.
 ~
 E
 strands worm~
-They are made from some milky-white, shiny material, and when you really 
-look at them, you realize that they are not alive at all, the force of 
-the sparks that erupt whenever they touch each other is sufficient to 
+They are made from some milky-white, shiny material, and when you really
+look at them, you realize that they are not alive at all, the force of
+the sparks that erupt whenever they touch each other is sufficient to
 keep them waving about. Those sparks must be nasty!
 ~
 S
 #8121
 The matrix fault~
-   You are standing on the bottom of a wide crack, going north-south 
-through the matrix. The sides of the fault are alive with writhing 
+   You are standing on the bottom of a wide crack, going north-south
+through the matrix. The sides of the fault are alive with writhing
 worm-like things, snaking out from the cracked glass, sparking madly.
 High above you, a wooden log has been placed across the chasm.
 ~
 81 0 2
 D2
-The fault zig-zags out of sight to the south, with plenty of clearing 
+The fault zig-zags out of sight to the south, with plenty of clearing
 between the sparks and good, even footing.
 ~
 ~
 0 -1 8122
 D0
-The fault zig-zags out of sight to the north, with plenty of clearing 
+The fault zig-zags out of sight to the north, with plenty of clearing
 between the sparks and good, even footing.
 ~
 ~
 0 -1 8120
 E
 strands worm~
-They are made from some milky-white, shiny material, and when you really 
-look at them, you realize that they are not alive at all, the force of 
-the sparks that erupt whenever they touch each other is sufficient to 
+They are made from some milky-white, shiny material, and when you really
+look at them, you realize that they are not alive at all, the force of
+the sparks that erupt whenever they touch each other is sufficient to
 keep them waving about. Those sparks must be nasty!
 ~
 E
@@ -14738,31 +14754,31 @@ It is much too high for you to climb or jump up there.
 S
 #8122
 The matrix fault~
-   You are standing on the bottom of a wide crack in the matrix, going 
-north and south. The sides of the fault are alive with writhing 
+   You are standing on the bottom of a wide crack in the matrix, going
+north and south. The sides of the fault are alive with writhing
 worm-like things, snaking out from the cracked glass, sparking madly.
-To the south, a pale blue wall cuts across the fault. It is part of a 
-pyramid, extending down into the ground even below the present depth. 
-High above you, to the south, the wall of another, larger pyramid, this 
+To the south, a pale blue wall cuts across the fault. It is part of a
+pyramid, extending down into the ground even below the present depth.
+High above you, to the south, the wall of another, larger pyramid, this
 one apparently standing on the tip of the smaller one, looms ominously.
 ~
 81 0 2
 D0
-The fault zig-zags out of sight to the north, with plenty of clearing 
+The fault zig-zags out of sight to the north, with plenty of clearing
 between the sparks and good, even footing.
 ~
 ~
 0 -1 8121
 D2
-There is a large tear in the pyramid's wall, about one half yard above 
-your present level. Beside the tear, something is written in 
+There is a large tear in the pyramid's wall, about one half yard above
+your present level. Beside the tear, something is written in
 unpleasantly purple letters.
 ~
 ~
 0 -1 -1
 E
 tear letters writing~
-Looking closer, you can see that the letters have been spray-painted on 
+Looking closer, you can see that the letters have been spray-painted on
 the wall, using a letter template:
 
                 ====================================
@@ -14773,83 +14789,83 @@ the wall, using a letter template:
                    !   D O   N O T   E N T E R   !
                 ====================================
 
-Looking in through the tear, you see only a grey fog, shot through with 
-red lightening. A faint wailing, as from souls in agony, is 
+Looking in through the tear, you see only a grey fog, shot through with
+red lightening. A faint wailing, as from souls in agony, is
 occasionally heard from within.
 ~
 E
 strands worm~
 They are made from some milky-white, shiny material, and when you really
-look at them, you realize that they are not alive at all, the force of 
-the sparks that erupt whenever they touch each other is sufficient to 
+look at them, you realize that they are not alive at all, the force of
+the sparks that erupt whenever they touch each other is sufficient to
 keep them waving about. Those sparks must be nasty!
 ~
 S
 #8123
 The matrix fault~
-   You are standing at the northern end, on the bottom of a wide crack 
-in the matrix, going south. The sides of the fault are alive with 
-writhing worm-like things, snaking out from the cracked glass, sparking 
-madly. At the end of the fault, to the north, a pile of great slabs of 
-glass has fallen into a jumble beside the wall. They are much too large 
-and sharp-edged for you to climb and lose your precious fingers on! To 
-the south, there is at least four yards between the furthest reaches of 
+   You are standing at the northern end, on the bottom of a wide crack
+in the matrix, going south. The sides of the fault are alive with
+writhing worm-like things, snaking out from the cracked glass, sparking
+madly. At the end of the fault, to the north, a pile of great slabs of
+glass has fallen into a jumble beside the wall. They are much too large
+and sharp-edged for you to climb and lose your precious fingers on! To
+the south, there is at least four yards between the furthest reaches of
 the worm-like strands..
 ~
 81 0 2
 D2
-The fault zig-zags out of sight to the south, with plenty of clearing 
-between the sparks even if one has to jump from broken slab to broken 
-slab, catching one's balance whenever the treacherous slabs move under 
+The fault zig-zags out of sight to the south, with plenty of clearing
+between the sparks even if one has to jump from broken slab to broken
+slab, catching one's balance whenever the treacherous slabs move under
 one's feet.
 ~
 ~
 0 -1 8124
 E
 strands worm~
-They are made from some milky-white, shiny material, and when you really 
-look at them, you realize that they are not alive at all, the force of 
-the sparks that erupt whenever they touch each other is sufficient to 
+They are made from some milky-white, shiny material, and when you really
+look at them, you realize that they are not alive at all, the force of
+the sparks that erupt whenever they touch each other is sufficient to
 keep them waving about. Those sparks must be nasty!
 ~
 S
 #8124
 The matrix fault~
-   You are standing on the bottom of a wide crack in the matrix, going 
-north and south. The sides of the fault are alive with writhing 
+   You are standing on the bottom of a wide crack in the matrix, going
+north and south. The sides of the fault are alive with writhing
 worm-like things, snaking out from the cracked glass, sparking madly.
-Surrounding to all sides but north, a pile of great slabs of glass has 
-fallen into a jumble beside the wall. They are much too large and 
-sharp-edged for you to climb and lose your precious fingers on! To the 
-north, there is at least four yards between the furthest reaches of the 
-worm-like strands, but to the south, the crack narrows to a point where 
+Surrounding to all sides but north, a pile of great slabs of glass has
+fallen into a jumble beside the wall. They are much too large and
+sharp-edged for you to climb and lose your precious fingers on! To the
+north, there is at least four yards between the furthest reaches of the
+worm-like strands, but to the south, the crack narrows to a point where
 it is impossible to pass.
 ~
 81 0 2
 D0
-The fault zig-zags out of sight to the north, with plenty of clearing 
-between the sparks even if one has to jump from broken slab to broken 
-slab, catching one's balance whenever the treacherous slabs move under 
+The fault zig-zags out of sight to the north, with plenty of clearing
+between the sparks even if one has to jump from broken slab to broken
+slab, catching one's balance whenever the treacherous slabs move under
 one's feet.
 ~
 ~
 0 -1 8123
 D1
-Between two large slabs of glass, standing balanced against each other, 
-there is a natural-looking tunnel leading east. The purple glow from 
+Between two large slabs of glass, standing balanced against each other,
+there is a natural-looking tunnel leading east. The purple glow from
 within the tunnel, however, is anything but natural-looking...
 ~
 ~
 0 -1 8150
 D3
-Between two large slabs of glass, there is a narrow chute, sloping 
+Between two large slabs of glass, there is a narrow chute, sloping
 gently west, down into the dark.
 ~
 ~
 0 -1 8140
 E
 slabs pile walls~
-Looking around, you find two tunnels: one small and dark, sloping down 
+Looking around, you find two tunnels: one small and dark, sloping down
 to the west, the other larger, going east.
 ~
 S
@@ -14872,18 +14888,18 @@ The Matrix continues all the way to the horizon.
 ~
 0 -1 8032
 D5
-Looking down, you experience some vertigo as the log rolls slightly 
-under your feet. There is some 10 yards to the bottom, but if you jump 
-from the center of the log, you can avoid touching the flailing tendrils, 
+Looking down, you experience some vertigo as the log rolls slightly
+under your feet. There is some 10 yards to the bottom, but if you jump
+from the center of the log, you can avoid touching the flailing tendrils,
 that cover the sides of the fault.
 ~
 ~
 0 -1 8121
 E
 strands tendrils~
-They are made from some milky-white, shiny material, and when you really 
-look at them, you realize that they are not alive at all, the force of 
-the sparks that erupt whenever they touch each other is sufficient to 
+They are made from some milky-white, shiny material, and when you really
+look at them, you realize that they are not alive at all, the force of
+the sparks that erupt whenever they touch each other is sufficient to
 keep them waving about. Those sparks must be nasty!
 ~
 E
@@ -14895,21 +14911,21 @@ than nothing for keeping you _over_ those strands...
 S
 #8140
 The deep cave~
-   You are standing knee-deep in cold water, flowing into this cave 
-from some unknown direction, but obviously leaving through a 
-low-ceilinged tunnel to the south. To the west a tunnel slopes up 
+   You are standing knee-deep in cold water, flowing into this cave
+from some unknown direction, but obviously leaving through a
+low-ceilinged tunnel to the south. To the west a tunnel slopes up
 out of the water.
 ~
 81 9 0
 D1
-At the far end of the tunnel, you seem to be able to make out a 
+At the far end of the tunnel, you seem to be able to make out a
 faint light.
 ~
 ~
 0 -1 8124
 E
 tunnel~
-The tunnel south is barred by a strong grille, on which a sign is 
+The tunnel south is barred by a strong grille, on which a sign is
 fixed securely.
 ~
 E
@@ -14934,11 +14950,11 @@ It is apparently written using spray-paint and a letter template.
 S
 #8150
 The cave~
-   This is the Daemon's Lair. It is suffused in a purple glow from 
-the myriad multishaped and -sized screens covering most of three 
-walls. There is a rung ladder on the only uncluttered wall, going 
-up through a shaft in the ceiling. There is an easy chair, a 
-rumpled bed and a table piled high with yestercycle's dirty dishes. 
+   This is the Daemon's Lair. It is suffused in a purple glow from
+the myriad multishaped and -sized screens covering most of three
+walls. There is a rung ladder on the only uncluttered wall, going
+up through a shaft in the ceiling. There is an easy chair, a
+rumpled bed and a table piled high with yestercycle's dirty dishes.
 In the wall to the west, a tunnel leads out to the Matrix Fault.
 ~
 81 8 0
@@ -14948,7 +14964,7 @@ You can see faint sparking out there.
 ~
 0 -1 8124
 D4
-Looking up the shaft, you see a trapdoor some four or five yards up, 
+Looking up the shaft, you see a trapdoor some four or five yards up,
 with a heavy lock on it.
 ~
 trapdoor door~
@@ -14962,7 +14978,7 @@ screens glow screen~
 The purple glowing screens are in many different shapes and sizes.
 They all display some line-drawing moving about in apparent con-
 fusion, except some few that are merely black. Some of the line-
-drawings are very confusing, and when one tries to look closer, the 
+drawings are very confusing, and when one tries to look closer, the
 eyes start to hurt. They definitely don't look as if they belong in
 either 2- or 3-space.
 ~
@@ -15397,10 +15413,10 @@ S
 The greenhouse~
    This is Dragons' greenhouse. Green light filters in slantwise through the
 plants, giving the room a subtropical ambience. It is not really hot in here,
-though, rather a pleasantly warm temperature. The walls are all windows, except 
-the eastern one joining the greenhouse to the main building, but it is hard to 
+though, rather a pleasantly warm temperature. The walls are all windows, except
+the eastern one joining the greenhouse to the main building, but it is hard to
 see out for all the greenery here. There is a set of easy-chairs and a glass
-coffee table. To the south, there is a wide double door out to a sunlit 
+coffee table. To the south, there is a wide double door out to a sunlit
 terrace.
 ~
 89 520 0
@@ -15438,13 +15454,13 @@ painting paintings~
 There are many, many beautiful paintings of famous dragons of history and
 literature. There is a big one of Smaug, a group picture of Cuspidorian Toxic
 Dragons, a rather fearsome picture of norse Chaos incarnate, a grainy black-
-and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of 
+and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of
 Dalvenjah the Mindijaran and Allan the man become dragon. There are three
 empty frames labeled 'The Chimerical', 'The Mythical' and 'The Hypothetical',
-A panoramic picture of Strabo flying between the worlds dominate one wall, 
-while a dragons-eye view of Pern (with dragons in the foreground, of course) 
-fills another. There even are a few rare medieval renditions of the great 
-beast of the Revelation. Over the head of the table hangs a rather modest 
+A panoramic picture of Strabo flying between the worlds dominate one wall,
+while a dragons-eye view of Pern (with dragons in the foreground, of course)
+fills another. There even are a few rare medieval renditions of the great
+beast of the Revelation. Over the head of the table hangs a rather modest
 portrait of a silver Dragon, sparkling with blue lightening, looking amused.
 ~
 S
@@ -15474,7 +15490,7 @@ S
 #8999
 The fog~
    You are in a grey fog, falling, screaming in pain as you realize
-that you are being torn to nothing, atom by atom, falling and falling 
+that you are being torn to nothing, atom by atom, falling and falling
 and falling......
 ....
 .
