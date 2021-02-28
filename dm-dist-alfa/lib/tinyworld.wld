@@ -52,18 +52,18 @@ The only exit in your dimension unfortunatly leads right back here.
 0 520 0
 S
 #3001
-The Temple of Amaravati~
+The Temple~
 image: /public/games/deva/3001/title.png
 youtube: yU67c_SXykI
 audio: /public/games/deva/3001/intro.mp3
 
-# The Temple of Amaravati
+# The Temple
 
-You have arrived at the Southern End of The Great Hall inside The Temple of Amaravati, in the capital city of Svarga.
+You have arrived at the Southern End of The Great Hall inside The Temple, in the capital city of Svarga.
 
 The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts and types.
 
-Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Square below.
+Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Circle below.
 
 doc: games/deva/3001
 
@@ -78,12 +78,12 @@ At the north end of the hall is a statue of Indra and an Offering Table.
 ~
 0 -1 3054
 D2
-You look down the huge stone steps to see Rahula Square below.
+You look down the huge stone steps to see Rahula Circle below.
 ~
 ~
 0 -1 3005
 D5
-You can see Rahula Square.
+You can see Rahula Circle.
 ~
 ~
 0 -1 3005
@@ -152,7 +152,7 @@ doc: games/deva/3004
 
 ----
 north: The Monks Table
-south: Rahula Square
+south: Rahula Circle
 ~
 30 8 0
 D0
@@ -161,19 +161,19 @@ You see the bar, richly decorated with really stylish furniture.
 ~
 0 -1 3003
 D1
-You see the Temple Square.
+You see Rahula Circle.
 ~
 ~
 0 -1 3005
 S
 #3005
-Rahula Square~
+Rahula Circle~
 image: /public/games/deva/3005/title.png
 audio: /public/games/deva/3005/intro.mp3
 
-# Rahula Square
+# Rahula Circle
 
-You are standing in Rahula Square. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Central Market, the center of Amaravati.
+You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Central Market, the center of Amaravati.
 
 ----
 doc: games/deva/3005
@@ -181,7 +181,7 @@ doc: games/deva/3005
 ~
 30 0 1
 D0
-You see the temple.
+You see The Temple.
 ~
 ~
 0 -1 3001
@@ -214,7 +214,7 @@ Surprise! You see the bar.
 ~
 0 -1 3007
 D3
-You see the temple square.
+You see Rahual Circle.
 ~
 ~
 0 -1 3005
