@@ -239,7 +239,11 @@ audio: /pubic/games/deva/3006/intro.mp3
 
 # The Inn at Amaravati
 
-You are standing in the entrance hall of The Inn at Amaravati.  The hall has been wisely decorated with simple but functional furniture.  A small staircase leads up to the reception and the bar is to the east.
+You are standing in the entrance hall of The Inn at Amaravati.  The hall has been lavishly decorated with simple but functional furniture.
+
+image: /public/games/deva/3006/entrance.png
+
+A small staircase leads up to the reception and the bar is to the east.
 
 ----
 doc: games/deva/3006/main
