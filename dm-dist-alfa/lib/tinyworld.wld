@@ -191,6 +191,12 @@ You are standing in The Circle. Huge marble steps lead up to the temple gate. Th
 ----
 doc: games/deva/3005
 
+----
+north: The Temple
+south: The Market
+east: The Monasatery
+west: The Inn
+
 ~
 30 0 1
 D0
