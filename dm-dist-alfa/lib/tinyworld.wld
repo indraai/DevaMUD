@@ -118,8 +118,10 @@ audio: /public/games/deva/3003/intro.png
 
 # The Table
 
-The Table is one of the finest in the land.  Fine furniture is set all around the room.  A small sign is hanging on the wall.
+The Table is one of the finest in the land. Fine furniture is set all around the room.  A small sign is hanging on the wall.
 
+look: Sign
+list: Menu
 ---
 south: The Monastery
 west: The Sanctuary
