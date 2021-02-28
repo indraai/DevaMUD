@@ -301,8 +301,24 @@ poems about beer, and small beer-mugs.
 ~
 S
 #3008
-The Reception~
-You are standing in the reception.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
+Reception Desk~
+title: /public/games/deva/3008/title.png
+audio: /public/games/deva/3008/intro.mp3
+
+# Reception Desk
+
+You are standing at the Reception Desk.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
+
+----
+doc: games/deva/3008/main
+
+----
+look: Sign
+offer: Price Rooms
+rent: Rent Room
+
+----
+south: The Inn
 ~
 30 8 0
 D5
