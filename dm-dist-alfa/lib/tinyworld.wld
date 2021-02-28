@@ -53,9 +53,9 @@ The only exit in your dimension unfortunatly leads right back here.
 S
 #3001
 The Temple of Amaravati~
-image: /public/img/games/deva/3001.png
+image: /public/games/deva/3001/title.png
 youtube: yU67c_SXykI
-audio: /public/audio/games/deva/3001.mp3
+audio: /public/games/deva/3001/intro.mp3
 
 # The Temple of Amaravati
 
@@ -90,9 +90,9 @@ You can see Rahula Square.
 S
 #3002
 The Monastery~
-image: /public/img/games/deva/3001.png
+image: /public/games/deva/3001/title.png
 youtube: yU67c_SXykI
-audio: /public/audio/games/deva/3001.mp3
+audio: /public/games/deva/3001/intro.mp3
 
 # The Monastery
 
@@ -140,10 +140,19 @@ Free instructions provided by the waiter:
 ~
 S
 #3004
-Entrance to Cleric's Guild~
-   The entrance hall is a small modest room, reflecting the true nature of
-the Clerics.  The exit leads east to the temple square.  A small entrance to
-the bar is in the northern wall.
+The Monastery~
+image: public/games/deva/3004/title.png
+audio: public/games/deva/3004/intro.mp3
+The Monastery is a simple place reflecting the practice of the Monks who reside here.
+
+At The Monastery novice to advance Monks are trained in the practice of Offerings. As for some the practice of Offering can take many lifetimes. We offer a place for those who seek to live in the practice of Offering.
+
+----
+doc: games/deva/3004
+
+----
+north: The Monks Table
+south: Rahula Square
 ~
 30 8 0
 D0
@@ -159,8 +168,8 @@ You see the Temple Square.
 S
 #3005
 Rahula Square~
-image: /public/img/games/deva/3005.png
-audio: /public/audio/games/deva/3005.mp3
+image: /public/games/deva/3005/title.png
+audio: /public/games/deva/3005/intro.mp3
 
 # Rahula Square
 
@@ -193,7 +202,7 @@ You see the entrance to The Monastery.
 0 -1 3004
 S
 #3006
-Entrance to the Grunting Boar Inn~
+The Amaravati Inn~
    You are standing in the entrance hall of the Grunting Boar Inn.  The hall
 has been wisely decorated with simple but functional furniture.  A small
 staircase leads up to the reception and the bar is to the east.
@@ -271,8 +280,8 @@ Rooms are expensive but good!  You may:
 S
 #3009
 The Bakery~
-image: /public/img/games/deva/3009.png
-audio: /public/audio/games/deva/3009.mp3
+image: /public/games/deva/3009/title.png
+audio: /public/games/deva/3009/intro.mp3
 
 # The Bakery
 
@@ -1319,8 +1328,8 @@ some kind of mortar.  It is far too high to climb.
 S
 #3054
 The Offering Table~
-image: /public/img/games/deva/3054.png
-audio: /public/audio/games/deva/3054.mp3
+image: /public/games/deva/3054/title.png
+audio: /public/games/deva/3054/intro.mp3
 
 # The Offering Table
 
