@@ -410,8 +410,8 @@ The chain and sculpture is of the most skilled craftmanship,
 and at the bottom of the sculpture you notice a small mark.~
 E
 mark~
-When you look closer at the mark you can read in teeny wheeny 
-letters : From God to Ravan, Day of the Deception, 9th Day of 
+When you look closer at the mark you can read in teeny wheeny
+letters : From God to Ravan, Day of the Deception, 9th Day of
 the Month of the Heat, Year 17.~
 E
 sculpture freja~
@@ -737,7 +737,7 @@ A large metal shield is lying on the ground.~
 #3099
 board bulletin~
 a bulletin board~
-A large bulletin board is mounted on a wall here.~
+A bulletin board is mounted the wall.~
 ~
 13 0 0
 0 0 0 0
@@ -1508,7 +1508,7 @@ a black demon blade.~
 A black demon blade is here, you sense the forces of evil
 controling the weapon.~
 ~
-5 2560 8193 
+5 2560 8193
 0 3 4 11
 8 10000 3500
 E
@@ -2294,7 +2294,7 @@ A lovely silverring has been left here.~
 1 64 3
 0 0 10 0
 1 46 10000
-A 
+A
 17 -10
 A
 18 -18
@@ -2521,9 +2521,9 @@ a large helmet~
 There is a large helmet on the floor.~
 ~
 9 64 17
-7 0 0 0 
+7 0 0 0
 5 4500 1500
-E 
+E
 large helmet~
 This looks like some heavy protection, for the head of course.
 ~
@@ -2559,7 +2559,7 @@ This looks as a sabre out of an wellknown SF-movie.
 A
 18 +10
 A
-4 +6 
+4 +6
 #7216
 sword two-handed~
 a two-handed sword~
@@ -2573,7 +2573,7 @@ two-handed sword~
 You notice that there has been inscribed some runes and a sort of pattern,
 which resembles flames running along the edge.
 ~
-E 
+E
 runes~
 On the blade you can read 'Flame And Strength United Are My Soul Power'.
 ~
@@ -2591,7 +2591,7 @@ There is a silvery breast plate on the floor.~
 70 25000 6000
 E
 plate breast~
-On the breast plate you notive a relief of large rose. The metal seems to be 
+On the breast plate you notive a relief of large rose. The metal seems to be
 some kind of silver or platinium.
 ~
 #7218
@@ -2600,7 +2600,7 @@ some leg plates~
 On the floor you see some leg plates.~
 ~
 9 3392 33
-8 0 0 0 
+8 0 0 0
 40 12500 5000
 E
 leg plates~
@@ -2755,11 +2755,11 @@ plated tassets~
 On the floor you see two steel tassets~
 ~
 9 1536 33
-9 0 0 0 
+9 0 0 0
 17 12500 5000
 E
 leg plates~
-They seem to be made from steel, and they are fit to be worn on your thighs. 
+They seem to be made from steel, and they are fit to be worn on your thighs.
 ~
 A
 2 -1
@@ -2923,8 +2923,8 @@ A small strip of aluminum is lying here.~
 0 0 100
 E
 strip aluminum~
-It is app. 2 X 5" big, with a purple stripe down the middle of the long 
-side. Arrayed by the stripe are a number of very small holes, obviously 
+It is app. 2 X 5" big, with a purple stripe down the middle of the long
+side. Arrayed by the stripe are a number of very small holes, obviously
 set in some meaningful pattern.
 ~
 E
@@ -2946,8 +2946,8 @@ There is a dirty dish standing here.~
 1 0 400
 E
 dish dirty~
-It is about 10" across, made from a thin sheet of metal, and the 
-remains of something that smells like chili has been allowed to get 
+It is about 10" across, made from a thin sheet of metal, and the
+remains of something that smells like chili has been allowed to get
 _really_ attached to it.
 ~
 #8102
@@ -2960,14 +2960,14 @@ There is chunk of glass lying here.~
 2 10 200
 E
 chunk glass~
-It is 10 X 15 X 2", and quite regular. It is transparent, and, while 
-probably not glass, it still feels like glass. There are a large number 
-of tiny, needlethin blue lines inside it, and a 1 X 1" square red 
+It is 10 X 15 X 2", and quite regular. It is transparent, and, while
+probably not glass, it still feels like glass. There are a large number
+of tiny, needlethin blue lines inside it, and a 1 X 1" square red
 button near one corner.
 ~
 E
 button red~
-As you push the button, a message appears on the slab, in glowing 
+As you push the button, a message appears on the slab, in glowing
 blue letters:
                        SPECIAL EFFECTS PROGRAM
                           NOT OPERABLE YET
@@ -2982,8 +2982,8 @@ There is a glass-like bone lying here.~
 5 2 300
 E
 bone~
-It looks like an ordinary thighbone, except that it is carved from 
-glass by somebody very good. It is quite heavy, but somewhat clumsy to 
+It looks like an ordinary thighbone, except that it is carved from
+glass by somebody very good. It is quite heavy, but somewhat clumsy to
 swing, should one use it as a weapon.
 ~
 A
@@ -3015,8 +3015,8 @@ E
 satchel bag~
 While the bag in it self look ordinary enough, even perhaps somewhat
 dingy, the closing mechanism is rather unusual (and somewhat noisy), as
-it consists of to strips of strange cloth which sticks to each other 
-like burrs, but doesn't stick to anything else. It makes a loud 'ripping' 
+it consists of to strips of strange cloth which sticks to each other
+like burrs, but doesn't stick to anything else. It makes a loud 'ripping'
 sound when opened.
 ~
 #8301
@@ -3063,7 +3063,7 @@ There is a spanner lying here~
 E
 spanner~
 It is an unusual spanner... It seems to be designed for bolts that have, not
-as would be usual hexagonal heads, but rather starshaped heads... It has no 
+as would be usual hexagonal heads, but rather starshaped heads... It has no
 other distinguishing features.
 ~
 #8401
@@ -3120,11 +3120,11 @@ a crumpled wad of paper~
 There is a crumpled wad of paper here, left behind by some messy bypasser.~
 ~
 13 0 16385
-0 0 0 0 
+0 0 0 0
 1 0 0
 E
 paper wad~
-It looks old and worn, but You can still make out a faint lettering on it, 
+It looks old and worn, but You can still make out a faint lettering on it,
 written in a strange, alien hand:
 
 o    WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!   o
@@ -3166,14 +3166,14 @@ There is chunk of glass lying here.~
 2 10 200
 E
 chunk glass~
-It is 10 X 15 X 2", and quite regular. It is transparent, and, while 
-probably not glass, it still feels like glass. There are a large number 
-of tiny, needlethin blue lines inside it, and a 1 X 1" square red 
+It is 10 X 15 X 2", and quite regular. It is transparent, and, while
+probably not glass, it still feels like glass. There are a large number
+of tiny, needlethin blue lines inside it, and a 1 X 1" square red
 button near one corner.
 ~
 E
 button red~
-As you push the button, a message appears on the slab, in glowing 
+As you push the button, a message appears on the slab, in glowing
 blue letters:
                        SPECIAL EFFECTS PROGRAM
                           NOT OPERABLE YET
@@ -3221,7 +3221,7 @@ A
 #8901
 sign poster notice~
 the poster~
-A large poster, with big, brightly-coloured letters has been 
+A large poster, with big, brightly-coloured letters has been
 pasted on the wall here.~
 ~
 12 0 0
