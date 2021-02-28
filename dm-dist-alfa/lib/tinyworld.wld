@@ -277,7 +277,7 @@ audio: /public/games/deva/3007/intro.mp3
 
 # The Bar
 
-You are standing in The Bar. The Bar is set against the northern wall. This place is nice.  They have all the best fruit drinks with little umbrellas All non-alcholic so Kids and Adults can enjoy alike.
+You are standing in The Bar. The Bar is set against the northern wall. This place is nice.  They have all the best fruit drinks with little umbrellas. All drinks are non-alcholic so Kids and Adults can enjoy alike.
 
 image: /public/games/deva/3007/party.png
 
@@ -321,6 +321,8 @@ image: /public/games/deva/3008/title.png
 audio: /public/games/deva/3008/intro.mp3
 
 # Reception Desk
+
+image: /public/games/deva/3008/reception.png
 
 You are standing at the Reception Desk.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
 
