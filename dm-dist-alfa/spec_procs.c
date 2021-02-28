@@ -448,7 +448,7 @@ int mayor(struct char_data *ch, int cmd, char *arg)
       break;
 
     case 'E' :
-      act("$n says 'I hereby declare Midgaard closed!'",FALSE,ch,0,0,TO_ROOM);
+      act("$n says 'I hereby declare Aravati closed!'",FALSE,ch,0,0,TO_ROOM);
       break;
 
     case 'O' :
