@@ -66,7 +66,7 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
 
 ----
-doc: games/deva/3001
+doc: games/deva/3001/main
 note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
 thanks: Thank you for visiting!
 ----
@@ -97,7 +97,7 @@ audio: /public/games/deva/3002/intro.mp3
 
 # The Sanctuary
 ----
-doc: games/deva/3002.feecting
+doc: games/deva/3002/main
 ~
 30 12 0
 D1
@@ -161,7 +161,7 @@ Welcome to The Monastery where The Monks of Amaravati dwell. The Monastery is a 
 We offer a place for those who seek to live in the practice of Offering.
 
 ----
-doc: games/deva/3004
+doc: games/deva/3004/main
 
 ----
 north: The Table
@@ -189,7 +189,7 @@ audio: /public/games/deva/3005/intro.mp3
 You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
 
 ----
-doc: games/deva/3005
+doc: games/deva/3005/main
 
 ----
 north: The Temple
@@ -222,21 +222,33 @@ You see the entrance to The Monastery.
 S
 #3006
 The Inn~
+image: /public/games/deva/3006/title.png
+audio: /pubic/games/deva/3006/intro.mp3
+
+# The Inn at Amaravati
+
 You are standing in the entrance hall of The Inn at Amaravati.  The hall has been wisely decorated with simple but functional furniture.  A small staircase leads up to the reception and the bar is to the east.
+
+----
+doc: games/deva/3006/main
+----
+east: The Bar
+west: The Circle
+up: Reception
 ~
 30 8 0
 D1
-Surprise! You see the bar.
+You see The Bar.
 ~
 ~
 0 -1 3007
 D3
-You see Rahual Circle.
+You see The Circle.
 ~
 ~
 0 -1 3005
 D4
-You see the room reception.
+You see the reception desk.
 ~
 ~
 0 -1 3008
@@ -306,7 +318,7 @@ You are inside the The Bakery.  A sweet scent freshly baked pastries, breads, an
 
 Made only with the finest quality ingredients in The Bakers top of the line comple Bakers Ovens he make it all for the the persons of Amaravati.
 
-doc: games/deva/3009
+doc: games/deva/3009/main
 
 ----
 look: Sign
@@ -1357,7 +1369,7 @@ audio: /public/games/deva/3054/intro.mp3
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
 ----
-doc: games/deva/3054
+doc: games/deva/3054/main
 thanks: Thank you for visiting!
 
 ----
