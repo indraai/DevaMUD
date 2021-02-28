@@ -63,7 +63,7 @@ You have arrived at the Southern End of The Great Hall inside The Temple, in the
 
 The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts and types.
 
-Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Circle below.
+Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
 
 ----
 doc: games/deva/3001
@@ -71,7 +71,7 @@ note: Please enjoy your stay, and remember to visit The Bakery for the best past
 thanks: Thank you for visiting!
 ----
 north: Offering Table
-south: Rahula Circle
+south: The Circle
 ~
 30 12 0
 D0
@@ -80,12 +80,12 @@ At the north end of the hall is a statue of Indra and an Offering Table.
 ~
 0 -1 3054
 D2
-You look down the huge stone steps to see Rahula Circle below.
+You look down the huge stone steps to see The Circle below.
 ~
 ~
 0 -1 3005
 D5
-You can see Rahula Circle.
+You can see The Circle.
 ~
 ~
 0 -1 3005
@@ -154,7 +154,7 @@ doc: games/deva/3004
 
 ----
 north: The Table
-south: Rahula Circle
+south: The Circle
 ~
 30 8 0
 D0
@@ -163,19 +163,19 @@ You see The Table
 ~
 0 -1 3003
 D1
-You see Rahula Circle.
+You see The Circle.
 ~
 ~
 0 -1 3005
 S
 #3005
-Rahula Circle~
+The Circle~
 image: /public/games/deva/3005/title.png
 audio: /public/games/deva/3005/intro.mp3
 
-# Rahula Circle
+# The Circle
 
-You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
+You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
 
 ----
 doc: games/deva/3005
