@@ -62,16 +62,16 @@ menu: Exit Deva.world:#mud @ 0 \n\r\
 
 
 #define GREETINGS \
-"image: /public/img/games/deva/greetings.png \n\r\
+"image: /public/games/deva/greetings.png \n\r\
 \n\r"
 
 #define WELC_MESSG \
-"image: /public/img/games/deva/greetings.png \n\r\
+"image: /public/games/deva/greetings.png \n\r\
 \n\r"
 
 
 #define STORY \
-"This will soon be the background story of DIKU-MUD.\n\r\n\r"
+"doc: games/deva/story\n\r"
 
 
 /* structure for the reset commands */
