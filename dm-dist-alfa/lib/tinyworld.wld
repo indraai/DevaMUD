@@ -272,8 +272,8 @@ You are inside the The Bakery.  A sweet scent freshly baked pastries, breads, an
 
 Made only with the finest quality ingredients in The Bakers top of the line comple Bakers Ovens he make it all for the the persons of Amaravati.
 
-look: sign
-
+look: Sign
+list: Menu
 ~
 30 8 0
 D2
@@ -294,10 +294,9 @@ and your soul sing.
 E
 sign~
 Free instructions provided by the store:
-
-   Buy  - Will buy you some bread or pastry.
-   List - The baker will kindly tell you the price and sort of the bread in
-          his bakery.
+----
+buy: Will buy you some bread or pastry.
+list: List - The baker will kindly tell you the price and sort of the bread in his bakery.
 ~
 S
 #3010
