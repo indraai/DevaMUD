@@ -65,15 +65,9 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Square below.
 
-
-note: We would like to thank you for joining us in the City of Amaravati in the Land of Svarga, Home to King Indra. Please enjoy your stay, but remember be RESPECTFUL. Thank You!
-
-thanks: Thank you for visiting!
-----
 doc: games/deva/3001
-----
-north: The Offering Table
-down: Rahula Square
+note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
+thanks: Thank you for visiting!
 
 ~
 30 12 0
@@ -1306,20 +1300,17 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-By the Offering Table~
+the offering table~
 image: /public/img/games/deva/3054.png
+audio: /public/audio/games/deva/3054.mp3
 
 # The Offering Table
 
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
 thanks: Thank you for visiting!
-----
-audio: /public/audio/games/deva/3054.mp3
-----
+
 doc: games/deva/3054
-----
-south: Main Hall
 
 ~
 30 8 0
