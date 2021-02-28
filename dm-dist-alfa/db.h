@@ -58,7 +58,6 @@ menu: Change your password:#mud @ 4 \n\r\
 menu: Edit your description:#mud @ 2 \n\r\
 menu: Our Story:#mud @ 3 \n\r\
 menu: Exit Deva.world:#mud @ 0 \n\r\
-### Your choice: \n\r\
 \n\r"
 
 
