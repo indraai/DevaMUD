@@ -50,14 +50,16 @@ int real_mobile(int virtual);
 struct obj_data *read_object(int nr, int type);
 struct char_data *read_mobile(int nr, int type);
 
+
 #define MENU         \
 "\n\rWelcome to DikuMUD\n\r\n\
-0) Exit from DikuMud.\n\r\
-1) Enter the game.\n\r\
-2) Enter description.\n\r\
-3) Read the background story\n\r\
-4) Change password.\n\r\n\r\
-   Make your choice: "
+menu: Exit Deva.world:#mud @ 0 \n\r\
+menu: Enter Deva.world:#mud @ 1 \n\r\
+menu: Edit your description:#mud @ 2 \n\r\
+menu: Read the Deva.world Story:#mud @ 3 \n\r\
+menu: Chang your password:#mud @ 4 \n\r\
+\n\r\
+###Make your choice:"
 
 
 #define GREETINGS \
@@ -79,13 +81,13 @@ struct char_data *read_mobile(int nr, int type);
 /* structure for the reset commands */
 struct reset_com
 {
-	char command;   /* current command                      */ 
+	char command;   /* current command                      */
 	bool if_flag;   /* if TRUE: exe only if preceding exe'd */
 	int arg1;       /*                                      */
 	int arg2;       /* Arguments to the command             */
 	int arg3;       /*                                      */
 
-	/* 
+	/*
 	*  Commands:              *
 	*  'M': Read a mobile     *
 	*  'O': Read an object    *
@@ -137,7 +139,7 @@ struct index_data
 struct reset_q_element
 {
 	int zone_to_reset;            /* ref to zone_data */
-	struct reset_q_element *next;	
+	struct reset_q_element *next;
 };
 
 
