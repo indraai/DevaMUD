@@ -118,7 +118,7 @@ audio: /public/games/deva/3003/intro.png
 
 # The Table
 
-The Table is one of the finest in the land. Fine furniture is set all around the room.  A small sign is hanging on the wall.
+The Table is where the monks of The Monastery have their meals. There is very simple furniture for the Monks to enjoy their meal offerings.
 
 look: Sign
 list: Menu
