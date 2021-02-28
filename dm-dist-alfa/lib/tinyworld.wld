@@ -55,6 +55,7 @@ S
 The Great Hall of Amaravati~
 image: /public/img/games/deva/3001.png
 youtube: yU67c_SXykI
+audio: /public/audio/games/deva/3001.mp3
 
 # The Great Hall of Amaravati
 
@@ -70,7 +71,6 @@ note: We would like to thank you for joining us in the City of Amaravati in the 
 thanks: Thank you for visiting!
 ----
 doc: games/deva/TheGreatHall
-audio: /public/audio/singing_bowls/AmazingSingingBowls.mp3
 ----
 north: The Offering Table
 down: Rahula Square
@@ -78,27 +78,31 @@ down: Rahula Square
 ~
 30 12 0
 D0
-At the northern end of the temple hall is a statue and a huge altar.
+At the north end of the hall is a statue of Indra and an Offering Table.
 ~
 ~
 0 -1 3054
 D2
-You look down the huge stone steps at the temple square below.
+You look down the huge stone steps to see Rahula Square below.
 ~
 ~
 0 -1 3005
 D5
-You see the temple square.
+You can see Rahula Square.
 ~
 ~
 0 -1 3005
 S
 #3002
-Cleric's Inner Sanctum~
-   This is the inner sanctum.  A picture of the mighty Thor, is hanging on
-the wall, just above the altar which is set against the western wall.  A well
-in the middle of the floor leads down into darkness.  Vile smells waft from
-the depths.
+The Monastery~
+image: /public/img/games/deva/3001.png
+youtube: yU67c_SXykI
+audio: /public/audio/games/deva/3001.mp3
+
+# The Monastery
+
+Welcome to The Monastery where The Monks live. A painting of the of Indra is hanging on the wall, just above the offering table against the western wall. A well in the middle of the floor leads down into darkness. Vile smells waft from the depths.
+
 ~
 30 12 0
 D1
@@ -107,8 +111,7 @@ You see your favorite place, the bar of divination.
 ~
 0 -1 3003
 D5
-You can't see what is down there, it is too dark.  Looks like it would be
-impossible to climb back up.
+You can't see what is down there, it is too dark.  Looks like it would be impossible to climb back up.
 ~
 ~
 0 -1 7026
