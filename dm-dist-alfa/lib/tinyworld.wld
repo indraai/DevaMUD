@@ -173,7 +173,7 @@ audio: /public/games/deva/3005/intro.mp3
 
 # Rahula Circle
 
-You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Central Market, the center of Amaravati.
+You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
 
 ----
 doc: games/deva/3005
@@ -191,7 +191,7 @@ You see The Amaravati Inn.
 ~
 0 -1 3006
 D2
-You see The Central Market.
+You see The Market.
 ~
 ~
 0 -1 3014
@@ -366,8 +366,7 @@ S
 #3012
 Main Street~
    You are at the end of the main street of Midgaard.  South of here is the
-entrance to the Guild of Magic Users.  The street continues east towards the
-market square.  The magic shop is to the north and to the west is the city
+entrance to the Guild of Magic Users.  The street continues east towards The Market.  The magic shop is to the north and to the west is the city
 gate.
 ~
 30 0 1
@@ -396,7 +395,7 @@ S
 Main Street~
    You are on the main street passing through the City of Midgaard.  South of
 here is the entrance to the Armoury, and the bakery is to the north.  East of
-here is the market square.
+here is The Market.
 ~
 30 0 1
 D0
@@ -405,7 +404,7 @@ You see the bakery.
 ~
 0 -1 3009
 D1
-You see the market square.
+You see The Market.
 ~
 ~
 0 -1 3014
@@ -421,11 +420,16 @@ You see the main street.
 0 -1 3012
 S
 #3014
-Market Square~
-   You are standing on the market square, the famous Square of Midgaard.
-A large, pecualiar looking statue is standing in the middle of the square.
-Roads lead in every direction, north to the temple square, south to the
-common square, east and westbound is the main street.
+The Market~
+image: /public/games/deva/3014/title.png
+audio: /public/games/deva/3014/intro.png
+
+# The Market
+
+You are standing on The Market, the famous Square of Amaravati. A large, pecualiar looking statue is standing in the middle of the square. Roads lead in every direction, north to the temple square, south to the common square, east and westbound is the main street.
+
+----
+
 ~
 30 0 1
 D0
@@ -477,16 +481,16 @@ You see the Jeweller's Shop.
 ~
 0 -1 3034
 D3
-You see the market square.
+You see The Market.
 ~
 ~
 0 -1 3014
 S
 #3016
-The Main Street~
-   The main street, to the north is the weapon shop and to the south is the
+Main Street~
+   Main Street, to the north is the weapon shop and to the south is the
 Guild of Swordsmen.  To the east you leave town and to the west the street
-leads to the market square.
+leads to the The Market.
 ~
 30 0 1
 D0
@@ -505,7 +509,7 @@ You see the swordsmen's guild.
 ~
 0 -1 3021
 D3
-You see the main street leading to the market square.
+You see the main street leading to The Market.
 ~
 ~
 0 -1 3015
@@ -671,11 +675,11 @@ S
 The Common Square~
    The common square, people pass you, talking to each other.  To the west is
 the poor alley and to the east is the dark alley.  To the north, this square
-is connected to the market square.  From the south you notice a nasty smell.
+is connected to The Market.  From the south you notice a nasty smell.
 ~
 30 0 1
 D0
-You see the market square.
+You see The Market.
 ~
 ~
 0 -1 3014
