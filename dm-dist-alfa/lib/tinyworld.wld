@@ -66,7 +66,9 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Square below.
 
 doc: games/deva/3001
+
 note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
+
 thanks: Thank you for visiting!
 
 ~
@@ -1300,7 +1302,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-the offering table~
+The Offering Table~
 image: /public/img/games/deva/3054.png
 audio: /public/audio/games/deva/3054.mp3
 
@@ -1308,9 +1310,10 @@ audio: /public/audio/games/deva/3054.mp3
 
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
+doc: games/deva/3054
+
 thanks: Thank you for visiting!
 
-doc: games/deva/3054
 
 ~
 30 8 0
