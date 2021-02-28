@@ -52,26 +52,27 @@ struct char_data *read_mobile(int nr, int type);
 
 
 #define MENU         \
-"----\n\r\
-# ☰ MENU ☰ \n\r\
+"---- \n\r\
+## ☰ MENU ☰ \n\r\
 menu: Enter Deva.world:#mud @ 1 \n\r\
-menu: The Deva.world Story:#mud @ 3 \n\r\
 menu: Change your password:#mud @ 4 \n\r\
 menu: Edit your description:#mud @ 2 \n\r\
+menu: Our Story:#mud @ 3 \n\r\
 menu: Exit Deva.world:#mud @ 0 \n\r\
-### Your choice: "
+#### Your choice: "
 
 
 #define GREETINGS \
-"\n\r\n\r  \
-                           DikuMUD I (GAMMA 0.0)\n\r\n\r \
-                              Created by\n\r \
-                  Hans Henrik Staerfeldt, Katja Nyboe,\n\r \
-           Tom Madsen, Michael Seifert, and Sebastian Hammer\n\r\n\r"
+"---- \n\r\
+image: /public/img/games/deva/greetings.png \n\r\
+# Deva.world \n\r\
+---- \n\r\
+Powered by DikuMUD I"
 
 #define WELC_MESSG \
-"\n\rWelcome to the land of DikuMUD. May your visit here be... Interesting.\
-\n\r\n\r"
+"----\n\r\
+image: /public/img/games/deva/greetings.png \n\r\
+Welcome to the land of Deva.world. May your visit here be... Interesting."
 
 
 #define STORY     \
