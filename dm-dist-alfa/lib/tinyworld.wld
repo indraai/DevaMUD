@@ -52,14 +52,14 @@ The only exit in your dimension unfortunatly leads right back here.
 0 520 0
 S
 #3001
-The Great Hall of Amaravati~
+The Halls of Amaravati~
 image: /public/img/games/deva/3001.png
 youtube: yU67c_SXykI
 audio: /public/audio/games/deva/3001.mp3
 
-# The Great Hall of Amaravati
+# The Halls of Amaravati
 
-You have arrived at the Southern End of The Great Hall of Amaravati, the capitol city of Svarga.
+You have arrived at the Southern End of The Halls of Amaravati, the capital city of Svarga.
 
 The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts.
 
@@ -70,7 +70,7 @@ note: We would like to thank you for joining us in the City of Amaravati in the 
 
 thanks: Thank you for visiting!
 ----
-doc: games/deva/TheGreatHall
+doc: games/deva/3001
 ----
 north: The Offering Table
 down: Rahula Square
@@ -1306,10 +1306,21 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-By the Temple Altar~
-   You are by the temple altar in the northern end of the Temple of Midgaard.
-A huge altar made from white polished marble is standing in front of you and
-behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+By the Offering Table~
+image: /public/img/games/deva/3054.png
+
+# The Offering Table
+
+You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
+
+thanks: Thank you for visiting!
+----
+audio: /public/audio/games/deva/3054.mp3
+----
+doc: games/deva/3054
+----
+south: Main Hall
+
 ~
 30 8 0
 D2
