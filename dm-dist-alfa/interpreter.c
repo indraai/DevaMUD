@@ -193,7 +193,7 @@ char *command[]=
   "giggle",
   "shake",
   "puke",
-  "growl",  	   /* 31 */    
+  "growl",  	   /* 31 */
   "scream",
   "insult",
   "comfort",
@@ -425,7 +425,7 @@ int search_block(char *arg, char **list, bool exact)
 int old_search_block(char *argument,int begin,int length,char **list,int mode)
 {
 	int guess, found, search;
-        
+
 	/* If the word contain 0 letters, then a match is already found */
 	found = (length < 1);
 
@@ -449,10 +449,10 @@ int old_search_block(char *argument,int begin,int length,char **list,int mode)
 		}
 	}
 
-	return ( found ? guess : -1 ); 
+	return ( found ? guess : -1 );
 }
 
-void command_interpreter(struct char_data *ch, char *argument) 
+void command_interpreter(struct char_data *ch, char *argument)
 {
 	int look_at, cmd, begin;
 	extern int no_specials;
@@ -461,18 +461,18 @@ void command_interpreter(struct char_data *ch, char *argument)
 
         /* Find first non blank */
  	for (begin = 0 ; (*(argument + begin ) == ' ' ) ; begin++ );
-	
+
 	/* Find length of first word */
 	for (look_at = 0; *(argument + begin + look_at ) > ' ' ; look_at++)
 
       		/* Make all letters lower case AND find length */
-		*(argument + begin + look_at) = 
+		*(argument + begin + look_at) =
 		LOWER(*(argument + begin + look_at));
 
-	
+
 	cmd = old_search_block(argument,begin,look_at,command,0);
- 
-	
+
+
 	if (!cmd)
 		return;
 
@@ -523,7 +523,7 @@ void command_interpreter(struct char_data *ch, char *argument)
 			}
 
 			if (!no_specials && special(ch, cmd, argument + begin + look_at))
-				return;  
+				return;
 
 			((*cmd_info[cmd].command_pointer)
 			(ch, argument + begin + look_at, cmd));
@@ -534,7 +534,7 @@ void command_interpreter(struct char_data *ch, char *argument)
 		send_to_char(
 		"Sorry, but that command has yet to be implemented...\n\r",
 			ch);
-	else 
+	else
 	   send_to_char("Arglebargle, glop-glyf!?!\n\r", ch);
 }
 
@@ -596,7 +596,7 @@ int is_number(char *str)
 	return(1);
 }
 
-/*  Quinn substituted a new one-arg for the old one.. I thought returning a 
+/*  Quinn substituted a new one-arg for the old one.. I thought returning a
     char pointer would be neat, and avoiding the func-calls would save a
     little time... If anyone feels pissed, I'm sorry.. Anyhow, the code is
     snatched from the old one, so it outta work..
@@ -639,8 +639,8 @@ char *one_argument(char *argument, char *first_arg )
 
 	return(argument+begin);
 }
-	
-	
+
+
 
 
 
@@ -779,7 +779,7 @@ void assign_command_pointers ( void )
 	COMMANDO(38,POSITION_DEAD,do_help,0);
 	COMMANDO(39,POSITION_DEAD,do_who,0);
 	COMMANDO(40,POSITION_SLEEPING,do_emote,1);
-	COMMANDO(41,POSITION_SLEEPING,do_echo,21);	
+	COMMANDO(41,POSITION_SLEEPING,do_echo,21);
 	COMMANDO(42,POSITION_RESTING,do_stand,0);
 	COMMANDO(43,POSITION_RESTING,do_sit,0);
 	COMMANDO(44,POSITION_RESTING,do_rest,0);
@@ -889,13 +889,13 @@ void assign_command_pointers ( void )
 	COMMANDO(148,POSITION_STANDING,do_action,22);
 	COMMANDO(149,POSITION_STANDING,do_write,1);
 	COMMANDO(150,POSITION_RESTING,do_grab,1);
-	COMMANDO(151,POSITION_FIGHTING,do_flee,1);	
-	COMMANDO(152,POSITION_STANDING,do_sneak,1);	
-	COMMANDO(153,POSITION_RESTING,do_hide,1);	
-	COMMANDO(154,POSITION_STANDING,do_backstab,1);	
-	COMMANDO(155,POSITION_STANDING,do_pick,1);	
-	COMMANDO(156,POSITION_STANDING,do_steal,1);	
-	COMMANDO(157,POSITION_FIGHTING,do_bash,1);	
+	COMMANDO(151,POSITION_FIGHTING,do_flee,1);
+	COMMANDO(152,POSITION_STANDING,do_sneak,1);
+	COMMANDO(153,POSITION_RESTING,do_hide,1);
+	COMMANDO(154,POSITION_STANDING,do_backstab,1);
+	COMMANDO(155,POSITION_STANDING,do_pick,1);
+	COMMANDO(156,POSITION_STANDING,do_steal,1);
+	COMMANDO(157,POSITION_FIGHTING,do_bash,1);
 	COMMANDO(158,POSITION_FIGHTING,do_rescue,1);
 	COMMANDO(159,POSITION_FIGHTING,do_kick,1);
 	COMMANDO(160,POSITION_RESTING,do_action,0);
@@ -990,17 +990,17 @@ int _parse_name(char *arg, char *name)
 
 	/* skip whitespaces */
 	for (; isspace(*arg); arg++);
-	
-	for (i = 0; *name = *arg; arg++, i++, name++) 
+
+	for (i = 0; *name = *arg; arg++, i++, name++)
 	   if ((*arg <0) || !isalpha(*arg) || i > 15)
-	      return(1); 
+	      return(1);
 
 	if (!i)
 	   return(1);
 
 	return(0);
 }
-			
+
 
 
 
@@ -1075,20 +1075,19 @@ void nanny(struct descriptor_data *d, char *arg)
 					strcpy(d->pwd, tmp_store.pwd);
 					d->pos = player_table[player_i].nr;
 
-					SEND_TO_Q("Password: ", d);
+					SEND_TO_Q("Deva.world password: ", d);
 
 				STATE(d) = CON_PWDNRM;
 				}
 				else
 				{
 					/* player unknown gotta make a new */
-					CREATE(GET_NAME(d->character), char, 
+					CREATE(GET_NAME(d->character), char,
 					  strlen(tmp_name) + 1);
-					strcpy(GET_NAME(d->character), 
+					strcpy(GET_NAME(d->character),
 					  CAP(tmp_name));
 
-					sprintf(buf, "Did I get that right, %s (Y/N)? ",
-				  	 tmp_name);
+					sprintf(buf, "Did I get that right, %s (Y/N)? ", tmp_name);
 
 					SEND_TO_Q(buf, d);
 
@@ -1100,15 +1099,15 @@ void nanny(struct descriptor_data *d, char *arg)
 		case CON_NMECNF:	/* wait for conf. of new name	*/
 			/* skip whitespaces */
 			for (; isspace(*arg); arg++);
-			
+
 			if (*arg == 'y' || *arg == 'Y')
 			{
 				SEND_TO_Q("New character.\n\r", d);
 
-				sprintf(buf, 
+				sprintf(buf,
 				   "Give me a password for %s: ",
 				   GET_NAME(d->character));
-				
+
 				SEND_TO_Q(buf, d);
 
 				STATE(d) = CON_PWDGET;
@@ -1134,8 +1133,7 @@ void nanny(struct descriptor_data *d, char *arg)
 			{
 				if (strcmp(crypt_r(arg, d->pwd, &crypted), d->pwd))
 				{
-					SEND_TO_Q("Wrong password.\n\r", d);
-					SEND_TO_Q("Password: ", d);
+					SEND_TO_Q("Wrong password try again: ", d);
 					return;
 				}
 
@@ -1155,8 +1153,8 @@ void nanny(struct descriptor_data *d, char *arg)
 						slog(buf);
 						return;
 					}
-					
-					
+
+
 				sprintf(buf, "%s[%s] has connected.", GET_NAME(d->character),
 					d->host);
 				slog(buf);
@@ -1174,13 +1172,12 @@ void nanny(struct descriptor_data *d, char *arg)
 
 			if (!*arg || strlen(arg) > 10)
 			{
-				SEND_TO_Q("Illegal password.\n\r", d);
-				SEND_TO_Q("Password: ", d);
+				SEND_TO_Q("Illegal password try again: ", d);
 				return;
 			}
 
 			strcpy(d->pwd, crypt_r(arg, d->character->player.name, &crypted));
-			
+
 			SEND_TO_Q("Please retype password: ", d);
 
 			STATE(d) = CON_PWDCNF;
@@ -1192,8 +1189,7 @@ void nanny(struct descriptor_data *d, char *arg)
 
 			if (strcmp(crypt_r(arg, d->pwd, &crypted), d->pwd))
 			{
-				SEND_TO_Q("Passwords don't match.\n\r", d);
-				SEND_TO_Q("Retype password: ", d);
+				SEND_TO_Q("Passwords do NOT match try again: ", d);
 				STATE(d) = CON_PWDGET;
 				return;
 			}
@@ -1285,7 +1281,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					SEND_TO_Q("\n\rThat's not a class.\n\rClass:", d);
 					STATE(d) = CON_QCLASS;
 				} break;
-				
+
 			} /* End Switch */
 			if (STATE(d) != CON_QCLASS) {
 				sprintf(buf, "%s [%s] new player.", GET_NAME(d->character),
@@ -1345,7 +1341,7 @@ void nanny(struct descriptor_data *d, char *arg)
 						free(d->character->player.description);
 						d->character->player.description = 0;
 					}
-					d->str = 
+					d->str =
 					   &d->character->player.description;
 					d->max_str = 240;
 					STATE(d) = CON_EXDSCR;
@@ -1371,8 +1367,7 @@ void nanny(struct descriptor_data *d, char *arg)
 
 			if (!*arg || strlen(arg) > 10)
 			{
-				SEND_TO_Q("Illegal password.\n\r", d);
-				SEND_TO_Q("Password: ", d);
+				SEND_TO_Q("Illegal password try again: ", d);
 				return;
 			}
 
@@ -1389,8 +1384,7 @@ void nanny(struct descriptor_data *d, char *arg)
 
 			if (strcmp(crypt_r(arg, d->pwd, &crypted), d->pwd))
 			{
-				SEND_TO_Q("Passwords don't match.\n\r", d);
-				SEND_TO_Q("Retype password: ", d);
+				SEND_TO_Q("Password do NOT match try again: ", d);
 				STATE(d) = CON_PWDNEW;
 				return;
 			}
