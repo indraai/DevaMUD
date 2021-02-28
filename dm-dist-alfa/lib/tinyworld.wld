@@ -52,16 +52,16 @@ The only exit in your dimension unfortunatly leads right back here.
 0 520 0
 S
 #3001
-The Halls of Amaravati~
+The Temple of Amaravati~
 image: /public/img/games/deva/3001.png
 youtube: yU67c_SXykI
 audio: /public/audio/games/deva/3001.mp3
 
-# The Halls of Amaravati
+# The Temple of Amaravati
 
-You have arrived at the Southern End of The Halls of Amaravati, the capital city of Svarga.
+You have arrived at the Southern End of The Great Hall inside The Temple of Amaravati, in the capital city of Svarga.
 
-The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts.
+The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts and types.
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Square below.
 
@@ -96,12 +96,14 @@ audio: /public/audio/games/deva/3001.mp3
 
 # The Monastery
 
-Welcome to The Monastery where The Monks live. A painting of the of Indra is hanging on the wall, just above the offering table against the western wall. A well in the middle of the floor leads down into darkness. Vile smells waft from the depths.
+Welcome to The Monastery where The Monks of Amaravati live. Above The Offering Table on the western wall is a painting of Indra. A well in the middle of the floor leads down into darkness.
 
+----
+doc: games/deva/3002.feecting
 ~
 30 12 0
 D1
-You see your favorite place, the bar of divination.
+You see your favorite place, The Monks Table.
 ~
 ~
 0 -1 3003
@@ -112,8 +114,8 @@ You can't see what is down there, it is too dark.  Looks like it would be imposs
 0 -1 7026
 S
 #3003
-Cleric's Bar~
-   The bar is one of the finest in the land, lucky it is members only.  Fine
+The Monks Table~
+The bar is one of the finest in the land, lucky it is members only.  Fine
 furniture is set all around the room.  A small sign is hanging on the wall.
 ~
 30 12 0
@@ -156,9 +158,8 @@ You see the Temple Square.
 0 -1 3005
 S
 #3005
-The Temple Square~
-   You are standing on the temple square.  Huge marble steps lead up to the
-temple gate.  The entrance to the Clerics Guild is to the west, and the old
+Rahula Square~
+   You are standing in Rahula Square.  Huge marble steps lead up to the temple gate.  The entrance to the Clerics Guild is to the west, and the old
 Grunting Boar Inn, is to the east.  Just south of here you see the market
 square, the center of Midgaard.
 ~
