@@ -626,9 +626,6 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 
 				list_char_to_char(world[ch->in_room].people, ch, 0);
 
-				/* added exits at end of look */
-				do_exits(ch,buf,15);
-
 			}
 			break;
 
