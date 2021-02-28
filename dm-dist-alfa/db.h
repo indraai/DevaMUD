@@ -62,10 +62,12 @@ menu: Exit Deva.world:#mud @ 0 \n\r\
 
 
 #define GREETINGS \
-"image: /public/img/games/deva/greetings.png"
+"image: /public/img/games/deva/greetings.png \n\r\
+\n\r"
 
 #define WELC_MESSG \
-"image: /public/img/games/deva/greetings.png"
+"image: /public/img/games/deva/greetings.png \n\r\
+\n\r"
 
 
 #define STORY \
