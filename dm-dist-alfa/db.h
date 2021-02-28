@@ -51,9 +51,8 @@ struct obj_data *read_object(int nr, int type);
 struct char_data *read_mobile(int nr, int type);
 
 
-#define MENU         \
-"---- \n\r\
-## ☰ MENU ☰ \n\r\
+#define MENU \
+"☰ MENU ☰ \n\r\
 menu: Enter Deva.world:#mud @ 1 \n\r\
 menu: Change your password:#mud @ 4 \n\r\
 menu: Edit your description:#mud @ 2 \n\r\
@@ -63,19 +62,13 @@ menu: Exit Deva.world:#mud @ 0 \n\r\
 
 
 #define GREETINGS \
-"---- \n\r\
-image: /public/img/games/deva/greetings.png \n\r\
-# Deva.world \n\r\
----- \n\r\
-Powered by DikuMUD I"
+"image: /public/img/games/deva/greetings.png"
 
 #define WELC_MESSG \
-"----\n\r\
-image: /public/img/games/deva/greetings.png \n\r\
-Welcome to the land of Deva.world. May your visit here be... Interesting."
+"image: /public/img/games/deva/greetings.png"
 
 
-#define STORY     \
+#define STORY \
 "This will soon be the background story of DIKU-MUD.\n\r\n\r"
 
 
