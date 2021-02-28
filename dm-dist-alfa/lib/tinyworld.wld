@@ -120,9 +120,13 @@ audio: /public/games/deva/3003/intro.png
 
 The Table is where the monks of The Monastery have their meals. There is very simple furniture for the Monks to enjoy their meal offerings.
 
+doc: games/deva/3003/main
+
+----
 look: Sign
 list: Menu
----
+
+----
 south: The Monastery
 west: The Sanctuary
 ~
@@ -231,6 +235,7 @@ You are standing in the entrance hall of The Inn at Amaravati.  The hall has bee
 
 ----
 doc: games/deva/3006/main
+
 ----
 east: The Bar
 west: The Circle
@@ -255,11 +260,22 @@ You see the reception desk.
 S
 #3007
 The Bar~
-   You are standing in The Bar.  The Bar is set against the northern wall, old
-archaic writing, carvings and symbols cover its top.  A fireplace is built into
-the western wall, and through the southeastern windows you can see the temple
-square.  This place makes you feel like home.
-A small sign with big letters is fastened to the bar.
+image: /public/games/deva/3007/title.png
+audio: /public/games/deva/3007/intro.mp3
+
+# The Bar
+
+You are standing in The Bar. The Bar is set against the northern wall, old archaic writing, carvings and symbols cover its top. A fireplace is built into the western wall, and through the southeastern windows you can see the The Circle. This place makes you feel like home. A small sign with big letters is fastened to the bar.
+
+----
+doc: games/deva/3007/main
+
+----
+look: Sign
+list: Menu
+
+----
+west: The Inn
 ~
 30 8 0
 D3
@@ -284,8 +300,7 @@ poems about beer, and small beer-mugs.
 S
 #3008
 The Reception~
-   You are standing in the reception.  The staircase leads down to the
-entrance hall.  There is a small sign on the counter.
+You are standing in the reception.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
 ~
 30 8 0
 D5
