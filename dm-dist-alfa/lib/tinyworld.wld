@@ -194,8 +194,8 @@ doc: games/deva/3005
 ----
 north: The Temple
 south: The Market
-east: The Monasatery
-west: The Inn
+east: The Inn
+west: The Monasatery
 
 ~
 30 0 1
