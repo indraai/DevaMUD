@@ -263,10 +263,17 @@ Rooms are expensive but good!  You may:
 S
 #3009
 The Bakery~
-   You are standing inside the small bakery.  A sweet scent of Danish and
-fine bread fills the room.  The bread and Danish are arranged in fine order
-on the shelves, and seem to be of the finest quality.
-A small sign is on the counter.
+image: /public/img/games/deva/3009.png
+audio: /public/audio/games/deva/3009.mp3
+
+# The Bakery
+
+You are inside the The Bakery.  A sweet scent freshly baked pastries, breads, and goodies of the are finding their way up your nose.  You sense a craving for The Bakers goodness.
+
+Made only with the finest quality ingredients in The Bakers top of the line comple Bakers Ovens he make it all for the the persons of Amaravati.
+
+look: sign
+
 ~
 30 8 0
 D2
