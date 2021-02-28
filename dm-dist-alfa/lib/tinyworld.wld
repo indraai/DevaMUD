@@ -68,10 +68,10 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
 
-----
-doc: games/deva/3001/main
 note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
 thanks: Thank you for visiting!
+----
+doc: games/deva/3001/main
 ----
 north: Offering Table
 south: The Circle
