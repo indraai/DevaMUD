@@ -318,9 +318,9 @@ but do not mess with him or else he'll get upset.
 #3060
 securitydeva~
 the SecurityDeva~
-A SecurityDeva guards here.
+SecurityDEVA guards here.
 ~
-A big, strong, helpful, trustworthy SecurityDeva.
+A big, strong, helpful, trustworthy SecurityDEVA.
 ~
 193 0 1000 S
 10 10 2 1d12+123 1d8+3
@@ -348,33 +348,33 @@ Fido is a small dog that has a a happy go lucky bark for life. Always finding ne
 10 25
 8 8 1
 #3063
-mercenary~
-the Mercenary~
-A Mercenary waiting for a job.
+artist~
+the Artist~
+A talented Artist waiting for a job.
 ~
-He looks pretty mean.
+He looks very inspired.
 ~
 4 0 -200 S
 5 16 5 2d6+60 1d8+0
 47 900
 8 8 1
 #3064
-drunk~
-the Drunk~
-A singing, happy Drunk.
+monk~
+the Monk~
+A singing, happy Monk.
 ~
-A drunk who seems to be too happy, and to carry too much money.
+A monk who seems to be very happy, and very generous with his money.
 ~
 0 0 400 S
 2 19 8 2d6+22 1d6+0
 85 200
 8 8 1
 #3065
-beggar~
-the Beggar~
-A beggar is here, asking for a few coins.
+novice~
+the Novice~
+A novice monk is here, asking for offerings.
 ~
-The beggar looks like she is fed up with life.
+The novice looks like she is very happy with life.
 ~
 2 0 400 S
 1 20 9 2d6+10 1d5+0
@@ -382,8 +382,8 @@ The beggar looks like she is fed up with life.
 8 8 2
 #3066
 odif yltsaeb~
-the Odif Yltsaeb~
-Odif Yltsaeb is here, walking backwards.
+the Odif~
+Odif is here, walking backwards.
 ~
 Odif is a small dog that has been reversed by some god.
 ~
@@ -392,9 +392,9 @@ Odif is a small dog that has been reversed by some god.
 10 25
 8 8 1
 #3067
-cityguard guard~
-the Cityguard~
-A cityguard is here, guarding the gate.
+securitydeva guard~
+the SecurityDeva Guard~
+A SecurityDeva Guard is here, guarding the gate.
 ~
 A big, strong, helpful, trustworthy guard.
 ~
