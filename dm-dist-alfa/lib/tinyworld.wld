@@ -96,7 +96,7 @@ audio: /public/games/deva/3001/intro.mp3
 
 # The Monastery
 
-Welcome to The Monastery where The Monks of Amaravati live. Above The Offering Table on the western wall is a painting of Indra. The Monastery is a simple place reflecting the practice of the Monks who reside here. We offer a place for those who seek to live in the practice of Offering.
+Welcome to The Monastery where The Monks of Amaravati live. Above the Offering Table on the western wall is a painting of Indra. The Monastery is a simple place reflecting the practice of the Monks who reside here. We offer a place for those who seek to live in the practice of Offering.
 
  A well in the middle of the floor leads down into darkness.
 
@@ -1331,11 +1331,11 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-The Offering Table~
+Offering Table~
 image: /public/games/deva/3054/title.png
 audio: /public/games/deva/3054/intro.mp3
 
-# The Offering Table
+# Offering Table
 
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
