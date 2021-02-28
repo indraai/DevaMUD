@@ -195,6 +195,7 @@ M 0 3093 1 3032       Rottweiler
 M 0 3094 1 3032       Wolf
 *
 O 0 3099 1 3001       Bulletin board in Temple (limbo for starters)
+O 0 3099 1 3005       Bulletin board in The Circle
 *
 S
 #31
@@ -497,7 +498,7 @@ M 0 4156 1 4151    A mean troll
 *
 M 0 4157 2 4167    A mage
 M 0 4157 2 4167    Second mage
-G 1 4151 3         The staff of harming 
+G 1 4151 3         The staff of harming
 *
 M 0 4158 2 4162    A snake
 M 0 4158 2 4169    A snake
@@ -695,7 +696,7 @@ D 0 7208 0 1     Close door
 *
 M 0 7200 1 7201  Load master mindflayer
 E 1 7200 4 16      Equip master with devil rod
-E 1 7203 4 3     Equip master with cloak 
+E 1 7203 4 3     Equip master with cloak
 G 1 7205 7200    Give key to master
 O 1 7204 6 7200  Potion into treasury
 O 1 7210 1 7200  Treasure into treasury
@@ -734,7 +735,7 @@ E 1 7211 16 16 Equip
 M 0 7204 1 7234  Load gigantic rat
 * The small Hell
 D 0 7280 4 1               Close Secret entrance
-D 0 7116 5 1                ------- || ------- 
+D 0 7116 5 1                ------- || -------
 M 0 7002 5 7285             The Sewer Rat
 E 1 7190 10 2           Equip rat with ring
 M 0 7002 5 7285             The Sewer Rat
@@ -759,7 +760,7 @@ D 0 7406 0 1
 D 0 7404 2 1
 D 0 7405 0 1
 M 0 7040 1 7428          Load The Red Dragon
-G 1 7304 2          Give Breast Plate Full Armour to Red 
+G 1 7304 2          Give Breast Plate Full Armour to Red
 G 1 7305 2          Give Tassets Full Armour to Red
 G 1 7306 2          Give Gauntlets Full Armour to Red
 G 1 7307 2          Give Helmet Full Armour to Red
@@ -874,7 +875,7 @@ O 0 8100 1 -1			Key to Daemons lair
 G 1 8100 8003			give ..
 D 0 8150 4 1			Close door
 O 0 8101 2 8150			dirty dishes
-O 1 8101 2 8150	
+O 1 8101 2 8150
 O 0 8502 3 8104		S FX progs
 O 1 8502 3 8104
 O 1 8502 3 -1

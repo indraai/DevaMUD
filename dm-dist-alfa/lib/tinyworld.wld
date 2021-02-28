@@ -33,12 +33,13 @@ the owner of this room needs none.
 0 520 0
 S
 #1201
-Moses' Hangout~
-   You see here a cozy little room with a fireplace.  You can tell it is Moses'
-room by the two stone tablets and a bible on a small ledge near the fireplace.
-This room was designed for total relaxation.  You can watch television, listen
-to the stereo, even soak in a hot tub.
-There is a bell here for the butler.
+Indra's Hangout~
+image: /public/games/deva/1201/title.png
+audio: /public/games/deva/1201/intro.mp3
+
+# Indra's Hangout
+
+You see here a cozy little room with a fireplace.  You can tell it is Indra's room by the two stone tablets on a ledge near the fireplace. This room was designed for total relaxation.  You can watch draw, paint, meditate, listen to music, and even soak in a hot tub.
 ~
 0 520 0
 S
