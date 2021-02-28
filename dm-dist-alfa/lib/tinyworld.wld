@@ -173,7 +173,7 @@ audio: /public/games/deva/3005/intro.mp3
 
 # Rahula Circle
 
-You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Amaravati Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
+You are standing in Rahula Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
 
 ----
 doc: games/deva/3005
@@ -186,7 +186,7 @@ You see The Temple.
 ~
 0 -1 3001
 D1
-You see The Amaravati Inn.
+You see The Inn.
 ~
 ~
 0 -1 3006
@@ -202,10 +202,8 @@ You see the entrance to The Monastery.
 0 -1 3004
 S
 #3006
-The Amaravati Inn~
-   You are standing in the entrance hall of the Grunting Boar Inn.  The hall
-has been wisely decorated with simple but functional furniture.  A small
-staircase leads up to the reception and the bar is to the east.
+The Inn~
+You are standing in the entrance hall of The Inn at Amaravati.  The hall has been wisely decorated with simple but functional furniture.  A small staircase leads up to the reception and the bar is to the east.
 ~
 30 8 0
 D1
@@ -225,8 +223,8 @@ You see the room reception.
 0 -1 3008
 S
 #3007
-The Grunting Boar~
-   You are standing in the bar.  The bar is set against the northern wall, old
+The Bar~
+   You are standing in The Bar.  The Bar is set against the northern wall, old
 archaic writing, carvings and symbols cover its top.  A fireplace is built into
 the western wall, and through the southeastern windows you can see the temple
 square.  This place makes you feel like home.
@@ -241,7 +239,7 @@ You see the exit to the entrance hall.
 E
 sign~
 The sign reads:
-Free instructions provided by the Grunting Boar Inn.
+Free instructions provided by The Bar.
 
    Buy  - Buy something (drinkable) from the bartender.
    List - The bartender will show you all the different drinks and
