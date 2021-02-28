@@ -121,7 +121,11 @@ audio: /public/games/deva/3003/intro.png
 
 # The Table
 
-The Table is where the monks of The Monastery have their meals. There is very simple furniture for the Monks to enjoy their meal offerings.
+The Table is where the monks of The Monastery have their meals.
+
+image: /public/games/deva/3003/table.png
+
+There is very simple furniture for the Monks to enjoy their meal offerings.
 
 doc: games/deva/3003/main
 
