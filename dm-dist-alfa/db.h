@@ -52,7 +52,7 @@ struct char_data *read_mobile(int nr, int type);
 
 
 #define MENU         \
-"\n\r\
+"\n\r\n\r\
 # ☰ MENU ☰\n\r\
 menu: Enter Deva.world:#mud @ 1 \n\r\
 menu: The Deva.world Story:#mud @ 3 \n\r\
