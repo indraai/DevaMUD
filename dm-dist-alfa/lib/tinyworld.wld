@@ -65,11 +65,13 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on Rahula Circle below.
 
+----
 doc: games/deva/3001
-
 note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
-
 thanks: Thank you for visiting!
+----
+north: Offering Table
+south: Rahula Circle
 ~
 30 12 0
 D0
@@ -89,17 +91,11 @@ You can see Rahula Circle.
 0 -1 3005
 S
 #3002
-The Monastery~
-image: /public/games/deva/3001/title.png
-youtube: yU67c_SXykI
-audio: /public/games/deva/3001/intro.mp3
+The Sanctuary~
+image: /public/games/deva/3002/title.png
+audio: /public/games/deva/3002/intro.mp3
 
-# The Monastery
-
-Welcome to The Monastery where The Monks of Amaravati live. Above the Offering Table on the western wall is a painting of Indra. The Monastery is a simple place reflecting the practice of the Monks who reside here. We offer a place for those who seek to live in the practice of Offering.
-
- A well in the middle of the floor leads down into darkness.
-
+# The Sanctuary
 ----
 doc: games/deva/3002.feecting
 ~
@@ -143,11 +139,15 @@ list: Menu
 ~
 S
 #3004
-The Sanctuary~
+The Monastery~
 image: public/games/deva/3004/title.png
 audio: public/games/deva/3004/intro.mp3
 
-# The Sanctuary
+# The Monastery
+
+Welcome to The Monastery where The Monks of Amaravati dwell. The Monastery is a simple place reflecting the practice of the Monks who reside here.
+
+We offer a place for those who seek to live in the practice of Offering.
 
 ----
 doc: games/deva/3004
@@ -158,7 +158,7 @@ south: Rahula Circle
 ~
 30 8 0
 D0
-You see the bar, richly decorated with really stylish furniture.
+You see The Table
 ~
 ~
 0 -1 3003
