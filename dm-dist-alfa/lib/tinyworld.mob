@@ -316,20 +316,20 @@ but do not mess with him or else he'll get upset.
 2000 80000
 8 8 1
 #3060
-cityguard guard~
-the Cityguard~
-A cityguard stands here.
+securitydeva~
+the SecurityDeva~
+A SecurityDeva guards here.
 ~
-A big, strong, helpful, trustworthy guard.
+A big, strong, helpful, trustworthy SecurityDeva.
 ~
 193 0 1000 S
 10 10 2 1d12+123 1d8+3
 500 9000
 8 8 1
 #3061
-janitor~
-the Janitor~
-A janitor is walking around, cleaning up.
+servicedeva~
+the ServiceDeva~
+The ServiceDeva is floating around, cleaning up.
 ~
 ~
 1 0 900 S
@@ -338,11 +338,10 @@ A janitor is walking around, cleaning up.
 8 8 1
 #3062
 fido dog~
-the Beastly Fido~
-Beastly Fido is here.
+the Fido~
+Fido is here.
 ~
-Fido is a small dog that has a foul smell and pieces of rotted meat hanging
-around his teeth.
+Fido is a small dog that has a a happy go lucky bark for life. Always finding new friends, and hunting for treat.
 ~
 161 0 -200 S
 0 20 10 1d6+4 1d4+0
@@ -781,7 +780,7 @@ Well he doesn't seem to be friendly.
 mage~
 the Mage~
 A small intelligent looking mage is standing here. It looks like he
-knows his way with the magic. 
+knows his way with the magic.
 ~
 His IQ makes almost any dikumud player look stupid..
 ~
@@ -1364,7 +1363,7 @@ The horrifying Mudmonster~
 A horrifying Mudmonster is slowly evolving from the mud ...
 ~
 It sure looks like something out of a horrormovie. It strongly resembles
-a huge figure made up from mud alone, and it sure looks like it had human 
+a huge figure made up from mud alone, and it sure looks like it had human
 flesh for breakfast and is strongly intent on having the same for dinner
 - Perhaps you?
 ~
@@ -1378,7 +1377,7 @@ The small bat~
 The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
 ~
 You have never in your entire life seen such a mean looking small creature,
-though it looks rather peaceful, hanging there, sleeping. The thought of 
+though it looks rather peaceful, hanging there, sleeping. The thought of
 arousing this cruel creature doesn't seem appealing.
 ~
 96 524288 -500 S
@@ -1503,21 +1502,21 @@ Madam Esther~
 Madam Esther is standing here, trying to sell dust.
 ~
 She is very big standing here, smiling to you. She looks like the
-mother of the town, sometimes playing with the children, sometimes 
+mother of the town, sometimes playing with the children, sometimes
 helping the old people, with their daily work. All this in spite of
 her own hard work.
 ~
 212 0 1000 S
 2 19 7 1d2+23 1d6+1
 6 150
-8 8 2   
+8 8 2
 #7013
 mud monster mudmonster~
 The horrifying Mudmonster~
 A horrifying Mudmonster is slowly evolving from the mud ...
 ~
 It sure looks like something out of a horrormovie. It strongly resembles
-a huge figure made up from mud alone, and it sure looks like it had human 
+a huge figure made up from mud alone, and it sure looks like it had human
 flesh for breakfast and is strongly intent on having the same for dinner
 - Perhaps you?
 ~
@@ -1648,7 +1647,7 @@ The junior mindflayer~
 The junior mindflayer is here, watching you carefully from the corner.
 ~
 This mindflayer is six foot high. It has a small mace in its belt, and is
-dressed in purple and black cloth. It has four small tentacles in the 
+dressed in purple and black cloth. It has four small tentacles in the
 center of its head.
 ~
 132 8 -350 S
@@ -1684,9 +1683,9 @@ shredder~
 the Shredder~
 A Shredder advances towards you, claws clicking menacingly.
 ~
-It is obviously a large creature, but an improbable number of sharp 
-blades, claws and edges makes it near impossible to see its actual 
-body. It is gleaming, a metallic black, although occasionally a claw or 
+It is obviously a large creature, but an improbable number of sharp
+blades, claws and edges makes it near impossible to see its actual
+body. It is gleaming, a metallic black, although occasionally a claw or
 blade changes colour for a while, becoming a neon yellow.
 ~
 64 0 -500 S
@@ -1696,11 +1695,11 @@ blade changes colour for a while, becoming a neon yellow.
 #8001
 bug~
 the bug~
-A bug scuttles towards you, running in small circles around your 
+A bug scuttles towards you, running in small circles around your
 feet.
 ~
-It is a smallish creature, with too many legs to count, obviously 
-very fast. It has a multicoloured carapace (looking much like an oil 
+It is a smallish creature, with too many legs to count, obviously
+very fast. It has a multicoloured carapace (looking much like an oil
 slick on a puddle), and bright red pinpoint eyes.
 ~
 0 0 0 S
@@ -1714,8 +1713,8 @@ The Daemon looks at you expressionlessly, from the comfort of its
 chair (it feels that way, anyway... You can't see its eyes). Then its
 attention returns to the screens.
 ~
-It appears to be a vaguely man-shaped (but larger than man-sized!) hole 
-in the fabric of reality... looking closely, you can see stars, either 
+It appears to be a vaguely man-shaped (but larger than man-sized!) hole
+in the fabric of reality... looking closely, you can see stars, either
 inside it, or far beyond it...
 ~
 2 8 400 S
@@ -1727,8 +1726,8 @@ cursor~
 the cursor~
 The Cursor is here, tracing incomprehensible patterns in the air.
 ~
-It is a ball of pulsating colours, extruding and retracting sharp 
-points continually, sometimes changing shape altogether into some 
+It is a ball of pulsating colours, extruding and retracting sharp
+points continually, sometimes changing shape altogether into some
 regular solid like a cube or an octahedron.
 ~
 64 0 0 S
@@ -1740,11 +1739,11 @@ juggernaut~
 the Juggernaut~
 A Juggernaut a working its way methodically through this area.
 ~
-It is _very_ large, some 10 yds in length, walking on several hundred 
-tiny legs. It is metallic-looking, with large spots of corrosion 
-marring its angular skin. On its sides are large signs, written in an 
-incomprehensible language. On its top, a small eye cluster swivels back 
-and forth continually. A number of tentacles sweeps the ground around 
+It is _very_ large, some 10 yds in length, walking on several hundred
+tiny legs. It is metallic-looking, with large spots of corrosion
+marring its angular skin. On its sides are large signs, written in an
+incomprehensible language. On its top, a small eye cluster swivels back
+and forth continually. A number of tentacles sweeps the ground around
 it.
 ~
 84 0 400 S
@@ -1756,10 +1755,10 @@ butterfly fly~
 the butterfly~
 A beautiful, butterfly-like thing is fluttering around here.
 ~
-It is, on closer inspection, not really an animal, but a variable 
-number of brightly-coloured, translucent planes of breathtaking beauty 
-and delicacy. The planes pulse, waver, sometimes disappear, but are 
-always replaced by another. None of the planes move, but through 
+It is, on closer inspection, not really an animal, but a variable
+number of brightly-coloured, translucent planes of breathtaking beauty
+and delicacy. The planes pulse, waver, sometimes disappear, but are
+always replaced by another. None of the planes move, but through
 continuous replacement, the butterfly does, in random sweeps.
 ~
 80 0 1000 S
@@ -1774,8 +1773,8 @@ A hard-eyed cowboy is here, going about his business.
 He is dressed in jeans, boots, a hat that shades his face so that it
 is hard to see, where he's looking. He is walking around purposefully,
 as if searching for something, occasionally getting down to one knee,
-making strange passes in the air, then picking up pieces of the ground 
-that are apparently not so solid now. He is carrying a leather satchel 
+making strange passes in the air, then picking up pieces of the ground
+that are apparently not so solid now. He is carrying a leather satchel
 over the shoulder, into which he sometimes place some of the pieces. At
 his belt hangs a strange, bluish whip
 When ne notices your intense scrutiny, he looks at you coldly, until you
@@ -1783,7 +1782,7 @@ are forced to look away.
 ~
 0 0 400 S
 5 10 6 5d6+45 2d4+0
-40 2000 
+40 2000
 8 8 1
 #8900
 hierophant~
