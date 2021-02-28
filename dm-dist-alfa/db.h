@@ -66,7 +66,7 @@ menu: Exit Deva.world:#mud @ 0 \n\r\
 \n\r"
 
 #define WELC_MESSG \
-"image: /public/games/deva/greetings.png \n\r\
+"image: /public/games/deva/welcome.png \n\r\
 \n\r"
 
 
