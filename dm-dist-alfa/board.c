@@ -324,7 +324,7 @@ int board_show_board(struct char_data *ch, char *arg)
 
 	act("$n studies the board.", TRUE, ch, 0, 0, TO_ROOM);
 
-	strcpy(buf, "image: /public/games/deva/bulletin.png\n\r> Usage: READ/REMOVE [messg #] | WRITE [header]\n\r");
+	strcpy(buf, "image: /public/games/deva/bulletin/title.png\n\r> Usage: READ/REMOVE [messg #] | WRITE [header]\n\r");
 	if (!msg_num)
 		strcat(buf, "note: The board is empty.\n\r");
 	else
