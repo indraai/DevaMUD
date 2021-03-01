@@ -59,7 +59,6 @@ youtube:yU67c_SXykI
 audio:/public/games/deva/3001/intro.mp3
 
 # The Temple
-
 You have arrived at the Southern End of The Great Hall inside The Temple, in the capital city of Svarga.
 
 image:/public/games/deva/3001/three-panel.png
@@ -68,10 +67,9 @@ The Great Hall has been constructed from gold and diamonds, eternal in appearanc
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
 
-note:Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
-
 thanks:Thank you for visiting!
-
+note:Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
+----
 doc[More Information]:games/deva/3001/main
 news:The Deva.world[NEWS]
 ----
@@ -206,6 +204,9 @@ Welcome to The Circle friend. The Circle is the main hub of Amaravati that thing
 image:/public/games/deva/3005/shopping.png
 
 You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
+
+thanks:Thank you for visiting The Circle!
+note:Please browse around, and remember find a SecurityDEVA if you are lost.
 ----
 doc[More Information]:games/deva/3005/main
 news[The Circle News]:games/deva/3005/news
