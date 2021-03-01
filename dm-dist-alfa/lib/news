@@ -3,18 +3,16 @@ image: /public/games/deva/news/title.png
 Welcome to the Deva.world[NEWS], your source for all the comings and goings in the Deva.world.
 ==
 ## Current
-doc: games/deva/news/current
+news[Current]: games/deva/news/current
 ----
-## Entertainment
-doc: games/deva/news/entertainment
+news[Entertainment]:games/deva/news/entertainment
 ----
-## Food
-doc: games/deva/news/food
+news[Food]:games/deva/news/food
 ----
 ## Developments
-doc: games/deva/news/developments
+news[Developments]:games/deva/news/developments
 ----
 ## Columns
-doc: /docs/games/deva/news/columns
+news[Columns]:games/deva/news/columns
 ==
-Be well Deva.world
+note: Be well Deva.world
