@@ -3,20 +3,24 @@ image: /public/games/deva/news/title.png
 # Deva.world[NEWS]
 > Monday - March 1, 2021
 
-Welcome to the Deva.world[NEWS], your source for all the comings and goings in the Deva.world. This week we have lots and lots of good new. Beastly Fido was brought in and turned back into the real Fido who loves treats and friends. Other items in the week are the cleaning service group has totally re-decorated the Temple, Inn, Bar, and Monastery. More of that to come.
-
-## The Halls of Alive
-The Temple of Amaravati came alive this week when the Deva crew cruised in and redecorated the entire area.
-
-## The Bakery is Open
-The Baker opened for business this week with a full stock of pastries, artisan breads, and sweets for everyone.
-
-## The Jewel Palace
-The Jewel Palace with Dennis, Ron, and Larry is now ready for your business.
-
-## Monks Move In
-The Monks have moved into the New Monastery and the Cleric Guild has vacated to another location in some other realm.
-
-Thats our news for this week.
-
+Welcome to the Deva.world[NEWS], your source for all the comings and goings in the Deva.world.
+====
+## Current
+Deva.world Current Events. What's going on and what's expected to happen.
+doc: /docs/games/deva/news/current
+----
+## Entertainment
+All over Deva.world fantastic entertainments are found. Check this section to see what's NEW and HAPPENING.
+doc: /docs/games/deva/news/entertainment
+----
+## Food
+Food is an important part of Deva.world, and we review it all here so you always know where the best treats, goodies, and offerings can be found.
+doc: /docs/games/deva/news/food
+----
+## Developments
+All over there are things developing. Get the scoop on what is being developed or going to be developed.
+----
+## Columns
+Various editorial, news, and personal columns written by the inhabitants of Deva.world.
+====
 Be well Deva.world
