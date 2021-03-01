@@ -34,8 +34,8 @@ the owner of this room needs none.
 S
 #1201
 Indra's Hangout~
-image: /public/games/deva/1201/title.png
-audio: /public/games/deva/1201/intro.mp3
+image:/public/games/deva/1201/title.png
+audio:/public/games/deva/1201/intro.mp3
 
 # Indra's Hangout
 
@@ -54,9 +54,9 @@ The only exit in your dimension unfortunately leads right back here.
 S
 #3001
 The Temple~
-image: /public/games/deva/3001/title.png
-youtube: yU67c_SXykI
-audio: /public/games/deva/3001/intro.mp3
+image:/public/games/deva/3001/title.png
+youtube:yU67c_SXykI
+audio:/public/games/deva/3001/intro.mp3
 
 # The Temple
 
@@ -72,8 +72,8 @@ note:Please enjoy your stay, and remember to visit The Bakery for the best pastr
 
 thanks:Thank you for visiting!
 
-news:The Deva.world[NEWS]
 doc[More Information]:games/deva/3001/main
+news:The Deva.world[NEWS]
 ----
 north:Offering Table
 south:The Circle
@@ -97,12 +97,12 @@ You can see The Circle.
 S
 #3002
 The Sanctuary~
-image: /public/games/deva/3002/title.png
-audio: /public/games/deva/3002/intro.mp3
+image:/public/games/deva/3002/title.png
+audio:/public/games/deva/3002/intro.mp3
 
 # The Sanctuary
 ----
-doc: games/deva/3002/main
+doc[More Information]:games/deva/3002/main
 ~
 30 12 0
 D1
@@ -118,27 +118,27 @@ You can't see what is down there, it is too dark.  Looks like it would be imposs
 S
 #3003
 The Table~
-image: /public/games/deva/3003/title.png
-audio: /public/games/deva/3003/intro.png
+image:/public/games/deva/3003/title.png
+audio:/public/games/deva/3003/intro.png
 
 # The Table
 
 The Table is where the monks of The Monastery have their meals.
 
-image: /public/games/deva/3003/table.png
+image:/public/games/deva/3003/table.png
 
 There is very simple furniture for the Monks to enjoy their meal offerings.
 
-doc: games/deva/3003/main
+doc[More Information]:games/deva/3003/main
 
 ----
-look: Sign
-list: Menu
-buy: Drinks
+look:Sign
+list:Menu
+buy:Drinks
 
 ----
-south: The Monastery
-west: The Sanctuary
+south:The Monastery
+west:The Sanctuary
 ~
 30 12 0
 D2
@@ -157,31 +157,31 @@ The sign reads:
 Free instructions provided by the waiter:
 
 Buy something (drinkable) from the waiter.
-buy: Drink
+buy:Drink
 ----
 The waiter will show you all the different drinks and specialities, and tell the price of each.
-list: Menu
+list:Menu
 ~
 S
 #3004
 The Monastery~
-image: public/games/deva/3004/title.png
-audio: public/games/deva/3004/intro.mp3
+image:public/games/deva/3004/title.png
+audio:public/games/deva/3004/intro.mp3
 
 # The Monastery
 
 Welcome to The Monastery where The Monks of Amaravati dwell. The Monastery is a simple place reflecting the practice of the Monks who reside here.
 
-image: /public/games/deva/3004/monks.png
+image:/public/games/deva/3004/monks.png
 
 We offer a place for those who seek to live in the practice of Offering.
 
 ----
-doc: games/deva/3004/main
+doc[More Information]:games/deva/3004/main
 
 ----
-north: The Table
-east: The Circle
+north:The Table
+east:The Circle
 ~
 30 8 0
 D0
@@ -197,25 +197,25 @@ You see The Circle.
 S
 #3005
 The Circle~
-image: /public/games/deva/3005/title.png
-audio: /public/games/deva/3005/intro.mp3
+image:/public/games/deva/3005/title.png
+audio:/public/games/deva/3005/intro.mp3
 
 # The Circle
 
 Welcome to The Circle friend. The Circle is the main hub of Amaravati that things move around. Beyond that is imagination. Inside The Circle you will find many Things like The Market, The Jeweler, and so much more.  Please feel free to explore as there is always something happening in The Circle.
 
-image: /public/games/deva/3005/shopping.png
+image:/public/games/deva/3005/shopping.png
 
 You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
 
 ----
-doc: games/deva/3005/main
+doc[More Information]:games/deva/3005/main
 
 ----
-north: The Temple
-south: The Market
-east: The Inn
-west: The Monasatery
+north:The Temple
+south:The Market
+east:The Inn
+west:The Monasatery
 
 ~
 30 0 1
@@ -242,24 +242,24 @@ You see the entrance to The Monastery.
 S
 #3006
 The Inn~
-image: /public/games/deva/3006/title.png
-audio: /pubic/games/deva/3006/intro.mp3
+image:/public/games/deva/3006/title.png
+audio:/pubic/games/deva/3006/intro.mp3
 
 # The Amaravati Inn
 
 You are standing in the entrance hall of The Amaravati Inn.  The hall has been lavishly decorated with simple but functional furniture.
 
-image: /public/games/deva/3006/entrance.png
+image:/public/games/deva/3006/entrance.png
 
 A small staircase leads up to the reception and the bar is to the east.
 
 ----
-doc: games/deva/3006/main
+doc[More Information]:games/deva/3006/main
 
 ----
-east: The Bar
-west: The Circle
-up: Reception
+east:The Bar
+west:The Circle
+up:Reception
 ~
 30 8 0
 D1
@@ -280,27 +280,27 @@ You see the reception desk.
 S
 #3007
 The Bar~
-image: /public/games/deva/3007/title.png
-audio: /public/games/deva/3007/intro.mp3
+image:/public/games/deva/3007/title.png
+audio:/public/games/deva/3007/intro.mp3
 
 # The Bar
 
 You are standing in The Bar. The Bar is set against the northern wall. This place is nice.  They have all the best fruit drinks with little umbrellas. All drinks are non-alcholic so Kids and Adults can enjoy alike.
 
-image: /public/games/deva/3007/party.png
+image:/public/games/deva/3007/party.png
 
 Remember... Every Saturday Evening Luau Party!!! Make sure to bring your Hula Hula Skirt.
 
 ----
-doc: games/deva/3007/main
+doc[More Information]:games/deva/3007/main
 
 ----
-look: Sign
-list: Menu
-buy: Drinks
+look:Sign
+list:Menu
+buy:Drinks
 
 ----
-west: The Inn
+west:The Inn
 ~
 30 8 0
 D3
@@ -325,25 +325,25 @@ poems about beer, and small beer-mugs.
 S
 #3008
 Reception Desk~
-image: /public/games/deva/3008/title.png
-audio: /public/games/deva/3008/intro.mp3
+image:/public/games/deva/3008/title.png
+audio:/public/games/deva/3008/intro.mp3
 
 # Reception Desk
 
-image: /public/games/deva/3008/reception.png
+image:/public/games/deva/3008/reception.png
 
 You are standing at the Reception Desk.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
 
 ----
-doc: games/deva/3008/main
+doc[More Information]:games/deva/3008/main
 
 ----
-look: Sign
-offer: Price Rooms
-rent: Rent Room
+look:Sign
+offer:Price Rooms
+rent:Rent Room
 
 ----
-down: The Inn
+down:The Inn
 ~
 30 8 0
 D5
@@ -367,8 +367,8 @@ Rooms are expensive but good!  You may:
 S
 #3009
 The Bakery~
-image: /public/games/deva/3009/title.png
-audio: /public/games/deva/3009/intro.mp3
+image:/public/games/deva/3009/title.png
+audio:/public/games/deva/3009/intro.mp3
 
 # The Bakery
 
@@ -376,11 +376,11 @@ You are inside the The Bakery.  A sweet scent freshly baked pastries, breads, an
 
 Made only with the finest quality ingredients in The Bakers top of the line comple Bakers Ovens he make it all for the the persons of Amaravati.
 
-doc: games/deva/3009/main
+doc[More Information]:games/deva/3009/main
 
 ----
-look: Sign
-list: Menu
+look:Sign
+list:Menu
 ~
 30 8 0
 D2
@@ -402,8 +402,8 @@ E
 sign~
 Free instructions provided by the store:
 ----
-buy: Will buy you some bread or pastry.
-list: List - The baker will kindly tell you the price and sort of the bread in his bakery.
+buy:Will buy you some bread or pastry.
+list:List - The baker will kindly tell you the price and sort of the bread in his bakery.
 ~
 S
 #3010
@@ -508,8 +508,8 @@ You see the main street.
 S
 #3014
 The Market~
-image: /public/games/deva/3014/title.png
-audio: /public/games/deva/3014/intro.png
+image:/public/games/deva/3014/title.png
+audio:/public/games/deva/3014/intro.png
 
 # The Market
 
@@ -1419,19 +1419,19 @@ some kind of mortar.  It is far too high to climb.
 S
 #3054
 Offering Table~
-image: /public/games/deva/3054/title.png
-audio: /public/games/deva/3054/intro.mp3
+image:/public/games/deva/3054/title.png
+audio:/public/games/deva/3054/intro.mp3
 
 # Offering Table
 
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
-----
-doc: games/deva/3054/main
-thanks: Thank you for visiting!
+thanks:Thank you for visiting!
+
+doc[More Information]:games/deva/3054/main
 
 ----
-south: The Temple
+south:The Temple
 ~
 30 8 0
 D2
