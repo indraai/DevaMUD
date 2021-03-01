@@ -1,26 +1,20 @@
 image: /public/games/deva/news/title.png
-
 # Deva.world[NEWS]
-> Monday - March 1, 2021
-
 Welcome to the Deva.world[NEWS], your source for all the comings and goings in the Deva.world.
 ====
 ## Current
-Deva.world Current Events. What's going on and what's expected to happen.
 doc: /docs/games/deva/news/current
 ----
 ## Entertainment
-All over fantastic entertainments are found. Check this section to see what's NEW and HAPPENING.
 doc: /docs/games/deva/news/entertainment
 ----
 ## Food
-Food is an important part of Deva.world, and we review it all here so you always know where the best treats, goodies, and offerings can be found.
 doc: /docs/games/deva/news/food
 ----
 ## Developments
-All over there are things developing. Get the scoop on what is being developed or going to be developed.
+doc: /docs/games/deva/news/developments
 ----
 ## Columns
-Various editorial, news, and personal columns written by the inhabitants of Deva.world.
+doc: /docs/games/deva/news/columns
 ====
 Be well Deva.world
