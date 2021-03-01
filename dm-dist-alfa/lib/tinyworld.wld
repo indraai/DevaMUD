@@ -164,6 +164,7 @@ list:Menu
 S
 #3004
 The Monastery~
+background:public/games/deva/3004/background.png
 image:public/games/deva/3004/title.png
 audio:public/games/deva/3004/intro.mp3
 
