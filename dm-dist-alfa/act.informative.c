@@ -707,15 +707,15 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 			if (EXIT(ch, door)->to_room != NOWHERE &&
 			    !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
 				if (IS_DARK(EXIT(ch, door)->to_room))
-					sprintf(buf + strlen(buf), "%s: Too dark to tell", exits[door]);
+					sprintf(buf + strlen(buf), "%s: Too dark to tell\n\r", exits[door]);
 				else
-					sprintf(buf + strlen(buf), "%s: %s", exits[door],
+					sprintf(buf + strlen(buf), "%s: %s\n\r", exits[door],
 						world[EXIT(ch, door)->to_room].name);
 
 	if (*buf)
 		send_to_char(buf, ch);
 	else
-		send_to_char("None.", ch);
+		send_to_char("None.\n\r", ch);
 }
 
 
@@ -726,7 +726,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	struct time_info_data real_time_passed(time_t t2, time_t t1);
 
-	sprintf(buf, "You are %d years old.", GET_AGE(ch));
+	sprintf(buf, "You are %d years old.\n\r", GET_AGE(ch));
 
 	if ((age(ch).month == 0) && (age(ch).day == 0))
 		strcat(buf," It's your birthday today.\n\r");
