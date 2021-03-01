@@ -239,9 +239,13 @@ You are standing in The Circle. Huge marble steps lead up to the temple gate. Th
 thanks:Thank you for visiting The Circle!
 note:Please browse around, and remember find a SecurityDEVA if you are lost.
 ----
-doc[More Information]:games/deva/3005/main
-news[The Circle News]:games/deva/3005/news
+
+doc[Information]:games/deva/3005/main
+news[News]:games/deva/3005/news
+map[Map]:games/deva/3005/map
 ----
+----
+
 north:The Temple
 south:The Market
 east:The Inn
