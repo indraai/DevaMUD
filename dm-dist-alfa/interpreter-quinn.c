@@ -1217,7 +1217,7 @@ void nanny(struct descriptor_data *d, char *arg)
 				} break;
 				case 'c':
 				case 'C': {
-					GET_CLASS(d->character) = CLASS_CLERIC;
+					GET_CLASS(d->character) = CLASS_MONK;
 					init_char(d->character);
 					/* create an entry in the file */
 					d->pos = create_entry(GET_NAME(d->character));

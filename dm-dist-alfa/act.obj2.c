@@ -982,10 +982,10 @@ void do_remove(struct char_data *ch, char *argument, int cmd)
 
 /* case 12: ...
 
-					if ( ( (ch->player.class == CLASS_CLERIC) &&
+					if ( ( (ch->player.class == CLASS_MONK) &&
 						( (GET_ITEM_TYPE(obj_object) == ITEM_WEAPON) &&
 						(sharp[obj_object->obj_flags.value[3]]) ) ||
-						( (ch->player.class == CLASS_CLERIC) &&
+						( (ch->player.class == CLASS_MONK) &&
 						( (GET_ITEM_TYPE(obj_object) == ITEM_FIREWEAPON) &&
 						(sharp[obj_object->obj_flags.value[3]]) ) ) ) ) {
 							if (GET_ITEM_TYPE(obj_object) == ITEM_WEAPON) {
@@ -1004,7 +1004,7 @@ void do_remove(struct char_data *ch, char *argument, int cmd)
 
 /* case 13: ...
 
-					if ( (ch->player.class == CLASS_CLERIC) &&
+					if ( (ch->player.class == CLASS_MONK) &&
 						( (GET_ITEM_TYPE(obj_object) == ITEM_MISSILE) &&
 						(sharp[obj_object->obj_flags.value[3]]) ) ) {
 						strcpy(buffer,

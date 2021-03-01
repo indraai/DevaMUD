@@ -30,7 +30,7 @@
 }
 
 #define SPELL_LEVEL(ch, sn)               \
-  ( (GET_CLASS(ch) == CLASS_CLERIC) ?     \
+  ( (GET_CLASS(ch) == CLASS_MONK) ?     \
   spell_info[sn].min_level_monk : spell_info[sn].min_level_magic)
 
 
@@ -587,7 +587,7 @@ void do_cast(struct char_data *ch, char *argument, int cmd)
 					send_to_char("Sorry, you can't do that.\n\r", ch);
 					return;
 				}
-				if ((GET_CLASS(ch) == CLASS_CLERIC) &&
+				if ((GET_CLASS(ch) == CLASS_MONK) &&
 				   (spell_info[spl].min_level_monk > GET_LEVEL(ch))) {
 					send_to_char("Sorry, you can't do that.\n\r", ch);
 					return;

@@ -210,7 +210,7 @@ void do_wizlock(struct char_data *ch, char *argument, int cmd)
 
 
 
-/* This routine is used by 24.level ONLY to set 
+/* This routine is used by 24.level ONLY to set
    specific char/npc variables, including skills */
 
 void do_set(struct char_data *ch, char *argument, int cmd)
@@ -391,7 +391,7 @@ void do_set(struct char_data *ch, char *argument, int cmd)
 				}
 				slog(buf2);
 				/* set age of victim */
-				vict->player.time.birth = 
+				vict->player.time.birth =
 					time(0) - (long)value*(long)SECS_PER_MUD_YEAR;
 			};
 			break;
@@ -423,7 +423,7 @@ void do_set(struct char_data *ch, char *argument, int cmd)
 				/* set class of victim */
 				switch(*buf) {
 					case 'm':vict->player.class = CLASS_MAGIC_USER; break;
-					case 'c':vict->player.class = CLASS_CLERIC;     break;
+					case 'c':vict->player.class = CLASS_MONK;     break;
 					case 'w':vict->player.class = CLASS_WARRIOR;    break;
 					case 't':vict->player.class = CLASS_THIEF;      break;
 				}
@@ -449,13 +449,13 @@ void do_set(struct char_data *ch, char *argument, int cmd)
 				if ((value < 100) || (value > 250))
 				{
 					send_to_char("Height must be more than 100 cm\n\r", ch);
-					send_to_char("and less than 251 cm.\n\r", ch); 
+					send_to_char("and less than 251 cm.\n\r", ch);
 					return;
 				}
 				slog(buf2);
 				/* set hieght of victim */
 				vict->player.height = value;
-			}		
+			}
 			break;
 			case 5: /* weight */
 			{
@@ -708,10 +708,8 @@ void do_wiz(struct char_data *ch, char *argument, int cmd)
 		sprintf(buf1, "::$n::%s", argument);
 
     	for (i = descriptor_list; i; i = i->next)
-      	if (i->character != ch && !i->connected && 
+      	if (i->character != ch && !i->connected &&
 			    GET_LEVEL(i->character) > 20)
 				act(buf1, 0, ch, 0, i->character, TO_VICT);
 	}
 }
-
-

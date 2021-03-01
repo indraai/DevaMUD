@@ -44,7 +44,7 @@ int graf(int age, int p0, int p1, int p2, int p3, int p4, int p5, int p6)
 
 	if (age < 15)
 		return(p0);                               /* < 15   */
-	else if (age <= 29) 
+	else if (age <= 29)
 		return (int) (p1+(((age-15)*(p2-p1))/15));  /* 15..29 */
 	else if (age <= 44)
 		return (int) (p2+(((age-30)*(p3-p2))/15));  /* 30..44 */
@@ -65,7 +65,7 @@ int mana_limit(struct char_data *ch)
 
 	if (!IS_NPC(ch))
 		max = (100); /* + (graf(age(ch).year, 0,0,10,30,50,70,60)); */
-	else 
+	else
 		max = 100;
 
 	return(max);
@@ -79,14 +79,14 @@ int hit_limit(struct char_data *ch)
 	if (!IS_NPC(ch))
 		max = (ch->points.max_hit) +
 		      (graf(age(ch).year, 2,4,17,14,8,4,3));
-	else 
+	else
 		max = (ch->points.max_hit);
 
 
 /* Class/Level calculations */
 
 /* Skill/Spell calculations */
-	
+
   return (max);
 }
 
@@ -139,7 +139,7 @@ int mana_gain(struct char_data *ch)
 				break;
 		}
 
-		if ((GET_CLASS(ch) == CLASS_MAGIC_USER) || (GET_CLASS(ch) == CLASS_CLERIC))
+		if ((GET_CLASS(ch) == CLASS_MAGIC_USER) || (GET_CLASS(ch) == CLASS_MONK))
 			gain += gain;
 	}
 
@@ -148,7 +148,7 @@ int mana_gain(struct char_data *ch)
 
 	if((GET_COND(ch,FULL)==0)||(GET_COND(ch,THIRST)==0))
 		gain >>= 2;
- 
+
   return (gain);
 }
 
@@ -183,7 +183,7 @@ int hit_gain(struct char_data *ch)
 				break;
 		}
 
-		if ((GET_CLASS(ch) == CLASS_MAGIC_USER) || (GET_CLASS(ch) == CLASS_CLERIC))
+		if ((GET_CLASS(ch) == CLASS_MAGIC_USER) || (GET_CLASS(ch) == CLASS_MONK))
 			gain >>= 1;
   }
 
@@ -207,7 +207,7 @@ int move_gain(struct char_data *ch)
 	int gain;
 
 	if(IS_NPC(ch)) {
-		return(GET_LEVEL(ch));	
+		return(GET_LEVEL(ch));
 		/* Neat and fast */
 	} else {
 		gain = graf(age(ch).year, 12,18,22,21,14,10,6);
@@ -250,7 +250,7 @@ void advance_level(struct char_data *ch)
 	extern struct wis_app_type wis_app[];
 	extern struct con_app_type con_app[];
 
-	
+
 	add_hp = con_app[GET_CON(ch)].hitp;
 
 	switch(GET_CLASS(ch)) {
@@ -259,7 +259,7 @@ void advance_level(struct char_data *ch)
 			add_hp += number(3, 8);
 		} break;
 
-		case CLASS_CLERIC : {
+		case CLASS_MONK : {
 			add_hp += number(5, 10);
 		} break;
 
@@ -274,7 +274,7 @@ void advance_level(struct char_data *ch)
 
 	ch->points.max_hit += MAX(1, add_hp);
 
-	if (GET_CLASS(ch) == CLASS_MAGIC_USER || GET_CLASS(ch) == CLASS_CLERIC)
+	if (GET_CLASS(ch) == CLASS_MAGIC_USER || GET_CLASS(ch) == CLASS_MONK)
 		ch->specials.spells_to_learn += MAX(2, wis_app[GET_WIS(ch)].bonus);
 	else
 		ch->specials.spells_to_learn += MIN(2,MAX(1, wis_app[GET_WIS(ch)].bonus));
@@ -282,7 +282,7 @@ void advance_level(struct char_data *ch)
 	if (GET_LEVEL(ch) > 20)
 		for (i = 0; i < 3; i++)
 			ch->specials.conditions[i] = -1;
-}	
+}
 
 
 void set_title(struct char_data *ch)
@@ -349,7 +349,7 @@ void gain_exp_regardless(struct char_data *ch, int gain)
 				}
 			}
 		}
-		if (gain < 0) 
+		if (gain < 0)
 			GET_EXP(ch) += gain;
 		if (GET_EXP(ch) < 0)
 			GET_EXP(ch) = 0;
@@ -435,7 +435,7 @@ void check_idling(struct char_data *ch)
 
 /* Update both PC's & NPC's and objects*/
 void point_update( void )
-{	
+{
 	void update_char_objects( struct char_data *ch ); /* handler.c */
   void extract_obj(struct obj_data *obj); /* handler.c */
 	struct char_data *i, *next_dude;

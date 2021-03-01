@@ -15,7 +15,7 @@
 
 #define GET_CLASS_TEXT(c)                \
 	(c == CLASS_MAGIC_USER ? "<MAGIC> " :  \
-	(c == CLASS_CLERIC ?     "<CLERIC>" :  \
+	(c == CLASS_MONK ?       "<MONK>" :  \
 	(c == CLASS_THIEF ?      "<THIEF>"  :  \
 	(c == CLASS_WARRIOR ?    "<FIGHT>"  : "<UNDEF>"))))
 
@@ -71,7 +71,7 @@ void list(char *filename)
 		for (point = buf.name; *point; ++point)
 			printf("'%c':%d ", *point, *point);
 		putchar('\n');
-*/			
+*/
 	}
 
 	fclose(fl);

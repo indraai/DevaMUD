@@ -5,7 +5,7 @@ LOOK EXITS ENTER LEAVE          |
 SLEEP WAKE REST SIT STAND       |
 (LOCK UNLOCK OPEN CLOSE)        |
 --------------------------------+----------------------------------------------
-Objects:                        | Information: 
+Objects:                        | Information:
 GET DROP PUT GIVE WEAR GRAB     | SCORE HELP INFO WHO NEWS TIME WEATHER WHERE
 INVENTORY EQUIPMENT EXAMINE EAT | CONSIDER LEVELS WIZLIST CREDITS WIZHELP
 TASTE POUR WRITE DRINK SIP      |
@@ -14,8 +14,8 @@ Combat:                         | Utility:
 KILL WIELD FLEE                 | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
 (KICK BASH RESCUE BACKSTAB CAST)|
 --------------------------------+----------------------------------------------
-Further information available by HELP <keyword>, keyword being a command or 
+Further information available by HELP <keyword>, keyword being a command or
 (for example) one of the following:
 
-SOCIAL SHOPS INNS CLERIC WARRIOR THIEF MAGIC
+SOCIAL SHOPS INNS MONK WARRIOR THIEF MAGIC
 -------------------------------------------------------------------------------

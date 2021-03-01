@@ -216,7 +216,7 @@ int guild(struct char_data *ch, int cmd, char *arg) {
 
 		} break;
 
-		case CLASS_CLERIC     :{
+		case CLASS_MONK     :{
 			if (!*arg) {
 				sprintf(buf,"You have got %d practice sessions left.\n\r", ch->specials.spells_to_learn);
 				send_to_char(buf, ch);
@@ -883,7 +883,7 @@ int guild_guard(struct char_data *ch, int cmd, char *arg)
 			return TRUE;
 		}
 	} else if ((ch->in_room == real_room(3004)) && (cmd == 1)) {
-		if (GET_CLASS(ch) != CLASS_CLERIC) {
+		if (GET_CLASS(ch) != CLASS_MONK) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
 			send_to_char(buf, ch);
 			return TRUE;
