@@ -1421,13 +1421,13 @@ image:/public/games/deva/3054/title.png
 audio:/public/games/deva/3054/intro.mp3
 
 # Offering Table
-
 You are near the Offering Table in the northern end of the main hall. A huge altar made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
 
 thanks:Thank you for visiting!
-
+note:If you need assistance please ask the nearest Monk to help you out.
+----
 doc[More Information]:games/deva/3054/main
-
+news[The Offering Table News]:games/3054/news
 ----
 south:The Temple
 ~
