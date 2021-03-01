@@ -73,8 +73,9 @@ thanks:Thank you for visiting!
 note:Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
 ----
 
-doc[More Information]:games/deva/3001/main
-news:The Deva.world[NEWS]
+doc[Temple Information]:games/deva/3001/main
+news[Temple News]:games/deva/3001/news
+map[Temple Map]:games/deva/3001/map
 ----
 
 north:Offering Table
