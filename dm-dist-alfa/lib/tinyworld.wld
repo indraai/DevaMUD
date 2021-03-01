@@ -197,7 +197,7 @@ The community consists of monks, together with a number of full-time lay residen
 image:/public/games/deva/3004/puja.png
 
 The monastery also includes within it an retreat centre, where residential retreats are conducted for the public during nine months of each year.
-
+----
 
 doc[Information]:games/deva/3004/main
 news[News]:games/deva/3004/news
@@ -1443,6 +1443,7 @@ some kind of mortar.  It is far too high to climb.
 S
 #3054
 Offering Table~
+background:/public/games/deva/3054/background.png
 image:/public/games/deva/3054/title.png
 audio:/public/games/deva/3054/intro.mp3
 
@@ -1452,9 +1453,12 @@ You are near the Offering Table in the northern end of the main hall. A huge alt
 thanks:Thank you for visiting!
 note:If you need assistance please ask the nearest Monk to help you out.
 ----
-doc[More Information]:games/deva/3054/main
-news[The Offering Table News]:games/deva/3054/news
+
+doc[Information]:games/deva/3054/main
+news[News]:games/deva/3054/news
+map[Map]:games/deva/3054/map
 ----
+
 south:The Temple
 ~
 30 8 0
