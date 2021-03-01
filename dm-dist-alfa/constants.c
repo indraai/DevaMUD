@@ -275,7 +275,7 @@ const struct title_type titles[4][25] = {
   {"the Immortal Warlock","the Immortal Enchantress",4000000},
   {"the Avatar of Magic","the Empress of Magic",5000000},
   {"the God of magic","the Goddess of magic",6000000},
-  {"the Implementator","the Implementress",7000000} },
+  {"the Indra","the Indra",7000000} },
 
 { {"the Man","the Woman",0},
   {"the Believer","the Believer",1},
@@ -301,7 +301,7 @@ const struct title_type titles[4][25] = {
   {"the Immortal Cardinal","the Immortal Priestess",3000000},
   {"the Inquisitor","the Inquisitress",5000000},
   {"the God of good and evil","the Goddess of good and evil",6000000},
-  {"the Implementator","the Implementress",7000000} },
+  {"the Indra","the Indra",7000000} },
 
 { {"the Man","the Woman",0},
   {"the Pilferer","the Pilferess",1},
@@ -327,7 +327,7 @@ const struct title_type titles[4][25] = {
   {"the Immortal Assasin","the Immortal Assasin",2500000},
   {"the Demi God of thieves","the Demi Goddess of thieves",5000000},
   {"the God of thieves and tradesmen","the Goddess of thieves and tradesmen",6000000},
-  {"the Implementator","the Implementress",7000000} },
+  {"the Indra","the Indra",7000000} },
 
 { {"the Man","the Woman",0},
   {"the Swordpupil","the Swordpupil",1},
@@ -353,7 +353,7 @@ const struct title_type titles[4][25] = {
   {"the Immortal Warlord","the Immortal Lady of War",3250000},
   {"the Extirpator","the Queen of Destruction",5000000},
   {"the God of war","the Goddess of war",6000000},
-  {"the Implementator","the Implementress",7000000} }
+  {"the Indra","the Indra",7000000} }
 };
 
 const char *item_types[] = {
