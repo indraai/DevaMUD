@@ -636,7 +636,21 @@ You see the main street leading to The Market.
 S
 #3017
 Entrance to Mage's Guild~
-   The entrance hall is a small, poor lighted room.
+background:public/games/deva/3017/background.png
+image:public/games/deva/3017/title.png
+audio:public/games/deva/3017/intro.mp3
+
+# The Mage Guild
+The entrance hall is a small, poor lighted room.
+----
+
+doc[Information]:games/deva/3001/main
+news[News]:games/deva/3001/news
+map[Map]:games/deva/3001/map
+----
+
+north:Main Street
+south:Mage's Bar
 ~
 30 8 0
 D0
