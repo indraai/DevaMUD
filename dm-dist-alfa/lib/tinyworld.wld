@@ -105,7 +105,10 @@ audio:/public/games/deva/3002/intro.mp3
 
 # The Sanctuary
 ----
-doc[More Information]:games/deva/3002/main
+
+doc[Information]:games/deva/3002/main
+news[News]:games/deva/3002/news
+map[Map]:games/deva/3002/map
 ~
 30 12 0
 D1
@@ -131,15 +134,18 @@ The Table is where the monks of The Monastery have their meals.
 image:/public/games/deva/3003/table.png
 
 There is very simple furniture for the Monks to enjoy their meal offerings.
-
-doc[More Information]:games/deva/3003/main
-
 ----
+
 look:Sign
 list:Menu
 buy:Drinks
-
 ----
+
+doc[Information]:games/deva/3003/main
+news[News]:games/deva/3003/news
+map[Map]:games/deva/3003/map
+----
+
 south:The Monastery
 west:The Sanctuary
 ~
@@ -159,11 +165,19 @@ sign~
 The sign reads:
 Free instructions provided by the waiter:
 
-Buy something (drinkable) from the waiter.
 buy:Drink
+Buy something (drinkable) from the waiter.
 ----
-The waiter will show you all the different drinks and specialities, and tell the price of each.
+
 list:Menu
+The waiter will show you all the different drinks and specialities, and tell the price of each.
+----
+
+doc[Information]:games/deva/3003/main
+news[News]:games/deva/3003/news
+map[Map]:games/deva/3003/map
+----
+
 ~
 S
 #3004
@@ -185,10 +199,11 @@ image:/public/games/deva/3004/puja.png
 The monastery also includes within it an retreat centre, where residential retreats are conducted for the public during nine months of each year.
 
 
+doc[Information]:games/deva/3004/main
+news[News]:games/deva/3004/news
+map[Map]:games/deva/3004/map
 ----
-doc[More Information]:games/deva/3004/main
 
-----
 north:The Table
 east:The Circle
 ~
