@@ -2,7 +2,7 @@ image: /public/games/deva/news/title.png
 # Deva.world[NEWS]
 Welcome to the Deva.world[NEWS], your source for all the comings and goings in the Deva.world.
 ==
-news[Current]: games/deva/news/current
+news[Current]:games/deva/news/current
 ----
 news[Entertainment]:games/deva/news/entertainment
 ----

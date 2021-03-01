@@ -62,21 +62,22 @@ audio: /public/games/deva/3001/intro.mp3
 
 You have arrived at the Southern End of The Great Hall inside The Temple, in the capital city of Svarga.
 
-image: /public/games/deva/3001/three-panel.png
+image:/public/games/deva/3001/three-panel.png
 
 The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts and types.
 
 Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
 
-note: Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
-thanks: Thank you for visiting!
+note:Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
 
-news: The Deva.world[NEWS]
+thanks:Thank you for visiting!
+
+news:The Deva.world[NEWS]
 ----
-doc: games/deva/3001/main
+doc:games/deva/3001/main
 ----
-north: Offering Table
-south: The Circle
+north:Offering Table
+south:The Circle
 ~
 30 12 0
 D0
