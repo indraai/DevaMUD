@@ -201,22 +201,19 @@ image:/public/games/deva/3005/title.png
 audio:/public/games/deva/3005/intro.mp3
 
 # The Circle
-
 Welcome to The Circle friend. The Circle is the main hub of Amaravati that things move around. Beyond that is imagination. Inside The Circle you will find many Things like The Market, The Jeweler, and so much more.  Please feel free to explore as there is always something happening in The Circle.
 
 image:/public/games/deva/3005/shopping.png
 
 You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
-
 ----
 doc[More Information]:games/deva/3005/main
-
+news[The Circle News]:games/deva/3005/news
 ----
 north:The Temple
 south:The Market
 east:The Inn
 west:The Monasatery
-
 ~
 30 0 1
 D0
