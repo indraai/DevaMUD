@@ -427,7 +427,7 @@ a pen of some sort. You can then type something like "write on the paper with
 the pen", whereupon you'll be asked to type in your note at the keyboard.
 #
 NEWS
-This command will show you the current edition of "the DikuMUD Herald", a
+This command will show you the current edition of "the Deva.world Herald", a
 publication dedicated to news and useful information about this world. It's a
 very good idea to check it out once in a while.
 #
@@ -637,7 +637,7 @@ Usage       : cast 'clone' <victim or object>
 Accumulative: -
 Duration    : Instantaneous
 
-Due to the ever changing data-structures of DikuMUD, clone is not
+Due to the ever changing data-structures of Deva.world, clone is not
 yet ready.
 
 Clone cast on a victim or object, will make a 'nearly' perfect copy.
@@ -1202,10 +1202,10 @@ out a solution. There are two cases:
 HOUSES
 
 
-Player Houses in DikuMUD
+Houses in Deva.world
 ------------------------
 
-In DikuMUD it is possible for players on all experience levels to purchase a
+In Deva.world it is possible for players on all experience levels to purchase a
 house in the residential area in the southern part of Aravati.  As some
 areas are more sought after than others, the prices tend to vary quite a bit.
 These are the prices for a house with two rooms and an ordinary lock.
