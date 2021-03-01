@@ -40,7 +40,7 @@ Example:
 #
 LOOK
 For studying your surroundings. Examples:
-look                                      
+look
 look AT the angel
 look IN the bag
 look to the south   (or just: look south)
@@ -55,7 +55,7 @@ AC "-----------"
 Is you armor class, it is defined roughly as follows:
 
   100 Naked person
-    0 Very Heavily armored (Plate mail, and "two shields") 
+    0 Very Heavily armored (Plate mail, and "two shields")
  -100 Armored battle tank
 
 #
@@ -169,7 +169,7 @@ KICK
 Fighters only.
 The success of a kick depends upon how well you are learned. The higher
 level you reach the harder you kick. There is one small catch - whenever
-you kick (or miss) you will be unable to type any command for three 
+you kick (or miss) you will be unable to type any command for three
 rounds of 'Violence' - so be sure that you do not need to flee!
 
 Fighters See Also : Rescue, Bash
@@ -286,7 +286,7 @@ with his life and sanity intact. Many shops trade only in a specific type of
 merchandise. Thus, a baker may well refuse to buy your armor, even if it is of
 high quality!
    To some people, the prospect of obtaining the entire inventory of a shop by
-murdering the keeper may appear tempting - but beware: The shopkeepers are 
+murdering the keeper may appear tempting - but beware: The shopkeepers are
 often rugged, capable men; roughened by years of trading and, indeed, surviving
 in a world where the only safe prospect is death in the end.
 
@@ -328,8 +328,8 @@ locks.
 
 See also: PRACTICE
 #
-CLERIC
-Clerics have an ancient belief in not carrying sharp weapons. Hence, they can
+MONK
+Monks have an ancient belief in not carrying sharp weapons. Hence, they can
 only wield bludgeoning weapons. This class gives you the wisdom of peace,
 blessing and healing, though it is possible to learn more violent spells.
 You can improve your spells by using the practice command.
@@ -484,7 +484,7 @@ USERS
 Tells you who's logged on to the game, and where they are playing from.
 #
 LEVELS
-Lists the levels of your class. 
+Lists the levels of your class.
 #
 BRIEF
 Toggle "brief mode". When in brief mode, you don't see the descriptions of the
@@ -618,7 +618,7 @@ by 1, and furthermore improve the hitroll by 1.
 
 Bless on an item currently has no defined action. It is only possible
 to bless non-evil items, and the object blessed may weight no more
-than five pounds per level of caster. 
+than five pounds per level of caster.
 
 See Also: -
 #
@@ -715,7 +715,7 @@ Duration    : 7 Days, permanent on objects.
 
 Curse cast on a person that fails the saving throw, will reduce the
 hitroll by one, and reduce the saving throw versus paralysation by
-one. 
+one.
 
 See Also: -
 #
@@ -848,7 +848,7 @@ Will remove a curse on carried objects or any persons in the room.
 See Also: -
 #
 "REMOVE POISON"
-Usage       : cast 'remove poison' <victim | food | drink> 
+Usage       : cast 'remove poison' <victim | food | drink>
 Accumulative: No
 Duration    : Instantaneous
 
@@ -903,7 +903,7 @@ Example:
 See Also: -
 #
 "WORD OF RECALL"
-Usage       : cast 'word of recall' 
+Usage       : cast 'word of recall'
 Accumulative: -
 Duration    : Instantaneous
 
@@ -956,7 +956,7 @@ Save        : Versus spell for half damage.
 
 This is the least powerful offensive magic user spell.
 
-See Also: 
+See Also:
 #
 "CHILL TOUCH"
 Usage       : cast 'chill touch' <victim>
@@ -1045,7 +1045,7 @@ EARTHQUAKE
 Usage       : cast 'earthquake'
 Accumulative: -
 Duration    : Instantaneous
-Level       : Level 7 cleric.
+Level       : Level 7 monk.
 Save        : -
 
 This spell will damage everybody except the caster by
@@ -1057,7 +1057,7 @@ See Also: -
 Usage       : cast 'dispel evil' <victim>
 Accumulative: -
 Duration    : Instantaneous
-Level       : Level 10 cleric.
+Level       : Level 10 monk.
 Save        : Special
 
 This spell will only affect evil creatures. An evil person of level
@@ -1072,7 +1072,7 @@ See Also: -
 Usage       : cast 'call lightning' <victim>
 Accumulative: -
 Duration    : Instantaneous
-Level       : Level 12 cleric.
+Level       : Level 12 monk.
 Save        : Versus spell for half damage.
 
 This spell will use the "force of nature" to make a lightning
@@ -1088,7 +1088,7 @@ HARM
 Usage       : cast 'harm' <victim>
 Accumulative: -
 Duration    : Instantaneous
-Level       : Level 15 cleric.
+Level       : Level 15 monk.
 Save        : Versus spell for half damage.
 
 This spell removes all but 1d4 hitpoints from the victim. The
@@ -1120,7 +1120,7 @@ Example:
 #
 SPELL SPELLS
 
-           Magic User               Cleric
+           Magic User               Monk
 
            (1) Magic Missile        (1) Armor
            (1) Ventriloquate        (1) Cure Light

@@ -1191,7 +1191,7 @@ void do_levels(struct char_data *ch, char *argument, int cmd)
 
 	if (*arg) {
 		if (!strcasecmp(arg,"magic")) class = 1;
-		else if (!strcasecmp(arg,"cleric")) class =  2;
+		else if (!strcasecmp(arg,"monk")) class =  2;
 		else if (!strcasecmp(arg,"thief")) class =  3;
 		else if (!strcasecmp(arg,"fighter")) class = 4;
 	}

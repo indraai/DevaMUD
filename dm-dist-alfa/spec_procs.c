@@ -223,7 +223,7 @@ int guild(struct char_data *ch, int cmd, char *arg) {
 				send_to_char("You can practise any of these spells:\n\r", ch);
 				for(i=0; *spells[i] != '\n'; i++)
 					if (spell_info[i+1].spell_pointer &&
-					   (spell_info[i+1].min_level_cleric <= GET_LEVEL(ch))) {
+					   (spell_info[i+1].min_level_monk <= GET_LEVEL(ch))) {
 						send_to_char(spells[i], ch);
 						send_to_char(how_good(ch->skills[i+1].learned), ch);
 						send_to_char("\n\r", ch);
@@ -235,7 +235,7 @@ int guild(struct char_data *ch, int cmd, char *arg) {
 				send_to_char("You do not know of this spell...\n\r", ch);
 				return(TRUE);
 			}
-			if (GET_LEVEL(ch) < spell_info[number].min_level_cleric) {
+			if (GET_LEVEL(ch) < spell_info[number].min_level_monk) {
 				send_to_char("You do not know of this spell...\n\r", ch);
 				return(TRUE);
 			}
@@ -301,7 +301,7 @@ int guild(struct char_data *ch, int cmd, char *arg) {
 
 
 
-int dump(struct char_data *ch, int cmd, char *arg) 
+int dump(struct char_data *ch, int cmd, char *arg)
 {
    struct obj_data *k;
 	char buf[100];
@@ -330,7 +330,7 @@ int dump(struct char_data *ch, int cmd, char *arg)
 	for(k = world[ch->in_room].contents; k ; k = world[ch->in_room].contents)
 	{
 		sprintf(buf, "The %s vanish in a puff of smoke.\n\r",fname(k->name));
-		for(tmp_char = world[ch->in_room].people; tmp_char; 
+		for(tmp_char = world[ch->in_room].people; tmp_char;
 				tmp_char = tmp_char->next_in_room) {
 			if (CAN_SEE_OBJ(tmp_char, k))
 				send_to_char(buf, tmp_char);
@@ -340,7 +340,7 @@ int dump(struct char_data *ch, int cmd, char *arg)
 		extract_obj(k);
 	}
 
-	if (value) 
+	if (value)
 	{
 		act("You are awarded for outstanding performance.", FALSE, ch, 0, 0, TO_CHAR);
 		act("$n has been awarded for being a good citizen.", TRUE, ch, 0,0, TO_ROOM);
@@ -633,8 +633,8 @@ int snake(struct char_data *ch, int cmd, char *arg)
    if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
-	if(ch->specials.fighting && 
+
+	if(ch->specials.fighting &&
 		(ch->specials.fighting->in_room == ch->in_room) &&
 		(number(0,32-GET_LEVEL(ch))==0))
 		{
@@ -657,7 +657,7 @@ int thief(struct char_data *ch, int cmd, char *arg)
 
 	for(cons = world[ch->in_room].people; cons; cons = cons->next_in_room )
 		if((!IS_NPC(cons)) && (GET_LEVEL(cons)<21) && (number(1,5)==1))
-			npc_steal(ch,cons); 
+			npc_steal(ch,cons);
 
 	return TRUE;
 }
@@ -669,7 +669,7 @@ int magic_user(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 
@@ -753,7 +753,7 @@ int bat_red(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 	/* Find a dude to do evil things upon ! */
@@ -778,7 +778,7 @@ int bat_white(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 	/* Find a dude to do evil things upon ! */
@@ -803,7 +803,7 @@ int bat_black(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 	/* Find a dude to do evil things upon ! */
@@ -828,7 +828,7 @@ int bat_blue(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 	/* Find a dude to do evil things upon ! */
@@ -851,7 +851,7 @@ int bat_green(struct char_data *ch, int cmd, char *arg)
 	if(cmd) return FALSE;
 
 	if(GET_POS(ch)!=POSITION_FIGHTING) return FALSE;
-	
+
 	if(!ch->specials.fighting) return FALSE;
 
 	if(number(0,3)!=0) return FALSE;
@@ -932,7 +932,7 @@ int puff(struct char_data *ch, int cmd, char *arg)
 			return(0);
 	}
 }
-					
+
 int fido(struct char_data *ch, int cmd, char *arg)
 {
 
@@ -965,7 +965,7 @@ int janitor(struct char_data *ch, int cmd, char *arg)
 		return(FALSE);
 
 	for (i = world[ch->in_room].contents; i; i = i->next_content) {
-		if (IS_SET(i->obj_flags.wear_flags, ITEM_TAKE) && 
+		if (IS_SET(i->obj_flags.wear_flags, ITEM_TAKE) &&
       ((i->obj_flags.type_flag == ITEM_DRINKCON) ||
 		  (i->obj_flags.cost <= 10))) {
 			act("$n picks up some trash.", FALSE, ch, 0, 0, TO_ROOM);
@@ -1050,7 +1050,7 @@ int pet_shops(struct char_data *ch, int cmd, char *arg)
 		if (*pet_name) {
 			sprintf(buf,"%s %s", pet->player.name, pet_name);
 			free(pet->player.name);
-			pet->player.name = strdup(buf);		
+			pet->player.name = strdup(buf);
 
 			sprintf(buf,"%sA small sign on a chain around the neck says 'My Name is %s'\n\r",
 			  pet->player.description, pet_name);
@@ -1235,8 +1235,8 @@ int chalice(struct char_data *ch, int cmd, char *arg)
 				if (!(chalice = get_obj_in_list_num(achl,
 					world[ch->in_room].contents)) && CAN_SEE_OBJ(ch, chalice))
 					return(0);
-	
-			/* we found a chalice.. now try to get us */			
+
+			/* we found a chalice.. now try to get us */
 			do_get(ch, arg, cmd);
 			/* if got the altar one, switch her */
 			if (chalice == get_obj_in_list_num(achl, ch->carrying))
@@ -1297,4 +1297,3 @@ int kings_hall(struct char_data *ch, int cmd, char *arg)
 	do_look(ch, "", 15);
 	return(1);
 }
-

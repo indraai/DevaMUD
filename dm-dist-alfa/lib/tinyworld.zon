@@ -104,7 +104,7 @@ G 1 3000 100
 G 1 3001 100
 E 1 3022 100 16            wields a longsword
 *
-M 0 3043 1 3003       The Clerics waiter.
+M 0 3043 1 3003       The Monks waiter.
 G 1 3002 100
 G 1 3004 100
 E 1 3022 100 16            wields a longsword
@@ -131,7 +131,7 @@ G 1 3004 100
 E 1 3022 100 16            wields a longsword
 *
 M 0 3020 1 3019       The Magic Users Guildmaster
-M 0 3021 1 3002       The Clerics Guildmaster
+M 0 3021 1 3002       The Monks Guildmaster
 M 0 3022 1 3029       The Thieves Guildmaster
 M 0 3023 1 3023       The Warrior's Guildmaster
 *

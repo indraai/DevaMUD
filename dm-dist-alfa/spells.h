@@ -129,7 +129,7 @@ struct spell_info_type
 	ubyte min_usesmana;     /* Amount of mana used by a spell	 */
 	byte beats;             /* Heartbeats until ready for next */
 
-	byte min_level_cleric;  /* Level required for cleric       */
+	byte min_level_monk;    /* Level required for monk       */
 	byte min_level_magic;   /* Level required for magic user   */
 	sh_int targets;         /* See below for use with TAR_XXX  */
 };
@@ -162,4 +162,3 @@ struct attack_hit_type {
   char *singular;
   char *plural;
 };
-

@@ -42,15 +42,15 @@ All PC's and NPC's have following abilities <ABIL>:
 All PC's must select one of four classes :
 
   Magic User <MU>
-  Cleric     <CL>
-  Thief      <TH>       
+  Monk     <MO>
+  Thief      <TH>
   Warrior    <WA>
 
 
 Every PC class have a Primary ability (requisite) <PR> :
 
   <MU> <INT>
-  <CL> <WIS>
+  <MO> <WIS>
   <TH> <DEX>
   <WA> <STR>
 
@@ -65,7 +65,7 @@ When creating a new <PC>, the <PC>'s <ABIL> are calculated as:
    depending on the class.
 
    <MU> == <INT> <WIS> <DEX> <STR> <CON>
-   <CL> == <WIS> <INT> <STR> <DEX> <CON>
+   <MO> == <WIS> <INT> <STR> <DEX> <CON>
    <TH> == <DEX> <STR> <CON> <INT> <WIS>
    <WA> == <STR> <DEX> <CON> <WIS> <INT>
 
@@ -86,7 +86,7 @@ Hitpoints:
   <PC>'s gain in the following range when advancing a level.
     <WA> [10..15]  Average (12.5)
     <TH> [7..13]   Average (10.0)
-    <CL> [5..10]   Average  (7.5)
+    <MO> [5..10]   Average  (7.5)
     <MA> [3..8]    Average  (5.5)
 
 
@@ -95,7 +95,7 @@ Advancing a level (<PC>'s only):
         "Spells to learn" is increased by
           MIN(1, WIS_APPLY) for <WA> & <TH>
         else
-          MIN(2, WIS_APPLY) for <MU> & <CL>
+          MIN(2, WIS_APPLY) for <MU> & <MO>
 
 <NPC> <ABIL> follow <PC>'s <ABIL> up to level 20, with the
   exception that NPC may have 0 in abilities. Only unusual
@@ -103,7 +103,7 @@ Advancing a level (<PC>'s only):
 
   <PR> may be in 18/00..100 for Warriors ONLY!
 
-      
+
 ============================= MONSTER LOOKUP ==============================
 
 This is general guidelines for creating monsters. This is when creating
@@ -334,7 +334,7 @@ No weapon may ever exceed 30 pounds in weight.
 
 There are three kind of weapons :
   (P)iercing
-  (S)lashing  (Not useable by Clerics)
+  (S)lashing  (Not useable by Monks)
   (B)ludgeoning
 
 Backstabbing is only possible with piercing weapons.
@@ -346,16 +346,16 @@ No weapon may ever exceed 30 pounds in weight.
 No shop-produced weapon may exceed 2d8 in total damage or weigh more
    than 20 pounds.
 
-Read notes regarding Magic before making a monster-slayer +50 +70 
+Read notes regarding Magic before making a monster-slayer +50 +70
   with +800 to strength
 
 
 PRIMARY BUYABLE WEAPONS <PBW>:
 
-Name               Damage    Type    Cost    Weight   Cost_pr_day     
+Name               Damage    Type    Cost    Weight   Cost_pr_day
 ---------------    -----     ----    ----    ------   -----------
-Dagger              1d4       P        10       1       Cost/3 
-Small sword         1d6       P        60       3       Cost/3 
+Dagger              1d4       P        10       1       Cost/3
+Small sword         1d6       P        60       3       Cost/3
 Long sword          1d8       S       600       8       Cost/3
 Wooden Club         1d3       B        12       3       Cost/3
 War hammer          1d5       B        50       6       Cost/3

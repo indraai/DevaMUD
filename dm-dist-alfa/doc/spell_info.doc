@@ -55,7 +55,7 @@ Opponent  0  0  0  1  2  3  5  6  7  8  9 10 12 13 14 15 16 17 18 20
 
 Magic Users New Damage Table. The damage listed by each spell shows how
 much damage can be given by using 100 mana points at the apropriate level.
-To make it worth-while to learn new damaging spells, a spell which is 
+To make it worth-while to learn new damaging spells, a spell which is
 "overlapped" by a new spell will give less damage than the exact calculated
 average.
 
@@ -73,7 +73,7 @@ Fireb                                                                         28
   *Chill Touch may reduce STR by -1 when failing saving throw.
 
 
-Clerics
+Monks
 
 
 Spell     1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
@@ -94,7 +94,7 @@ Harm is fairly special          (3 Max)
 *** NEW *** Spell listing By Level and Class
 
 
-LEVEL     Magic User               Cleric
+LEVEL     Magic User               Monk
 
 
            (1) Magic Missile        (1) Armor
@@ -141,4 +141,3 @@ LEVEL     Magic User               Cleric
 
           (15) Clone               (15) Harm
           (15) Fireball            (15) -
-

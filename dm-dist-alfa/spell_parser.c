@@ -12,7 +12,7 @@
 #include "utils.h"
 #include "comm.h"
 #include "db.h"
-#include "interpreter.h" 
+#include "interpreter.h"
 #include "spells.h"
 #include "handler.h"
 
@@ -24,14 +24,14 @@
 	spell_info[nr].beats = (beat);            \
 	spell_info[nr].minimum_position = (pos);  \
 	spell_info[nr].min_usesmana = (mana);     \
-	spell_info[nr].min_level_cleric = (clev); \
+	spell_info[nr].min_level_monk = (clev); \
 	spell_info[nr].min_level_magic = (mlev);  \
 	spell_info[nr].targets = (tar);           \
 }
 
 #define SPELL_LEVEL(ch, sn)               \
   ( (GET_CLASS(ch) == CLASS_CLERIC) ?     \
-  spell_info[sn].min_level_cleric : spell_info[sn].min_level_magic)
+  spell_info[sn].min_level_monk : spell_info[sn].min_level_magic)
 
 
 /* 100 is the MAX_MANA for a character */
@@ -588,7 +588,7 @@ void do_cast(struct char_data *ch, char *argument, int cmd)
 					return;
 				}
 				if ((GET_CLASS(ch) == CLASS_CLERIC) &&
-				   (spell_info[spl].min_level_cleric > GET_LEVEL(ch))) {
+				   (spell_info[spl].min_level_monk > GET_LEVEL(ch))) {
 					send_to_char("Sorry, you can't do that.\n\r", ch);
 					return;
 				}

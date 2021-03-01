@@ -1195,7 +1195,7 @@ void nanny(struct descriptor_data *d, char *arg)
 				break;
 			}
 
-			SEND_TO_Q("\n\rSelect a class:\n\rCleric\n\rThief\n\rWarrior\n\rMagic-user\n\rClass :", d);
+			SEND_TO_Q("\n\rSelect a class:\n\rMonk\n\rThief\n\rWarrior\n\rMagic-user\n\rClass :", d);
 			STATE(d) = CON_QCLASS;
 		break;
 

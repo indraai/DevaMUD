@@ -17,7 +17,7 @@ Level  -- xp --  --- titel ------------- str int wis dex con mhp mma mmo
  10 -2.641.808   Wizard                  %   %   %   %   %   %   %   %
 
 ------------------------------------------------------------------------
-Cleric:
+Monk:
 Level  -- xp --  --- titel ------------- str int wis dex con mhp mma mmo
   1     -1.000   Believer                %05 %10 %10 %02 %02 %08 %10 %10
   2     -2.400   Acolyte                 %   %   %   %   %   %   %   %
