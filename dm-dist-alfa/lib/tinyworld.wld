@@ -485,7 +485,7 @@ The note reads:
 S
 #3012
 Main Street~
-   You are at the end of the main street of Aravati.  South of here is the
+   You are at the end of the main street of Amaravati.  South of here is the
 entrance to the Guild of Magic Users.  The street continues east towards The Market.  The magic shop is to the north and to the west is the city
 gate.
 ~
@@ -513,7 +513,7 @@ You see the city gate.
 S
 #3013
 Main Street~
-   You are on the main street passing through the City of Aravati.  South of
+   You are on the main street passing through the City of Amaravati.  South of
 here is the entrance to the Armoury, and the bakery is to the north.  East of
 here is The Market.
 ~
@@ -575,7 +575,7 @@ You see the main street.
 
 E
 statue~
-What you see is the Aravati Worm, stretching around the Palace of Aravati.
+What you see is the Amaravati Worm, stretching around the Palace of Amaravati.
 ~
 S
 #3015
@@ -1067,7 +1067,7 @@ The wooden sign says :-
 ~
 S
 #3040
-Inside the West Gate of Aravati~
+Inside the West Gate of Amaravati~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
 east and Wall Road leads south from here.
@@ -1112,7 +1112,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3041
-Inside the East Gate of Aravati~
+Inside the East Gate of Amaravati~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
 west from here.
@@ -1317,10 +1317,21 @@ You see the river flowing west.
 0 -1 3203
 S
 #3050
-Abandoned Warehouse~
-   You are inside the only room in the old warehouse.  Only a sparse amount
-of light shines in through the boarded up windows above you.  The place is
-very dusty and appears to have been unused for many years.
+The Warehouse~
+background: /public/games/deva/3050/background.png
+title: /public/games/deva/3050/title.png
+audio: /public/games/deva/3050/intro.mp3
+
+# The Warehouse
+
+You are inside the only room in the old warehouse.  Only a sparse amount of light shines in through the boarded up windows above you.  The place is very dusty and appears to have been unused for many years.
+----
+
+doc[Information]:games/deva/3001/main
+news[News]:games/deva/3001/news
+map[Map]:games/deva/3001/map
+----
+north: Eastern End of Alley
 ~
 30 8 0
 D0
@@ -1362,7 +1373,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3052
-Outside the West Gate of Aravati~
+Outside the West Gate of Amaravati~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  To the west you
 can see the edge of a big forest. A small dusty trail leads noth along the
@@ -1370,7 +1381,7 @@ wall.
 ~
 30 0 1
 D0
-The trail continues around the City of Aravati.
+The trail continues around the City of Amaravati.
 ~
 ~
 0 -1 3900
@@ -1407,7 +1418,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3053
-Outside the East Gate of Aravati~
+Outside the East Gate of Amaravati~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  To the east the
 plains stretch out in the distance. To the north a small dusty trail follow
@@ -1415,7 +1426,7 @@ the city wall.
 ~
 30 0 1
 D0
-The trail continues around the City of Aravati.
+The trail continues around the City of Amaravati.
 ~
 ~
 0 -1 3908
@@ -1614,7 +1625,7 @@ some kind of mortar.  It is far too high to climb.
 S
 #3105
 Park Entrance~
-   You are standing just inside the small park of Aravati.  To the north is
+   You are standing just inside the small park of Amaravati.  To the north is
 the promenade and a small path leads south into the park.  To your east is
 the famous Park Cafe.
 ~
@@ -1847,7 +1858,7 @@ S
 #3117
 Emerald Avenue~
    You are at Emerald Avenue which continues north and south.  To the west is
-the park entrance and to the east is the not very big Town Hall of Aravati.
+the park entrance and to the east is the not very big Town Hall of Amaravati.
 ~
 31 0 1
 D0
@@ -2153,7 +2164,7 @@ E
 sign~
 The sign says :-
 
-                          Graveyard of Aravati
+                          Graveyard of Amaravati
 
     Many brave adventurers have found their final resting place here.
           Please show respect and do not desecrate their tombs.
@@ -2312,7 +2323,7 @@ a Cray II look like a laptop.
 S
 #3138
 The Mayors Office~
-   You are in the not very big office of the Mayor of Aravati.  A large and
+   You are in the not very big office of the Mayor of Amaravati.  A large and
 polished but completely empty desk is standing in front of an armchair that
 looks so comfortable that it most of all resembles a bed with the head end
 raised slightly.
@@ -2377,7 +2388,7 @@ D2
 S
 #3142
 Captain's Office~
-   You are in the Office of the Captain of the Guard.  The Aravati Coat of
+   You are in the Office of the Captain of the Guard.  The Amaravati Coat of
 Arms is hanging on the north wall and a heavy steel door is to the south.
 ~
 31 8 0
@@ -2876,7 +2887,7 @@ D2
 S
 #3502
 The Turning Point~
-  This is where the Aravati Road turns north and away from the city.  To the
+  This is where the Amaravati Road turns north and away from the city.  To the
 west, the road continues towards what looks like a fairly large city.  The
 mute sounds of city commotion reach your ears from a distance; stray dogs
 barking, children crying, and street salesmen shouting.  To the east, you can
@@ -2899,7 +2910,7 @@ D3
 S
 #3503
 City Entrance~
-   You stand on the outskirts of a large city - Aravati; the capital of this
+   You stand on the outskirts of a large city - Amaravati; the capital of this
 land. The road leads east into the peace and quiet - and dangers - of the
 forest; and to the west it becomes the main street of the town; surrounded by
 a confusion of shops, bars, and market places.
@@ -3556,8 +3567,8 @@ tomb stone~
 1 -1 3650
 S
 #3900
-West trail around Aravati~
-   You are on a dusty trail following the outside wall of Aravati.
+West trail around Amaravati~
+   You are on a dusty trail following the outside wall of Amaravati.
 To the east the wall towers over you and to the west you see the
 forest of Haon-Dor. The trail leads north and south along the wall.
 ~
@@ -3568,14 +3579,14 @@ The dusty trail winds north closely to the wall.
 ~
 0 -1 3901
 D2
-The dusty trail leads to outside the west gate of Aravati.
+The dusty trail leads to outside the west gate of Amaravati.
 ~
 ~
 0 -1 3052
 S
 #3901
-West trail around Aravati~
-   You are on a dusty trail following the outside wall of Aravati.
+West trail around Amaravati~
+   You are on a dusty trail following the outside wall of Amaravati.
 To the east the wall towers over you and to the west you see the
 forest of Haon-Dor. The trail leads north and south along the wall.
 ~
@@ -3598,7 +3609,7 @@ The trail leads east following the north wall and south towards the gate.
 ~
 30 0 2
 D1
-The dusty trail winds close up to the north wall of Aravati.
+The dusty trail winds close up to the north wall of Amaravati.
 ~
 ~
 0 -1 3903
@@ -3610,12 +3621,12 @@ The dusty trail leads south towards the gate.
 S
 #3903
 Dusty trail along north wall.~
-   You are walking on the trail following the outside of Aravati's
+   You are walking on the trail following the outside of Amaravati's
 northern wall.
 ~
 30 0 2
 D1
-The dusty trail is winding along the north wall of Aravati.
+The dusty trail is winding along the north wall of Amaravati.
 ~
 ~
 0 -1 3904
@@ -3639,12 +3650,12 @@ A small path extends into the plains.
 ~
 0 -1 5000
 D1
-The dusty trail is winding along the north wall of Aravati.
+The dusty trail is winding along the north wall of Amaravati.
 ~
 ~
 0 -1 3905
 D3
-The dusty trail is winding along the north wall of Aravati.
+The dusty trail is winding along the north wall of Amaravati.
 ~
 ~
 0 -1 3903
@@ -3656,7 +3667,7 @@ They read : Tear down the Wall   -Pink Floyd
 S
 #3905
 Dusty trail along north wall.~
-   You are walking on the trail following the outside of Aravati's
+   You are walking on the trail following the outside of Amaravati's
 northern wall.
 ~
 30 0 2
@@ -3667,7 +3678,7 @@ You notice some mountains in the distance.
 ~
 0 -1 3906
 D3
-The dusty trail is winding along the north wall of Aravati.
+The dusty trail is winding along the north wall of Amaravati.
 ~
 ~
 0 -1 3904
@@ -3684,14 +3695,14 @@ The dusty trail leads south towards the gate.
 ~
 0 -1 3907
 D3
-The dusty trail winds close up to the north wall of Aravati.
+The dusty trail winds close up to the north wall of Amaravati.
 ~
 ~
 0 -1 3905
 S
 #3907
-East trail around Aravati~
-   You are on a dusty trail following the outside wall of Aravati.
+East trail around Amaravati~
+   You are on a dusty trail following the outside wall of Amaravati.
 To the west the wall towers over you and far to the east you see
 some mountains. The trail leads north and south along the wall.
 ~
@@ -3708,8 +3719,8 @@ The dusty trail continues towards the south.
 0 -1 3908
 S
 #3908
-East trail around Aravati~
-   You are on a dusty trail following the outside wall of Aravati.
+East trail around Amaravati~
+   You are on a dusty trail following the outside wall of Amaravati.
 To the west the wall towers over you and far to the east you see
 some mountains. The trail leads north and south along the wall.
 ~
@@ -3720,7 +3731,7 @@ The dusty trail winds north closely to the wall.
 ~
 0 -1 3907
 D2
-The dusty trail leads to outside the east gate of Aravati.
+The dusty trail leads to outside the east gate of Amaravati.
 ~
 ~
 0 -1 3053
@@ -5398,7 +5409,7 @@ Path in the plains~
    You are walking on a path situated in the rough plains.
 You feel the strong winds blow through your hair as you study
 the beautifull landscaping here. The path continues east, north
-and west leads to plains and you see the path around Aravati
+and west leads to plains and you see the path around Amaravati
 to the south.
 ~
 50 0 2
@@ -5413,7 +5424,7 @@ You notice nothing special, except that the path in the plains continues.
 ~
 0 -1 5001
 D2
-Towards the south you notice the citywall of Aravati.
+Towards the south you notice the citywall of Amaravati.
 ~
 ~
 0 -1 3904
@@ -5525,7 +5536,7 @@ You see the grassy plains here.
 ~
 0 -1 5021
 D2
-The path continues towards Aravati.
+The path continues towards Amaravati.
 ~
 ~
 0 -1 5004
@@ -5758,7 +5769,7 @@ E
 sign~
 The sign sais:
 
-  Loyal citizens of Aravati. These are the earthly remains of the
+  Loyal citizens of Amaravati. These are the earthly remains of the
   two herretics 'Dim' and 'Gamma' of this world. Having forged them-
   selves to immortality, they called upon themselves the anger of the
   implementators. Let this be a lesson too all .....
@@ -5784,7 +5795,7 @@ When you look to the east you notice at small path.
 ~
 0 -1 5000
 D2
-To the south you can see the city of Aravati.
+To the south you can see the city of Amaravati.
 ~
 ~
 0 -1 -1
@@ -5798,7 +5809,7 @@ S
 Grassy plains~
    You walk in the grassy plains among the herbs which grow here. The wind is
 strong and rough. Far to the north you can see the foothills and further on
-mountainpeaks are visible. City of Aravati is to the south but so are some
+mountainpeaks are visible. City of Amaravati is to the south but so are some
 VERY steep slopes.
 ~
 50 0 4
@@ -5975,7 +5986,7 @@ The foothills extend far to the east.
 0 -1 5024
 D2
 The foothills extend far down to the south, In the horizon you can
-see the City of Aravati.
+see the City of Amaravati.
 ~
 ~
 0 -1 5030
@@ -6014,7 +6025,7 @@ The foothills extend far to the east.
 0 -1 5025
 D2
 The foothills extend downwards to the south. In the horizon you can
-see the City Of Aravati.
+see the City Of Amaravati.
 ~
 ~
 0 -1 5022
@@ -6632,12 +6643,12 @@ S
 #6000
 The edge of the forest~
 You are standing at the eastern edge of a big forest.  To the east is the West
-Gate of Aravati and to the west is a narrow trail, leading in through the
+Gate of Amaravati and to the west is a narrow trail, leading in through the
 forest.
 ~
 60 4 2
 D1
-You see the West Gate of the City of Aravati.
+You see the West Gate of the City of Amaravati.
 ~
 ~
 0 -1 3052
@@ -9371,7 +9382,7 @@ To the west there's an odd looking room with totally smooth walls.
 0 -1 7022
 D4
 Up through the garbage you can just make out what looks like the Dump in
-Aravati.
+Amaravati.
 ~
 ~
 0 -1 3030
@@ -12683,7 +12694,7 @@ S
 Outside Redferne's residence~
 A huge cloud forms the plateau on which you are now standing. The wind here
 is absolutely quiet and the sun is shining warmly upon you. From under the
-cloud you can hear the faint sounds of Aravati. Right before you to the
+cloud you can hear the faint sounds of Amaravati. Right before you to the
 north lies the grand Mansion of Naris, the residence of the Greater God
 Redferne.
 ~
@@ -12784,7 +12795,7 @@ aravati town city~
 You see a small speck with woods on the west from it, plains to the east
 from it and mountains to the north from it. To the south from it you can
 see a thin trail lead to a large castle. Finally you notice a rather large
-river pour in from the east and go through Aravati in the middle.
+river pour in from the east and go through Amaravati in the middle.
 ~
 E
 chairs leather arm-chairs~
@@ -12807,7 +12818,7 @@ it's magnificent activity.
 E
 river~
 You see a large and winding river cut through the landscape, starting at an
-enormous inland lake, it seeps through Aravati and finally ends up in the
+enormous inland lake, it seeps through Amaravati and finally ends up in the
 Grand Sea on the West-coast of the land.
 ~
 S
@@ -13012,7 +13023,7 @@ door cage metal pen~
 S
 #7914
 On the Huge Chain~
-This place has quite a good view over Aravati. Your possibilities of movement
+This place has quite a good view over Amaravati. Your possibilities of movement
 seems to extend only to up and down. Unless you want to let go of the secure
 and seemingly unmoveable chain, then those are the directions you should take
 from here.
@@ -15235,7 +15246,7 @@ The holy grove~
    You are standing amidst the ancient oaks and poplars in the holy grove. You
 feel calm and relaxed here, as if great burdens have been lifted from Your
 shoulders. From here, pleasant-looking paths lead east, north and south. To
-the west, through the trees, You can see the road to Aravati.
+the west, through the trees, You can see the road to Amaravati.
 ~
 89 4 3
 D1
@@ -15254,7 +15265,7 @@ The path wind its way through the tall trees, into the grove.
 ~
 0 -1 8907
 D3
-Through the trees, you can see the Aravati road. Far to the west, You can
+Through the trees, you can see the Amaravati road. Far to the west, You can
 barely glimpse the tall walls and the chimney-smokes of the city itself.
 ~
 ~
@@ -15263,7 +15274,7 @@ S
 #8905
 The sacred glade~
    You are standing in the middle of the sacred glades, where the citizens of
-Aravati come to celebrate the spring, where farmers give thanks for bountiful
+Amaravati come to celebrate the spring, where farmers give thanks for bountiful
 harvest in the fall, and where lovers stroll in summer. You feel seasons of
 remembered happiness and joy taking Your sorrows and worries away from You,
 leaving You calm and invigorated, ready for the world. Paths lead into the
