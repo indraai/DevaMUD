@@ -55,70 +55,47 @@ The Sanctuary~
 feecting:docs/games/deva/3002/main~
 30 12 0
 D1
-You see your favorite place, The Monks Table.
+feecting:docs/games/deva/3002/main_east
 ~
 ~
 0 -1 3003
 D5
-You can't see what is down there, it is too dark.  Looks like it would be impossible to climb back up.
+feecting:docs/games/deva/3002/main_down
 ~
 ~
 0 -1 7026
 S
 #3003
 The Table~
-~
+feecting:docs/games/deva/3003/main~
 30 12 0
 D2
-You see the entrance.
+feecting:docs/games/deva/3003/main_south
 ~
 ~
 0 -1 3004
 D3
-You see the The Sanctuary.
+feecting:docs/games/deva/3003/main_west
 ~
 ~
 0 -1 3002
 E
 sign~
-feecting:docs/games/deva/3002/main-sign
+feecting:docs/games/deva/3002/main_sign
 ~
 S
 #3004
 The Monastery~
-background:public/games/deva/3004/background.png
-image:public/games/deva/3004/title.png
-audio:public/games/deva/3004/intro.mp3
-
-# Amaravati Monastery
-
-The purpose of Amaravati Monastery is to provide a place of practice for monks. It is also open to guests and visitors who wish to come and stay in a place where there is the opportunity to develop practice, to explore teachings, and to contribute to the life of the community.
-
-image:/public/games/deva/3004/monks.png
-
-The community consists of monks, together with a number of full-time lay residents.
-
-image:/public/games/deva/3004/puja.png
-
-The monastery also includes within it an retreat centre, where residential retreats are conducted for the public during nine months of each year.
-----
-
-doc[Information]:games/deva/3004/main
-news[News]:games/deva/3004/news
-map[Map]:games/deva/3004/map
-----
-
-north:The Table
-east:The Circle
+feecting:docs/games/deva/3004/main
 ~
 30 8 0
 D0
-You see The Table
+feecting:docs/games/deva/3004/main_north
 ~
 ~
 0 -1 3003
 D1
-You see The Circle.
+feecting:docs/games/deva/3004/main_south
 ~
 ~
 0 -1 3005
@@ -151,38 +128,22 @@ feecting:docs/games/deva/3005/main_west
 S
 #3006
 The Inn~
-image:/public/games/deva/3006/title.png
-audio:/pubic/games/deva/3006/intro.mp3
-
-# The Amaravati Inn
-
-You are standing in the entrance hall of The Amaravati Inn.  The hall has been lavishly decorated with simple but functional furniture.
-
-image:/public/games/deva/3006/entrance.png
-
-A small staircase leads up to the reception and the bar is to the east.
-
-----
-doc[More Information]:games/deva/3006/main
-
-----
-east:The Bar
-west:The Circle
-up:Reception
+feecting:docs/games/deva/3005/main
 ~
 30 8 0
 D1
-You see The Bar.
+feecting:docs/games/deva/3005/main_east
 ~
 ~
 0 -1 3007
 D3
-You see The Circle.
+feecting:docs/games/deva/3005/main_west
 ~
 ~
 0 -1 3005
 D4
-You see the reception desk.
+feecting:docs/games/deva/3005/main_up
+
 ~
 ~
 0 -1 3008
