@@ -972,7 +972,7 @@ void do_who(struct char_data *ch, char *argument, int cmd)
 	struct descriptor_data *d;
 	char buf[256];
 
-	send_to_char("Players\n\r-------\n\r", ch);
+	/*send_to_char("Players\n\r\n\r", ch);*/
 	for (d = descriptor_list; d; d = d->next)
 	{
 		if ((!d->connected) &&
