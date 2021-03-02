@@ -100,6 +100,7 @@ You can see The Circle.
 S
 #3002
 The Sanctuary~
+background:/public/games/deva/3002/background.png
 image:/public/games/deva/3002/title.png
 audio:/public/games/deva/3002/intro.mp3
 
@@ -546,7 +547,7 @@ audio:/public/games/deva/3014/intro.png
 
 # The Market
 
-You are standing on The Market, the famous Square of Amaravati. A large, pecualiar looking statue is standing in the middle of the square. Roads lead in every direction, north to the temple square, south to the common square, east and westbound is the main street.
+You are standing on The Market, the famous Square of Amaravati. A large, pecualiar looking statue is standing in the middle of the square. Roads lead in every direction, north to the temple square, south to The Spot, east and westbound is the main street.
 
 ----
 
@@ -563,7 +564,7 @@ You see the main street.
 ~
 0 -1 3015
 D2
-You see the common square.
+You see The Spot.
 ~
 ~
 0 -1 3025
@@ -784,13 +785,18 @@ impossible to climb back up.
 0 -1 7048
 S
 #3024
-Eastern End of Poor Alley~
-   You are at the poor alley.  South of here is the Grubby Inn and to the
-east you see common square.  The alley continues further west.
+E. Artist Alley~
+background:/public/games/deva/3024/background.png
+image:/public/games/deva/3024/title.png
+audio:/public/games/deva/3024/intro.mp3
+
+# E. Artist Alley
+
+You are at E. Artist Alley.  South of here is the Grubby Inn and to the east you see common square.  The alley continues further west.
 ~
 30 0 1
 D1
-You see the common square.
+You see The Spot.
 ~
 ~
 0 -1 3025
@@ -806,9 +812,14 @@ You see the poor alley.
 0 -1 3044
 S
 #3025
-The Common Square~
-   The common square, people pass you, talking to each other.  To the west is
-the poor alley and to the east is the dark alley.  To the north, this square
+The Spot~
+background:/public/games/deva/3001/background.png
+image:/public/games/deva/3001/title.png
+audio:/public/games/deva/3001/intro.mp3
+
+# The Spot
+
+The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is the dark alley.  To the north, this square
 is connected to The Market.  From the south you notice a nasty smell.
 ~
 30 0 1
@@ -823,19 +834,19 @@ You see the dark alley.
 ~
 0 -1 3026
 D2
-You see the city dump.
+You see The Dump.
 ~
 ~
 0 -1 3030
 D3
-You see the poor alley.
+You see Artist Alley.
 ~
 ~
 0 -1 3024
 S
 #3026
 The Dark Alley~
-   The dark alley, to the west is the common square and to the south is the
+   The dark alley, to the west is The Spot and to the south is the
 Guild of Thieves.  The alley continues east.
 ~
 30 0 1
@@ -850,7 +861,7 @@ You see the entrance to the thieves guild.
 ~
 0 -1 3027
 D3
-You see the common square.
+You see The Spot.
 ~
 ~
 0 -1 3025
@@ -927,7 +938,7 @@ square.
 ~
 30 4 2
 D0
-You see the common square.
+You see the spot.
 ~
 ~
 0 -1 3025
