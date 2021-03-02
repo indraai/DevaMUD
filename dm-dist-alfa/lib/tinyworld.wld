@@ -792,7 +792,7 @@ audio:/public/games/deva/3024/intro.mp3
 
 # Artist Alley
 
-You are at Artist Alley.  South of here is the Grubby Inn and to the east you see common square.  The alley continues further west.
+You are at Artist Alley.  South of here is the Grubby Inn and to the east you see common square.  The alley continues west.
 ~
 30 0 1
 D1
@@ -1229,9 +1229,17 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3044
-Poor Alley~
-   You are in narrow and dirty alley leading east and west.  The leather shop
-is to the north.
+Artist Alley~
+background:/public/games/deva/3044/background.png
+image:/public/games/deva/3044/title.png
+audio:/public/games/deva/3044/intro.mp3
+
+# Artist Alley
+
+You are in a the Artist Alley where all the Aritst's in Amaravati show their creations. The leather shop is to the north.
+
+---
+north: The Leather Shop
 ~
 30 0 1
 D0
