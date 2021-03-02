@@ -892,11 +892,15 @@ You see the thieves bar, where everything disappears.
 0 -1 3028
 S
 #3028
-The Thieves Bar~
-   The bar of the thieves.  Once upon a time this place was beautifully
-furnished, but now it seems almost empty.  To the south is the yard, and to
-the west is the entrance hall.
-   (Maybe the furniture has been stolen?!)
+The Artist Bar~
+background:/public/games/deva/3027/background.png
+image:/public/games/deva/3027/title.png
+audio:/public/games/deva/3027/intro.mp3
+
+# The Artist Bar
+
+The bar of the artists.  This place is beautifully furnished.  To the south is the yard, and to the west is the entrance hall. (Maybe the furniture has been hand made?!)
+
 ~
 30 12 0
 D2
