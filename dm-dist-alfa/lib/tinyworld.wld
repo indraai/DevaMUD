@@ -871,10 +871,13 @@ It is the thieves guild, don't enter if you care about your health or money.
 ~
 S
 #3027
-Entrance Hall to the Guild of Thieves~
-   The entrace hall to the thieves' and assassins' guild.  A place where you
-can lose both your life and your money, if you are not careful.  To the north
-is the dark alley and to the east is the thieves' bar.
+The Artist Collective~
+background:/public/games/deva/3001/background.png
+image:/public/games/deva/3001/title.png
+audio:/public/games/deva/3001/intro.mp3
+
+# The Artist Collective
+The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is the dark alley and to the east is The Artist's Bar.
 ~
 30 8 0
 D0
