@@ -1040,30 +1040,28 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3043
-S. Wall Road~
-   You are walking next to the western city wall.  Wall Road continues further
-north and south.  A small, poor alley leads east.
-Some letters have been written on the wall here.
+30 W. Artist Alley~
+feecting:docs/games/deva/3043/main
 ~
 30 0 1
 D0
-The road continues further north.
+feecting:docs/games/deva/3043/main_north
 ~
 ~
 0 -1 3042
 D1
-The alley leads east.
+feecting:docs/games/deva/3043/main_east
 ~
 ~
 0 -1 3044
 D2
-The road continues further south.
+feecting:docs/games/deva/3043/main_south
 ~
 ~
 0 -1 3047
 E
 letters~
-It says 'Who watches the watchmen?'
+feecting:docs/games/deva/3043/main_letters
 ~
 E
 wall~
@@ -1072,31 +1070,22 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3044
-Artist Alley~
-background:/public/games/deva/3044/background.png
-image:/public/games/deva/3044/title.png
-audio:/public/games/deva/3044/intro.mp3
-
-# Artist Alley
-
-You are in a the Artist Alley where all the Aritst's in Amaravati show their creations. The leather shop is to the north.
-
----
-north: The Leather Shop
+20 W. Artist Alley~
+feecting:docs/games/deva/3044/main
 ~
 30 0 1
 D0
-The leather shop is to the north.
+feecting:docs/games/deva/3044/main_north
 ~
 ~
 0 -1 3035
 D1
-The alley leads east.
+feecting:docs/games/deva/3044/main_east
 ~
 ~
 0 -1 3024
 D3
-The alley leads west.
+feecting:docs/games/deva/3044/main_west
 ~
 ~
 0 -1 3043
