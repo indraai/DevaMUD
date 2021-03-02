@@ -54,32 +54,7 @@ The only exit in your dimension unfortunately leads right back here.
 S
 #3001
 The Temple~
-background:/public/games/deva/3001/background.png
-image:/public/games/deva/3001/title.png
-audio:/public/games/deva/3001/intro.mp3
-
-# The Temple
-You have arrived at the Southern End of The Great Hall inside The Temple, in the capital city of Svarga.
-
-image:/public/games/deva/3001/three-panel.png
-youtube:yU67c_SXykI
-----
-
-The Great Hall has been constructed from gold and diamonds, eternal in appearance, and the walls are covered by ancient paintings depicting Gods, Heroes, Kings, Queens, Sages, Monks, and Peasants of all sorts and types.
-
-Large steps lead down through The Grand Gate, descending the huge mound upon which The Hall is built and ends on The Circle below.
-
-thanks:Thank you for visiting!
-note:Please enjoy your stay, and remember to visit The Bakery for the best pastries and breads.
-----
-
-doc[Information]:games/deva/3001/main
-news[News]:games/deva/3001/news
-map[Map]:games/deva/3001/map
-----
-
-north:Offering Table
-south:The Circle
+feecting:docs/games/deva/3001/main 
 ~
 30 12 0
 D0
@@ -761,7 +736,7 @@ You see the practise yard.
 ~
 0 -1 3023
 D3
-You see the entrance hall to The Artist Collective.
+You see the entrance hall to The Collective.
 ~
 ~
 0 -1 3021
@@ -846,7 +821,7 @@ You see Artist Alley.
 S
 #3026
 Artist Alley~
-Artist Alley, to the west is The Spot and to the south is The Artist Collective.  The alley continues east.
+Artist Alley, to the west is The Spot and to the south is The Collective.  The alley continues east.
 ~
 30 0 1
 D1
@@ -855,7 +830,7 @@ The alley continues east.
 ~
 0 -1 3045
 D2
-You see the entrance to The Artist Collective.
+You see the entrance to The Collective.
 ~
 ~
 0 -1 3027
@@ -866,17 +841,17 @@ You see The Spot.
 0 -1 3025
 E
 guild~
-It is The Artist Collective, don't enter if you care about your health or money.
+It is The Collective, don't enter if you care about your health or money.
 ~
 S
 #3027
-The Artist Collective~
+The Collective~
 background:/public/games/deva/3027/background.png
 image:/public/games/deva/3027/title.png
 audio:/public/games/deva/3027/intro.mp3
 
-# The Artist Collective
-The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is Artist Alley and to the east is The Artist's Bar.
+# The Collective
+The entrace The Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is Artist Alley and to the east is The Artist's Bar.
 ~
 30 8 0
 D0
@@ -908,7 +883,7 @@ You see the secret yard.
 ~
 0 -1 3029
 D3
-You see the entrance hall to The Artist Collective.
+You see the entrance hall to The Collective.
 ~
 ~
 0 -1 3027
