@@ -785,14 +785,14 @@ impossible to climb back up.
 0 -1 7048
 S
 #3024
-E. Artist Alley~
+Artist Alley~
 background:/public/games/deva/3024/background.png
 image:/public/games/deva/3024/title.png
 audio:/public/games/deva/3024/intro.mp3
 
-# E. Artist Alley
+# Artist Alley
 
-You are at E. Artist Alley.  South of here is the Grubby Inn and to the east you see common square.  The alley continues further west.
+You are at Artist Alley.  South of here is the Grubby Inn and to the east you see common square.  The alley continues further west.
 ~
 30 0 1
 D1
