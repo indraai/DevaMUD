@@ -484,7 +484,7 @@ The note reads:
 ~
 S
 #3012
-Main Street~
+W. Main Street~
    You are at the end of the main street of Amaravati.  South of here is the
 entrance to the Guild of Magic Users.  The street continues east towards The Market.  The magic shop is to the north and to the west is the city
 gate.
@@ -512,7 +512,7 @@ You see the city gate.
 0 -1 3040
 S
 #3013
-Main Street~
+W. Main Street~
    You are on the main street passing through the City of Amaravati.  South of
 here is the entrance to the Armoury, and the bakery is to the north.  East of
 here is The Market.
@@ -579,7 +579,7 @@ What you see is the Amaravati Worm, stretching around the Palace of Amaravati.
 ~
 S
 #3015
-The Main Street~
+E. Main Street~
    You are on Main Street crossing through town.  To the north is the general
 store, and the main street continues east.  To the west you see and hear the
 market place and to the south is the Jeweller's Shop.
@@ -607,7 +607,7 @@ You see The Market.
 0 -1 3014
 S
 #3016
-Main Street~
+E. Main Street~
    Main Street, to the north is the weapon shop and to the south is the
 Guild of Swordsmen.  To the east you leave town and to the west the street
 leads to the The Market.
@@ -1164,7 +1164,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3042
-Wall Road~
+N. Wall Road~
    You are walking next to the western city wall.  The road continues further
 south and the city gate is just north of here.
 ~
@@ -1186,7 +1186,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3043
-Wall Road~
+S. Wall Road~
    You are walking next to the western city wall.  Wall Road continues further
 north and south.  A small, poor alley leads east.
 Some letters have been written on the wall here.
@@ -1280,7 +1280,7 @@ You see the alley.
 0 -1 3045
 S
 #3047
-Wall Road~
+S. Wall Road~
    You are standing on the road next to the western city wall which
 continues north.  South of here is a bridge across the river.
 ~
