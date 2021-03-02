@@ -1,7 +1,6 @@
 #0
-The Void~
-  You step out into ......
-  You don't think that you are not floating in nothing.
+Nothing~
+feecting:docs/games/deva/0/main
 ~
 0 8 1
 D4
@@ -10,82 +9,59 @@ void~
 0 -1 3001
 S
 #1
-The Void~
-  You don't think that you are not floating in nothing.
+Void~
+feecting:docs/games/deva/1/main
 ~
 0 8 1
 S
 #2
-Limbo~
-   You are floating in a formless void, detached from all sensation of physical
-matter, surrounded by swirling glowing light, which fades into the relative
-darkness around you without any trace of edges or shadow.
-   There is a "No Tipping" notice pinned to the darkness.
+Space~
+feecting:docs/games/deva/1/main
 ~
 0 8 1
 S
 #1200
-The Chat Room~
-   You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
-which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
-the owner of this room needs none.
+Ether~
+feecting:docs/games/deva/1200/main
 ~
 0 520 0
 S
 #1201
-Indra's Hangout~
-image:/public/games/deva/1201/title.png
-audio:/public/games/deva/1201/intro.mp3
-
-# Indra's Hangout
-
-You see here a cozy little room with a fireplace.  You can tell it is Indra's room by the two stone tablets on a ledge near the fireplace. This room was designed for total relaxation.  You can watch draw, paint, meditate, listen to music, and even soak in a hot tub.
+Indra~
+feecting:docs/games/deva/1200/main
 ~
 0 520 0
 S
 #1202
-The centre of the universe.~
-  You are at the centre of the universe, everything is filled with bright
-light in all colors. You feel time and space no longer exist here.
-Exits fill the room in all 42 dimensions, leading everywhere.
-The only exit in your dimension unfortunately leads right back here.
+The Universe~
+feecting:docs/games/deva/1202/main
 ~
 0 520 0
 S
 #3001
 The Temple~
-feecting:docs/games/deva/3001/main 
+feecting:docs/games/deva/3001/main
 ~
 30 12 0
 D0
-At the north end of the hall is a statue of Indra and an Offering Table.
+feecting:docs/games/deva/3001/main-north
 ~
 ~
 0 -1 3054
 D2
-You look down the huge stone steps to see The Circle below.
+feecting:docs/games/deva/3001/main-down
 ~
 ~
 0 -1 3005
 D5
-You can see The Circle.
+feecting:docs/games/deva/3001/main-south
 ~
 ~
 0 -1 3005
 S
 #3002
 The Sanctuary~
-background:/public/games/deva/3002/background.png
-image:/public/games/deva/3002/title.png
-audio:/public/games/deva/3002/intro.mp3
-
-# The Sanctuary
-----
-
-doc[Information]:games/deva/3002/main
-news[News]:games/deva/3002/news
-map[Map]:games/deva/3002/map
-~
+feecting:docs/games/deva/3002/main~
 30 12 0
 D1
 You see your favorite place, The Monks Table.
@@ -100,30 +76,6 @@ You can't see what is down there, it is too dark.  Looks like it would be imposs
 S
 #3003
 The Table~
-image:/public/games/deva/3003/title.png
-audio:/public/games/deva/3003/intro.png
-
-# The Table
-
-The Table is where the monks of The Monastery have their meals.
-
-image:/public/games/deva/3003/table.png
-
-There is very simple furniture for the Monks to enjoy their meal offerings.
-----
-
-look:Sign
-list:Menu
-buy:Drinks
-----
-
-doc[Information]:games/deva/3003/main
-news[News]:games/deva/3003/news
-map[Map]:games/deva/3003/map
-----
-
-south:The Monastery
-west:The Sanctuary
 ~
 30 12 0
 D2
@@ -138,22 +90,7 @@ You see the The Sanctuary.
 0 -1 3002
 E
 sign~
-The sign reads:
-Free instructions provided by the waiter:
-
-buy:Drink
-Buy something (drinkable) from the waiter.
-----
-
-list:Menu
-The waiter will show you all the different drinks and specialities, and tell the price of each.
-----
-
-doc[Information]:games/deva/3003/main
-news[News]:games/deva/3003/news
-map[Map]:games/deva/3003/map
-----
-
+feecting:docs/games/deva/3002/main-sign
 ~
 S
 #3004
