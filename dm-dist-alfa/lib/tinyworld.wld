@@ -688,7 +688,7 @@ You see Artist Alley.
 0 -1 3024
 S
 #3026
-100 E. Artist Alley~
+10 E. Artist Alley~
 feecting:docs/games/deva/3026/main
 ~
 30 0 1
@@ -1108,7 +1108,7 @@ The alley leads west.
 0 -1 3043
 S
 #3045
-200 E. Artist Alley~
+20 E. Artist Alley~
 feecting:docs/games/deva/3045/main
 ~
 30 0 1
@@ -1129,7 +1129,7 @@ feecting:docs/games/deva/3045/main_west
 0 -1 3026
 S
 #3046
-300 E. Artist Alley~
+30 E. Artist Alley~
    You are standing at the eastern end of the alley, the city wall is just
 east, blocking any further movement.  An old three-storey warehouse is
 directly south of here.
