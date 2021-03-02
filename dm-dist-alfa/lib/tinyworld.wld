@@ -3,11 +3,11 @@ Nothing~
 feecting:docs/games/deva/0/main
 ~
 0 8 1
-D5
+D4
 void~
 ~
-0 -1 1
-D
+0 -1 3001
+S
 #1
 Void~
 feecting:docs/games/deva/1/main
@@ -33,7 +33,7 @@ feecting:docs/games/deva/1200/main
 0 520 0
 S
 #1202
-The Universe~
+Universe~
 feecting:docs/games/deva/1202/main
 ~
 0 520 0
