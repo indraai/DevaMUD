@@ -1358,7 +1358,7 @@ S
 #3050
 The Warehouse~
 background: /public/games/deva/3050/background.png
-title: /public/games/deva/3050/title.png
+image: /public/games/deva/3050/title.png
 audio: /public/games/deva/3050/intro.mp3
 
 # The Warehouse
