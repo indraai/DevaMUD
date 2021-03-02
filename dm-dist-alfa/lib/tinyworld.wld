@@ -40,17 +40,16 @@ feecting:docs/games/deva/3001/main
 ~
 30 12 0
 D0
-feecting:docs/games/deva/3001/main-north
-~
-~
-0 -1 3054
-D2
-feecting:docs/games/deva/3001/main-down
+feecting:docs/games/deva/3001/main_north
 ~
 ~
 0 -1 3005
 D5
-feecting:docs/games/deva/3001/main-south
+feecting:docs/games/deva/3001/main_south
+~
+~
+0 -1 3005
+S
 #3002
 The Sanctuary~
 feecting:docs/games/deva/3002/main~
@@ -126,54 +125,26 @@ You see The Circle.
 S
 #3005
 The Circle~
-background:/public/games/deva/3005/background.png
-image:/public/games/deva/3005/title.png
-audio:/public/games/deva/3005/intro.mp3
-
-# The Circle
-Welcome to The Circle friend. The Circle is the main hub of Amaravati that things move around. Beyond that is imagination.
-
-image:/public/games/deva/3005/shopping.png
-
-Inside The Circle you will find many Things like The Market, The Jeweler, and so much more.  Please feel free to explore as there is always something happening in The Circle.
-
-image:/public/games/deva/3005/shopping-ladies.png
-
-You are standing in The Circle. Huge marble steps lead up to the temple gate. The entrance to The Monastery is to the west, and The Inn, is to the east.  Just south of here you see The Market, the center of Amaravati.
-
-thanks:Thank you for visiting The Circle!
-note:Please browse around, and remember find a SecurityDEVA if you are lost.
-----
-
-doc[Information]:games/deva/3005/main
-news[News]:games/deva/3005/news
-map[Map]:games/deva/3005/map
-----
-----
-
-north:The Temple
-south:The Market
-east:The Inn
-west:The Monasatery
+feecting:docs/games/deva/3005/main
 ~
 30 0 1
 D0
-You see The Temple.
+feecting:docs/games/deva/3005/main_north
 ~
 ~
 0 -1 3001
 D1
-You see The Inn.
+feecting:docs/games/deva/3005/main_east
 ~
 ~
 0 -1 3006
 D2
-You see The Market.
+feecting:docs/games/deva/3005/main_south
 ~
 ~
 0 -1 3014
 D3
-You see the entrance to The Monastery.
+feecting:docs/games/deva/3005/main_west
 ~
 ~
 0 -1 3004
