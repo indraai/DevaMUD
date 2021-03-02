@@ -688,22 +688,22 @@ You see Artist Alley.
 0 -1 3024
 S
 #3026
-Artist Alley~
-Artist Alley, to the west is The Spot and to the south is The Collective.  The alley continues east.
+E. Artist Alley~
+feecting:docs/games/deva/3026/main
 ~
 30 0 1
 D1
-The alley continues east.
+feecting:docs/games/deva/3026/main_east
 ~
 ~
 0 -1 3045
 D2
-You see the entrance to The Collective.
+feecting:docs/games/deva/3026/main_south
 ~
 ~
 0 -1 3027
 D3
-You see The Spot.
+feecting:docs/games/deva/3026/main_west
 ~
 ~
 0 -1 3025
