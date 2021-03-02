@@ -645,9 +645,9 @@ audio:public/games/deva/3017/intro.mp3
 The entrance hall is a small, poor lighted room.
 ----
 
-doc[Information]:games/deva/3001/main
-news[News]:games/deva/3001/news
-map[Map]:games/deva/3001/map
+doc[Information]:games/deva/3017/main
+news[News]:games/deva/3017/news
+map[Map]:games/deva/3017/map
 ----
 
 north:Main Street
@@ -813,9 +813,9 @@ You see the poor alley.
 S
 #3025
 The Spot~
-background:/public/games/deva/3001/background.png
-image:/public/games/deva/3001/title.png
-audio:/public/games/deva/3001/intro.mp3
+background:/public/games/deva/3025/background.png
+image:/public/games/deva/3025/title.png
+audio:/public/games/deva/3025/intro.mp3
 
 # The Spot
 
@@ -872,9 +872,9 @@ It is the thieves guild, don't enter if you care about your health or money.
 S
 #3027
 The Artist Collective~
-background:/public/games/deva/3001/background.png
-image:/public/games/deva/3001/title.png
-audio:/public/games/deva/3001/intro.mp3
+background:/public/games/deva/3027/background.png
+image:/public/games/deva/3027/title.png
+audio:/public/games/deva/3027/intro.mp3
 
 # The Artist Collective
 The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is the dark alley and to the east is The Artist's Bar.
@@ -1363,9 +1363,9 @@ audio: /public/games/deva/3050/intro.mp3
 You are inside the only room in the old warehouse.  Only a sparse amount of light shines in through the boarded up windows above you.  The place is very dusty and appears to have been unused for many years.
 ----
 
-doc[Information]:games/deva/3001/main
-news[News]:games/deva/3001/news
-map[Map]:games/deva/3001/map
+doc[Information]:games/deva/3050/main
+news[News]:games/deva/3050/news
+map[Map]:games/deva/3050/map
 ----
 north: Eastern End of Alley
 ~
