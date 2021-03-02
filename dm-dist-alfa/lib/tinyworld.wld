@@ -688,7 +688,7 @@ You see Artist Alley.
 0 -1 3024
 S
 #3026
-E. Artist Alley~
+100 E. Artist Alley~
 feecting:docs/games/deva/3026/main
 ~
 30 0 1
@@ -1108,29 +1108,28 @@ The alley leads west.
 0 -1 3043
 S
 #3045
-Alley at Levee~
-   You are standing in the alley which continues east and west.  South of
-here you see the levee.
+200 E. Artist Alley~
+feecting:docs/games/deva/3045/main
 ~
 30 0 1
 D1
-The alley leads east.
+feecting:docs/games/deva/3045/main_east
 ~
 ~
 0 -1 3046
 D2
-You see the levee.
+feecting:docs/games/deva/3045/main_south
 ~
 ~
 0 -1 3049
 D3
-The alley leads west.
+feecting:docs/games/deva/3045/main_west
 ~
 ~
 0 -1 3026
 S
 #3046
-Eastern end of Alley~
+300 E. Artist Alley~
    You are standing at the eastern end of the alley, the city wall is just
 east, blocking any further movement.  An old three-storey warehouse is
 directly south of here.
