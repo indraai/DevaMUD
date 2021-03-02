@@ -1040,7 +1040,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3043
-30 W. Artist Alley~
+Wall Road~
 feecting:docs/games/deva/3043/main
 ~
 30 0 1
@@ -1065,8 +1065,7 @@ feecting:docs/games/deva/3043/main_letters
 ~
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:docs/games/deva/3043/main_wall
 ~
 S
 #3044
