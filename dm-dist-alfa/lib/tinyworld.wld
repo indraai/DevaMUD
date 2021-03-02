@@ -40,17 +40,17 @@ feecting:docs/games/deva/3001/main
 ~
 30 12 0
 D0
-At the northern end of the temple hall is a statue and a huge altar.
+feecting:docs/games/deva/3001/main_north
 ~
 ~
 0 -1 3054
 D2
-You look down the huge stone steps at the temple square below.
+feecting:docs/games/deva/3001/main_down
 ~
 ~
 0 -1 3005
 D5
-You see the temple square.
+feecting:docs/games/deva/3001/main_south
 ~
 ~
 0 -1 3005
