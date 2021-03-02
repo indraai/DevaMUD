@@ -761,7 +761,7 @@ You see the practise yard.
 ~
 0 -1 3023
 D3
-You see the entrance hall to the thieves guild.
+You see the entrance hall to The Artist Collective.
 ~
 ~
 0 -1 3021
@@ -819,7 +819,7 @@ audio:/public/games/deva/3025/intro.mp3
 
 # The Spot
 
-The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is the dark alley.  To the north, this square
+The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is The Dank Alley.  To the north, this square
 is connected to The Market.  From the south you notice a nasty smell.
 ~
 30 0 1
@@ -829,7 +829,7 @@ You see The Market.
 ~
 0 -1 3014
 D1
-You see the dark alley.
+You see The Dank Alley.
 ~
 ~
 0 -1 3026
@@ -845,9 +845,8 @@ You see Artist Alley.
 0 -1 3024
 S
 #3026
-The Dark Alley~
-   The dark alley, to the west is The Spot and to the south is the
-Guild of Thieves.  The alley continues east.
+The Dank Alley~
+The Dank Alley, to the west is The Spot and to the south is The Artist Collective.  The alley continues east.
 ~
 30 0 1
 D1
@@ -856,7 +855,7 @@ The alley continues east.
 ~
 0 -1 3045
 D2
-You see the entrance to the thieves guild.
+You see the entrance to The Artist Collective.
 ~
 ~
 0 -1 3027
@@ -867,7 +866,7 @@ You see The Spot.
 0 -1 3025
 E
 guild~
-It is the thieves guild, don't enter if you care about your health or money.
+It is The Artist Collective, don't enter if you care about your health or money.
 ~
 S
 #3027
@@ -877,7 +876,7 @@ image:/public/games/deva/3027/title.png
 audio:/public/games/deva/3027/intro.mp3
 
 # The Artist Collective
-The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is the dark alley and to the east is The Artist's Bar.
+The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is The Dank Alley and to the east is The Artist's Bar.
 ~
 30 8 0
 D0
@@ -909,7 +908,7 @@ You see the secret yard.
 ~
 0 -1 3029
 D3
-You see the entrance hall to the thieves guild.
+You see the entrance hall to The Artist Collective.
 ~
 ~
 0 -1 3027
