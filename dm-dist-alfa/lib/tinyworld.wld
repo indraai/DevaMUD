@@ -819,7 +819,7 @@ audio:/public/games/deva/3025/intro.mp3
 
 # The Spot
 
-The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is The Dank Alley.  To the north, this square
+The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is Artist Alley.  To the north, this square
 is connected to The Market.  From the south you notice a nasty smell.
 ~
 30 0 1
@@ -829,7 +829,7 @@ You see The Market.
 ~
 0 -1 3014
 D1
-You see The Dank Alley.
+You see Artist Alley.
 ~
 ~
 0 -1 3026
@@ -845,8 +845,8 @@ You see Artist Alley.
 0 -1 3024
 S
 #3026
-The Dank Alley~
-The Dank Alley, to the west is The Spot and to the south is The Artist Collective.  The alley continues east.
+Artist Alley~
+Artist Alley, to the west is The Spot and to the south is The Artist Collective.  The alley continues east.
 ~
 30 0 1
 D1
@@ -876,7 +876,7 @@ image:/public/games/deva/3027/title.png
 audio:/public/games/deva/3027/intro.mp3
 
 # The Artist Collective
-The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is The Dank Alley and to the east is The Artist's Bar.
+The entrace The Artist Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is Artist Alley and to the east is The Artist's Bar.
 ~
 30 8 0
 D0
