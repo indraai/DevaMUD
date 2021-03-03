@@ -152,42 +152,17 @@ feecting:docs/games/deva/3006/up
 S
 #3007
 The Bar~
-image:/public/games/deva/3007/title.png
-audio:/public/games/deva/3007/intro.mp3
-
-# The Bar
-
-You are standing in The Bar. The Bar is set against the northern wall. This place is nice.  They have all the best fruit drinks with little umbrellas. All drinks are non-alcholic so Kids and Adults can enjoy alike.
-
-image:/public/games/deva/3007/party.png
-
-Remember... Every Saturday Evening Luau Party!!! Make sure to bring your Hula Hula Skirt.
-
-----
-doc[More Information]:games/deva/3007/main
-
-----
-look:Sign
-list:Menu
-buy:Drinks
-
-----
-west:The Inn
+feecting:docs/games/deva/3007/main
 ~
 30 8 0
 D3
-You see the exit to the entrance hall.
+feecting:docs/games/deva/3007/west
 ~
 ~
 0 -1 3006
 E
 sign~
-The sign reads:
-Free instructions provided by The Bar.
-
-   Buy  - Buy something (drinkable) from the bartender.
-   List - The bartender will show you all the different drinks and
-          specialities, and tell the price of each.
+feecting:docs/games/deva/3007/sign
 ~
 E
 writing carving carvings symbols symbol~
