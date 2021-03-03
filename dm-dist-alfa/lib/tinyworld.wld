@@ -376,29 +376,30 @@ feecting:docs/games/deva/3014/main
 ~
 30 0 1
 D0
-You see the temple square.
+feecting:docs/games/deva/3014/north
 ~
 ~
 0 -1 3005
 D1
+feecting:docs/games/deva/3014/east
 You see the main street.
 ~
 ~
 0 -1 3015
 D2
-You see The Spot.
+feecting:docs/games/deva/3014/south
 ~
 ~
 0 -1 3025
 D3
+feecting:docs/games/deva/3014/west
 You see the main street.
 ~
 ~
 0 -1 3013
-
 E
 statue~
-What you see is the Amaravati Worm, stretching around the Palace of Amaravati.
+What you see is the Amaravati Ring, stretching around the Palace of Amaravati.
 ~
 S
 #3015
