@@ -157,9 +157,9 @@ void do_practice(struct char_data *ch, char *arg, int cmd);
 
 char *command[]=
 { "north", 	     /* 1 */
-	"south",
-	"west",
   "east",
+  "south",
+  "west",
   "up",
   "down",
   "enter",

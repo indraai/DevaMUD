@@ -173,9 +173,9 @@ int find_door(struct char_data *ch, char *type, char *dir)
 	char *dirs[] =
 	{
 		"north",
+		"east",
 		"south",
 		"west",
-		"east",
 		"up",
 		"down",
 		"\n"
