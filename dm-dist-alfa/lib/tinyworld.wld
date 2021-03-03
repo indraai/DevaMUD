@@ -196,26 +196,8 @@ poems about beer, and small beer-mugs.
 ~
 S
 #3008
-Reception Desk~
-image:/public/games/deva/3008/title.png
-audio:/public/games/deva/3008/intro.mp3
-
-# Reception Desk
-
-image:/public/games/deva/3008/reception.png
-
-You are standing at the Reception Desk.  The staircase leads down to the entrance hall.  There is a small sign on the counter.
-
-----
-doc[More Information]:games/deva/3008/main
-
-----
-look:Sign
-offer:Price Rooms
-rent:Rent Room
-
-----
-down:The Inn
+The Reception Desk~
+feecting:docs/games/deva/3008/main
 ~
 30 8 0
 D5
@@ -225,16 +207,7 @@ You see the entrance hall.
 0 -1 3006
 E
 sign~
-Rooms are expensive but good!  You may:
-
-   Offer - get an offer on a room - Time is in real life days.
-   Rent  - Rent a room (saves your stuff, and quits the game),
-           minimum charge is one day.
-
-
-                          MY WAY OR THE HIGHWAY
-                             PAY YOUR RENT!
-                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+feecting:docs/games/deva/3008/sign
 ~
 S
 #3009
