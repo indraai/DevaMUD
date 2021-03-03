@@ -40,17 +40,17 @@ feecting:docs/games/deva/3001/main
 ~
 30 12 0
 D0
-feecting:docs/games/deva/3001/main_north
+feecting:docs/games/deva/3001/north
 ~
 ~
 0 -1 3054
 D2
-feecting:docs/games/deva/3001/main_down
+feecting:docs/games/deva/3001/down
 ~
 ~
 0 -1 3005
 D5
-feecting:docs/games/deva/3001/main_south
+feecting:docs/games/deva/3001/south
 ~
 ~
 0 -1 3005
@@ -61,12 +61,12 @@ feecting:docs/games/deva/3002/main
 ~
 30 12 0
 D1
-feecting:docs/games/deva/3002/main_east
+feecting:docs/games/deva/3002/east
 ~
 ~
 0 -1 3003
 D5
-feecting:docs/games/deva/3002/main_down
+feecting:docs/games/deva/3002/down
 ~
 ~
 0 -1 7026
@@ -77,18 +77,18 @@ feecting:docs/games/deva/3003/main
 ~
 30 12 0
 D2
-feecting:docs/games/deva/3003/main_south
+feecting:docs/games/deva/3003/south
 ~
 ~
 0 -1 3004
 D3
-feecting:docs/games/deva/3003/main_west
+feecting:docs/games/deva/3003/west
 ~
 ~
 0 -1 3002
 E
 sign~
-feecting:docs/games/deva/3002/main_sign
+feecting:docs/games/deva/3002/sign
 ~
 S
 #3004
@@ -97,12 +97,12 @@ feecting:docs/games/deva/3004/main
 ~
 30 8 0
 D0
-feecting:docs/games/deva/3004/main_north
+feecting:docs/games/deva/3004/north
 ~
 ~
 0 -1 3003
 D1
-feecting:docs/games/deva/3004/main_south
+feecting:docs/games/deva/3004/south
 ~
 ~
 0 -1 3005
@@ -113,22 +113,22 @@ feecting:docs/games/deva/3005/main
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3005/main_north
+feecting:docs/games/deva/3005/north
 ~
 ~
 0 -1 3001
 D1
-feecting:docs/games/deva/3005/main_east
+feecting:docs/games/deva/3005/east
 ~
 ~
 0 -1 3006
 D2
-feecting:docs/games/deva/3005/main_south
+feecting:docs/games/deva/3005/south
 ~
 ~
 0 -1 3014
 D3
-feecting:docs/games/deva/3005/main_west
+feecting:docs/games/deva/3005/west
 ~
 ~
 0 -1 3004
@@ -139,17 +139,17 @@ feecting:docs/games/deva/3005/main
 ~
 30 8 0
 D1
-feecting:docs/games/deva/3005/main_east
+feecting:docs/games/deva/3005/east
 ~
 ~
 0 -1 3007
 D3
-feecting:docs/games/deva/3005/main_west
+feecting:docs/games/deva/3005/west
 ~
 ~
 0 -1 3005
 D4
-feecting:docs/games/deva/3005/main_up
+feecting:docs/games/deva/3005/up
 
 ~
 ~
@@ -633,17 +633,17 @@ feecting:docs/games/deva/3024/main
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3024/main_west
+feecting:docs/games/deva/3024/west
 ~
 ~
 0 -1 3025
 D2
-feecting:docs/games/deva/3024/main_south
+feecting:docs/games/deva/3024/south
 ~
 ~
 0 -1 3048
 D3
-feecting:docs/games/deva/3024/main_east
+feecting:docs/games/deva/3024/east
 ~
 ~
 0 -1 3044
@@ -687,17 +687,17 @@ feecting:docs/games/deva/3026/main
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3026/main_east
+feecting:docs/games/deva/3026/east
 ~
 ~
 0 -1 3045
 D2
-feecting:docs/games/deva/3026/main_south
+feecting:docs/games/deva/3026/south
 ~
 ~
 0 -1 3027
 D3
-feecting:docs/games/deva/3026/main_west
+feecting:docs/games/deva/3026/west
 ~
 ~
 0 -1 3025
@@ -865,35 +865,26 @@ Each scroll is stored in a leather tube that protects it from moist.
 ~
 S
 #3034
-The Jeweller's Shop~
-   You are in a small, beautifully furnished room.  The warm light emanating
-from the small oil lamps on the walls is reflected in the hard, polished
-surface of the big mahogany desk that stands in the centre of the room.
-A small sign with golden letters stands on the desk.
+The Jewel Palace~
+feecting:docs/games/deva/3034/main
 ~
-30 8 0
+30 8
 D0
-You see Main Street.
+feecting:docs/games/deva/3034/north
 ~
 ~
 0 -1 3015
 E
 oil lamps~
-They are made from polished gold and looks as if they are securely fastened
-to the smooth stone walls.
+feecting:docs/games/deva/3034/lamps
 ~
 E
 desk~
-Your face is reflected in its surface.
+feecting:docs/games/deva/3034/desk
 ~
 E
 sign~
-The golden letters say :-
-
-    Use 'list' to see what is in store,
-        'buy <item>' to buy an item,
-        'sell <item>' to sell an item and
-        'value <item>' to make the jeweller evaluate an item.
+feecting:docs/games/deva/3034/sign
 ~
 S
 #3035
@@ -1045,27 +1036,27 @@ feecting:docs/games/deva/3043/main
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3043/main_north
+feecting:docs/games/deva/3043/north
 ~
 ~
 0 -1 3042
 D1
-feecting:docs/games/deva/3043/main_east
+feecting:docs/games/deva/3043/east
 ~
 ~
 0 -1 3044
 D2
-feecting:docs/games/deva/3043/main_south
+feecting:docs/games/deva/3043/south
 ~
 ~
 0 -1 3047
 E
 letters~
-feecting:docs/games/deva/3043/main_letters
+feecting:docs/games/deva/3043/letters
 ~
 E
 wall~
-feecting:docs/games/deva/3043/main_wall
+feecting:docs/games/deva/3043/wall
 ~
 S
 #3044
@@ -1074,17 +1065,17 @@ feecting:docs/games/deva/3044/main
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3044/main_north
+feecting:docs/games/deva/3044/north
 ~
 ~
 0 -1 3035
 D1
-feecting:docs/games/deva/3044/main_east
+feecting:docs/games/deva/3044/east
 ~
 ~
 0 -1 3024
 D3
-feecting:docs/games/deva/3044/main_west
+feecting:docs/games/deva/3044/west
 ~
 ~
 0 -1 3043
@@ -1095,17 +1086,17 @@ feecting:docs/games/deva/3045/main
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3045/main_east
+feecting:docs/games/deva/3045/east
 ~
 ~
 0 -1 3046
 D2
-feecting:docs/games/deva/3045/main_south
+feecting:docs/games/deva/3045/south
 ~
 ~
 0 -1 3049
 D3
-feecting:docs/games/deva/3045/main_west
+feecting:docs/games/deva/3045/west
 ~
 ~
 0 -1 3026
