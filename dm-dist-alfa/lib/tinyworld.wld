@@ -768,27 +768,22 @@ impossible to climb back up.
 0 -1 7043
 S
 #3030
-The Dump~
-   The dump, where the people from the city drop their garbage.  Through the
-garbage you can see a large junction of pipes, looks like the entrance to the
-sewer system.  South of here you see the river and to the north is the common
-square.
+Recycling Center~
+feecting:docs/games/deva/3030/main
 ~
 30 4 2
 D0
-You see the spot.
+feecting:docs/games/deva/3030/north
 ~
 ~
 0 -1 3025
 D2
-You see the river slowly flowing west, but notice that it would be
-impossible to reach the river due to all the garbage and a steep river
-bank.
+feecting:docs/games/deva/3030/south
 ~
 ~
 0 -1 -1
 D5
-You see the sewers.
+feecting:docs/games/deva/3030/down
 ~
 ~
 0 -1 7030
