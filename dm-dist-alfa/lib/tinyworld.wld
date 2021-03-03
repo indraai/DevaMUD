@@ -1299,41 +1299,21 @@ some kind of mortar.  It is far too high to climb.
 S
 #3054
 Offering Table~
-background:/public/games/deva/3054/background.png
-image:/public/games/deva/3054/title.png
-audio:/public/games/deva/3054/intro.mp3
-
-# Offering Table
-You are near the Offering Table in the northern end of the main hall. A huge table made from white polished marble is standing in front of you and behind it is a sitting statue of Indra, the King of the Gods.
-
-thanks:Thank you for visiting!
-note:If you need assistance please ask the nearest Monk to help you out.
-----
-
-doc[Information]:games/deva/3054/main
-news[News]:games/deva/3054/news
-map[Map]:games/deva/3054/map
-----
-
-south:The Temple
+feecting:docs/games/deva/3054/main
 ~
 30 8 0
 D2
-You see the southern end of the temple.
+feecting:docs/games/deva/3054/south
 ~
 ~
 0 -1 3001
 E
-altar~
-Even though the altar is more than ten feet long it appears to be made from a
-single block of white virgin marble.
+offering table~
+feecting:docs/games/deva/3054/table
 ~
 E
-statue odin king god~
-The statue represents the one-eyed Odin sitting on a his throne.  He has
-long, grey hair and beard and a strict look on his face.  On top of the
-throne, just above his shoulders, his two ravens Hugin and Munin are sitting
-and at his feet are his wolves Gere and Freke.
+statue indra king god~
+feecting:docs/games/deva/3054/statue
 ~
 S
 #3055
