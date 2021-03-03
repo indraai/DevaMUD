@@ -91,9 +91,9 @@ const int movement_loss[]=
 const char *dirs[] =
 {
 	"north",
+  "east",
   "south",
   "west",
-	"east",
 	"up",
 	"down",
 	"\n"
