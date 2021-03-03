@@ -1136,20 +1136,7 @@ You see the river flowing west.
 S
 #3050
 The Warehouse~
-background: /public/games/deva/3050/background.png
-image: /public/games/deva/3050/title.png
-audio: /public/games/deva/3050/intro.mp3
-
-# The Warehouse
-
-You are inside the only room in the old warehouse.  Only a sparse amount of light shines in through the boarded up windows above you.  The place is very dusty and appears to have been unused for many years.
-----
-
-doc[Information]:games/deva/3050/main
-news[News]:games/deva/3050/news
-map[Map]:games/deva/3050/map
-----
-north: Eastern End of Alley
+feecting:docs/games/deva/3050/main
 ~
 30 8 0
 D0
