@@ -389,9 +389,9 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 	char *tmp_desc;
 	static char *keywords[]= {
 		"north",
-		"east",
 		"south",
 		"west",
+		"east",
 		"up",
 		"down",
 		"in",
@@ -693,9 +693,9 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 	char *exits[] =
 	{
 		"north",
-		"east",
 		"south",
 		"west",
+		"east",
 		"up",
 		"down"
 	};
