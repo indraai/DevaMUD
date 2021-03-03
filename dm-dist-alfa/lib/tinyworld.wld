@@ -372,15 +372,7 @@ You see the main street.
 S
 #3014
 The Market~
-image:/public/games/deva/3014/title.png
-audio:/public/games/deva/3014/intro.png
-
-# The Market
-
-You are standing on The Market, the famous Square of Amaravati. A large, pecualiar looking statue is standing in the middle of the square. Roads lead in every direction, north to the temple square, south to The Spot, east and westbound is the main street.
-
-----
-
+feecting:docs/games/deva/3014/main
 ~
 30 0 1
 D0
