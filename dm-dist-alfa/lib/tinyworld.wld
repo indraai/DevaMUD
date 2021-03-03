@@ -628,34 +628,26 @@ feecting:docs/games/deva/3024/east
 0 -1 3044
 S
 #3025
-The Spot~
-background:/public/games/deva/3025/background.png
-image:/public/games/deva/3025/title.png
-audio:/public/games/deva/3025/intro.mp3
-
-# The Spot
-
-The spot, people pass you, talking to each other.  To the west is the Artist Alley and to the east is Artist Alley.  To the north, this square
-is connected to The Market.  From the south you notice a nasty smell.
+feecting:docs/games/deva/3025/main
 ~
 30 0 1
 D0
-You see The Market.
+feecting:docs/games/deva/3025/north
 ~
 ~
 0 -1 3014
 D1
-You see Artist Alley.
+feecting:docs/games/deva/3025/east
 ~
 ~
 0 -1 3026
 D2
-You see The Dump.
+feecting:docs/games/deva/3025/south
 ~
 ~
 0 -1 3030
 D3
-You see Artist Alley.
+feecting:docs/games/deva/3025/west
 ~
 ~
 0 -1 3024
