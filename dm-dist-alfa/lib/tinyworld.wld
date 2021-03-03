@@ -43,29 +43,14 @@ D0
 feecting:docs/games/deva/3001/north
 ~
 ~
-30 12 0
-D1
-feecting:docs/games/deva/3001/east
-~
-~
 0 -1 3054
 D2
-feecting:docs/games/deva/3001/south
-~
-~
-30 12 0
-D3
-feecting:docs/games/deva/3001/west
-~
-~
-30 12 0
-D4
-feecting:docs/games/deva/3001/up
+feecting:docs/games/deva/3001/down
 ~
 ~
 0 -1 3005
 D5
-feecting:docs/games/deva/3001/down
+feecting:docs/games/deva/3001/south
 ~
 ~
 0 -1 3005
