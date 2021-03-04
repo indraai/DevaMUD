@@ -238,7 +238,7 @@ Monster fields description:
 <affection flags>[NL]
 
   This is a bitvector that indicates what the monster is affected by.
-  Puff could for example be able to "detect invisible" or maybe
+  Garuda could for example be able to "detect invisible" or maybe
   "sanctuary" (1/2 damage). A lot of these bits are meant for players
   only (in a context with a spell), and should NOT be used when indicated.
   The bits are:
