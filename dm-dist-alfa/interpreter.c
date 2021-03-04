@@ -1051,7 +1051,7 @@ void nanny(struct descriptor_data *d, char *arg)
 							if (GET_NAME(k->original) &&
 						    (strcasecmp(GET_NAME(k->original), tmp_name) == 0))
 							{
-								SEND_TO_Q("Already playing, cannot connect\n\r", d);
+								SEND_TO_Q("Already playing, cannot connect", d);
 								SEND_TO_Q("Name: ", d);
 								return;
 							}
@@ -1059,7 +1059,7 @@ void nanny(struct descriptor_data *d, char *arg)
 							if (GET_NAME(k->character) &&
 						    (strcasecmp(GET_NAME(k->character), tmp_name) == 0))
 							{
-								SEND_TO_Q("Already playing, cannot connect\n\r", d);
+								SEND_TO_Q("Already playing, cannot connect", d);
 								SEND_TO_Q("Name: ", d);
 								return;
 							}
@@ -1119,7 +1119,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					free(GET_NAME(d->character));
 					STATE(d) = CON_NME;
 				} else { /* Please do Y or N */
-					SEND_TO_Q("Please type Yes or No? ", d);
+					SEND_TO_Q("Yes or No? ", d);
 				}
 			}
 		break;
@@ -1160,7 +1160,7 @@ void nanny(struct descriptor_data *d, char *arg)
 				slog(buf);
 
 				SEND_TO_Q(motd, d);
-				SEND_TO_Q("\n\r\n*** PRESS RETURN: ", d);
+				SEND_TO_Q("[PRESS RETURN]", d);
 
 				STATE(d) = CON_RMOTD;
 			}
@@ -1216,8 +1216,8 @@ void nanny(struct descriptor_data *d, char *arg)
 				break;
 
 				default:
-					SEND_TO_Q("That's not a sex..\n\r", d);
-					SEND_TO_Q("What IS your sex? :", d);
+					SEND_TO_Q("That's not a gender..", d);
+					SEND_TO_Q("What IS your gender? :", d);
 					return;
 				break;
 			}
@@ -1240,7 +1240,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					d->pos = create_entry(GET_NAME(d->character));
 					save_char(d->character, NOWHERE);
 					SEND_TO_Q(motd, d);
-					SEND_TO_Q("\n\r\n*** PRESS RETURN: ", d);
+					SEND_TO_Q("[PRESS RETURN]", d);
 					STATE(d) = CON_RMOTD;
 				} break;
 				case 'c':
@@ -1251,7 +1251,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					d->pos = create_entry(GET_NAME(d->character));
 					save_char(d->character, NOWHERE);
 					SEND_TO_Q(motd, d);
-					SEND_TO_Q("\n\r\n*** PRESS RETURN: ", d);
+					SEND_TO_Q("[PRESS RETURN]", d);
 					STATE(d) = CON_RMOTD;
 				} break;
 				case 'w':
@@ -1262,7 +1262,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					d->pos = create_entry(GET_NAME(d->character));
 					save_char(d->character, NOWHERE);
 					SEND_TO_Q(motd, d);
-					SEND_TO_Q("\n\r\n*** PRESS RETURN: ", d);
+					SEND_TO_Q("[PRESS RETURN]", d);
 					STATE(d) = CON_RMOTD;
 				} break;
 				case 't':
@@ -1273,7 +1273,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					d->pos = create_entry(GET_NAME(d->character));
 					save_char(d->character, NOWHERE);
 					SEND_TO_Q(motd, d);
-					SEND_TO_Q("\n\r\n*** PRESS RETURN: ", d);
+					SEND_TO_Q("[PRESS RETURN]", d);
 					STATE(d) = CON_RMOTD;
 				} break;
 
@@ -1332,8 +1332,7 @@ void nanny(struct descriptor_data *d, char *arg)
 				break;
 
 				case '2':
-					SEND_TO_Q("Enter a text you'd like others to see when they look at you.\n\r", d);
-					SEND_TO_Q("Terminate with a '@'.\n\r", d);
+					SEND_TO_Q("Please describe yourself. Terminate with '@'.", d);
 					if (d->character->player.description)
 					{
 						SEND_TO_Q("Old description :\n\r", d);
@@ -1356,7 +1355,7 @@ void nanny(struct descriptor_data *d, char *arg)
 					STATE(d) = CON_PWDNEW;
 				break;
 				default:
-					SEND_TO_Q("Wrong option.\n\r", d);
+					SEND_TO_Q("Wrong option.", d);
 					SEND_TO_Q(MENU, d);
 				break;
 			}
@@ -1389,7 +1388,7 @@ void nanny(struct descriptor_data *d, char *arg)
 				return;
 			}
 			SEND_TO_Q(
-				"\n\rDone. You must enter the game to make the change final\n\r",
+				"Done. Please enter the game to make changes final.",
 					d);
 			SEND_TO_Q(MENU, d);
 			STATE(d) = CON_SLCT;
