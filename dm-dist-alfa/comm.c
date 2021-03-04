@@ -703,7 +703,7 @@ int new_descriptor(int s)
 
 	descriptor_list = newd;
 
-	SEND_TO_Q(GREETINGS, newd);
+	/*SEND_TO_Q(GREETINGS, newd);*/
 	SEND_TO_Q("Deva.world login: ", newd);
 
 	return(0);
