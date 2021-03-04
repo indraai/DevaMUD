@@ -27,6 +27,10 @@ darkness around you without any trace of edges or shadow.
    There is a "No Tipping" notice pinned to the darkness.
 ~
 0 8 1
+D5
+You are see The Chat Room~
+~
+0 -1 1200
 S
 #1200
 The Chat Room~
@@ -35,6 +39,10 @@ which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
 the owner of this room needs none.
 ~
 0 520 0
+D5
+You are see Amaravati.~
+~
+0 -1 3001
 S
 #1201
 Moses' Hangout~
