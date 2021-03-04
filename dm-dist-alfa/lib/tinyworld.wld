@@ -1,19 +1,23 @@
 #0
-The Void~
+Nothing~
   You step out into ......
   You don't think that you are not floating in nothing.
 ~
 0 8 1
-D4
-void~
+D5
+You can see something.~
 ~
-0 -1 3001
+0 -1 1
 S
 #1
-The Void~
+Something~
   You don't think that you are not floating in nothing.
 ~
 0 8 1
+D5
+You are see the space.~
+~
+0 -1 2
 S
 #2
 Limbo~
