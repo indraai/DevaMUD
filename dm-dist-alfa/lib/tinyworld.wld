@@ -2,12 +2,8 @@
 Nothing~
 feecting:docs/games/deva/0/main
 ~
-0 12 0
-D0
-feecting:docs/games/deva/3001/north
-~
-~
-0 -1 3054
+0 8 1
+S
 #1
 Something~
 ~
@@ -39,7 +35,7 @@ S
 The Temple~
 feecting:docs/games/deva/3001/main
 ~
-0 12 0
+30 12 0
 D0
 feecting:docs/games/deva/3001/north
 ~
