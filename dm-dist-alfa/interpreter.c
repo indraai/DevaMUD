@@ -1315,7 +1315,7 @@ void nanny(struct descriptor_data *d, char *arg)
 						load_char_objs(d->character);
 						save_char(d->character, NOWHERE);
 					}
-					send_to_char(WELC_MESSG, d->character);
+					/* send_to_char(WELC_MESSG, d->character); */
 					d->character->next = character_list;
 					character_list = d->character;
 					if (d->character->in_room == NOWHERE)
