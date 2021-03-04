@@ -1,167 +1,220 @@
 #0
-Nothing~
-feecting:docs/games/deva/0/main
+The Void~
+  You step out into ......
+  You don't think that you are not floating in nothing.
+~
+0 8 1
+D4
+void~
+~
+0 -1 3001
+S
+#1
+The Void~
+  You don't think that you are not floating in nothing.
 ~
 0 8 1
 S
-#100
-Something~
-feecting:docs/games/deva/1/main
+#2
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
 ~
 0 8 1
 S
-#200
-Space~
-feecting:docs
-~
-0 8 1
-S
-#300
-Heaven~
+#1200
+The Chat Room~
+   You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
+the owner of this room needs none.
 ~
 0 520 0
 S
 #1201
-Indra~
-feecting:docs/games/deva/1201/main
+Moses' Hangout~
+   You see here a cozy little room with a fireplace.  You can tell it is Moses'
+room by the two stone tablets and a bible on a small ledge near the fireplace.
+This room was designed for total relaxation.  You can watch television, listen
+to the stereo, even soak in a hot tub.
+There is a bell here for the butler.
 ~
 0 520 0
 S
 #1202
-Deva~
-feecting:docs/games/deva/1202/main
+The centre of the universe.~
+  You are at the centre of the universe, everything is filled with bright
+light in all colors. You feel time and space no longer exist here.
+Exits fill the room in all 42 dimensions, leading everywhere.
+The only exit in your dimension unfortunatly leads right back here.
 ~
 0 520 0
 S
 #3001
-Amaravati~
-feecting:docs/games/deva/3001/main
+The Temple Of Midgaard~
+   You are in the southern end of the temple hall in the Temple of Midgaard.
+The temple has been constructed from giant marble blocks, eternal in
+appearance, and most of the walls are covered by ancient wall paintings
+picturing Gods, Giants and peasants.
+   Large steps lead down through the grand temple gate, descending the huge
+mound upon which the temple is built and ends on the temple square below.
 ~
 30 12 0
 D0
-feecting:docs/games/deva/3001/north
+At the northern end of the temple hall is a statue and a huge altar.
 ~
 ~
 0 -1 3054
+D2
+You look down the huge stone steps at the temple square below.
+~
+~
+0 -1 3005
 D5
-feecting:docs/games/deva/3001/down
+You see the temple square.
 ~
 ~
 0 -1 3005
 S
 #3002
-The Sanctuary~
-feecting:docs/games/deva/3002/main
+Cleric's Inner Sanctum~
+   This is the inner sanctum.  A picture of the mighty Thor, is hanging on
+the wall, just above the altar which is set against the western wall.  A well
+in the middle of the floor leads down into darkness.  Vile smells waft from
+the depths.
 ~
 30 12 0
 D1
-feecting:docs/games/deva/3002/east
+You see your favorite place, the bar of divination.
 ~
 ~
 0 -1 3003
 D5
-feecting:docs/games/deva/3002/down
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
 ~
 ~
 0 -1 7026
 S
 #3003
-The Table~
-feecting:docs/games/deva/3003/main
+Cleric's Bar~
+   The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
 ~
 30 12 0
 D2
-feecting:docs/games/deva/3003/south
+You see the entrance.
 ~
 ~
 0 -1 3004
 D3
-feecting:docs/games/deva/3003/west
+You see the inner sanctum.
 ~
 ~
 0 -1 3002
 E
 sign~
-feecting:docs/games/deva/3002/sign
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialities, and tell the price of each.
 ~
 S
 #3004
-The Monastery~
-feecting:docs/games/deva/3004/main
+Entrance to Cleric's Guild~
+   The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads east to the temple square.  A small entrance to
+the bar is in the northern wall.
 ~
 30 8 0
 D0
-feecting:docs/games/deva/3004/north
+You see the bar, richly decorated with really stylish furniture.
 ~
 ~
 0 -1 3003
 D1
-feecting:docs/games/deva/3004/south
+You see the Temple Square.
 ~
 ~
 0 -1 3005
 S
 #3005
-The Circle~
-feecting:docs/games/deva/3005/main
+The Temple Square~
+   You are standing on the temple square.  Huge marble steps lead up to the
+temple gate.  The entrance to the Clerics Guild is to the west, and the old
+Grunting Boar Inn, is to the east.  Just south of here you see the market
+square, the center of Midgaard.
 ~
 30 0 1
-D4
-feecting:docs/games/deva/3005/up
+D0
+You see the temple.
 ~
 ~
 0 -1 3001
 D1
-feecting:docs/games/deva/3005/east
+You see the good old Grunting Boar Inn.
 ~
 ~
 0 -1 3006
 D2
-feecting:docs/games/deva/3005/south
+You see the Market Square.
 ~
 ~
 0 -1 3014
 D3
-feecting:docs/games/deva/3005/west
+You see the entrance to the Clerics Guild.
 ~
 ~
 0 -1 3004
 S
 #3006
-The Inn~
-feecting:docs/games/deva/3006/main
+Entrance to the Grunting Boar Inn~
+   You are standing in the entrance hall of the Grunting Boar Inn.  The hall
+has been wisely decorated with simple but functional furniture.  A small
+staircase leads up to the reception and the bar is to the east.
 ~
 30 8 0
 D1
-feecting:docs/games/deva/3006/east
+Surprise! You see the bar.
 ~
 ~
 0 -1 3007
 D3
-feecting:docs/games/deva/3006/west
+You see the temple square.
 ~
 ~
 0 -1 3005
 D4
-feecting:docs/games/deva/3006/up
-
+You see the room reception.
 ~
 ~
 0 -1 3008
 S
 #3007
-The Bar~
-feecting:docs/games/deva/3007/main
+The Grunting Boar~
+   You are standing in the bar.  The bar is set against the northern wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the western wall, and through the southeastern windows you can see the temple
+square.  This place makes you feel like home.
+A small sign with big letters is fastened to the bar.
 ~
 30 8 0
 D3
-feecting:docs/games/deva/3007/west
+You see the exit to the entrance hall.
 ~
 ~
 0 -1 3006
 E
 sign~
-feecting:docs/games/deva/3007/sign
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialities, and tell the price of each.
 ~
 E
 writing carving carvings symbols symbol~
@@ -170,8 +223,9 @@ poems about beer, and small beer-mugs.
 ~
 S
 #3008
-The Reception Desk~
-feecting:docs/games/deva/3008/main
+The Reception~
+   You are standing in the reception.  The staircase leads down to the
+entrance hall.  There is a small sign on the counter.
 ~
 30 8 0
 D5
@@ -181,25 +235,24 @@ You see the entrance hall.
 0 -1 3006
 E
 sign~
-feecting:docs/games/deva/3008/sign
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
 ~
 S
 #3009
 The Bakery~
-image:/public/games/deva/3009/title.png
-audio:/public/games/deva/3009/intro.mp3
-
-# The Bakery
-
-You are inside the The Bakery.  A sweet scent freshly baked pastries, breads, and goodies of the are finding their way up your nose.  You sense a craving for The Bakers goodness.
-
-Made only with the finest quality ingredients in The Bakers top of the line comple Bakers Ovens he make it all for the the persons of Amaravati.
-
-doc[More Information]:games/deva/3009/main
-
-----
-look:Sign
-list:Menu
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
 ~
 30 8 0
 D2
@@ -220,24 +273,33 @@ and your soul sing.
 E
 sign~
 Free instructions provided by the store:
-----
-buy:Will buy you some bread or pastry.
-list:List - The baker will kindly tell you the price and sort of the bread in his bakery.
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
 ~
 S
 #3010
-The Store~
-feecting:docs/games/deva/3010/main
+The General Store~
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
 ~
 30 8 0
 D2
-feecting:docs/games/deva/3010/south
+You see the main street.
 ~
 ~
 0 -1 3015
 E
 note~
-feecting:/docs/games/deva/3010/note
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
 ~
 S
 #3011
@@ -262,9 +324,10 @@ The note reads:
 ~
 S
 #3012
-20 W. Main Street~
-   You are at the end of the main street of Amaravati.  South of here is the
-entrance to the Guild of Magic Users.  The street continues east towards The Market.  The magic shop is to the north and to the west is the city
+Main Street~
+   You are at the end of the main street of Midgaard.  South of here is the
+entrance to the Guild of Magic Users.  The street continues east towards the
+market square.  The magic shop is to the north and to the west is the city
 gate.
 ~
 30 0 1
@@ -290,10 +353,10 @@ You see the city gate.
 0 -1 3040
 S
 #3013
-10 W. Main Street~
-   You are on the main street passing through the City of Amaravati.  South of
+Main Street~
+   You are on the main street passing through the City of Midgaard.  South of
 here is the entrance to the Armoury, and the bakery is to the north.  East of
-here is The Market.
+here is the market square.
 ~
 30 0 1
 D0
@@ -302,7 +365,7 @@ You see the bakery.
 ~
 0 -1 3009
 D1
-You see The Market.
+You see the market square.
 ~
 ~
 0 -1 3014
@@ -318,37 +381,41 @@ You see the main street.
 0 -1 3012
 S
 #3014
-The Market~
-feecting:docs/games/deva/3014/main
+Market Square~
+   You are standing on the market square, the famous Square of Midgaard.
+A large, pecualiar looking statue is standing in the middle of the square.
+Roads lead in every direction, north to the temple square, south to the
+common square, east and westbound is the main street.
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3014/north
+You see the temple square.
 ~
 ~
 0 -1 3005
 D1
-feecting:docs/games/deva/3014/east
+You see the main street.
 ~
 ~
 0 -1 3015
 D2
-feecting:docs/games/deva/3014/south
+You see the common square.
 ~
 ~
 0 -1 3025
 D3
-feecting:docs/games/deva/3014/west
+You see the main street.
 ~
 ~
 0 -1 3013
+
 E
 statue~
-What you see is the Amaravati Ring, stretching around the Palace of Amaravati.
+What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
 ~
 S
 #3015
-10 E. Main Street~
+The Main Street~
    You are on Main Street crossing through town.  To the north is the general
 store, and the main street continues east.  To the west you see and hear the
 market place and to the south is the Jeweller's Shop.
@@ -370,16 +437,16 @@ You see the Jeweller's Shop.
 ~
 0 -1 3034
 D3
-You see The Market.
+You see the market square.
 ~
 ~
 0 -1 3014
 S
 #3016
-20 E. Main Street~
-   Main Street, to the north is the weapon shop and to the south is the
+The Main Street~
+   The main street, to the north is the weapon shop and to the south is the
 Guild of Swordsmen.  To the east you leave town and to the west the street
-leads to the The Market.
+leads to the market square.
 ~
 30 0 1
 D0
@@ -398,28 +465,14 @@ You see the swordsmen's guild.
 ~
 0 -1 3021
 D3
-You see the main street leading to The Market.
+You see the main street leading to the market square.
 ~
 ~
 0 -1 3015
 S
 #3017
 Entrance to Mage's Guild~
-background:public/games/deva/3017/background.png
-image:public/games/deva/3017/title.png
-audio:public/games/deva/3017/intro.mp3
-
-# The Mage Guild
-The entrance hall is a small, poor lighted room.
-----
-
-doc[Information]:games/deva/3017/main
-news[News]:games/deva/3017/news
-map[Map]:games/deva/3017/map
-----
-
-north:Main Street
-south:Mage's Bar
+   The entrance hall is a small, poor lighted room.
 ~
 30 8 0
 D0
@@ -529,7 +582,7 @@ You see the practise yard.
 ~
 0 -1 3023
 D3
-You see the entrance hall to The Collective.
+You see the entrance hall to the thieves guild.
 ~
 ~
 0 -1 3021
@@ -553,85 +606,86 @@ impossible to climb back up.
 0 -1 7048
 S
 #3024
-10 W. Artist Alley~
-feecting:docs/games/deva/3024/main
+Eastern End of Poor Alley~
+   You are at the poor alley.  South of here is the Grubby Inn and to the
+east you see common square.  The alley continues further west.
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3024/west
+You see the common square.
 ~
 ~
 0 -1 3025
 D2
-feecting:docs/games/deva/3024/south
+You see the Inn.
 ~
 ~
 0 -1 3048
 D3
-feecting:docs/games/deva/3024/east
+You see the poor alley.
 ~
 ~
 0 -1 3044
 S
 #3025
-The Spot~
-feecting:docs/games/deva/3025/main
+The Common Square~
+   The common square, people pass you, talking to each other.  To the west is
+the poor alley and to the east is the dark alley.  To the north, this square
+is connected to the market square.  From the south you notice a nasty smell.
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3025/north
+You see the market square.
 ~
 ~
 0 -1 3014
 D1
-feecting:docs/games/deva/3025/east
+You see the dark alley.
 ~
 ~
 0 -1 3026
 D2
-feecting:docs/games/deva/3025/south
+You see the city dump.
 ~
 ~
 0 -1 3030
 D3
-feecting:docs/games/deva/3025/west
+You see the poor alley.
 ~
 ~
 0 -1 3024
 S
 #3026
-10 E. Artist Alley~
-feecting:docs/games/deva/3026/main
+The Dark Alley~
+   The dark alley, to the west is the common square and to the south is the
+Guild of Thieves.  The alley continues east.
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3026/east
+The alley continues east.
 ~
 ~
 0 -1 3045
 D2
-feecting:docs/games/deva/3026/south
+You see the entrance to the thieves guild.
 ~
 ~
 0 -1 3027
 D3
-feecting:docs/games/deva/3026/west
+You see the common square.
 ~
 ~
 0 -1 3025
 E
 guild~
-It is The Collective, don't enter if you care about your health or money.
+It is the thieves guild, don't enter if you care about your health or money.
 ~
 S
 #3027
-The Collective~
-background:/public/games/deva/3027/background.png
-image:/public/games/deva/3027/title.png
-audio:/public/games/deva/3027/intro.mp3
-
-# The Collective
-The entrace The Collective.  A place where you can meet amazing artists and spend all your money on their art, if you are not careful.  To the north is Artist Alley and to the east is The Artist's Bar.
+Entrance Hall to the Guild of Thieves~
+   The entrace hall to the thieves' and assassins' guild.  A place where you
+can lose both your life and your money, if you are not careful.  To the north
+is the dark alley and to the east is the thieves' bar.
 ~
 30 8 0
 D0
@@ -646,15 +700,11 @@ You see the thieves bar, where everything disappears.
 0 -1 3028
 S
 #3028
-The Artist Bar~
-background:/public/games/deva/3027/background.png
-image:/public/games/deva/3027/title.png
-audio:/public/games/deva/3027/intro.mp3
-
-# The Artist Bar
-
-The bar of the artists.  This place is beautifully furnished.  To the south is the yard, and to the west is the entrance hall. (Maybe the furniture has been hand made?!)
-
+The Thieves Bar~
+   The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the south is the yard, and to
+the west is the entrance hall.
+   (Maybe the furniture has been stolen?!)
 ~
 30 12 0
 D2
@@ -663,7 +713,7 @@ You see the secret yard.
 ~
 0 -1 3029
 D3
-You see the entrance hall to The Collective.
+You see the entrance hall to the thieves guild.
 ~
 ~
 0 -1 3027
@@ -691,22 +741,27 @@ impossible to climb back up.
 0 -1 7043
 S
 #3030
-Recycling Center~
-feecting:docs/games/deva/3030/main
+The Dump~
+   The dump, where the people from the city drop their garbage.  Through the
+garbage you can see a large junction of pipes, looks like the entrance to the
+sewer system.  South of here you see the river and to the north is the common
+square.
 ~
 30 4 2
 D0
-feecting:docs/games/deva/3030/north
+You see the common square.
 ~
 ~
 0 -1 3025
 D2
-feecting:docs/games/deva/3030/south
+You see the river slowly flowing west, but notice that it would be
+impossible to reach the river due to all the garbage and a steep river
+bank.
 ~
 ~
 0 -1 -1
 D5
-feecting:docs/games/deva/3030/down
+You see the sewers.
 ~
 ~
 0 -1 7030
@@ -778,26 +833,35 @@ Each scroll is stored in a leather tube that protects it from moist.
 ~
 S
 #3034
-The Jewel Palace~
-feecting:docs/games/deva/3034/main
+The Jeweller's Shop~
+   You are in a small, beautifully furnished room.  The warm light emanating
+from the small oil lamps on the walls is reflected in the hard, polished
+surface of the big mahogany desk that stands in the centre of the room.
+A small sign with golden letters stands on the desk.
 ~
-30 8
+30 8 0
 D0
-feecting:docs/games/deva/3034/north
+You see Main Street.
 ~
 ~
 0 -1 3015
 E
 oil lamps~
-feecting:docs/games/deva/3034/lamps
+They are made from polished gold and looks as if they are securely fastened
+to the smooth stone walls.
 ~
 E
 desk~
-feecting:docs/games/deva/3034/desk
+Your face is reflected in its surface.
 ~
 E
 sign~
-feecting:docs/games/deva/3034/sign
+The golden letters say :-
+
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the jeweller evaluate an item.
 ~
 S
 #3035
@@ -839,7 +903,7 @@ The wooden sign says :-
 ~
 S
 #3040
-30 W. Main Street~
+Inside the West Gate of Midgaard~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
 east and Wall Road leads south from here.
@@ -884,7 +948,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3041
-30 E. Main Street~
+Inside the East Gate of Midgaard~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
 west from here.
@@ -922,7 +986,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3042
-10 N. Wall Road~
+Wall Road~
    You are walking next to the western city wall.  The road continues further
 south and the city gate is just north of here.
 ~
@@ -945,93 +1009,100 @@ some kind of mortar.  It is far too high to climb.
 S
 #3043
 Wall Road~
-feecting:docs/games/deva/3043/main
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3043/north
+The road continues further north.
 ~
 ~
 0 -1 3042
 D1
-feecting:docs/games/deva/3043/east
+The alley leads east.
 ~
 ~
 0 -1 3044
 D2
-feecting:docs/games/deva/3043/south
+The road continues further south.
 ~
 ~
 0 -1 3047
 E
 letters~
-feecting:docs/games/deva/3043/letters
+It says 'Who watches the watchmen?'
 ~
 E
 wall~
-feecting:docs/games/deva/3043/wall
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
 ~
 S
 #3044
-20 W. Artist Alley~
-feecting:docs/games/deva/3044/main
+Poor Alley~
+   You are in narrow and dirty alley leading east and west.  The leather shop
+is to the north.
 ~
 30 0 1
 D0
-feecting:docs/games/deva/3044/north
+The leather shop is to the north.
 ~
 ~
 0 -1 3035
 D1
-feecting:docs/games/deva/3044/east
+The alley leads east.
 ~
 ~
 0 -1 3024
 D3
-feecting:docs/games/deva/3044/west
+The alley leads west.
 ~
 ~
 0 -1 3043
 S
 #3045
-20 E. Artist Alley~
-feecting:docs/games/deva/3045/main
+Alley at Levee~
+   You are standing in the alley which continues east and west.  South of
+here you see the levee.
 ~
 30 0 1
 D1
-feecting:docs/games/deva/3045/east
+The alley leads east.
 ~
 ~
 0 -1 3046
 D2
-feecting:docs/games/deva/3045/south
+You see the levee.
 ~
 ~
 0 -1 3049
 D3
-feecting:docs/games/deva/3045/west
+The alley leads west.
 ~
 ~
 0 -1 3026
 S
 #3046
-30 E. Artist Alley~
-feecting:docs/games/deva/3046/main
+Eastern end of Alley~
+   You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  An old three-storey warehouse is
+directly south of here.
 ~
 30 0 1
 D2
-feecting:docs/games/deva/3046/south
+You see the warehouse.
 ~
 ~
 0 -1 3050
 D3
-feecting:docs/games/deva/3046/west
+You see the alley.
 ~
 ~
 0 -1 3045
 S
 #3047
-10 S. Wall Road~
+Wall Road~
    You are standing on the road next to the western city wall which
 continues north.  South of here is a bridge across the river.
 ~
@@ -1082,8 +1153,10 @@ You see the river flowing west.
 0 -1 3203
 S
 #3050
-The Warehouse~
-feecting:docs/games/deva/3050/main
+Abandoned Warehouse~
+   You are inside the only room in the old warehouse.  Only a sparse amount
+of light shines in through the boarded up windows above you.  The place is
+very dusty and appears to have been unused for many years.
 ~
 30 8 0
 D0
@@ -1125,7 +1198,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3052
-Outside the West Gate of Amaravati~
+Outside the West Gate of Midgaard~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  To the west you
 can see the edge of a big forest. A small dusty trail leads noth along the
@@ -1133,7 +1206,7 @@ wall.
 ~
 30 0 1
 D0
-The trail continues around the City of Amaravati.
+The trail continues around the City of Midgaard.
 ~
 ~
 0 -1 3900
@@ -1170,7 +1243,7 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3053
-Outside the East Gate of Amaravati~
+Outside the East Gate of Midgaard~
    You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  To the east the
 plains stretch out in the distance. To the north a small dusty trail follow
@@ -1178,7 +1251,7 @@ the city wall.
 ~
 30 0 1
 D0
-The trail continues around the City of Amaravati.
+The trail continues around the City of Midgaard.
 ~
 ~
 0 -1 3908
@@ -1214,22 +1287,28 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-Offering Table~
-feecting:docs/games/deva/3054/main
+By the Temple Altar~
+   You are by the temple altar in the northern end of the Temple of Midgaard.
+A huge altar made from white polished marble is standing in front of you and
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
 ~
 30 8 0
 D2
-feecting:docs/games/deva/3054/south
+You see the southern end of the temple.
 ~
 ~
 0 -1 3001
 E
-offering table~
-feecting:docs/games/deva/3054/table
+altar~
+Even though the altar is more than ten feet long it appears to be made from a
+single block of white virgin marble.
 ~
 E
-statue indra king god~
-feecting:docs/games/deva/3054/statue
+statue odin king god~
+The statue represents the one-eyed Odin sitting on a his throne.  He has
+long, grey hair and beard and a strict look on his face.  On top of the
+throne, just above his shoulders, his two ravens Hugin and Munin are sitting
+and at his feet are his wolves Gere and Freke.
 ~
 S
 #3055
@@ -1357,7 +1436,7 @@ some kind of mortar.  It is far too high to climb.
 S
 #3105
 Park Entrance~
-   You are standing just inside the small park of Amaravati.  To the north is
+   You are standing just inside the small park of Midgaard.  To the north is
 the promenade and a small path leads south into the park.  To your east is
 the famous Park Cafe.
 ~
@@ -1590,7 +1669,7 @@ S
 #3117
 Emerald Avenue~
    You are at Emerald Avenue which continues north and south.  To the west is
-the park entrance and to the east is the not very big Town Hall of Amaravati.
+the park entrance and to the east is the not very big Town Hall of Midgaard.
 ~
 31 0 1
 D0
@@ -1896,7 +1975,7 @@ E
 sign~
 The sign says :-
 
-                          Graveyard of Amaravati
+                          Graveyard of Midgaard
 
     Many brave adventurers have found their final resting place here.
           Please show respect and do not desecrate their tombs.
@@ -2055,7 +2134,7 @@ a Cray II look like a laptop.
 S
 #3138
 The Mayors Office~
-   You are in the not very big office of the Mayor of Amaravati.  A large and
+   You are in the not very big office of the Mayor of Midgaard.  A large and
 polished but completely empty desk is standing in front of an armchair that
 looks so comfortable that it most of all resembles a bed with the head end
 raised slightly.
@@ -2120,7 +2199,7 @@ D2
 S
 #3142
 Captain's Office~
-   You are in the Office of the Captain of the Guard.  The Amaravati Coat of
+   You are in the Office of the Captain of the Guard.  The Midgaard Coat of
 Arms is hanging on the north wall and a heavy steel door is to the south.
 ~
 31 8 0
@@ -2619,7 +2698,7 @@ D2
 S
 #3502
 The Turning Point~
-  This is where the Amaravati Road turns north and away from the city.  To the
+  This is where the Midgaard Road turns north and away from the city.  To the
 west, the road continues towards what looks like a fairly large city.  The
 mute sounds of city commotion reach your ears from a distance; stray dogs
 barking, children crying, and street salesmen shouting.  To the east, you can
@@ -2642,7 +2721,7 @@ D3
 S
 #3503
 City Entrance~
-   You stand on the outskirts of a large city - Amaravati; the capital of this
+   You stand on the outskirts of a large city - Midgaard; the capital of this
 land. The road leads east into the peace and quiet - and dangers - of the
 forest; and to the west it becomes the main street of the town; surrounded by
 a confusion of shops, bars, and market places.
@@ -3299,8 +3378,8 @@ tomb stone~
 1 -1 3650
 S
 #3900
-West trail around Amaravati~
-   You are on a dusty trail following the outside wall of Amaravati.
+West trail around Midgaard~
+   You are on a dusty trail following the outside wall of Midgaard.
 To the east the wall towers over you and to the west you see the
 forest of Haon-Dor. The trail leads north and south along the wall.
 ~
@@ -3311,14 +3390,14 @@ The dusty trail winds north closely to the wall.
 ~
 0 -1 3901
 D2
-The dusty trail leads to outside the west gate of Amaravati.
+The dusty trail leads to outside the west gate of Midgaard.
 ~
 ~
 0 -1 3052
 S
 #3901
-West trail around Amaravati~
-   You are on a dusty trail following the outside wall of Amaravati.
+West trail around Midgaard~
+   You are on a dusty trail following the outside wall of Midgaard.
 To the east the wall towers over you and to the west you see the
 forest of Haon-Dor. The trail leads north and south along the wall.
 ~
@@ -3341,7 +3420,7 @@ The trail leads east following the north wall and south towards the gate.
 ~
 30 0 2
 D1
-The dusty trail winds close up to the north wall of Amaravati.
+The dusty trail winds close up to the north wall of Midgaard.
 ~
 ~
 0 -1 3903
@@ -3353,12 +3432,12 @@ The dusty trail leads south towards the gate.
 S
 #3903
 Dusty trail along north wall.~
-   You are walking on the trail following the outside of Amaravati's
+   You are walking on the trail following the outside of Midgaard's
 northern wall.
 ~
 30 0 2
 D1
-The dusty trail is winding along the north wall of Amaravati.
+The dusty trail is winding along the north wall of Midgaard.
 ~
 ~
 0 -1 3904
@@ -3382,12 +3461,12 @@ A small path extends into the plains.
 ~
 0 -1 5000
 D1
-The dusty trail is winding along the north wall of Amaravati.
+The dusty trail is winding along the north wall of Midgaard.
 ~
 ~
 0 -1 3905
 D3
-The dusty trail is winding along the north wall of Amaravati.
+The dusty trail is winding along the north wall of Midgaard.
 ~
 ~
 0 -1 3903
@@ -3399,7 +3478,7 @@ They read : Tear down the Wall   -Pink Floyd
 S
 #3905
 Dusty trail along north wall.~
-   You are walking on the trail following the outside of Amaravati's
+   You are walking on the trail following the outside of Midgaard's
 northern wall.
 ~
 30 0 2
@@ -3410,7 +3489,7 @@ You notice some mountains in the distance.
 ~
 0 -1 3906
 D3
-The dusty trail is winding along the north wall of Amaravati.
+The dusty trail is winding along the north wall of Midgaard.
 ~
 ~
 0 -1 3904
@@ -3427,14 +3506,14 @@ The dusty trail leads south towards the gate.
 ~
 0 -1 3907
 D3
-The dusty trail winds close up to the north wall of Amaravati.
+The dusty trail winds close up to the north wall of Midgaard.
 ~
 ~
 0 -1 3905
 S
 #3907
-East trail around Amaravati~
-   You are on a dusty trail following the outside wall of Amaravati.
+East trail around Midgaard~
+   You are on a dusty trail following the outside wall of Midgaard.
 To the west the wall towers over you and far to the east you see
 some mountains. The trail leads north and south along the wall.
 ~
@@ -3451,8 +3530,8 @@ The dusty trail continues towards the south.
 0 -1 3908
 S
 #3908
-East trail around Amaravati~
-   You are on a dusty trail following the outside wall of Amaravati.
+East trail around Midgaard~
+   You are on a dusty trail following the outside wall of Midgaard.
 To the west the wall towers over you and far to the east you see
 some mountains. The trail leads north and south along the wall.
 ~
@@ -3463,7 +3542,7 @@ The dusty trail winds north closely to the wall.
 ~
 0 -1 3907
 D2
-The dusty trail leads to outside the east gate of Amaravati.
+The dusty trail leads to outside the east gate of Midgaard.
 ~
 ~
 0 -1 3053
@@ -5141,7 +5220,7 @@ Path in the plains~
    You are walking on a path situated in the rough plains.
 You feel the strong winds blow through your hair as you study
 the beautifull landscaping here. The path continues east, north
-and west leads to plains and you see the path around Amaravati
+and west leads to plains and you see the path around Midgaard
 to the south.
 ~
 50 0 2
@@ -5156,7 +5235,7 @@ You notice nothing special, except that the path in the plains continues.
 ~
 0 -1 5001
 D2
-Towards the south you notice the citywall of Amaravati.
+Towards the south you notice the citywall of Midgaard.
 ~
 ~
 0 -1 3904
@@ -5268,7 +5347,7 @@ You see the grassy plains here.
 ~
 0 -1 5021
 D2
-The path continues towards Amaravati.
+The path continues towards Midgaard.
 ~
 ~
 0 -1 5004
@@ -5501,7 +5580,7 @@ E
 sign~
 The sign sais:
 
-  Loyal citizens of Amaravati. These are the earthly remains of the
+  Loyal citizens of Midgaard. These are the earthly remains of the
   two herretics 'Dim' and 'Gamma' of this world. Having forged them-
   selves to immortality, they called upon themselves the anger of the
   implementators. Let this be a lesson too all .....
@@ -5527,7 +5606,7 @@ When you look to the east you notice at small path.
 ~
 0 -1 5000
 D2
-To the south you can see the city of Amaravati.
+To the south you can see the city of Midgaard.
 ~
 ~
 0 -1 -1
@@ -5541,7 +5620,7 @@ S
 Grassy plains~
    You walk in the grassy plains among the herbs which grow here. The wind is
 strong and rough. Far to the north you can see the foothills and further on
-mountainpeaks are visible. City of Amaravati is to the south but so are some
+mountainpeaks are visible. City of Midgaard is to the south but so are some
 VERY steep slopes.
 ~
 50 0 4
@@ -5718,7 +5797,7 @@ The foothills extend far to the east.
 0 -1 5024
 D2
 The foothills extend far down to the south, In the horizon you can
-see the City of Amaravati.
+see the City of Midgaard.
 ~
 ~
 0 -1 5030
@@ -5757,7 +5836,7 @@ The foothills extend far to the east.
 0 -1 5025
 D2
 The foothills extend downwards to the south. In the horizon you can
-see the City Of Amaravati.
+see the City Of Midgaard.
 ~
 ~
 0 -1 5022
@@ -6375,12 +6454,12 @@ S
 #6000
 The edge of the forest~
 You are standing at the eastern edge of a big forest.  To the east is the West
-Gate of Amaravati and to the west is a narrow trail, leading in through the
+Gate of Midgaard and to the west is a narrow trail, leading in through the
 forest.
 ~
 60 4 2
 D1
-You see the West Gate of the City of Amaravati.
+You see the West Gate of the City of Midgaard.
 ~
 ~
 0 -1 3052
@@ -9114,7 +9193,7 @@ To the west there's an odd looking room with totally smooth walls.
 0 -1 7022
 D4
 Up through the garbage you can just make out what looks like the Dump in
-Amaravati.
+Midgaard.
 ~
 ~
 0 -1 3030
@@ -10214,7 +10293,7 @@ darkness. You shiver by the thought of falling that distance.
 S
 #7114
 Mid-air~
-You've just stepped into the most unlucky position in the whole of Deva.world.
+You've just stepped into the most unlucky position in the whole of DikuMUD.
 The result of such a foolish act should be punished with death, you know.
 With an acceleration of approximately 9.82 metres per second per second, you
 are now descending the Abyss. What awaits you at the bottom will continue to
@@ -10488,7 +10567,7 @@ a sewer drain, and north the drain continues.
 S
 #7190
 Mid-air~
-You've just stepped into the most unlucky position in the whole of Deva.world.
+You've just stepped into the most unlucky position in the whole of DikuMUD.
 The result of such a foolish act should be punished with death, you know.
 With an acceleration of approximately 9.82 metres per second per second, you
 are now descending the Abyss. What awaits you at the bottom will continue to
@@ -12426,7 +12505,7 @@ S
 Outside Redferne's residence~
 A huge cloud forms the plateau on which you are now standing. The wind here
 is absolutely quiet and the sun is shining warmly upon you. From under the
-cloud you can hear the faint sounds of Amaravati. Right before you to the
+cloud you can hear the faint sounds of Midgaard. Right before you to the
 north lies the grand Mansion of Naris, the residence of the Greater God
 Redferne.
 ~
@@ -12519,15 +12598,15 @@ E
 globe world map~
 You see a large world map stretch out on the enormous globe. It has towns
 drawn in every spot available for such. In the middle of the map you can
-spot a large town with the name 'ARAVATI' written over it. The rest is
+spot a large town with the name 'MIDGAARD' written over it. The rest is
 mountains, woods, plains and water.
 ~
 E
-aravati town city~
+midgaard town city~
 You see a small speck with woods on the west from it, plains to the east
 from it and mountains to the north from it. To the south from it you can
 see a thin trail lead to a large castle. Finally you notice a rather large
-river pour in from the east and go through Amaravati in the middle.
+river pour in from the east and go through Midgaard in the middle.
 ~
 E
 chairs leather arm-chairs~
@@ -12544,13 +12623,13 @@ floor to approximately 10 inches under the ceiling. If you try and
 E
 out outside beyond~
 The clouds muster and form the ground on which this entire building is set.
-Through the thinnest of the clouds you can just make out ARAVATI with all
+Through the thinnest of the clouds you can just make out MIDGAARD with all
 it's magnificent activity.
 ~
 E
 river~
 You see a large and winding river cut through the landscape, starting at an
-enormous inland lake, it seeps through Amaravati and finally ends up in the
+enormous inland lake, it seeps through Midgaard and finally ends up in the
 Grand Sea on the West-coast of the land.
 ~
 S
@@ -12755,7 +12834,7 @@ door cage metal pen~
 S
 #7914
 On the Huge Chain~
-This place has quite a good view over Amaravati. Your possibilities of movement
+This place has quite a good view over Midgaard. Your possibilities of movement
 seems to extend only to up and down. Unless you want to let go of the secure
 and seemingly unmoveable chain, then those are the directions you should take
 from here.
@@ -14978,7 +15057,7 @@ The holy grove~
    You are standing amidst the ancient oaks and poplars in the holy grove. You
 feel calm and relaxed here, as if great burdens have been lifted from Your
 shoulders. From here, pleasant-looking paths lead east, north and south. To
-the west, through the trees, You can see the road to Amaravati.
+the west, through the trees, You can see the road to Midgaard.
 ~
 89 4 3
 D1
@@ -14997,7 +15076,7 @@ The path wind its way through the tall trees, into the grove.
 ~
 0 -1 8907
 D3
-Through the trees, you can see the Amaravati road. Far to the west, You can
+Through the trees, you can see the Midgaard road. Far to the west, You can
 barely glimpse the tall walls and the chimney-smokes of the city itself.
 ~
 ~
@@ -15006,7 +15085,7 @@ S
 #8905
 The sacred glade~
    You are standing in the middle of the sacred glades, where the citizens of
-Amaravati come to celebrate the spring, where farmers give thanks for bountiful
+Midgaard come to celebrate the spring, where farmers give thanks for bountiful
 harvest in the fall, and where lovers stroll in summer. You feel seasons of
 remembered happiness and joy taking Your sorrows and worries away from You,
 leaving You calm and invigorated, ready for the world. Paths lead into the
