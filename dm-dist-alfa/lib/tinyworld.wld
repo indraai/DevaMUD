@@ -1,34 +1,39 @@
 #0
 Nothing~
-  You step out into ......
-  You don't think that you are not floating in nothing.
-~
+You step out into ... You don't think that you are not floating in nothing.~
 0 8 1
 D5
-You can see something.~
+Is there something down there.~
 ~
 0 -1 1
 S
 #1
 Something~
-  You don't think that you are not floating in nothing.
-~
+You don't think that you are not floating in nothing.~
 0 8 1
+D4
+Do you see something up there?.~
+~
+0 -1 0
 D5
-You are see the space.~
+What is that space down there?.~
 ~
 0 -1 2
 S
 #2
-Limbo~
+Space~
    You are floating in a formless void, detached from all sensation of physical
 matter, surrounded by swirling glowing light, which fades into the relative
 darkness around you without any trace of edges or shadow.
    There is a "No Tipping" notice pinned to the darkness.
 ~
 0 8 1
+D4
+Space is up~
+~
+0 -1 2
 D5
-You are see The Chat Room~
+Is that chatting you hear down there?~
 ~
 0 -1 1200
 S
@@ -74,18 +79,15 @@ mound upon which the temple is built and ends on the temple square below.
 ~
 30 12 0
 D0
-At the northern end of the temple hall is a statue and a huge altar.
-~
+At the northern end of the temple hall is a statue and a huge altar.~
 ~
 0 -1 3054
 D2
-You look down the huge stone steps at the temple square below.
-~
+You look down the huge stone steps at the temple square below.~
 ~
 0 -1 3005
 D5
-You see the temple square.
-~
+You see the temple square.~
 ~
 0 -1 3005
 S
