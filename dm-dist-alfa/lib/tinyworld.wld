@@ -115,19 +115,17 @@ feecting:games/deva/3003/sign
 ~
 S
 #3004
-Entrance to Cleric's Guild~
-   The entrance hall is a small modest room, reflecting the true nature of
-the Clerics.  The exit leads east to the temple square.  A small entrance to
-the bar is in the northern wall.
+The Monastery~
+feecting:games/deva/3004/main
 ~
 30 8 0
 D0
-You see the bar, richly decorated with really stylish furniture.
+feecting:games/deva/3004/north
 ~
 ~
 0 -1 3003
 D1
-You see the Temple Square.
+feecting:games/deva/3004/east
 ~
 ~
 0 -1 3005
