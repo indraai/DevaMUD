@@ -169,24 +169,22 @@ feecting:docs/games/deva/3005/west
 0 -1 3004
 S
 #3006
-Entrance to the Grunting Boar Inn~
-   You are standing in the entrance hall of the Grunting Boar Inn.  The hall
-has been wisely decorated with simple but functional furniture.  A small
-staircase leads up to the reception and the bar is to the east.
+The Amaravati Inn~
+feecting:docs/games/deva/3006/main
 ~
 30 8 0
 D1
-Surprise! You see the bar.
+feecting/docs/games/deva/3006/east
 ~
 ~
 0 -1 3007
 D3
-You see the temple square.
+feecting:docs/games/deva/3006/west
 ~
 ~
 0 -1 3005
 D4
-You see the room reception.
+feecting:docs/games/deva/3006/up
 ~
 ~
 0 -1 3008
