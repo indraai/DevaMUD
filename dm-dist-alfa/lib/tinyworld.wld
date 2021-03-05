@@ -7,6 +7,7 @@ You are floating in the NOTHING... find your way to SOMETHING.
 0 8 1
 D5
 feecting:docs/games/deva/0/down
+
 Let's go down and see SOMETHING...
 ~
 ~
@@ -15,17 +16,20 @@ S
 #1
 Something~
 feecting:docs/games/deva/1/main
+
 You have found The SOMETHING... Where do you go next?
 ~
 0 8 1
 D4
 feecting:docs/games/deva/1/up
+
 Do you really want to go up to NOTHING?
 ~
 ~
 0 -1 0
 D5
 feecting:docs/games/deva/1/down
+
 Let's go see that SPACE down there...
 ~
 ~
@@ -34,37 +38,39 @@ S
 #2
 Svarga~
 feecting:docs/games/deva/2/main
-Welcome to SVARGA, home of the GODS. Your next downward track is to enter
-Amaravati the Capital of SVARGA.
+
+Welcome to SVARGA, home of the GODS.
 ~
 0 8 1
 D4
 feecting:docs/games/deva/2/up
+
 Is there SOMETHING up there?
 ~
 ~
 0 -1 1
 D5
 feecting:docs/games/deva/2/down
+
 Is that Amaravati you see down there?
 ~
 ~
 0 -1 3001
 S
 #1200
-The Chat Room~
+The Lounge~
 feecting:docs/games/deva/1200/main
 ~
 0 520 0
 S
 #1201
-Indra's Hangout~
+Indra's Room~
 feecting:docs/games/deva/1201/main
 ~
 0 520 0
 S
 #1202
-The Centre of the Universe.~
+The Center of the Universe.~
 feecting:docs/games/deva/1202/main
 ~
 0 520 0
