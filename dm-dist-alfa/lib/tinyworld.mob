@@ -200,11 +200,11 @@ as well as defensive spells make him a deadly opponent.
 2000 80000
 8 8 1
 #3025
-deva~
+guarddeva~
 the GuardDeva~
-feecting:games/deva/mob/guardentrance-alert
+A GuardDeva is guarding the entrance.
 ~
-feecting:games/deva/mob/guardentrance-describe
+He is a specially trained warrior belonging to the military order of Monks.
 ~
 2 0 800 S
 23 2 2 6d10+390 1d8+12
@@ -315,9 +315,9 @@ but do not mess with him or else he'll get upset.
 #3060
 securitydeva~
 the SecurityDeva~
-feecting:games/deva/mob/securitydeva-alert
+A SecurityDEVA is on patrol.
 ~
-feecting:games/deva/mob/securitydeva-describe
+A big, strong, helpful, trustworthy SecurityDEVA.
 ~
 193 0 1000 S
 10 10 2 1d12+123 1d8+3
@@ -326,9 +326,9 @@ feecting:games/deva/mob/securitydeva-describe
 #3061
 servicedeva~
 the ServiceDeva~
-feecting:games/deva/mob/servicedeva-alert
+A ServiceDeva is floating around, cleaning up.
 ~
-feecting:games/deva/mob/servicedeva-describe
+The greatest at keeping things tidy. They report to The Amaravati Recycling Center.
 ~
 1 0 900 S
 1 20 9 2d6+10 1d5+0
@@ -390,9 +390,9 @@ Odif is a small dog that has been reversed by some god.
 10 25
 8 8 1
 #3067
-securitydeva guard~
-the SecurityDeva Guard~
-A SecurityDeva Guard is here, guarding the gate.
+guarddeva~
+the GuardDeva~
+A GuardDeva is here, guarding the gate.
 ~
 A big, strong, helpful, trustworthy guard.
 ~
