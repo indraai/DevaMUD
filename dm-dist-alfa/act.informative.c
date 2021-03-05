@@ -456,7 +456,7 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 						}
 					}
 				} else {
-						send_to_char("feecting:docs/games/deva/info/nothingspecial", ch);
+						send_to_char("feecting:games/deva/info/nothingspecial", ch);
 				}
 			}
 			break;
