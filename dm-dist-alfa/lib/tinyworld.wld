@@ -1,84 +1,80 @@
 #0
 Nothing~
 feecting:docs/games/deva/0/main
+You are floating in the NOTHING... find your way to SOMETHING.
 ~
 0 8 1
 D5
-feecting:docs/games/deva/0/down~
+feecting:docs/games/deva/0/down
+Let's go down and see SOMETHING...
+~
 ~
 0 -1 1
 S
 #1
 Something~
 feecting:docs/games/deva/1/main
+You have found The SOMETHING... Where do you go next?
 ~
 0 8 1
 D4
-feecting:docs/games/deva/1/up~
+feecting:docs/games/deva/1/up
+Do you really want to go up to NOTHING?
+~
 ~
 0 -1 0
 D5
-feecting:docs/games/deva/1/down~
+feecting:docs/games/deva/1/down
+Let's go see that SPACE down there...
+~
 ~
 0 -1 2
 S
 #2
 Svarga~
 feecting:docs/games/deva/2/main
+Welcome to SVARGA, home of the GODS. Your next downward track is to enter
+Amaravati the Capital of SVARGA.
 ~
 0 8 1
 D4
-feecting:docs/games/deva/2/up~
+feecting:docs/games/deva/2/up
+Is there SOMETHING up there?
+~
 ~
 0 -1 1
 D5
-feecting:docs/games/deva/2/down~
+feecting:docs/games/deva/2/down
+Is that Amaravati you see down there?
+~
 ~
 0 -1 3001
 S
 #1200
 The Chat Room~
-   You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
-which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
-the owner of this room needs none.
+feecting:docs/games/deva/1200/main
 ~
 0 520 0
-D5
-You are see Amaravati.~
-~
-0 -1 3001
 S
 #1201
-Moses' Hangout~
-   You see here a cozy little room with a fireplace.  You can tell it is Moses'
-room by the two stone tablets and a bible on a small ledge near the fireplace.
-This room was designed for total relaxation.  You can watch television, listen
-to the stereo, even soak in a hot tub.
-There is a bell here for the butler.
+Indra's Hangout~
+feecting:docs/games/deva/1201/main
 ~
 0 520 0
 S
 #1202
-The centre of the universe.~
-  You are at the centre of the universe, everything is filled with bright
-light in all colors. You feel time and space no longer exist here.
-Exits fill the room in all 42 dimensions, leading everywhere.
-The only exit in your dimension unfortunatly leads right back here.
+The Centre of the Universe.~
+feecting:docs/games/deva/1202/main
 ~
 0 520 0
 S
 #3001
 Amaravati~
-   You are in the southern end of the temple hall in the Temple of Midgaard.
-The temple has been constructed from giant marble blocks, eternal in
-appearance, and most of the walls are covered by ancient wall paintings
-picturing Gods, Giants and peasants.
-   Large steps lead down through the grand temple gate, descending the huge
-mound upon which the temple is built and ends on the temple square below.
+feecting:docs/games/deva/3001/main
 ~
 30 12 0
 D0
-At the northern end of the temple hall is a statue and a huge altar.~
+feecting:docs/games/deva/3001/north~
 ~
 0 -1 3054
 D2
