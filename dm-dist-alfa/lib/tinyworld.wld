@@ -1288,35 +1288,27 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-By the Temple Altar~
-   You are by the temple altar in the northern end of the Temple of Midgaard.
-A huge altar made from white polished marble is standing in front of you and
-behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+The Offering Table~
+feecting:docs/games/deva/3054/main
 ~
 30 8 0
 D2
-You see the southern end of the temple.
+feecting:docs/games/deva/3054/south
 ~
 ~
 0 -1 3001
 E
-altar~
-Even though the altar is more than ten feet long it appears to be made from a
-single block of white virgin marble.
+offering table~
+feecting:docs/games/deva/3054/table
 ~
 E
-statue odin king god~
-The statue represents the one-eyed Odin sitting on a his throne.  He has
-long, grey hair and beard and a strict look on his face.  On top of the
-throne, just above his shoulders, his two ravens Hugin and Munin are sitting
-and at his feet are his wolves Gere and Freke.
+statue indra king god~
+feecting:docs/games/deva/3054/statue
 ~
 S
 #3055
-Odin's Store~
-   This is the small dark room in which Odin keeps the player items that he
-takes care of.  It is vital that this room's virtual number is exactly one
-larger than the room by the temple altar.
+Indra's Store~
+feecting:docs/games/deva/3055/main
 ~
 30 8 0
 S
