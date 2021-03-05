@@ -137,11 +137,6 @@ The Circle~
 feecting:games/deva/3005/main
 ~
 30 0 1
-D0
-feecting:games/deva/3005/north
-~
-~
-0 -1 3001
 D1
 feecting:games/deva/3005/east
 ~
@@ -157,6 +152,11 @@ feecting:games/deva/3005/west
 ~
 ~
 0 -1 3004
+D4
+feecting:games/deva/3005/up
+~
+~
+0 -1 3001
 S
 #3006
 The Amaravati Inn~
