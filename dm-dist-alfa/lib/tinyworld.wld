@@ -1,14 +1,10 @@
 #0
 Nothing~
 feecting:docs/games/deva/0/main
-
-You are floating in the NOTHING... find your way to SOMETHING.
 ~
 0 8 1
 D5
 feecting:docs/games/deva/0/down
-
-Let's go down and see SOMETHING...
 ~
 ~
 0 -1 1
@@ -16,21 +12,15 @@ S
 #1
 Something~
 feecting:docs/games/deva/1/main
-
-You have found The SOMETHING... Where do you go next?
 ~
 0 8 1
 D4
 feecting:docs/games/deva/1/up
-
-Do you really want to go up to NOTHING?
 ~
 ~
 0 -1 0
 D5
 feecting:docs/games/deva/1/down
-
-Let's go see that SPACE down there...
 ~
 ~
 0 -1 2
@@ -38,21 +28,15 @@ S
 #2
 Svarga~
 feecting:docs/games/deva/2/main
-
-Welcome to SVARGA, home of the GODS.
 ~
 0 8 1
 D4
 feecting:docs/games/deva/2/up
-
-Is there SOMETHING up there?
 ~
 ~
 0 -1 1
 D5
 feecting:docs/games/deva/2/down
-
-Is that Amaravati you see down there?
 ~
 ~
 0 -1 3001
@@ -85,11 +69,7 @@ feecting:docs/games/deva/3001/north~
 ~
 0 -1 3054
 D2
-You look down the huge stone steps at the temple square below.~
-~
-0 -1 3005
-D5
-You see the temple square.~
+feecting:docs/games/deva/3001/down~
 ~
 0 -1 3005
 S
