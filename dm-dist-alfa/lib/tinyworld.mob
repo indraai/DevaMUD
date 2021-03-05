@@ -200,14 +200,11 @@ as well as defensive spells make him a deadly opponent.
 2000 80000
 8 8 1
 #3025
-templar~
-the Knight Templar~
-A knight templar is guarding the entrance.
+deva~
+the Deva Guard~
+A DevaGuard is guarding the entrance.
 ~
-He is a specially trained warrior belonging to the military order of the Faith.
-His duty is to protect the faithful from persecution and infidel attacks and
-his religious devotion combined with his superior skill makes him a deadly
-opponent.
+feecting:games/deva/mob/devaguard
 ~
 2 0 800 S
 23 2 2 6d10+390 1d8+12
