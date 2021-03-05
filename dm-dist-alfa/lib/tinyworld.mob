@@ -201,10 +201,10 @@ as well as defensive spells make him a deadly opponent.
 8 8 1
 #3025
 deva~
-the Deva Guard~
-A DevaGuard is guarding the entrance.
+the GuardDeva~
+feecting:games/deva/mob/guardentrance-alert
 ~
-feecting:games/deva/mob/devaguard
+feecting:games/deva/mob/guardentrance-describe
 ~
 2 0 800 S
 23 2 2 6d10+390 1d8+12
@@ -315,9 +315,9 @@ but do not mess with him or else he'll get upset.
 #3060
 securitydeva~
 the SecurityDeva~
-SecurityDEVA guards here.
+feecting:games/deva/mob/securitydeva-alert
 ~
-A big, strong, helpful, trustworthy SecurityDEVA.
+feecting:games/deva/mob/securitydeva-describe
 ~
 193 0 1000 S
 10 10 2 1d12+123 1d8+3
@@ -326,8 +326,9 @@ A big, strong, helpful, trustworthy SecurityDEVA.
 #3061
 servicedeva~
 the ServiceDeva~
-The ServiceDeva is floating around, cleaning up.
+feecting:games/deva/mob/servicedeva-alert
 ~
+feecting:games/deva/mob/servicedeva-describe
 ~
 1 0 900 S
 1 20 9 2d6+10 1d5+0
