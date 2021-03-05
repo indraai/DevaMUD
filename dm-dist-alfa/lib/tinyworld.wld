@@ -345,37 +345,33 @@ You see the main street.
 0 -1 3012
 S
 #3014
-Market Square~
-   You are standing on the market square, the famous Square of Midgaard.
-A large, pecualiar looking statue is standing in the middle of the square.
-Roads lead in every direction, north to the temple square, south to the
-common square, east and westbound is the main street.
+The Square~
+feecting:games/deva/3014/main
 ~
 30 0 1
 D0
-You see the temple square.
+feecting:games/deva/3014/north
 ~
 ~
 0 -1 3005
 D1
-You see the main street.
+feecting:games/deva/3014/east
 ~
 ~
 0 -1 3015
 D2
-You see the common square.
+feecting:games/deva/3014/south
 ~
 ~
 0 -1 3025
 D3
-You see the main street.
+feecting:games/deva/3014/west
 ~
 ~
 0 -1 3013
-
 E
 statue~
-What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
+feecting:games/deva/3014/statue
 ~
 S
 #3015
