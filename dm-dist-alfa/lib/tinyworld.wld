@@ -1224,24 +1224,22 @@ feecting:games/deva/3055/main
 30 8 0
 S
 #3100
-Northwest end of Concourse~
-   You are at the concourse, the city wall is just west.  A small promenade
-goes east, and the bridge is just north of here.  The concourse continues
-south along the city wall.
+The Concourse~
+feecting:games/deva/3100/main
 ~
 31 0 1
 D0
-You see the Bridge.
+feecting:games/deva/3100/north
 ~
 ~
 0 -1 3051
 D1
-You see the promenade.
+feecting:games/deva/3100/east
 ~
 ~
 0 -1 3101
 D2
-The promenade continues far south.
+feecting:games/deva/3100/south
 ~
 ~
 0 -1 3127
