@@ -943,35 +943,32 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3043
-Wall Road~
-   You are walking next to the western city wall.  Wall Road continues further
-north and south.  A small, poor alley leads east.
-Some letters have been written on the wall here.
+30 W. Artist Alley~
+feecting:games/deva/3043/main
 ~
 30 0 1
 D0
-The road continues further north.
+feecting:games/deva/3043/north
 ~
 ~
 0 -1 3042
 D1
-The alley leads east.
+feecting:games/deva/3043/east
 ~
 ~
 0 -1 3044
 D2
-The road continues further south.
+feecting:games/deva/3043/south
 ~
 ~
 0 -1 3047
 E
 letters~
-It says 'Who watches the watchmen?'
+feecting:games/deva/3043/letters
 ~
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:games/deva/3043/wall
 ~
 S
 #3044
