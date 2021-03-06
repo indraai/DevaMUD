@@ -779,15 +779,12 @@ Each scroll is stored in a leather tube that protects it from moist.
 ~
 S
 #3034
-The Jeweller's Shop~
-   You are in a small, beautifully furnished room.  The warm light emanating
-from the small oil lamps on the walls is reflected in the hard, polished
-surface of the big mahogany desk that stands in the centre of the room.
-A small sign with golden letters stands on the desk.
+The Jewel Palace~
+feecting:games/deva/3034/main
 ~
 30 8 0
 D0
-You see Main Street.
+feecting:games/deva/3034/north
 ~
 ~
 0 -1 3015
