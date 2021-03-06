@@ -1425,30 +1425,23 @@ D3
 0 -1 3108
 S
 #3110
-Cityguard Head Quarters~
-   You are inside a tidy office.  A big desk made from dark wood is standing
-in the centre of the room and a door with a big warning sign is to the west.
+Indra.agency~
+feecting:games/deva/3110/main
 ~
 31 8 0
 D1
-You see Park Road.
+feecting:games/deva/3110/east
 ~
 door~
 1 -1 3111
 D3
-You see a big warning sign hanging on the door.
+feecting:games/deva/3110/door
 ~
 door~
 1 3120 3142
 E
 sign~
-The sign says:-
-
-                     Captain's Office
-                     ----------------
-
-           WARNING: Authorized Personnel Only!
-           -----------------------------------
+feecting:games/deva/3110/sign
 ~
 S
 #3111
