@@ -917,13 +917,13 @@ int puff(struct char_data *ch, int cmd, char *arg)
 	switch (number(0, 60))
 	{
 		case 0:
-			do_say(ch, "My god! It's full of stars!", 0);
+			do_say(ch, "My Indra! It's full of stars!", 0);
 		   return(1);
 		case 1:
-			do_say(ch, "How'd all those fish get up here?", 0);
+			do_say(ch, "How'd all those snakes get up here?", 0);
 			return(1);
 		case 2:
-			do_say(ch, "I'm a very female dragon.", 0);
+			do_say(ch, "I'm a very male bird.", 0);
 			return(1);
 		case 3:
 			do_say(ch, "I've got a peaceful, easy feeling.", 0);
@@ -1001,7 +1001,7 @@ int cityguard(struct char_data *ch, int cmd, char *arg)
 
 	if (evil && !IS_EVIL(evil->specials.fighting))
 	{
-		act("$n screams 'PROTECT THE INNOCENT!  BANZAI!!! CHARGE!!! ARARARAGGGHH!'", FALSE, ch, 0, 0, TO_ROOM);
+		act("$n screams 'PROTECT THE INNOCENT!  BANZAI!!! CHARGE!!! TACKLE!'", FALSE, ch, 0, 0, TO_ROOM);
 		hit(ch, evil, TYPE_UNDEFINED);
 		return(TRUE);
 	}
