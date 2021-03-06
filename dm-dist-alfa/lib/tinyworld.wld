@@ -605,45 +605,42 @@ feecting:games/deva/3025/west
 0 -1 3024
 S
 #3026
-The Dark Alley~
-   The dark alley, to the west is the common square and to the south is the
-Guild of Thieves.  The alley continues east.
+10 E. Artist Alley~
+feecting:games/deva/3026/main
 ~
 30 0 1
 D1
-The alley continues east.
+feecting:games/deva/3026/east
 ~
 ~
 0 -1 3045
 D2
-You see the entrance to the thieves guild.
+feecting:games/deva/3026/south
 ~
 ~
 0 -1 3027
 D3
-You see the common square.
+feecting:games/deva/3026/west
 ~
 ~
 0 -1 3025
 E
 guild~
-It is the thieves guild, don't enter if you care about your health or money.
+feecting:games/deva/3026/guild
 ~
 S
 #3027
 Entrance Hall to the Guild of Thieves~
-   The entrace hall to the thieves' and assassins' guild.  A place where you
-can lose both your life and your money, if you are not careful.  To the north
-is the dark alley and to the east is the thieves' bar.
+feecting:games/deva/3027/main
 ~
 30 8 0
 D0
-You see the alley.
+feecting:games/deva/3027/north
 ~
 ~
 0 -1 3026
 D1
-You see the thieves bar, where everything disappears.
+feecting:games/deva/3027/east
 ~
 ~
 0 -1 3028
@@ -1001,41 +998,38 @@ The alley leads west.
 0 -1 3043
 S
 #3045
-Alley at Levee~
-   You are standing in the alley which continues east and west.  South of
-here you see the levee.
+20 E. Artist Alley~
+feecting:games/deva/3045/main
 ~
 30 0 1
 D1
-The alley leads east.
+feecting:games/deva/3045/east
 ~
 ~
 0 -1 3046
 D2
-You see the levee.
+feecting:games/deva/3045/south
 ~
 ~
 0 -1 3049
 D3
-The alley leads west.
+feecting:games/deva/3045/west
 ~
 ~
 0 -1 3026
 S
 #3046
-Eastern end of Alley~
-   You are standing at the eastern end of the alley, the city wall is just
-east, blocking any further movement.  An old three-storey warehouse is
-directly south of here.
+30 E. Artist Alley~
+feecting:games/deva/3046/main
 ~
 30 0 1
 D2
-You see the warehouse.
+feecting:games/deva/3046/west
 ~
 ~
 0 -1 3050
 D3
-You see the alley.
+feecting:games/deva/3046/south
 ~
 ~
 0 -1 3045
