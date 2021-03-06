@@ -975,23 +975,22 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3044
-Poor Alley~
-   You are in narrow and dirty alley leading east and west.  The leather shop
-is to the north.
+20 W. Artist Alley~
+feecting:games/deva/3044/main
 ~
 30 0 1
 D0
-The leather shop is to the north.
+feecting:games/deva/3044/north
 ~
 ~
 0 -1 3035
 D1
-The alley leads east.
+feecting:games/deva/3044/east
 ~
 ~
 0 -1 3024
 D3
-The alley leads west.
+feecting:games/deva/3044/west
 ~
 ~
 0 -1 3043
