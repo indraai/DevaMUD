@@ -114,7 +114,7 @@ void show_obj_to_char(struct obj_data *object, struct char_data *ch, int mode)
 		{
 			if (object->action_description)
 			{
-				strcpy(buffer, "There is something written upon it:\n\r\n\r");
+				strcpy(buffer, "There is something written on it:\n\r");
 				strcat(buffer, object->action_description);
 				page_string(ch->desc, buffer, 1);
 			}
@@ -124,7 +124,7 @@ void show_obj_to_char(struct obj_data *object, struct char_data *ch, int mode)
 		}
 		else if((object->obj_flags.type_flag != ITEM_DRINKCON))
 		{
-			strcpy(buffer,"You see nothing special..");
+			strcpy(buffer,"You see nothing special...");
 		}
 		else /* ITEM_TYPE == ITEM_DRINKCON */
 		{
@@ -199,7 +199,7 @@ void show_char_to_char(struct char_data *i, struct char_data *ch, int mode)
 
 		if (IS_AFFECTED(i, AFF_HIDE) || !CAN_SEE(ch,i)) {
 			if (IS_AFFECTED(ch, AFF_SENSE_LIFE))
-				send_to_char("You sense a hidden life form in the room.\n\r", ch);
+				send_to_char("You sense an unseen life form in the room.\n\r", ch);
 			return;
 		}
 
@@ -223,7 +223,7 @@ void show_char_to_char(struct char_data *i, struct char_data *ch, int mode)
 				case POSITION_INCAP    :
 					strcat(buffer," is lying here, incapacitated."); break;
 				case POSITION_MORTALLYW:
-					strcat(buffer," is lying here, mortally wounded."); break;
+					strcat(buffer," is lying here, wounded."); break;
 				case POSITION_DEAD     :
 					strcat(buffer," is lying here, dead."); break;
 				case POSITION_STANDING :
@@ -407,7 +407,7 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 	else if (GET_POS(ch) == POSITION_SLEEPING)
 		send_to_char("You can't see anything, you're sleeping!\n\r", ch);
 	else if ( IS_AFFECTED(ch, AFF_BLIND) )
-		send_to_char("You can't see a damn thing, you're blinded!\n\r", ch);
+		send_to_char("You can't see a thing, you're blind!\n\r", ch);
 	else if ( IS_DARK(ch->in_room) )
 		send_to_char("It is pitch black...\n\r", ch);
 	else {
@@ -439,7 +439,7 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 						send_to_char(EXIT(ch, keyword_no)->
 							general_description, ch);
 					} else {
-						send_to_char("You see nothing special.\n\r", ch);
+						send_to_char("Nothing special to see here.", ch);
 					}
 
 					if (IS_SET(EXIT(ch, keyword_no)->exit_info, EX_CLOSED) &&
@@ -456,7 +456,7 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 						}
 					}
 				} else {
-						send_to_char("feecting:games/deva/info/nothingspecial", ch);
+						send_to_char("Nothing interesting to see here.", ch);
 				}
 			}
 			break;
@@ -616,7 +616,7 @@ void do_look(struct char_data *ch, char *argument, int cmd)
 			/* look ''		*/
 			case 8 : {
 
-				/*
+				/* HIDE THE POSTING OF ROOM TITLE AND LINE BREAKS FOR CLEAN RESPONSE
 				send_to_char(world[ch->in_room].name, ch);
 				send_to_char("\n\r", ch);
 				*/
