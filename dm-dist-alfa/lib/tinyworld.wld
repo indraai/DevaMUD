@@ -915,25 +915,23 @@ feecting:games/deva/3041/wall
 ~
 S
 #3042
-Wall Road~
-   You are walking next to the western city wall.  The road continues further
-south and the city gate is just north of here.
+10 S. Wall Road~
+feecting:games/deva/3042/main
 ~
 30 0 1
 D0
-You see the city gate.
+feecting:games/deva/3042/north
 ~
 ~
 0 -1 3040
 D2
-The road continues further south.
+feecting:games/deva/3042/south
 ~
 ~
 0 -1 3043
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:games/deva/3042/wall
 ~
 S
 #3043
