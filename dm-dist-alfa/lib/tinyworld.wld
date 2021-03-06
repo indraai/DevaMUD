@@ -1,5 +1,5 @@
 #0
-Nothing~
+name:Nothing~
 feecting:games/deva/0/main
 ~
 0 8 1
@@ -10,7 +10,7 @@ feecting:games/deva/0/down
 0 -1 1
 S
 #1
-Something~
+name:Something~
 feecting:games/deva/1/main
 ~
 0 8 1
