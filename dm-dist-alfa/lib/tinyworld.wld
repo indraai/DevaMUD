@@ -288,36 +288,33 @@ The note reads:
 ~
 S
 #3012
-Main Street~
-   You are at the end of the main street of Midgaard.  South of here is the
-entrance to the Guild of Magic Users.  The street continues east towards the
-market square.  The magic shop is to the north and to the west is the city
-gate.
+20 W. Main Street~
+feecting:games/deva/3012/main
 ~
 30 0 1
 D0
-You see the magic shop.
+feecting:games/deva/3012/north
 ~
 ~
 0 -1 3033
 D1
-You see the main street.
+feecting:games/deva/3012/east
 ~
 ~
 0 -1 3013
 D2
-You see the entrance to the Guild of Magic Users.
+feecting:games/deva/3012/south
 ~
 ~
 0 -1 3017
 D3
-You see the city gate.
+feecting:games/deva/3012/west
 ~
 ~
 0 -1 3040
 S
 #3013
-Main Street~
+10 W. Main Street~
 feecting:games/deva/3013/main
 ~
 30 0 1
