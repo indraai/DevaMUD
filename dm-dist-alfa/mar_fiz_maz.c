@@ -1,7 +1,7 @@
 /* ************************************************************************
 *  file: mar_fiz_maz.c, Special module.                   Part of DIKUMUD *
 *  Usage: Procedures handling special procedures for the world builders   *
-*         Marauder (Dragon), Fizgig (Redferne) and Maze (Quifael)         *
+*         Marauder (Dragon), Fizgig (Avati) and Maze (Quifael)         *
 *  Copyright (C) 1990, 1991 - see 'license.doc' for complete information. *
 ************************************************************************* */
 

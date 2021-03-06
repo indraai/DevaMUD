@@ -1022,25 +1022,23 @@ feecting:games/deva/3046/south
 0 -1 3045
 S
 #3047
-Wall Road~
-   You are standing on the road next to the western city wall which
-continues north.  South of here is a bridge across the river.
+30 S. Wall Road~
+feecting:games/deva/3047/main
 ~
 30 0 1
 D0
-You see the road.
+feecting:games/deva/3047/north
 ~
 ~
 0 -1 3043
 D2
-You see the bridge.
+feecting:games/deva/3047/south
 ~
 ~
 0 -1 3051
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:games/deva/3047/wall
 ~
 S
 #3048
@@ -1681,7 +1679,7 @@ The sign points in all directions:
 
 Someone has added the following with red paint:
 
-   Up    - Redferne's Flying Citadel.
+   Up    - Avati's Flying Citadel.
 ~
 E
 chain~
@@ -11419,7 +11417,7 @@ A large sign says : I haven't gotten any further ... Yet. But  I'm pushing
                     to get finished with this sewer.
                                            Greetings and Good Health :)
 
-                                                     Redferne The Gentle
+                                                     Avati The Gentle
 This stops your journey down, the only exit is up.
 ~
 73 9 5
@@ -12412,12 +12410,12 @@ D3
 0 -1 7444
 S
 #7900
-Outside Redferne's residence~
+Outside Avati's residence~
 A huge cloud forms the plateau on which you are now standing. The wind here
 is absolutely quiet and the sun is shining warmly upon you. From under the
 cloud you can hear the faint sounds of Midgaard. Right before you to the
 north lies the grand Mansion of Naris, the residence of the Greater God
-Redferne.
+Avati.
 ~
 79 516 0
 D0
@@ -12488,7 +12486,7 @@ They read "LIBRARY".
 ~
 S
 #7902
-Redferne's Library~
+Avati's Library~
 This is truly a magnificent place! Books and scrolls lie together on every
 shelf. A large globe, with the map of the Mud-world upon it, stands in the
 dimly lit north-western corner of the room. Two large and comfortable-
@@ -12660,7 +12658,7 @@ S
 On the stairs~
 You can see up and down the stairway. It seems to take forever, either going
 up OR down. It's just a seemingly insurmountable climb, either way. Up is the
-bedroom of Redferne, and Down leads to the Southern end of the hall.
+bedroom of Avati, and Down leads to the Southern end of the hall.
 ~
 79 524 0
 D4
@@ -12689,7 +12687,7 @@ door oak tall~
 2 -1 7901
 S
 #7911
-Redferne's Bedroom~
+Avati's Bedroom~
 This is a snugly set bedroom with all the necessities for a romantic evening.
 A large fireplace adourns the east wall, and sizzling away is the wood that
 is ablaze within. The bed is enormous, covering at least HALF of this great
@@ -12709,14 +12707,14 @@ D5
 0 -1 7909
 S
 #7912
-The Balcony of Redferne's Residence~
+The Balcony of Avati's Residence~
 You see a splendid of the most of this world. The valleys stretch as far as
 the eye reaches to the south from here. Down below you can see the entrance
-of this magnificent building. To the north are the doors to Redferne's Bedroom.
+of this magnificent building. To the north are the doors to Avati's Bedroom.
 ~
 79 516 0
 D0
-You see the comfortable bedroom of Naris, the mansion of Redferne the Greater
+You see the comfortable bedroom of Naris, the mansion of Avati the Greater
 God.
 ~
 doors~
@@ -12829,7 +12827,7 @@ S
 The Mighty Chain of Naris~
 This place truly a splendid view of the WHOLE COUNTRY SIDE!!! A magnificent
 light shines upon you and the way up through the clouds is opened. Up there
-you can now see the Mansion of Naris, Residence of the Greater God Redferne.
+you can now see the Mansion of Naris, Residence of the Greater God Avati.
 The chain beneath you seems to evaporate in the mustering clouds that
 surround you by now.
 ~
