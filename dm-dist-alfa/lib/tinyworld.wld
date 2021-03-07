@@ -1102,47 +1102,40 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3053
-Outside the East Gate of Amaravati~
-   You are by two small towers that have been built into the city wall and
-connected with a footbridge across the heavy wooden gate.  To the east the
-plains stretch out in the distance. To the north a small dusty trail follow
-the city wall.
+East Gate~
+feecting:games/deva/3053/main
 ~
 30 0 1
 D0
-The trail continues around the City of Amaravati.
+feecting:games/deva/3053/north
 ~
 ~
 0 -1 3908
 D1
-You see the plains.~
+feecting:games/deva/3053/north
+~
 ~
 0 -1 3503
 D3
-You see the city gate.
+feecting:games/deva/3053/west
 ~
 gate~
 1 3133 3041
 E
 bridge footbridge~
-It is too high up to reach but it looks as if one easily could walk across it
-from one tower to the other.
+feecting:games/deva/3053/bridge
 ~
 E
 gate~
-It is a set of very big double doors made from hard wood.  They have been
-reinforced with large iron bands to make them even more sturdy.  One of the
-doors is equipped with a very big lock.
+feecting:games/deva/3053/gate
 ~
 E
 tower towers~
-Both of the towers are built from large grey rocks that have been fastened to
-each other with some kind of mortar, just like the city wall.
+feecting:games/deva/3053/tower
 ~
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:games/deva/3053/wall
 ~
 S
 #3054
