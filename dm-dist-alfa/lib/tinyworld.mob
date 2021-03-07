@@ -24,10 +24,10 @@ rings and bracelets.
 #3001
 baker~
 the Baker~
-The Baker looks at you calmly, wiping flour from his face with one hand.
+The Baker looks at you calmly, wiping flour from his face.
 ~
-A fat, nice looking baker. But you can see that he has many scars on his
-body.
+A plump, happy looking baker. But you can see that he is secretly eating
+cookies.
 ~
 2 0 900 S
 23 2 2 1d1+30000 1d8+12
@@ -36,7 +36,7 @@ body.
 #3002
 grocer~
 the Grocer~
-A grocer stands at the counter, with a slightly impatient look on his face.
+A grocer stands at the counter, with a very patient look on his face.
 ~
 A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
 ~
@@ -68,12 +68,12 @@ lifetime than you have ever seen.
 10000 80000
 8 8 1
 #3005
-receptionist~
-the Receptionist~
-A receptionist stands in front of you, looking at you like you were the
+receptionistdeva~
+the ReceptionistDeva~
+A ReceptionistDeva stands in front of you, looking at you like you were the
 center of the universe.
 ~
-You notice a tired look in her face.
+You notice a bright look in her face.
 ~
 2 0 900 S
 23 2 2 1d1+30000 1d8+12
@@ -113,11 +113,11 @@ He is young and close-cropped and looks quite happy.
 2000 80000
 8 8 1
 #3009
-jeweller~
-the Jeweller~
-The Jeweller is standing behind the desk.
+jeweler~
+the Jeweler~
+The Jeweler is standing behind the counter.
 ~
-He is fat and has a content although watchful look on his face.
+He is happy although with a watchful look on his face.
 ~
 2 0 900 S
 23 2 2 1d1+30000 1d8+12
@@ -136,11 +136,11 @@ keep himself going.
 10000 80000
 8 8 1
 #3020
-guildmaster master~
-the Guildmaster~
-Your guildmaster is standing here.
+teacher~
+the Teacher~
+Your teacher is standing here.
 ~
-Even though your guildmaster looks old and tired, you can clearly see the
+Even though your teacher looks old and tired, you can clearly see the
 vast amount of knowledge she posesses. She is wearing fine magic clothing,
 and you notice that she is surrounded by a blue shimmering aura.
 ~
@@ -149,11 +149,11 @@ and you notice that she is surrounded by a blue shimmering aura.
 8794 100000
 8 8 2
 #3021
-guildmaster master~
-the Guildmaster~
-Your guildmaster is standing here.
+teacher~
+the Teacher~
+Your teacher is standing here.
 ~
-You are in no doubt that this guildmaster is truly close to your god; he has
+You are in no doubt that this teacher is truly close to your god; he has
 a peaceful, loving look. You notice that he is surrounded by a white aura.
 ~
 2 128 1000 S
@@ -161,11 +161,11 @@ a peaceful, loving look. You notice that he is surrounded by a white aura.
 8794 100000
 8 8 1
 #3022
-guildmaster master~
-the Guildmaster~
-Your guildmaster is standing here.
+teacher~
+the Teacher~
+Your teacher is standing here.
 ~
-You realize that whenever your guildmaster moves, you fail to notice it -
+You realize that whenever your teacher moves, you fail to notice it -
 the way of the true thief. She is to be dressed in poor clothing, having
 the appearance of a beggar.
 ~
@@ -174,9 +174,9 @@ the appearance of a beggar.
 8794 100000
 8 8 2
 #3023
-guildmaster master~
-the Guildmaster~
-Your guildmaster is standing here.
+teacher master~
+the Teacher~
+Your teacher is standing here.
 ~
 This is your master. Big and strong with bulging muscles. Several scars
 across his body proves that he was using arms before you were born. He
@@ -416,7 +416,7 @@ puppy~
 the Puppy~
 A small loyal Puppy is here.
 ~
-The Puppy looks like a cute, little, fierce fighter.
+The Puppy looks like a cute, little, cuddly puppy.
 ~
 6 0 400 S
 1 20 9 1d6+11 1d4+0
@@ -427,18 +427,18 @@ beagle~
 the Beagle~
 A small, quick, loyal Beagle is here.
 ~
-The Beagle looks like a fierce fighter.
+The Beagle looks like a very friendly.
 ~
 6 0 400 S
 2 19 8 1d12+22 1d6+0
 0 200
 8 8 0
 #3093
-rottweiler~
-the Rottweiler~
-A large, loyal Rottweiler is here.
+chowchow~
+the Chow Chow~
+A large, loyal Chow Chow is here.
 ~
-The Rottweiler looks like a strong, fierce fighter.
+The Chow Chow looks like a strong, loyal and fluffy companion.
 ~
 6 0 400 S
 3 18 7 1d12+35 1d7+0
@@ -449,19 +449,18 @@ wolf~
 the Wolf~
 A large, trained Wolf is here.
 ~
-The Wolf looks like a strong, fearless fighter.
+The Wolf looks like a strong, fearless creature.
 ~
 6 0 0 S
 4 17 6 1d12+47 1d8+0
 0 1600
 8 8 0
 #3100
-maid~
-the Maid~
-The Maid is waiting for your order.
+servicedeva~
+the ServiceDeva~
+The Service Deva is waiting for your order.
 ~
-She is very beautiful with golden hair, and deep blue eyes. A good reason
-for coming here more often.
+She is very good at her job, which is a good reason for coming here more often.
 ~
 2 0 1000 S
 23 2 2 6d10+390 1d8+12
@@ -525,35 +524,34 @@ The duck is quite fat.  It looks like it is enjoying life.
 #3140
 captain~
 the Captain~
-The Captain of the Guard is looking very upset.
+SecurityPrime is looking very active.
 ~
-The very angry Captain of the Guard.
+The very active SecurityPRIME.
 ~
 38 8 1000 S
 17 4 1 1d12+210 1d8+8
 0 28000
 8 8 1
 #3141
-cityguard guard~
-the Cityguard~
-A cityguard stands here, looking very upset.
+securitydeva~
+the SecurityDeva~
+A SecurityDeva stands here, looking very happy.
 ~
-A big, strong, angry guard.
+A big, strong, happy SecurityDeva.
 ~
 38 0 1000 S
 10 10 2 1d12+123 1d8+3
 0 9000
 8 8 1
 #3142
-secretary~
-the Secretary~
-A secretary is sitting at the desk, typing away on the typewriter.
+secretarydeva~
+the SecretaryDeva~
+A Secretary Deva is sitting at the desk, typing away on the keys.
 ~
 She looks very busy.
-
 >
-The Secretary says 'Sorry, but the Mayor is extremely busy today.'
-The Secretary says 'Please sit down and have a seat in the meantime.'
+The SecretaryDeva says 'Sorry, but the Mayor is extremely busy today.'
+The SecretaryDeva says 'Please sit down and have a seat in the meantime.'
 ~
 2 0 900 S
 12 9 2 1d12+148 2d7+1
@@ -561,8 +559,8 @@ The Secretary says 'Please sit down and have a seat in the meantime.'
 8 8 2
 #3143
 mayor~
-the Mayor~
-The Mayor is sitting in his huge chair, snoring loudly.
+the Politician~
+The Politician is sitting in his huge chair, snoring loudly.
 ~
 He is a stocky, middle-aged man with thin, grey hair.
 ~
@@ -595,13 +593,13 @@ about as long as you leave it alone.
 0 0
 5 5 0
 #3600
-henry gardener~
-Henry the Gardener~
-Henry the Gardener is sitting here, looking drunk.
+gardner~
+the GardenDeva~
+Henry the GardenDeva is sitting here, looking happy.
 ~
-He is a tall but bulky man in his late fifties.  His features are worn with
-decades of hard work and his somewhat crouched expression is one of deep
-sorrow and depression.  He is haunted by a memory of a lost paradise.
+He is a tall but bulky.  His features are heightened with decades of hard work
+and his somewhat crouched expression is one of deep contemplation. He is
+inspired by memories of paradise.
 ~
 64 0 350 S
 4 15 8 1d12+48 1d6+1
