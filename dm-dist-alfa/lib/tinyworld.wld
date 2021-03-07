@@ -723,30 +723,26 @@ Pet Shop number.
 30 8 0
 S
 #3033
-The Magic Shop~
-   You are in a small room that smells of rare chemicals and spices.
-Dividing the room in two is a large desk, and on the wall behind it are
-numerous shelves crammed with jars, bottles, books and scrolls of all
-sorts and sizes.
+The Toy Box~
+feecting:games/deva/3033/main
 ~
 30 8 0
 D2
-You see the main street.
+feecting:games/deva/3033/south
 ~
 ~
 0 -1 3012
 E
-jars bottles~
-Some of them are transparent enabling you to see that some contain coloured
-powders while others contain body parts of various animals.
+toys~
+feecting:games/deva/3033/toys
 ~
 E
 books~
-Most of them appear to be very old and dusty.
+feecting:games/deva/3033/books
 ~
 E
-scrolls~
-Each scroll is stored in a leather tube that protects it from moist.
+display case~
+feecting:games/deva/3033/case
 ~
 S
 #3034
