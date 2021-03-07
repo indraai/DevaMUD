@@ -246,24 +246,18 @@ feecting:games/deva/3010/note
 ~
 S
 #3011
-The Weapon Shop~
-   You are inside the weapon shop.  There is a small note on the counter.
+The Shop~
+feecting:games/deva/3011/main
 ~
 30 8 0
 D2
-You see the main street.
+feecting:games/deva/3011/south
 ~
 ~
 0 -1 3016
 E
 note~
-The note reads:
-
-  List  - Show which various items are in the store.
-  Buy   - Buy an item.
-  Value - The shopkeeper will (free of charge) tell how much he will
-          pay for your item.
-  Sell  - Sell an item.
+feecting:games/deva/3011/note
 ~
 S
 #3012
