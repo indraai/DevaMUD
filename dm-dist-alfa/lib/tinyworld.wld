@@ -213,34 +213,21 @@ feecting:games/deva/3008/sign
 S
 #3009
 The Bakery~
-   You are standing inside the small bakery.  A sweet scent of Danish and
-fine bread fills the room.  The bread and Danish are arranged in fine order
-on the shelves, and seem to be of the finest quality.
-A small sign is on the counter.
+feecting:games/deva/3009/main
 ~
 30 8 0
 D2
-You see the main street.
+feecting:games/deva/3009/south
 ~
 ~
 0 -1 3013
 E
-danish pastry~
-You see that this is truly delicious pastry.  Must be made by a Dane from
-Denmark (which surely is not the capital of Sweden!).  Former ruler of
-Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
-Iceland, Estonia etc. etc.
-   The sight of those large, wholesome chokoladeboller makes your mouth water
-and your soul sing.
-
+pastry~
+feecting:games/deva/3009/pastry
 ~
 E
 sign~
-Free instructions provided by the store:
-
-   Buy  - Will buy you some bread or pastry.
-   List - The baker will kindly tell you the price and sort of the bread in
-          his bakery.
+feecting:games/deva/3009/sign
 ~
 S
 #3010
