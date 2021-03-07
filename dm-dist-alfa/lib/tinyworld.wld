@@ -409,57 +409,49 @@ feecting:games/deva/3016/west
 0 -1 3015
 S
 #3017
-Entrance to Mage's Guild~
-   The entrance hall is a small, poor lighted room.
+The Builders~
+feecting:games/deva/3017/main
 ~
 30 8 0
 D0
-You see the main street.
+feecting:games/deva/3017/north
 ~
 ~
 0 -1 3012
 D2
-You see your favourite place, the Mage's Bar.
+feecting:games/deva/3017/south
 ~
 ~
 0 -1 3018
 S
 #3018
-Mage's Bar~
-   The bar is one of the wierdest in the land.  Mystical images float around
-the air.  Illusions of fine furniture appear all around the room.
+The Builder Bistro~
+feecting:games/deva/3018/main
 ~
 30 12 0
 D0
-You see the lobby.
+feecting:games/deva/3018/north
 ~
 ~
 0 -1 3017
 D1
-You see the laboratory.
+feecting:games/deva/3018/east
 ~
 ~
 0 -1 3019
 S
 #3019
-Mage's Laboratory~
-   This is the Magical Experiments Laboratory.  Dark smoke-stained stones
-arch over numerous huge oaken tables, most of these cluttered with strange-
-looking pipes and flasks.  The floor is covered with half-erased pentagrams
-and even weirder symbols, and a blackboard in a dark corner has only been
-partially cleaned, some painful-looking letters faintly visible.  A well in
-the middle of the floor leads down into darkness.  Vile smells waft from the
-depths.
+The Builder Laboratory~
+feecting:games/deva/3019/main
 ~
 30 12 0
 D3
-You see the bar.
+feecting:games/deva/3019/west
 ~
 ~
 0 -1 3018
 D5
-You can't see what is down there, it is too dark.  Looks like it would be
-impossible to climb back up.
+feecting:games/deva/3019/down
 ~
 ~
 0 -1 7017
