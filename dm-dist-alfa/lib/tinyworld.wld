@@ -989,13 +989,12 @@ feecting:games/deva/3xxx/3047/wall
 ~
 S
 #3048
-Grubby Inn~
-   You are inside the old Grubby Inn.  This place has not been cleaned for
-several decades, vile smells make you dizzy.
+The Hostel~
+feecting:games/deva/3xxx/3048/main
 ~
 30 8 0
 D0
-You see the alley.
+feecting:games/deva/3xxx/3048/north
 ~
 ~
 0 -1 3024
@@ -6124,7 +6123,7 @@ You die.....
 ~
 50 2 2
 S
-#5550
+#50
 Village street~
    You stand at the small village street in Ofcol.
 From here you see small houses and only few people.
