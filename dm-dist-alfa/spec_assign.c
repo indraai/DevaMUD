@@ -21,7 +21,7 @@ void assign_the_shopkeepers();
 /* assign special procedures to mobiles */
 void assign_mobiles(void)
 {
-	int cityguard(struct char_data *ch, int cmd, char *arg);
+	int securitydeva(struct char_data *ch, int cmd, char *arg);
 	int receptionist(struct char_data *ch, int cmd, char *arg);
 	int guild(struct char_data *ch, int cmd, char *arg);
 	int guild_guard(struct char_data *ch, int cmd, char *arg);
@@ -41,8 +41,8 @@ void assign_mobiles(void)
 
 	mob_index[real_mobile(1)].func = puff;
 
-	mob_index[real_mobile(3060)].func = cityguard;
-	mob_index[real_mobile(3067)].func = cityguard;
+	mob_index[real_mobile(3060)].func = securitydeva;
+	mob_index[real_mobile(3067)].func = securitydeva;
 	mob_index[real_mobile(3061)].func = janitor;
 	mob_index[real_mobile(3062)].func = fido;
 	mob_index[real_mobile(3066)].func = fido;

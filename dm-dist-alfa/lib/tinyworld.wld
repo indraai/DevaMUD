@@ -1392,7 +1392,7 @@ D2
 ~
 0 -1 3118
 D3
-You see the cityguard head quarters.
+You see the Indra.agency head quarters.
 ~
 door~
 1 -1 3110
@@ -1400,7 +1400,7 @@ E
 building door sign~
 The sign on the door says:-
 
-                 Cityguard Head Quarters
+                 Indra.agency Head Quarters
 ~
 S
 #3112
@@ -2029,7 +2029,7 @@ Arms is hanging on the north wall and a heavy steel door is to the south.
 ~
 31 8 0
 D1
-You see the Cityguard Head Quarters.
+You see the Indra.agency Head Quarters.
 ~
 door~
 1 3120 3110

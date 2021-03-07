@@ -978,7 +978,7 @@ int janitor(struct char_data *ch, int cmd, char *arg)
 	return(FALSE);
 }
 
-int cityguard(struct char_data *ch, int cmd, char *arg)
+int securitydeva(struct char_data *ch, int cmd, char *arg)
 {
 	struct char_data *tch, *evil;
 	int max_evil;
