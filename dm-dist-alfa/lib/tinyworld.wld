@@ -1754,21 +1754,21 @@ feecting:games/deva/3127/east
 S
 #3128
 The Concourse~
-feecting:gamed/deva/3128/main
+feecting:games/deva/3128/main
 ~
 31 0 1
 D0
-feecting:gamed/deva/3128/north
+feecting:games/deva/3128/north
 ~
 ~
 0 -1 3125
 D1
-feecting:gamed/deva/3128/east
+feecting:games/deva/3128/east
 ~
 ~
 0 -1 3129
 D3
-feecting:gamed/deva/3128/west
+feecting:games/deva/3128/west
 ~
 ~
 0 -1 3127
