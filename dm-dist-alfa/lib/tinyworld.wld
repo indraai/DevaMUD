@@ -232,25 +232,17 @@ feecting:games/deva/3009/sign
 S
 #3010
 The General Store~
-   You are inside the general store.  All sorts of items are stacked on shelves
-behind the counter, safely out of your reach.
-A small note hangs on the wall.
+feecting:games/deva/3010/main
 ~
 30 8 0
 D2
-You see the main street.
+feecting:games/deva/3010/south
 ~
 ~
 0 -1 3015
 E
 note~
-The note reads:
-
-  List  - Show which various items are in the store.
-  Buy   - Buy an item.
-  Value - The shopkeeper will (free of charge) tell how much he will
-          pay for your item.
-  Sell  - Sell an item.
+feecting:games/deva/3010/note
 ~
 S
 #3011
