@@ -1177,53 +1177,49 @@ feecting:games/deva/3xxx/3100/south
 0 -1 3127
 S
 #3101
-Promenade~
-   The river gently flows west just north of here.  The promenade continues
-further east and to the west you see the city wall.  Park Road leads south
-from here.
+The Promenade~
+feecting:games/deva/3xxx/3101/main
 ~
 31 0 1
 D1
-The promenade.
+feecting:games/deva/3xxx/3101/east
 ~
 ~
 0 -1 3102
 D2
-Park Road leads south.
+feecting:games/deva/3xxx/3101/south
 ~
 ~
 0 -1 3131
 D3
-You see the Concourse.
+feecting:games/deva/3xxx/3101/west
 ~
 ~
 0 -1 3100
 S
 #3102
-Promenade~
-   The river gently flows west just north of here.  The promenade continues
-both east and west.  South of here you see the entrance to the park, and a
-small building seems to be just west of the entrance.
+The Promenade~
+feecting:games/deva/3xxx/3102/main
 ~
 31 0 1
 D1
-You see the promenade.
+feecting:games/deva/3xxx/3102/east
 ~
 ~
 0 -1 3103
 D2
-You see the park entrance.
+feecting:games/deva/3xxx/3102/south
 ~
 ~
 0 -1 3105
 D3
-You see the promenade.
+feecting:games/deva/3xxx/3102/west
 ~
 ~
 0 -1 3101
 S
 #3103
-Promenade~
+The Promenade~
    The river gently flows west just north of here.  The promenade continues
 both east and west.  A small path leads south.  Looking across the river you
 see the levee.
