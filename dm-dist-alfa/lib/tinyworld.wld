@@ -1471,17 +1471,17 @@ feecting:games/deva/3xxx/3115/west
 0 -1 3114
 S
 #3116
-Eastern Park Entrance~
-   You are standing at the eastern end of the park.  A small path leads west
-into the park.  Going east through the entrance you will reach Emerald
-Avenue.
+E. Park Entrance~
+feecting:games/deva/3xxx/3116/main
 ~
 31 4 1
 D1
+feecting:games/deva/3xxx/3116/east
 ~
 ~
 0 -1 3117
 D3
+feecting:games/deva/3xxx/3116/west
 ~
 ~
 0 -1 3115
