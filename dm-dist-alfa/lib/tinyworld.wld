@@ -1435,34 +1435,37 @@ feecting:games/deva/3xxx/3113/west
 S
 #3114
 The Pond~
-   You are swimming around in the pond, feeling rather stupid.  You can get
-back on the path from the eastern and western end of the pond.
+feecting:games/deva/3xxx/3114/main
 ~
 31 0 6
 D1
+feecting:games/deva/3xxx/3114/east
 ~
 ~
 0 -1 3115
 D3
+feecting:games/deva/3xxx/3114/west
 ~
 ~
 0 -1 3113
 S
 #3115
 A path in the park~
-   You are in the park.  The paths lead north and east.  Eastwards is the
-park entrance and to the west you see a small pond.
+feecting:games/deva/3xxx/3115/main
 ~
 31 0 1
 D0
+feecting:games/deva/3xxx/3115/north
 ~
 ~
 0 -1 3109
 D1
+feecting:games/deva/3xxx/3115/east
 ~
 ~
 0 -1 3116
 D3
+feecting:games/deva/3xxx/3115/west
 ~
 ~
 0 -1 3114
