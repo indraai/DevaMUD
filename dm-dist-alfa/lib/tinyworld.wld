@@ -1296,22 +1296,22 @@ feecting:games/deva/3xxx/3109/west
 S
 #3110
 Indra.agency~
-feecting:games/deva/3xxx/3110/main
+feecting:games/deva/3xxx/31xx/3110/main
 ~
 31 8 0
 D1
-feecting:games/deva/3xxx/3110/east
+feecting:games/deva/3xxx/3110/31xx/east
 ~
 door~
 1 -1 3111
 D3
-feecting:games/deva/3xxx/3110/door
+feecting:games/deva/3xxx/3110/31xx/door
 ~
 door~
 1 3120 3142
 E
 sign~
-feecting:games/deva/3xxx/3110/sign
+feecting:games/deva/3xxx/3110/31xx/sign
 ~
 S
 #3111
