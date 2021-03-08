@@ -596,42 +596,37 @@ feecting:games/deva/3xxx/3027/east
 0 -1 3028
 S
 #3028
-The Thieves Bar~
-   The bar of the thieves.  Once upon a time this place was beautifully
-furnished, but now it seems almost empty.  To the south is the yard, and to
-the west is the entrance hall.
-   (Maybe the furniture has been stolen?!)
+The Collective Bar~
+feecting:games/deva/3xxx/3028/main
 ~
 30 12 0
 D2
-You see the secret yard.
+feecting:games/deva/3xxx/3028/south
 ~
 ~
 0 -1 3029
 D3
-You see the entrance hall to the thieves guild.
+feecting:games/deva/3xxx/3028/west
 ~
 ~
 0 -1 3027
 E
 furniture~
-As you look at the furniture, the chair you sit on disappears.
+feecting:games/deva/3xxx/3028/furniture
 ~
 S
 #3029
-The Secret Yard~
-   The secret practise yard of thieves and assassins.  To the north is the
-bar.  A well leads down into darkness.
+The Collective Studio~
+feecting:games/deva/3xxx/3029/main
 ~
 30 12 0
 D0
-You see the bar.
+feecting:games/deva/3xxx/3029/north
 ~
 ~
 0 -1 3028
 D5
-You can't see what is down there, it is too dark.  Looks like it would be
-impossible to climb back up.
+feecting:games/deva/3xxx/3029/down
 ~
 ~
 0 -1 7043
