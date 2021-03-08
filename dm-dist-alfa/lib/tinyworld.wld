@@ -1386,7 +1386,7 @@ D2
 ~
 0 -1 3118
 D3
-You see the Indra.agency head quarters.
+You see the Indra.agency headquarters.
 ~
 door~
 1 -1 3110
@@ -1394,7 +1394,7 @@ E
 building door sign~
 The sign on the door says:-
 
-                 Indra.agency Head Quarters
+                 Indra.agency Headquarters
 ~
 S
 #3112
@@ -2025,7 +2025,7 @@ door is to the south.
 ~
 31 8 0
 D1
-You see the Indra.agency Head Quarters.
+You see the Indra.agency Headquarters.
 ~
 door~
 1 3120 3110
