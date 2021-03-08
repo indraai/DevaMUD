@@ -1296,22 +1296,22 @@ games[deva]:3109/west
 S
 #3110
 Indra.agency~
-games[deva]:31xx/3110/main
+games[deva]:3110/main
 ~
 31 8 0
 D1
-games[deva]:3110/31xx/east
+games[deva]:3110/east
 ~
 door~
 1 -1 3111
 D3
-games[deva]:3110/31xx/door
+games[deva]:3110/door
 ~
 door~
 1 3120 3142
 E
 sign~
-games[deva]:3110/31xx/sign
+games[deva]:3110/sign
 ~
 S
 #3111
