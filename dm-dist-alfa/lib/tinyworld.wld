@@ -953,17 +953,16 @@ feecting:games/deva/3xxx/3048/north
 S
 #3049
 Levee~
-  You are at the levee.  South of here you see the river gently flowing west.
-The river bank is very low making it possible to enter the river.
+feecting:games/deva/3xxx/3049/main
 ~
 30 0 1
 D0
-You see the Alley.
+feecting:games/deva/3xxx/3049/north
 ~
 ~
 0 -1 3045
-D2
-You see the river flowing west.
+D3
+feecting:games/deva/3xxx/3049/west
 ~
 ~
 0 -1 3203
