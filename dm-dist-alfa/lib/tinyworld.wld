@@ -952,7 +952,7 @@ feecting:games/deva/3xxx/3048/north
 0 -1 3024
 S
 #3049
-Levee~
+The Levee~
 feecting:games/deva/3xxx/3049/main
 ~
 30 0 1
@@ -1007,7 +1007,7 @@ feecting:games/deva/3xxx/3051/wall
 ~
 S
 #3052
-West Gate~
+The West Gate~
 feecting:games/deva/3xxx/3052/main
 ~
 30 0 1
@@ -1044,7 +1044,7 @@ feecting:games/deva/3xxx/3052/wall
 ~
 S
 #3053
-East Gate~
+The East Gate~
 feecting:games/deva/3xxx/3053/main
 ~
 30 0 1
@@ -1081,7 +1081,7 @@ feecting:games/deva/3xxx/3053/wall
 ~
 S
 #3054
-The Offering~
+The Offering Table~
 feecting:games/deva/3xxx/3054/main
 ~
 30 8 0
@@ -1100,7 +1100,7 @@ feecting:games/deva/3xxx/3054/statue
 ~
 S
 #3055
-Indra's Store~
+The Store~
 feecting:games/deva/3xxx/3055/main
 ~
 30 8 0
@@ -1170,134 +1170,126 @@ feecting:games/deva/3xxx/3102/west
 S
 #3103
 The Promenade~
-   The river gently flows west just north of here.  The promenade continues
-both east and west.  A small path leads south.  Looking across the river you
-see the levee.
+feecting:games/deva/3xxx/3103/main
 ~
 31 0 1
 D1
-You see the Concourse.
+feecting:games/deva/3xxx/3102/east
 ~
 ~
 0 -1 3104
 D2
-The small path leads south.
+feecting:games/deva/3xxx/3102/south
 ~
 ~
 0 -1 3132
 D3
-You see the promenade.
+feecting:games/deva/3xxx/3102/west
 ~
 ~
 0 -1 3102
 S
 #3104
-Northeast end of Concourse~
-   You are at the Concourse.  The city wall is just east and a small
-promenade goes west.  Looking across the river you see a building that
-resembles a warehouse.  The Concourse continues south along the city wall.
+NE. Concourse~
+feecting:games/deva/3xxx/3104/main
 ~
 31 0 1
 D2
-The Concourse continues south.
+feecting:games/deva/3xxx/3104/south
 ~
 ~
 0 -1 3130
 D3
-You see the promenade.
+feecting:games/deva/3xxx/3104/west
 ~
 ~
 0 -1 3103
 E
 wall~
-It is built from large grey rocks that have been fastened to each other with
-some kind of mortar.  It is far too high to climb.
+feecting:games/deva/3xxx/3104/wall
 ~
 S
 #3105
 Park Entrance~
-   You are standing just inside the small park of Amaravati.  To the north is
-the promenade and a small path leads south into the park.  To your east is
-the famous Park Cafe.
+feecting:games/deva/3xxx/3105/main
 ~
 31 4 1
 D0
-You see the promenade.
+feecting:games/deva/3xxx/3105/north
 ~
 ~
 0 -1 3102
 D1
-You see Park Cafe.
+feecting:games/deva/3xxx/3105/east
 ~
 ~
 0 -1 3106
 D2
-You see the park.
+feecting:games/deva/3xxx/3105/south
 ~
 ~
 0 -1 3108
 S
 #3106
 Park Cafe~
-   You are inside Park Cafe, a very well lighted, cosy place. The cafe
-is built from large logs. Through the windows in the northern wall you
-see the river, and through the southern window you see many vigorous
-colourful plants.
+feecting:games/deva/3xxx/3106/main
 ~
 31 8 0
 D3
-You see the park entrance.
+feecting:games/deva/3xxx/3106/west
 ~
 ~
 0 -1 3105
 S
 #3107
-Small path through the park~
-   You are walking along a small path through the park.  The path continues
-south and east.
+Park Path~
+feecting:games/deva/3xxx/3107/main
 ~
 31 0 1
 D1
+feecting:games/deva/3xxx/3107/east
 ~
 ~
 0 -1 3108
 D2
+feecting:games/deva/3xxx/3107/south
 ~
 ~
 0 -1 3113
 S
 #3108
-Small path in the park~
-   You are standing on a small path inside the park.  The park entrance is
-just north of here, and Park Cafe is just east of the entrance.  The path
-leads further east and west.
+Park Path~
+feecting:games/deva/3xxx/3108/main
 ~
 31 0 1
 D0
-You see the northern park entrance.
+feecting:games/deva/3xxx/3108/north
 ~
 ~
 0 -1 3105
 D1
+feecting:games/deva/3xxx/3108/east
 ~
 ~
 0 -1 3109
 D3
+feecting:games/deva/3xxx/3108/west
 ~
 ~
 0 -1 3107
 S
 #3109
-Small path in the park~
-   You are on a small path running through the park.  It continues west and
-south and just north of here you see the southern wall of Park Cafe.
+Park Path~
+feecting:games/deva/3xxx/3109/main
 ~
 31 0 1
 D2
+feecting:games/deva/3xxx/3109/south
 ~
 ~
 0 -1 3115
 D3
+feecting:games/deva/3xxx/3109/west
 ~
 ~
 0 -1 3108
@@ -1369,7 +1361,7 @@ feecting:games/deva/3xxx/3112/west
 0 -1 3111
 S
 #3113
-A path in the park~
+Park Path~
 feecting:games/deva/3xxx/3113/main
 ~
 31 0 1
