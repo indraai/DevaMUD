@@ -4,58 +4,58 @@ games[deva]:0/main
 ~
 0 8 1
 D5
-feecting:games/deva/0/down
+games[deva]:0/down
 ~
 ~
 0 -1 1
 S
 #1
 Deva.cloud~
-feecting:games/deva/1/main
+games[deva]:1/main
 ~
 0 8 1
 D4
-feecting:games/deva/1/up
+games[deva]:1/up
 ~
 ~
 0 -1 0
 D5
-feecting:games/deva/1/down
+games[deva]:1/down
 ~
 ~
 0 -1 2
 S
 #2
 Deva.world~
-feecting:games/deva/2/main
+games[deva]:2/main
 ~
 0 8 1
 D4
-feecting:games/deva/2/up
+games[deva]:2/up
 ~
 ~
 0 -1 1
 D5
-feecting:games/deva/2/down
+games[deva]:2/down
 ~
 ~
 0 -1 3001
 S
 #1200
 The Lounge~
-feecting:games/deva/1xxx/1200/main
+games[deva]:1200/main
 ~
 0 520 0
 S
 #1201
 Indra.house~
-feecting:games/deva/1xxx/1201/main
+games[deva]:1201/main
 ~
 0 520 0
 S
 #1202
 The Center of the Universe.~
-feecting:games/deva/1xxx/1202/main
+games[deva]:1202/main
 ~
 0 520 0
 S
@@ -65,1371 +65,1371 @@ games[deva]:3001/main
 ~
 30 12 0
 D0
-feecting:games/deva/3xxx/3001/north~
+games[deva]:3001/north~
 ~
 0 -1 3054
 D4
-feecting:games/deva/3xxx/3001/up
+games[deva]:3001/up
 ~
 ~
 0 -1 2
 D5
-feecting:games/deva/3xxx/3001/down~
+games[deva]:3001/down~
 ~
 0 -1 3005
 S
 #3002
 The Sanctuary~
-feecting:games/deva/3xxx/3002/main
+games[deva]:3002/main
 ~
 30 12 0
 D1
-feecting:games/deva/3xxx/3002/east
+games[deva]:3002/east
 ~
 ~
 0 -1 3003
 D5
-feecting:games/deva/3xxx/3002/down
+games[deva]:3002/down
 ~
 ~
 0 -1 7026
 S
 #3003
 The Table~
-feecting:games/deva/3xxx/3003/main
+games[deva]:3003/main
 ~
 30 12 0
 D2
-feecting:games/deva/3xxx/3003/south
+games[deva]:3003/south
 ~
 ~
 0 -1 3004
 D3
-feecting:games/deva/3xxx/3003/west
+games[deva]:3003/west
 ~
 ~
 0 -1 3002
 E
 sign~
-feecting:games/deva/3xxx/3003/sign
+games[deva]:3003/sign
 ~
 S
 #3004
 The Monastery~
-feecting:games/deva/3xxx/3004/main
+games[deva]:3004/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3004/north
+games[deva]:3004/north
 ~
 ~
 0 -1 3003
 D1
-feecting:games/deva/3xxx/3004/east
+games[deva]:3004/east
 ~
 ~
 0 -1 3005
 S
 #3005
 The Circle~
-feecting:games/deva/3xxx/3005/main
+games[deva]:3005/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3005/east
+games[deva]:3005/east
 ~
 ~
 0 -1 3006
 D2
-feecting:games/deva/3xxx/3005/south
+games[deva]:3005/south
 ~
 ~
 0 -1 3014
 D3
-feecting:games/deva/3xxx/3005/west
+games[deva]:3005/west
 ~
 ~
 0 -1 3004
 D4
-feecting:games/deva/3xxx/3005/up
+games[deva]:3005/up
 ~
 ~
 0 -1 3001
 S
 #3006
 The Inn~
-feecting:games/deva/3xxx/3006/main
+games[deva]:3006/main
 ~
 30 8 0
 D1
-feecting:/games/deva/3006/east
+games[deva]:3006/east
 ~
 ~
 0 -1 3007
 D3
-feecting:games/deva/3xxx/3006/west
+games[deva]:3006/west
 ~
 ~
 0 -1 3005
 D4
-feecting:games/deva/3xxx/3006/up
+games[deva]:3006/up
 ~
 ~
 0 -1 3008
 S
 #3007
 The Café~
-feecting:games/deva/3xxx/3007/main
+games[deva]:3007/main
 ~
 30 8 0
 D3
-feecting:games/deva/3xxx/3007/west
+games[deva]:3007/west
 ~
 ~
 0 -1 3006
 E
 sign~
-feecting:games/deva/3xxx/3007/sign
+games[deva]:3007/sign
 ~
 E
 writing carving carvings symbols symbol~
-feecting:games/deva/3xxx/3007/symbols
+games[deva]:3007/symbols
 ~
 S
 #3008
 The Reception~
-feecting:games/deva/3xxx/3008/main
+games[deva]:3008/main
 ~
 30 8 0
 D5
-feecting:games/deva/3xxx/3008/down
+games[deva]:3008/down
 ~
 ~
 0 -1 3006
 E
 sign~
-feecting:games/deva/3xxx/3008/sign
+games[deva]:3008/sign
 ~
 S
 #3009
 The Bakery~
-feecting:games/deva/3xxx/3009/main
+games[deva]:3009/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3009/south
+games[deva]:3009/south
 ~
 ~
 0 -1 3013
 E
 pastry~
-feecting:games/deva/3xxx/3009/pastry
+games[deva]:3009/pastry
 ~
 E
 sign~
-feecting:games/deva/3xxx/3009/sign
+games[deva]:3009/sign
 ~
 S
 #3010
 The Store~
-feecting:games/deva/3xxx/3010/main
+games[deva]:3010/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3010/south
+games[deva]:3010/south
 ~
 ~
 0 -1 3015
 E
 note~
-feecting:games/deva/3xxx/3010/note
+games[deva]:3010/note
 ~
 S
 #3011
 The Shop~
-feecting:games/deva/3xxx/3011/main
+games[deva]:3011/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3011/south
+games[deva]:3011/south
 ~
 ~
 0 -1 3016
 E
 note~
-feecting:games/deva/3xxx/3011/note
+games[deva]:3011/note
 ~
 S
 #3012
 20 W. Main Street~
-feecting:games/deva/3xxx/3012/main
+games[deva]:3012/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3012/north
+games[deva]:3012/north
 ~
 ~
 0 -1 3033
 D1
-feecting:games/deva/3xxx/3012/east
+games[deva]:3012/east
 ~
 ~
 0 -1 3013
 D2
-feecting:games/deva/3xxx/3012/south
+games[deva]:3012/south
 ~
 ~
 0 -1 3017
 D3
-feecting:games/deva/3xxx/3012/west
+games[deva]:3012/west
 ~
 ~
 0 -1 3040
 S
 #3013
 10 W. Main Street~
-feecting:games/deva/3xxx/3013/main
+games[deva]:3013/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3013/north
+games[deva]:3013/north
 ~
 ~
 0 -1 3009
 D1
-feecting:games/deva/3xxx/3013/east
+games[deva]:3013/east
 ~
 ~
 0 -1 3014
 D2
-feecting:games/deva/3xxx/3013/south
+games[deva]:3013/south
 ~
 ~
 0 -1 3020
 D3
-feecting:games/deva/3xxx/3013/west
+games[deva]:3013/west
 ~
 ~
 0 -1 3012
 S
 #3014
 The Square~
-feecting:games/deva/3xxx/3014/main
+games[deva]:3014/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3014/north
+games[deva]:3014/north
 ~
 ~
 0 -1 3005
 D1
-feecting:games/deva/3xxx/3014/east
+games[deva]:3014/east
 ~
 ~
 0 -1 3015
 D2
-feecting:games/deva/3xxx/3014/south
+games[deva]:3014/south
 ~
 ~
 0 -1 3025
 D3
-feecting:games/deva/3xxx/3014/west
+games[deva]:3014/west
 ~
 ~
 0 -1 3013
 E
 statue~
-feecting:games/deva/3xxx/3014/statue
+games[deva]:3014/statue
 ~
 S
 #3015
 10 E. Main Street~
-feecting:games/deva/3xxx/3015/main
+games[deva]:3015/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3015/north
+games[deva]:3015/north
 ~
 ~
 0 -1 3010
 D1
-feecting:games/deva/3xxx/3015/east
+games[deva]:3015/east
 ~
 ~
 0 -1 3016
 D2
-feecting:games/deva/3xxx/3015/south
+games[deva]:3015/south
 ~
 ~
 0 -1 3034
 D3
-feecting:games/deva/3xxx/3015/west
+games[deva]:3015/west
 ~
 ~
 0 -1 3014
 S
 #3016
 20 E. Main Street~
-feecting:games/deva/3xxx/3016/main
+games[deva]:3016/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3016/north
+games[deva]:3016/north
 ~
 ~
 0 -1 3011
 D1
-feecting:games/deva/3xxx/3016/east
+games[deva]:3016/east
 ~
 ~
 0 -1 3041
 D2
-feecting:games/deva/3xxx/3016/south
+games[deva]:3016/south
 ~
 ~
 0 -1 3021
 D3
-feecting:games/deva/3xxx/3016/west
+games[deva]:3016/west
 ~
 ~
 0 -1 3015
 S
 #3017
 The Builders~
-feecting:games/deva/3xxx/3017/main
+games[deva]:3017/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3017/north
+games[deva]:3017/north
 ~
 ~
 0 -1 3012
 D2
-feecting:games/deva/3xxx/3017/south
+games[deva]:3017/south
 ~
 ~
 0 -1 3018
 S
 #3018
 The Builder Bistro~
-feecting:games/deva/3xxx/3018/main
+games[deva]:3018/main
 ~
 30 12 0
 D0
-feecting:games/deva/3xxx/3018/north
+games[deva]:3018/north
 ~
 ~
 0 -1 3017
 D1
-feecting:games/deva/3xxx/3018/east
+games[deva]:3018/east
 ~
 ~
 0 -1 3019
 S
 #3019
 The Builder Lab~
-feecting:games/deva/3xxx/3019/main
+games[deva]:3019/main
 ~
 30 12 0
 D3
-feecting:games/deva/3xxx/3019/west
+games[deva]:3019/west
 ~
 ~
 0 -1 3018
 D5
-feecting:games/deva/3xxx/3019/down
+games[deva]:3019/down
 ~
 ~
 0 -1 7017
 S
 #3020
 The Outfitter~
-feecting:games/deva/3xxx/3020/main
+games[deva]:3020/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3020/north
+games[deva]:3020/north
 ~
 ~
 0 -1 3013
 E
 note~
-feecting:games/deva/3xxx/3020/note
+games[deva]:3020/note
 ~
 S
 #3021
 The Union~
-feecting:games/deva/3xxx/3021/main
+games[deva]:3021/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3021/north
+games[deva]:3021/north
 ~
 ~
 0 -1 3016
 D1
-feecting:games/deva/3xxx/3021/east
+games[deva]:3021/east
 ~
 ~
 0 -1 3022
 S
 #3022
 The Union Bar~
-feecting:games/deva/3xxx/3022/main
+games[deva]:3022/main
 ~
 30 12 0
 D2
-feecting:games/deva/3xxx/3022/south
+games[deva]:3022/south
 ~
 ~
 0 -1 3023
 D3
-feecting:games/deva/3xxx/3022/west
+games[deva]:3022/west
 ~
 ~
 0 -1 3021
 S
 #3023
 The Tournament and Practise Yard~
-feecting:games/deva/3xxx/3023/main
+games[deva]:3023/main
 ~
 30 12 0
 D0
-feecting:games/deva/3xxx/3023/north
+games[deva]:3023/north
 ~
 ~
 0 -1 3022
 D5
-feecting:games/deva/3xxx/3023/down
+games[deva]:3023/down
 ~
 ~
 0 -1 7048
 S
 #3024
 10 W. Artist Alley~
-feecting:games/deva/3xxx/3024/main
+games[deva]:3024/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3024/east
+games[deva]:3024/east
 ~
 ~
 0 -1 3025
 D2
-feecting:games/deva/3xxx/3024/south
+games[deva]:3024/south
 ~
 ~
 0 -1 3048
 D3
-feecting:games/deva/3xxx/3024/west
+games[deva]:3024/west
 ~
 ~
 0 -1 3044
 S
 #3025
 The Spot~
-feecting:games/deva/3xxx/3025/main
+games[deva]:3025/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3025/north
+games[deva]:3025/north
 ~
 ~
 0 -1 3014
 D1
-feecting:games/deva/3xxx/3025/east
+games[deva]:3025/east
 ~
 ~
 0 -1 3026
 D2
-feecting:games/deva/3xxx/3025/south
+games[deva]:3025/south
 ~
 ~
 0 -1 3030
 D3
-feecting:games/deva/3xxx/3025/west
+games[deva]:3025/west
 ~
 ~
 0 -1 3024
 S
 #3026
 10 E. Artist Alley~
-feecting:games/deva/3xxx/3026/main
+games[deva]:3026/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3026/east
+games[deva]:3026/east
 ~
 ~
 0 -1 3045
 D2
-feecting:games/deva/3xxx/3026/south
+games[deva]:3026/south
 ~
 ~
 0 -1 3027
 D3
-feecting:games/deva/3xxx/3026/west
+games[deva]:3026/west
 ~
 ~
 0 -1 3025
 E
 guild~
-feecting:games/deva/3xxx/3026/guild
+games[deva]:3026/guild
 ~
 S
 #3027
 The Collective~
-feecting:games/deva/3xxx/3027/main
+games[deva]:3027/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3027/north
+games[deva]:3027/north
 ~
 ~
 0 -1 3026
 D1
-feecting:games/deva/3xxx/3027/east
+games[deva]:3027/east
 ~
 ~
 0 -1 3028
 S
 #3028
 The Collective Bar~
-feecting:games/deva/3xxx/3028/main
+games[deva]:3028/main
 ~
 30 12 0
 D2
-feecting:games/deva/3xxx/3028/south
+games[deva]:3028/south
 ~
 ~
 0 -1 3029
 D3
-feecting:games/deva/3xxx/3028/west
+games[deva]:3028/west
 ~
 ~
 0 -1 3027
 E
 furniture~
-feecting:games/deva/3xxx/3028/furniture
+games[deva]:3028/furniture
 ~
 S
 #3029
 The Collective Studio~
-feecting:games/deva/3xxx/3029/main
+games[deva]:3029/main
 ~
 30 12 0
 D0
-feecting:games/deva/3xxx/3029/north
+games[deva]:3029/north
 ~
 ~
 0 -1 3028
 D5
-feecting:games/deva/3xxx/3029/down
+games[deva]:3029/down
 ~
 ~
 0 -1 7043
 S
 #3030
 The Recycling Center~
-feecting:games/deva/3xxx/3030/main
+games[deva]:3030/main
 ~
 30 4 2
 D0
-feecting:games/deva/3xxx/3030/north
+games[deva]:3030/north
 ~
 ~
 0 -1 3025
 D2
-feecting:games/deva/3xxx/3030/south
+games[deva]:3030/south
 ~
 ~
 0 -1 -1
 D5
-feecting:games/deva/3xxx/3030/down
+games[deva]:3030/down
 ~
 ~
 0 -1 7030
 S
 #3031
 The Pet Shop~
-feecting:games/deva/3xxx/3031/main
+games[deva]:3031/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3031/south
+games[deva]:3031/south
 ~
 ~
 0 -1 3045
 E
 sign~
-feecting:games/deva/3xxx/3031/sign
+games[deva]:3031/sign
 ~
 S
 #3032
 Pet Shop Store~
-feecting:games/deva/3xxx/3032/main
+games[deva]:3032/main
 ~
 30 8 0
 S
 #3033
 The Toy Box~
-feecting:games/deva/3xxx/3033/main
+games[deva]:3033/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3033/south
+games[deva]:3033/south
 ~
 ~
 0 -1 3012
 E
 toys~
-feecting:games/deva/3xxx/3033/toys
+games[deva]:3033/toys
 ~
 E
 books~
-feecting:games/deva/3xxx/3033/books
+games[deva]:3033/books
 ~
 E
 display case~
-feecting:games/deva/3xxx/3033/case
+games[deva]:3033/case
 ~
 S
 #3034
 The Jewel Palace~
-feecting:games/deva/3xxx/3034/main
+games[deva]:3034/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3034/north
+games[deva]:3034/north
 ~
 ~
 0 -1 3015
 E
 oil lamps~
-feecting:games/deva/3xxx/3034/lamps
+games[deva]:3034/lamps
 ~
 E
 desk~
-feecting:games/deva/3xxx/3034/desk
+games[deva]:3034/desk
 ~
 E
 sign~
-feecting:games/deva/3xxx/3034/sign
+games[deva]:3034/sign
 ~
 S
 #3035
 The Leather Shop~
-feecting:games/deva/3xxx/3035/main
+games[deva]:3035/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3035/south
+games[deva]:3035/south
 ~
 ~
 0 -1 3044
 E
 fireplace~
-feecting:games/deva/3xxx/3035/fireplace
+games[deva]:3035/fireplace
 ~
 E
 table~
-feecting:games/deva/3xxx/3035/table
+games[deva]:3035/table
 ~
 E
 pot~
-feecting:games/deva/3xxx/3035/pot
+games[deva]:3035/pot
 ~
 E
 sign~
-feecting:games/deva/3xxx/3035/sign
+games[deva]:3035/sign
 ~
 S
 #3040
 Main St. & Wall Rd.~
-feecting:games/deva/3xxx/3040/main
+games[deva]:3040/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3040/east
+games[deva]:3040/east
 ~
 ~
 0 -1 3012
 D2
-feecting:games/deva/3xxx/3040/south
+games[deva]:3040/south
 ~
 ~
 0 -1 3042
 D3
-feecting:games/deva/3xxx/3040/west
+games[deva]:3040/west
 ~
 gate~
 1 3133 3052
 E
 bridge footbridge~
-feecting:games/deva/3xxx/3040/bridge
+games[deva]:3040/bridge
 ~
 E
 gate~
-feecting:games/deva/3xxx/3040/gate
+games[deva]:3040/gate
 ~
 E
 tower towers~
-feecting:games/deva/3xxx/3040/towers
+games[deva]:3040/towers
 ~
 E
 wall~
-feecting:games/deva/3xxx/3040/wall
+games[deva]:3040/wall
 ~
 S
 #3041
 30 E. Main Street~
-feecting:games/deva/3xxx/3041/main
+games[deva]:3041/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3041/east
+games[deva]:3041/east
 ~
 gate~
 1 3133 3053
 D3
-feecting:games/deva/3xxx/3041/west
+games[deva]:3041/west
 ~
 ~
 0 -1 3016
 E
 bridge footbridge~
-feecting:games/deva/3xxx/3041/bridge
+games[deva]:3041/bridge
 ~
 E
 gate~
-feecting:games/deva/3xxx/3041/gate
+games[deva]:3041/gate
 ~
 E
 tower towers~
-feecting:games/deva/3xxx/3041/towers
+games[deva]:3041/towers
 ~
 E
 wall~
-feecting:games/deva/3xxx/3041/wall
+games[deva]:3041/wall
 ~
 S
 #3042
 10 S. Wall Road~
-feecting:games/deva/3xxx/3042/main
+games[deva]:3042/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3042/north
+games[deva]:3042/north
 ~
 ~
 0 -1 3040
 D2
-feecting:games/deva/3xxx/3042/south
+games[deva]:3042/south
 ~
 ~
 0 -1 3043
 E
 wall~
-feecting:games/deva/3xxx/3042/wall
+games[deva]:3042/wall
 ~
 S
 #3043
 20 S. Wall Road~
-feecting:games/deva/3xxx/3043/main
+games[deva]:3043/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3043/north
+games[deva]:3043/north
 ~
 ~
 0 -1 3042
 D1
-feecting:games/deva/3xxx/3043/east
+games[deva]:3043/east
 ~
 ~
 0 -1 3044
 D2
-feecting:games/deva/3xxx/3043/south
+games[deva]:3043/south
 ~
 ~
 0 -1 3047
 E
 letters~
-feecting:games/deva/3xxx/3043/letters
+games[deva]:3043/letters
 ~
 E
 wall~
-feecting:games/deva/3xxx/3043/wall
+games[deva]:3043/wall
 ~
 S
 #3044
 20 W. Artist Alley~
-feecting:games/deva/3xxx/3044/main
+games[deva]:3044/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3044/north
+games[deva]:3044/north
 ~
 ~
 0 -1 3035
 D1
-feecting:games/deva/3xxx/3044/east
+games[deva]:3044/east
 ~
 ~
 0 -1 3024
 D3
-feecting:games/deva/3xxx/3044/west
+games[deva]:3044/west
 ~
 ~
 0 -1 3043
 S
 #3045
 20 E. Artist Alley~
-feecting:games/deva/3xxx/3045/main
+games[deva]:3045/main
 ~
 30 0 1
 D1
-feecting:games/deva/3xxx/3045/east
+games[deva]:3045/east
 ~
 ~
 0 -1 3046
 D2
-feecting:games/deva/3xxx/3045/south
+games[deva]:3045/south
 ~
 ~
 0 -1 3049
 D3
-feecting:games/deva/3xxx/3045/west
+games[deva]:3045/west
 ~
 ~
 0 -1 3026
 S
 #3046
 30 E. Artist Alley~
-feecting:games/deva/3xxx/3046/main
+games[deva]:3046/main
 ~
 30 0 1
 D2
-feecting:games/deva/3xxx/3046/west
+games[deva]:3046/west
 ~
 ~
 0 -1 3050
 D3
-feecting:games/deva/3xxx/3046/south
+games[deva]:3046/south
 ~
 ~
 0 -1 3045
 S
 #3047
 30 S. Wall Road~
-feecting:games/deva/3xxx/3047/main
+games[deva]:3047/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3047/north
+games[deva]:3047/north
 ~
 ~
 0 -1 3043
 D2
-feecting:games/deva/3xxx/3047/south
+games[deva]:3047/south
 ~
 ~
 0 -1 3051
 E
 wall~
-feecting:games/deva/3xxx/3047/wall
+games[deva]:3047/wall
 ~
 S
 #3048
 The Hostel~
-feecting:games/deva/3xxx/3048/main
+games[deva]:3048/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3048/north
+games[deva]:3048/north
 ~
 ~
 0 -1 3024
 S
 #3049
 The Levee~
-feecting:games/deva/3xxx/3049/main
+games[deva]:3049/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3049/north
+games[deva]:3049/north
 ~
 ~
 0 -1 3045
 D3
-feecting:games/deva/3xxx/3049/west
+games[deva]:3049/west
 ~
 ~
 0 -1 3203
 S
 #3050
 The Warehouse~
-feecting:games/deva/3xxx/3050/main
+games[deva]:3050/main
 ~
 30 8 0
 D0
-feecting:games/deva/3xxx/3050/north
+games[deva]:3050/north
 ~
 ~
 0 -1 3046
 S
 #3051
 40 S. Wall Road~
-feecting:games/deva/3xxx/3051/main
+games[deva]:3051/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3051/north
+games[deva]:3051/north
 ~
 ~
 0 -1 3047
 D2
-feecting:games/deva/3xxx/3051/south
+games[deva]:3051/south
 ~
 ~
 0 -1 3100
 E
 bridge~
-feecting:games/deva/3xxx/3051/bridge
+games[deva]:3051/bridge
 ~
 E
 opening~
-feecting:games/deva/3xxx/3051/opening
+games[deva]:3051/opening
 ~
 E
 wall~
-feecting:games/deva/3xxx/3051/wall
+games[deva]:3051/wall
 ~
 S
 #3052
 The West Gate~
-feecting:games/deva/3xxx/3052/main
+games[deva]:3052/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3052/north
+games[deva]:3052/north
 ~
 ~
 0 -1 3900
 D1
-feecting:games/deva/3xxx/3052/east
+games[deva]:3052/east
 ~
 gate~
 1 3133 3040
 D3
-feecting:games/deva/3xxx/3052/west
+games[deva]:3052/west
 ~
 ~
 0 -1 6000
 E
 bridge footbridge~
-feecting:games/deva/3xxx/3052/bridge
+games[deva]:3052/bridge
 ~
 E
 gate~
-feecting:games/deva/3xxx/3052/gate
+games[deva]:3052/gate
 ~
 E
 tower towers~
-feecting:games/deva/3xxx/3052/towers
+games[deva]:3052/towers
 ~
 E
 wall~
-feecting:games/deva/3xxx/3052/wall
+games[deva]:3052/wall
 ~
 S
 #3053
 The East Gate~
-feecting:games/deva/3xxx/3053/main
+games[deva]:3053/main
 ~
 30 0 1
 D0
-feecting:games/deva/3xxx/3053/north
+games[deva]:3053/north
 ~
 ~
 0 -1 3908
 D1
-feecting:games/deva/3xxx/3053/north
+games[deva]:3053/north
 ~
 ~
 0 -1 3503
 D3
-feecting:games/deva/3xxx/3053/west
+games[deva]:3053/west
 ~
 gate~
 1 3133 3041
 E
 bridge footbridge~
-feecting:games/deva/3xxx/3053/bridge
+games[deva]:3053/bridge
 ~
 E
 gate~
-feecting:games/deva/3xxx/3053/gate
+games[deva]:3053/gate
 ~
 E
 tower towers~
-feecting:games/deva/3xxx/3053/tower
+games[deva]:3053/tower
 ~
 E
 wall~
-feecting:games/deva/3xxx/3053/wall
+games[deva]:3053/wall
 ~
 S
 #3054
 The Offering Table~
-feecting:games/deva/3xxx/3054/main
+games[deva]:3054/main
 ~
 30 8 0
 D2
-feecting:games/deva/3xxx/3054/south
+games[deva]:3054/south
 ~
 ~
 0 -1 3001
 E
 offering table~
-feecting:games/deva/3xxx/3054/table
+games[deva]:3054/table
 ~
 E
 statue indra king god~
-feecting:games/deva/3xxx/3054/statue
+games[deva]:3054/statue
 ~
 S
 #3055
 The Store~
-feecting:games/deva/3xxx/3055/main
+games[deva]:3055/main
 ~
 30 8 0
 S
 #3100
 50 S. Wall Road~
-feecting:games/deva/3xxx/3100/main
+games[deva]:3100/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3100/north
+games[deva]:3100/north
 ~
 ~
 0 -1 3051
 D1
-feecting:games/deva/3xxx/3100/east
+games[deva]:3100/east
 ~
 ~
 0 -1 3101
 D2
-feecting:games/deva/3xxx/3100/south
+games[deva]:3100/south
 ~
 ~
 0 -1 3127
 S
 #3101
 The Promenade~
-feecting:games/deva/3xxx/3101/main
+games[deva]:3101/main
 ~
 31 0 1
 D1
-feecting:games/deva/3xxx/3101/east
+games[deva]:3101/east
 ~
 ~
 0 -1 3102
 D2
-feecting:games/deva/3xxx/3101/south
+games[deva]:3101/south
 ~
 ~
 0 -1 3131
 D3
-feecting:games/deva/3xxx/3101/west
+games[deva]:3101/west
 ~
 ~
 0 -1 3100
 S
 #3102
 The Promenade~
-feecting:games/deva/3xxx/3102/main
+games[deva]:3102/main
 ~
 31 0 1
 D1
-feecting:games/deva/3xxx/3102/east
+games[deva]:3102/east
 ~
 ~
 0 -1 3103
 D2
-feecting:games/deva/3xxx/3102/south
+games[deva]:3102/south
 ~
 ~
 0 -1 3105
 D3
-feecting:games/deva/3xxx/3102/west
+games[deva]:3102/west
 ~
 ~
 0 -1 3101
 S
 #3103
 The Promenade~
-feecting:games/deva/3xxx/3103/main
+games[deva]:3103/main
 ~
 31 0 1
 D1
-feecting:games/deva/3xxx/3102/east
+games[deva]:3102/east
 ~
 ~
 0 -1 3104
 D2
-feecting:games/deva/3xxx/3102/south
+games[deva]:3102/south
 ~
 ~
 0 -1 3132
 D3
-feecting:games/deva/3xxx/3102/west
+games[deva]:3102/west
 ~
 ~
 0 -1 3102
 S
 #3104
 NE. Concourse~
-feecting:games/deva/3xxx/3104/main
+games[deva]:3104/main
 ~
 31 0 1
 D2
-feecting:games/deva/3xxx/3104/south
+games[deva]:3104/south
 ~
 ~
 0 -1 3130
 D3
-feecting:games/deva/3xxx/3104/west
+games[deva]:3104/west
 ~
 ~
 0 -1 3103
 E
 wall~
-feecting:games/deva/3xxx/3104/wall
+games[deva]:3104/wall
 ~
 S
 #3105
 Park Entrance~
-feecting:games/deva/3xxx/3105/main
+games[deva]:3105/main
 ~
 31 4 1
 D0
-feecting:games/deva/3xxx/3105/north
+games[deva]:3105/north
 ~
 ~
 0 -1 3102
 D1
-feecting:games/deva/3xxx/3105/east
+games[deva]:3105/east
 ~
 ~
 0 -1 3106
 D2
-feecting:games/deva/3xxx/3105/south
+games[deva]:3105/south
 ~
 ~
 0 -1 3108
 S
 #3106
 Park Cafe~
-feecting:games/deva/3xxx/3106/main
+games[deva]:3106/main
 ~
 31 8 0
 D3
-feecting:games/deva/3xxx/3106/west
+games[deva]:3106/west
 ~
 ~
 0 -1 3105
 S
 #3107
 Park Path~
-feecting:games/deva/3xxx/3107/main
+games[deva]:3107/main
 ~
 31 0 1
 D1
-feecting:games/deva/3xxx/3107/east
+games[deva]:3107/east
 ~
 ~
 0 -1 3108
 D2
-feecting:games/deva/3xxx/3107/south
+games[deva]:3107/south
 ~
 ~
 0 -1 3113
 S
 #3108
 Park Path~
-feecting:games/deva/3xxx/3108/main
+games[deva]:3108/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3108/north
+games[deva]:3108/north
 ~
 ~
 0 -1 3105
 D1
-feecting:games/deva/3xxx/3108/east
+games[deva]:3108/east
 ~
 ~
 0 -1 3109
 D3
-feecting:games/deva/3xxx/3108/west
+games[deva]:3108/west
 ~
 ~
 0 -1 3107
 S
 #3109
 Park Path~
-feecting:games/deva/3xxx/3109/main
+games[deva]:3109/main
 ~
 31 0 1
 D2
-feecting:games/deva/3xxx/3109/south
+games[deva]:3109/south
 ~
 ~
 0 -1 3115
 D3
-feecting:games/deva/3xxx/3109/west
+games[deva]:3109/west
 ~
 ~
 0 -1 3108
 S
 #3110
 Indra.agency~
-feecting:games/deva/3xxx/31xx/3110/main
+games[deva]:31xx/3110/main
 ~
 31 8 0
 D1
-feecting:games/deva/3xxx/3110/31xx/east
+games[deva]:3110/31xx/east
 ~
 door~
 1 -1 3111
 D3
-feecting:games/deva/3xxx/3110/31xx/door
+games[deva]:3110/31xx/door
 ~
 door~
 1 3120 3142
 E
 sign~
-feecting:games/deva/3xxx/3110/31xx/sign
+games[deva]:3110/31xx/sign
 ~
 S
 #3111
 Park Road~
-feecting:games/deva/3xxx/3111/main
+games[deva]:3111/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3111/north
+games[deva]:3111/north
 ~
 ~
 0 -1 3131
 D1
-feecting:games/deva/3xxx/3111/east
+games[deva]:3111/east
 ~
 ~
 0 -1 3112
 D2
-feecting:games/deva/3xxx/3111/south
+games[deva]:3111/south
 ~
 ~
 0 -1 3118
 D3
-feecting:games/deva/3xxx/3111/west
+games[deva]:3111/west
 ~
 door~
 1 -1 3110
 E
 building door sign~
-feecting:games/deva/3xxx/3111/door
+games[deva]:3111/door
 ~
 S
 #3112
 W. Park Entrance~
-feecting:games/deva/3xxx/3112/main
+games[deva]:3112/main
 ~
 31 4 1
 D1
-feecting:games/deva/3xxx/3112/east
+games[deva]:3112/east
 ~
 ~
 0 -1 3113
 D3
-feecting:games/deva/3xxx/3112/west
+games[deva]:3112/west
 ~
 ~
 0 -1 3111
 S
 #3113
 Park Path~
-feecting:games/deva/3xxx/3113/main
+games[deva]:3113/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3113/north
+games[deva]:3113/north
 ~
 ~
 0 -1 3107
 D1
-feecting:games/deva/3xxx/3113/east
+games[deva]:3113/east
 ~
 ~
 0 -1 3114
 D3
-feecting:games/deva/3xxx/3113/west
+games[deva]:3113/west
 ~
 ~
 0 -1 3112
 S
 #3114
 The Pond~
-feecting:games/deva/3xxx/3114/main
+games[deva]:3114/main
 ~
 31 0 6
 D1
-feecting:games/deva/3xxx/3114/east
+games[deva]:3114/east
 ~
 ~
 0 -1 3115
 D3
-feecting:games/deva/3xxx/3114/west
+games[deva]:3114/west
 ~
 ~
 0 -1 3113
 S
 #3115
 A path in the park~
-feecting:games/deva/3xxx/3115/main
+games[deva]:3115/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3115/north
+games[deva]:3115/north
 ~
 ~
 0 -1 3109
 D1
-feecting:games/deva/3xxx/3115/east
+games[deva]:3115/east
 ~
 ~
 0 -1 3116
 D3
-feecting:games/deva/3xxx/3115/west
+games[deva]:3115/west
 ~
 ~
 0 -1 3114
 S
 #3116
 E. Park Entrance~
-feecting:games/deva/3xxx/3116/main
+games[deva]:3116/main
 ~
 31 4 1
 D1
-feecting:games/deva/3xxx/3116/east
+games[deva]:3116/east
 ~
 ~
 0 -1 3117
 D3
-feecting:games/deva/3xxx/3116/west
+games[deva]:3116/west
 ~
 ~
 0 -1 3115
@@ -1629,7 +1629,7 @@ says "Manxam".  Underneath it, someone has scribbled "and Fzoul".
 S
 #3125
 Emerald Avenue~
-feecting:games/deva/3xxx/3125/main
+games[deva]:3125/main
 ~
 31 0 1
 D0
@@ -1678,37 +1678,37 @@ It opens its mouth wide and gobbles 'Unlokk me!'
 S
 #3127
 60 S. Wall Road~
-feecting:games/deva/3xxx/3127/main
+games[deva]:3127/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3127/north
+games[deva]:3127/north
 ~
 ~
 0 -1 3100
 D1
-feecting:games/deva/3xxx/3127/east
+games[deva]:3127/east
 ~
 ~
 0 -1 3128
 S
 #3128
 The Concourse~
-feecting:games/deva/3xxx/3128/main
+games[deva]:3128/main
 ~
 31 0 1
 D0
-feecting:games/deva/3xxx/3128/north
+games[deva]:3128/north
 ~
 ~
 0 -1 3125
 D1
-feecting:games/deva/3xxx/3128/east
+games[deva]:3128/east
 ~
 ~
 0 -1 3129
 D3
-feecting:games/deva/3xxx/3128/west
+games[deva]:3128/west
 ~
 ~
 0 -1 3127
@@ -2493,7 +2493,7 @@ D3
 S
 #3503
 City Entrance~
-feecting:games/deva/3xxx/3053/main
+games[deva]:3053/main
 ~
 30 4 1
 D1
