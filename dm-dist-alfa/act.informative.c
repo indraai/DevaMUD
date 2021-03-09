@@ -743,7 +743,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		send_to_char("You are hungry.\n\r", ch);
 
 	sprintf(buf,
-		"stats:hit %d/%d | man %d/%d | mov %d/%d\n\r",
+		"stats: hit %d/%d | man %d/%d | mov %d/%d\n\r",
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
@@ -768,7 +768,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		case POSITION_DEAD :
 			send_to_char("You are DEAD!\n\r", ch); break;
 		case POSITION_MORTALLYW :
-			send_to_char("You are mortally wounded!, you should seek help!\n\r", ch); break;
+			send_to_char("You are wounded!, you should seek help!\n\r", ch); break;
 		case POSITION_INCAP :
 			send_to_char("You are incapacitated, slowly fading away\n\r", ch); break;
 		case POSITION_STUNNED :
@@ -946,7 +946,7 @@ void do_wizhelp(struct char_data *ch, char *argument, int cmd)
 	if (IS_NPC(ch))
 		return;
 
-	send_to_char("The following privileged comands are available:\n\r\n\r", ch);
+	send_to_char("# Privileged Comands:\n\r", ch);
 
 	*buf = '\0';
 
@@ -1002,7 +1002,7 @@ void do_users(struct char_data *ch, char *argument, int cmd)
 
 	struct descriptor_data *d;
 
-	strcpy(buf, "Connections:\n\r------------\n\r");
+	strcpy(buf, "# Connections:\n\r-\n\r");
 
 	for (d = descriptor_list; d; d = d->next)
 	{
@@ -1029,7 +1029,7 @@ void do_users(struct char_data *ch, char *argument, int cmd)
 
 void do_inventory(struct char_data *ch, char *argument, int cmd) {
 
-	send_to_char("You are carrying:\n\r", ch);
+	send_to_char("carrying:\n\r", ch);
 	list_obj_to_char(ch->carrying, ch, 1, TRUE);
 }
 
@@ -1038,7 +1038,7 @@ void do_equipment(struct char_data *ch, char *argument, int cmd) {
 int j;
 bool found;
 
-	send_to_char("You are using:\n\r", ch);
+	send_to_char("using:\n\r", ch);
 	found = FALSE;
 	for (j=0; j< MAX_WEAR; j++) {
 		if (ch->equipment[j]) {
@@ -1101,7 +1101,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		}
 		else
 		{
-			strcpy(buf, "Players:\n\r--------\n\r");
+			strcpy(buf, "# Players:\n\r-\n\r");
 
 			for (d = descriptor_list; d; d = d->next) {
 				if (d->character && (d->connected == CON_PLYNG) && (d->character->in_room != NOWHERE)) {
@@ -1228,7 +1228,7 @@ void do_consider(struct char_data *ch, char *argument, int cmd)
 	one_argument(argument, name);
 
 	if (!(victim = get_char_room_vis(ch, name))) {
-		send_to_char("Consider killing who?\n\r", ch);
+		send_to_char("Consider tackling who?\n\r", ch);
 		return;
 	}
 
@@ -1261,10 +1261,10 @@ void do_consider(struct char_data *ch, char *argument, int cmd)
 	else if (diff <= 3)
 		send_to_char("You would need a lot of luck and great equipment!\n\r", ch);
 	else if (diff <= 5)
-		send_to_char("Do you feel lucky, punk?\n\r", ch);
+		send_to_char("Do you feel lucky?\n\r", ch);
 	else if (diff <= 10)
-		send_to_char("Are you mad!?\n\r", ch);
+		send_to_char("Are you insane!?\n\r", ch);
 	else if (diff <= 100)
-		send_to_char("You ARE mad!\n\r", ch);
+		send_to_char("You ARE insane!\n\r", ch);
 
 }
