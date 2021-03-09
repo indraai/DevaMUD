@@ -1483,7 +1483,7 @@ games[deva]:3118/south
 D3
 games[deva]:3118/door~
 door wooden~
-2 3321 3307
+2 # 3307
 E
 plate name~
 games[deva]:3118/plate
@@ -12329,7 +12329,7 @@ They read "LIBRARY".
 ~
 S
 #7902
-Avati's Library~
+Indra's Library~
 This is truly a magnificent place! Books and scrolls lie together on every
 shelf. A large globe, with the map of the Mud-world upon it, stands in the
 dimly lit north-western corner of the room. Two large and comfortable-
