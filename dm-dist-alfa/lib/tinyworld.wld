@@ -1436,23 +1436,26 @@ games[deva]:3116/west
 S
 #3117
 Emerald Avenue~
-   You are at Emerald Avenue which continues north and south.  To the west is
-the park entrance and to the east is the not very big Town Hall of Amaravati.
+games[deva]:3117/main
 ~
 31 0 1
 D0
+games[deva]:3117/north
 ~
 ~
 0 -1 3132
 D1
+games[deva]:3117/east
 ~
 ~
 0 -1 3137
 D2
+games[deva]:3117/south
 ~
 ~
 0 -1 3119
 D3
+games[deva]:3117/west
 ~
 ~
 0 -1 3116
@@ -1488,65 +1491,57 @@ games[deva]:3118/plate
 S
 #3119
 Emerald Avenue~
-   You are standing at a bend on Emerald Avenue.  The road leads north and
-west.
+games[deva]:3119/main
 ~
 31 0 1
 D0
+games[deva]:3119/north
 ~
 ~
 0 -1 3117
 D3
+games[deva]:3119/west
 ~
 ~
 0 -1 3133
 S
 #3120
 Road Crossing~
-   You are in the middle of the road cross.  Roads lead in all directions.
-A huge black iron chain as thick as a tree trunk is fastened into the ground
-at the centre of the road cross.  Its other end leads directly upwards towards
-the sky.
-A road sign is here.
+games[deva]:3120/main
 ~
 31 0 1
 D0
+games[deva]:3120/north
 ~
 ~
 0 -1 3133
 D1
+games[deva]:3120/east
 ~
 ~
 0 -1 3136
 D2
+games[deva]:3120/south
 ~
 ~
 0 -1 3134
 D3
+games[deva]:3120/west
 ~
 ~
 0 -1 3135
 D4
-The chain disappears in the clouds.~
+games[deva]:3120/up
+~
 ~
 0 -1 7914
 E
 sign~
-The sign points in all directions:
-
-   North - Emerald Avenue.
-   East  - Park Road.
-   South - Emerald Avenue.
-   West  - Park Road.
-
-Someone has added the following with red paint:
-
-   Up    - Avati's Flying Citadel.
+games[deva]:3120/sign
 ~
 E
-chain~
-The the chain reaches the clouds high above you.  It must take some really
-powerful magic to hold such a chain in place.
+tree~
+games[deva]:3120/tree
 ~
 S
 #3121
@@ -12272,47 +12267,33 @@ D3
 0 -1 7444
 S
 #7900
-Outside Avati's residence~
-A huge cloud forms the plateau on which you are now standing. The wind here
-is absolutely quiet and the sun is shining warmly upon you. From under the
-cloud you can hear the faint sounds of Amaravati. Right before you to the
-north lies the grand Mansion of Naris, the residence of the Greater God
-Avati.
+Outside Indra's residence~
+games[deva]:7900/main
 ~
 79 516 0
 D0
-You see a HUGE arched gate leading into this magnificent building.
+games[deva]:7900/north
 ~
 gate door huge arched~
 2 7901 7901
 D5
-You see a Huge Chain that anchors the Mansion of Naris to the ground.
+games[deva]:7900/gate
 ~
 ~
 0 -1 7918
 S
 #7901
 The Southern end of the hall~
-You are standing in a vast hall that is dimly lit, but wherefrom the
-light comes, is a mystery. The walls seem to radiate warmth and give
-the pleasent feeling of being welcome here. A large portrait is hanging
-on one of the walls. A large wooden staircase leads up into the tower.
-To the east there is a high passage away from the hall. This ends
-shortly after by a tall oak door. The enormous hall extends further
-north from here. To the south you can see a huge, and VERY heavy-
-looking iron-wrought door. It looks like this is the only exit from
-this magnificent old house. To the west you can see a large ashen door.
+games[deva]:7901/main
 ~
 79 524 0
 D0
-The hallway continues that way. You can see more doorways under the
-wooden staircase in that direction.
+games[deva]:7901/north
 ~
 ~
 0 -1 7904
 D1
-You see there a tall oak door. It looks quite tightly closed to you.
-On it little runes are chiselled into the wood.
+games[deva]:7901/east
 ~
 oak tall east oakdoor talldoor eastdoor~
 2 -1 7910
