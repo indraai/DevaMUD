@@ -1831,16 +1831,16 @@ D3
 S
 #3135
 Park Road~
-   You are at a bend on Park Road.  To the north the road goes on and to the
-east is the Road Crossing.  To the south, the ancient cliffs rise from deep
-under the ground, forming a wall.
+games[deva]:3135/main
 ~
 31 0 1
 D0
+games[deva]:3135/north
 ~
 ~
 0 -1 3118
 D1
+games[deva]:3135/east
 ~
 ~
 0 -1 3120
@@ -1850,8 +1850,7 @@ portal wall~
 2 3307 3303
 E
 wall~
-You are surprised to find the outlines of a portal in the wall, although it
-is hardly perceivable.
+games[deva]:3135/wall
 ~
 S
 #3136
