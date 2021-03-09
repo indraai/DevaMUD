@@ -743,13 +743,13 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		send_to_char("You are hungry.\n\r", ch);
 
 	sprintf(buf,
-		"stats: hit %d/%d | mana %d/%d | move %d/%d\n\r",
+		"stats:hit %d/%d | man %d/%d | mov %d/%d\n\r",
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
 	send_to_char(buf,ch);
 
-	sprintf(buf,"score: exp %d | gold %d\n\r",
+	sprintf(buf,"score: exp %d | gld %d\n\r",
 		GET_EXP(ch),GET_GOLD(ch));
 	send_to_char(buf,ch);
 
@@ -760,7 +760,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		playing_time.hours);
 	send_to_char(buf, ch);
 
-	sprintf(buf,"This ranks you as %s %s (level %d).\n\r",
+	sprintf(buf,"rank: %s\n\rlevel: %d.\n\r",
 		GET_NAME(ch),
 		GET_TITLE(ch), GET_LEVEL(ch) );
 	send_to_char(buf,ch);
