@@ -1,1547 +1,1547 @@
 #0
 Deva.space~
-games[deva]:0/main
+adventure[deva]:0/main
 ~
 0 8 1
 D5
-games[deva]:0/down
+adventure[deva]:0/down
 ~
 ~
 0 -1 1
 S
 #1
 Deva.cloud~
-games[deva]:1/main
+adventure[deva]:1/main
 ~
 0 8 1
 D4
-games[deva]:1/up
+adventure[deva]:1/up
 ~
 ~
 0 -1 0
 D5
-games[deva]:1/down
+adventure[deva]:1/down
 ~
 ~
 0 -1 2
 S
 #2
 Deva.world~
-games[deva]:2/main
+adventure[deva]:2/main
 ~
 0 8 1
 D4
-games[deva]:2/up
+adventure[deva]:2/up
 ~
 ~
 0 -1 1
 D5
-games[deva]:2/down
+adventure[deva]:2/down
 ~
 ~
 0 -1 3001
 S
 #1200
 The Lounge~
-games[deva]:1200/main
+adventure[deva]:1200/main
 ~
 0 520 0
 S
 #1201
 Indra.house~
-games[deva]:1201/main
+adventure[deva]:1201/main
 ~
 0 520 0
 S
 #1202
 The Center of the Universe.~
-games[deva]:1202/main
+adventure[deva]:1202/main
 ~
 0 520 0
 S
 #3001
 The Temple~
-games[deva]:3001/main
+adventure[deva]:3001/main
 ~
 30 12 0
 D0
-games[deva]:3001/north~
+adventure[deva]:3001/north~
 ~
 0 -1 3054
 D4
-games[deva]:3001/up
+adventure[deva]:3001/up
 ~
 ~
 0 -1 2
 D5
-games[deva]:3001/down~
+adventure[deva]:3001/down~
 ~
 0 -1 3005
 S
 #3002
 The Sanctuary~
-games[deva]:3002/main
+adventure[deva]:3002/main
 ~
 30 12 0
 D1
-games[deva]:3002/east
+adventure[deva]:3002/east
 ~
 ~
 0 -1 3003
 D5
-games[deva]:3002/down
+adventure[deva]:3002/down
 ~
 ~
 0 -1 7026
 S
 #3003
 The Table~
-games[deva]:3003/main
+adventure[deva]:3003/main
 ~
 30 12 0
 D2
-games[deva]:3003/south
+adventure[deva]:3003/south
 ~
 ~
 0 -1 3004
 D3
-games[deva]:3003/west
+adventure[deva]:3003/west
 ~
 ~
 0 -1 3002
 E
 sign~
-games[deva]:3003/sign
+adventure[deva]:3003/sign
 ~
 S
 #3004
 The Monastery~
-games[deva]:3004/main
+adventure[deva]:3004/main
 ~
 30 8 0
 D0
-games[deva]:3004/north
+adventure[deva]:3004/north
 ~
 ~
 0 -1 3003
 D1
-games[deva]:3004/east
+adventure[deva]:3004/east
 ~
 ~
 0 -1 3005
 S
 #3005
 The Circle~
-games[deva]:3005/main
+adventure[deva]:3005/main
 ~
 30 0 1
 D1
-games[deva]:3005/east
+adventure[deva]:3005/east
 ~
 ~
 0 -1 3006
 D2
-games[deva]:3005/south
+adventure[deva]:3005/south
 ~
 ~
 0 -1 3014
 D3
-games[deva]:3005/west
+adventure[deva]:3005/west
 ~
 ~
 0 -1 3004
 D4
-games[deva]:3005/up
+adventure[deva]:3005/up
 ~
 ~
 0 -1 3001
 S
 #3006
 The Inn~
-games[deva]:3006/main
+adventure[deva]:3006/main
 ~
 30 8 0
 D1
-games[deva]:3006/east
+adventure[deva]:3006/east
 ~
 ~
 0 -1 3007
 D3
-games[deva]:3006/west
+adventure[deva]:3006/west
 ~
 ~
 0 -1 3005
 D4
-games[deva]:3006/up
+adventure[deva]:3006/up
 ~
 ~
 0 -1 3008
 S
 #3007
 The Café~
-games[deva]:3007/main
+adventure[deva]:3007/main
 ~
 30 8 0
 D3
-games[deva]:3007/west
+adventure[deva]:3007/west
 ~
 ~
 0 -1 3006
 E
 sign~
-games[deva]:3007/sign
+adventure[deva]:3007/sign
 ~
 E
 writing carving carvings symbols symbol~
-games[deva]:3007/symbols
+adventure[deva]:3007/symbols
 ~
 S
 #3008
 The Reception~
-games[deva]:3008/main
+adventure[deva]:3008/main
 ~
 30 8 0
 D5
-games[deva]:3008/down
+adventure[deva]:3008/down
 ~
 ~
 0 -1 3006
 E
 sign~
-games[deva]:3008/sign
+adventure[deva]:3008/sign
 ~
 S
 #3009
 The Bakery~
-games[deva]:3009/main
+adventure[deva]:3009/main
 ~
 30 8 0
 D2
-games[deva]:3009/south
+adventure[deva]:3009/south
 ~
 ~
 0 -1 3013
 E
 pastry~
-games[deva]:3009/pastry
+adventure[deva]:3009/pastry
 ~
 E
 sign~
-games[deva]:3009/sign
+adventure[deva]:3009/sign
 ~
 S
 #3010
 The Store~
-games[deva]:3010/main
+adventure[deva]:3010/main
 ~
 30 8 0
 D2
-games[deva]:3010/south
+adventure[deva]:3010/south
 ~
 ~
 0 -1 3015
 E
 note~
-games[deva]:3010/note
+adventure[deva]:3010/note
 ~
 S
 #3011
 The Shop~
-games[deva]:3011/main
+adventure[deva]:3011/main
 ~
 30 8 0
 D2
-games[deva]:3011/south
+adventure[deva]:3011/south
 ~
 ~
 0 -1 3016
 E
 note~
-games[deva]:3011/note
+adventure[deva]:3011/note
 ~
 S
 #3012
 20 W. Main Street~
-games[deva]:3012/main
+adventure[deva]:3012/main
 ~
 30 0 1
 D0
-games[deva]:3012/north
+adventure[deva]:3012/north
 ~
 ~
 0 -1 3033
 D1
-games[deva]:3012/east
+adventure[deva]:3012/east
 ~
 ~
 0 -1 3013
 D2
-games[deva]:3012/south
+adventure[deva]:3012/south
 ~
 ~
 0 -1 3017
 D3
-games[deva]:3012/west
+adventure[deva]:3012/west
 ~
 ~
 0 -1 3040
 S
 #3013
 10 W. Main Street~
-games[deva]:3013/main
+adventure[deva]:3013/main
 ~
 30 0 1
 D0
-games[deva]:3013/north
+adventure[deva]:3013/north
 ~
 ~
 0 -1 3009
 D1
-games[deva]:3013/east
+adventure[deva]:3013/east
 ~
 ~
 0 -1 3014
 D2
-games[deva]:3013/south
+adventure[deva]:3013/south
 ~
 ~
 0 -1 3020
 D3
-games[deva]:3013/west
+adventure[deva]:3013/west
 ~
 ~
 0 -1 3012
 S
 #3014
 The Square~
-games[deva]:3014/main
+adventure[deva]:3014/main
 ~
 30 0 1
 D0
-games[deva]:3014/north
+adventure[deva]:3014/north
 ~
 ~
 0 -1 3005
 D1
-games[deva]:3014/east
+adventure[deva]:3014/east
 ~
 ~
 0 -1 3015
 D2
-games[deva]:3014/south
+adventure[deva]:3014/south
 ~
 ~
 0 -1 3025
 D3
-games[deva]:3014/west
+adventure[deva]:3014/west
 ~
 ~
 0 -1 3013
 E
 statue~
-games[deva]:3014/statue
+adventure[deva]:3014/statue
 ~
 S
 #3015
 10 E. Main Street~
-games[deva]:3015/main
+adventure[deva]:3015/main
 ~
 30 0 1
 D0
-games[deva]:3015/north
+adventure[deva]:3015/north
 ~
 ~
 0 -1 3010
 D1
-games[deva]:3015/east
+adventure[deva]:3015/east
 ~
 ~
 0 -1 3016
 D2
-games[deva]:3015/south
+adventure[deva]:3015/south
 ~
 ~
 0 -1 3034
 D3
-games[deva]:3015/west
+adventure[deva]:3015/west
 ~
 ~
 0 -1 3014
 S
 #3016
 20 E. Main Street~
-games[deva]:3016/main
+adventure[deva]:3016/main
 ~
 30 0 1
 D0
-games[deva]:3016/north
+adventure[deva]:3016/north
 ~
 ~
 0 -1 3011
 D1
-games[deva]:3016/east
+adventure[deva]:3016/east
 ~
 ~
 0 -1 3041
 D2
-games[deva]:3016/south
+adventure[deva]:3016/south
 ~
 ~
 0 -1 3021
 D3
-games[deva]:3016/west
+adventure[deva]:3016/west
 ~
 ~
 0 -1 3015
 S
 #3017
 The Builders~
-games[deva]:3017/main
+adventure[deva]:3017/main
 ~
 30 8 0
 D0
-games[deva]:3017/north
+adventure[deva]:3017/north
 ~
 ~
 0 -1 3012
 D2
-games[deva]:3017/south
+adventure[deva]:3017/south
 ~
 ~
 0 -1 3018
 S
 #3018
 The Builder Bistro~
-games[deva]:3018/main
+adventure[deva]:3018/main
 ~
 30 12 0
 D0
-games[deva]:3018/north
+adventure[deva]:3018/north
 ~
 ~
 0 -1 3017
 D1
-games[deva]:3018/east
+adventure[deva]:3018/east
 ~
 ~
 0 -1 3019
 S
 #3019
 The Builder Lab~
-games[deva]:3019/main
+adventure[deva]:3019/main
 ~
 30 12 0
 D3
-games[deva]:3019/west
+adventure[deva]:3019/west
 ~
 ~
 0 -1 3018
 D5
-games[deva]:3019/down
+adventure[deva]:3019/down
 ~
 ~
 0 -1 7017
 S
 #3020
 The Outfitter~
-games[deva]:3020/main
+adventure[deva]:3020/main
 ~
 30 8 0
 D0
-games[deva]:3020/north
+adventure[deva]:3020/north
 ~
 ~
 0 -1 3013
 E
 note~
-games[deva]:3020/note
+adventure[deva]:3020/note
 ~
 S
 #3021
 The Union~
-games[deva]:3021/main
+adventure[deva]:3021/main
 ~
 30 8 0
 D0
-games[deva]:3021/north
+adventure[deva]:3021/north
 ~
 ~
 0 -1 3016
 D1
-games[deva]:3021/east
+adventure[deva]:3021/east
 ~
 ~
 0 -1 3022
 S
 #3022
 The Union Bar~
-games[deva]:3022/main
+adventure[deva]:3022/main
 ~
 30 12 0
 D2
-games[deva]:3022/south
+adventure[deva]:3022/south
 ~
 ~
 0 -1 3023
 D3
-games[deva]:3022/west
+adventure[deva]:3022/west
 ~
 ~
 0 -1 3021
 S
 #3023
 The Tournament and Practise Yard~
-games[deva]:3023/main
+adventure[deva]:3023/main
 ~
 30 12 0
 D0
-games[deva]:3023/north
+adventure[deva]:3023/north
 ~
 ~
 0 -1 3022
 D5
-games[deva]:3023/down
+adventure[deva]:3023/down
 ~
 ~
 0 -1 7048
 S
 #3024
 10 W. Artist Alley~
-games[deva]:3024/main
+adventure[deva]:3024/main
 ~
 30 0 1
 D1
-games[deva]:3024/east
+adventure[deva]:3024/east
 ~
 ~
 0 -1 3025
 D2
-games[deva]:3024/south
+adventure[deva]:3024/south
 ~
 ~
 0 -1 3048
 D3
-games[deva]:3024/west
+adventure[deva]:3024/west
 ~
 ~
 0 -1 3044
 S
 #3025
 The Spot~
-games[deva]:3025/main
+adventure[deva]:3025/main
 ~
 30 0 1
 D0
-games[deva]:3025/north
+adventure[deva]:3025/north
 ~
 ~
 0 -1 3014
 D1
-games[deva]:3025/east
+adventure[deva]:3025/east
 ~
 ~
 0 -1 3026
 D2
-games[deva]:3025/south
+adventure[deva]:3025/south
 ~
 ~
 0 -1 3030
 D3
-games[deva]:3025/west
+adventure[deva]:3025/west
 ~
 ~
 0 -1 3024
 S
 #3026
 10 E. Artist Alley~
-games[deva]:3026/main
+adventure[deva]:3026/main
 ~
 30 0 1
 D1
-games[deva]:3026/east
+adventure[deva]:3026/east
 ~
 ~
 0 -1 3045
 D2
-games[deva]:3026/south
+adventure[deva]:3026/south
 ~
 ~
 0 -1 3027
 D3
-games[deva]:3026/west
+adventure[deva]:3026/west
 ~
 ~
 0 -1 3025
 E
 guild~
-games[deva]:3026/guild
+adventure[deva]:3026/guild
 ~
 S
 #3027
 The Collective~
-games[deva]:3027/main
+adventure[deva]:3027/main
 ~
 30 8 0
 D0
-games[deva]:3027/north
+adventure[deva]:3027/north
 ~
 ~
 0 -1 3026
 D1
-games[deva]:3027/east
+adventure[deva]:3027/east
 ~
 ~
 0 -1 3028
 S
 #3028
 The Collective Bar~
-games[deva]:3028/main
+adventure[deva]:3028/main
 ~
 30 12 0
 D2
-games[deva]:3028/south
+adventure[deva]:3028/south
 ~
 ~
 0 -1 3029
 D3
-games[deva]:3028/west
+adventure[deva]:3028/west
 ~
 ~
 0 -1 3027
 E
 furniture~
-games[deva]:3028/furniture
+adventure[deva]:3028/furniture
 ~
 S
 #3029
 The Collective Studio~
-games[deva]:3029/main
+adventure[deva]:3029/main
 ~
 30 12 0
 D0
-games[deva]:3029/north
+adventure[deva]:3029/north
 ~
 ~
 0 -1 3028
 D5
-games[deva]:3029/down
+adventure[deva]:3029/down
 ~
 ~
 0 -1 7043
 S
 #3030
 The Recycling Center~
-games[deva]:3030/main
+adventure[deva]:3030/main
 ~
 30 4 2
 D0
-games[deva]:3030/north
+adventure[deva]:3030/north
 ~
 ~
 0 -1 3025
 D2
-games[deva]:3030/south
+adventure[deva]:3030/south
 ~
 ~
 0 -1 -1
 D5
-games[deva]:3030/down
+adventure[deva]:3030/down
 ~
 ~
 0 -1 7030
 S
 #3031
 The Pet Shop~
-games[deva]:3031/main
+adventure[deva]:3031/main
 ~
 30 8 0
 D2
-games[deva]:3031/south
+adventure[deva]:3031/south
 ~
 ~
 0 -1 3045
 E
 sign~
-games[deva]:3031/sign
+adventure[deva]:3031/sign
 ~
 S
 #3032
 Pet Shop Store~
-games[deva]:3032/main
+adventure[deva]:3032/main
 ~
 30 8 0
 S
 #3033
 The Toy Box~
-games[deva]:3033/main
+adventure[deva]:3033/main
 ~
 30 8 0
 D2
-games[deva]:3033/south
+adventure[deva]:3033/south
 ~
 ~
 0 -1 3012
 E
 toys~
-games[deva]:3033/toys
+adventure[deva]:3033/toys
 ~
 E
 books~
-games[deva]:3033/books
+adventure[deva]:3033/books
 ~
 E
 display case~
-games[deva]:3033/case
+adventure[deva]:3033/case
 ~
 S
 #3034
 The Jewel Palace~
-games[deva]:3034/main
+adventure[deva]:3034/main
 ~
 30 8 0
 D0
-games[deva]:3034/north
+adventure[deva]:3034/north
 ~
 ~
 0 -1 3015
 E
 oil lamps~
-games[deva]:3034/lamps
+adventure[deva]:3034/lamps
 ~
 E
 desk~
-games[deva]:3034/desk
+adventure[deva]:3034/desk
 ~
 E
 sign~
-games[deva]:3034/sign
+adventure[deva]:3034/sign
 ~
 S
 #3035
 The Leather Shop~
-games[deva]:3035/main
+adventure[deva]:3035/main
 ~
 30 8 0
 D2
-games[deva]:3035/south
+adventure[deva]:3035/south
 ~
 ~
 0 -1 3044
 E
 fireplace~
-games[deva]:3035/fireplace
+adventure[deva]:3035/fireplace
 ~
 E
 table~
-games[deva]:3035/table
+adventure[deva]:3035/table
 ~
 E
 pot~
-games[deva]:3035/pot
+adventure[deva]:3035/pot
 ~
 E
 sign~
-games[deva]:3035/sign
+adventure[deva]:3035/sign
 ~
 S
 #3040
 Main St. & Wall Rd.~
-games[deva]:3040/main
+adventure[deva]:3040/main
 ~
 30 0 1
 D1
-games[deva]:3040/east
+adventure[deva]:3040/east
 ~
 ~
 0 -1 3012
 D2
-games[deva]:3040/south
+adventure[deva]:3040/south
 ~
 ~
 0 -1 3042
 D3
-games[deva]:3040/west
+adventure[deva]:3040/west
 ~
 gate~
 1 3133 3052
 E
 bridge footbridge~
-games[deva]:3040/bridge
+adventure[deva]:3040/bridge
 ~
 E
 gate~
-games[deva]:3040/gate
+adventure[deva]:3040/gate
 ~
 E
 tower towers~
-games[deva]:3040/towers
+adventure[deva]:3040/towers
 ~
 E
 wall~
-games[deva]:3040/wall
+adventure[deva]:3040/wall
 ~
 S
 #3041
 30 E. Main Street~
-games[deva]:3041/main
+adventure[deva]:3041/main
 ~
 30 0 1
 D1
-games[deva]:3041/east
+adventure[deva]:3041/east
 ~
 gate~
 1 3133 3053
 D3
-games[deva]:3041/west
+adventure[deva]:3041/west
 ~
 ~
 0 -1 3016
 E
 bridge footbridge~
-games[deva]:3041/bridge
+adventure[deva]:3041/bridge
 ~
 E
 gate~
-games[deva]:3041/gate
+adventure[deva]:3041/gate
 ~
 E
 tower towers~
-games[deva]:3041/towers
+adventure[deva]:3041/towers
 ~
 E
 wall~
-games[deva]:3041/wall
+adventure[deva]:3041/wall
 ~
 S
 #3042
 10 S. Wall Road~
-games[deva]:3042/main
+adventure[deva]:3042/main
 ~
 30 0 1
 D0
-games[deva]:3042/north
+adventure[deva]:3042/north
 ~
 ~
 0 -1 3040
 D2
-games[deva]:3042/south
+adventure[deva]:3042/south
 ~
 ~
 0 -1 3043
 E
 wall~
-games[deva]:3042/wall
+adventure[deva]:3042/wall
 ~
 S
 #3043
 20 S. Wall Road~
-games[deva]:3043/main
+adventure[deva]:3043/main
 ~
 30 0 1
 D0
-games[deva]:3043/north
+adventure[deva]:3043/north
 ~
 ~
 0 -1 3042
 D1
-games[deva]:3043/east
+adventure[deva]:3043/east
 ~
 ~
 0 -1 3044
 D2
-games[deva]:3043/south
+adventure[deva]:3043/south
 ~
 ~
 0 -1 3047
 E
 letters~
-games[deva]:3043/letters
+adventure[deva]:3043/letters
 ~
 E
 wall~
-games[deva]:3043/wall
+adventure[deva]:3043/wall
 ~
 S
 #3044
 20 W. Artist Alley~
-games[deva]:3044/main
+adventure[deva]:3044/main
 ~
 30 0 1
 D0
-games[deva]:3044/north
+adventure[deva]:3044/north
 ~
 ~
 0 -1 3035
 D1
-games[deva]:3044/east
+adventure[deva]:3044/east
 ~
 ~
 0 -1 3024
 D3
-games[deva]:3044/west
+adventure[deva]:3044/west
 ~
 ~
 0 -1 3043
 S
 #3045
 20 E. Artist Alley~
-games[deva]:3045/main
+adventure[deva]:3045/main
 ~
 30 0 1
 D1
-games[deva]:3045/east
+adventure[deva]:3045/east
 ~
 ~
 0 -1 3046
 D2
-games[deva]:3045/south
+adventure[deva]:3045/south
 ~
 ~
 0 -1 3049
 D3
-games[deva]:3045/west
+adventure[deva]:3045/west
 ~
 ~
 0 -1 3026
 S
 #3046
 30 E. Artist Alley~
-games[deva]:3046/main
+adventure[deva]:3046/main
 ~
 30 0 1
 D2
-games[deva]:3046/west
+adventure[deva]:3046/west
 ~
 ~
 0 -1 3050
 D3
-games[deva]:3046/south
+adventure[deva]:3046/south
 ~
 ~
 0 -1 3045
 S
 #3047
 30 S. Wall Road~
-games[deva]:3047/main
+adventure[deva]:3047/main
 ~
 30 0 1
 D0
-games[deva]:3047/north
+adventure[deva]:3047/north
 ~
 ~
 0 -1 3043
 D2
-games[deva]:3047/south
+adventure[deva]:3047/south
 ~
 ~
 0 -1 3051
 E
 wall~
-games[deva]:3047/wall
+adventure[deva]:3047/wall
 ~
 S
 #3048
 The Hostel~
-games[deva]:3048/main
+adventure[deva]:3048/main
 ~
 30 8 0
 D0
-games[deva]:3048/north
+adventure[deva]:3048/north
 ~
 ~
 0 -1 3024
 S
 #3049
 The Levee~
-games[deva]:3049/main
+adventure[deva]:3049/main
 ~
 30 0 1
 D0
-games[deva]:3049/north
+adventure[deva]:3049/north
 ~
 ~
 0 -1 3045
 D3
-games[deva]:3049/west
+adventure[deva]:3049/west
 ~
 ~
 0 -1 3203
 S
 #3050
 The Warehouse~
-games[deva]:3050/main
+adventure[deva]:3050/main
 ~
 30 8 0
 D0
-games[deva]:3050/north
+adventure[deva]:3050/north
 ~
 ~
 0 -1 3046
 S
 #3051
 40 S. Wall Road~
-games[deva]:3051/main
+adventure[deva]:3051/main
 ~
 30 0 1
 D0
-games[deva]:3051/north
+adventure[deva]:3051/north
 ~
 ~
 0 -1 3047
 D2
-games[deva]:3051/south
+adventure[deva]:3051/south
 ~
 ~
 0 -1 3100
 E
 bridge~
-games[deva]:3051/bridge
+adventure[deva]:3051/bridge
 ~
 E
 opening~
-games[deva]:3051/opening
+adventure[deva]:3051/opening
 ~
 E
 wall~
-games[deva]:3051/wall
+adventure[deva]:3051/wall
 ~
 S
 #3052
 The West Gate~
-games[deva]:3052/main
+adventure[deva]:3052/main
 ~
 30 0 1
 D0
-games[deva]:3052/north
+adventure[deva]:3052/north
 ~
 ~
 0 -1 3900
 D1
-games[deva]:3052/east
+adventure[deva]:3052/east
 ~
 gate~
 1 3133 3040
 D3
-games[deva]:3052/west
+adventure[deva]:3052/west
 ~
 ~
 0 -1 6000
 E
 bridge footbridge~
-games[deva]:3052/bridge
+adventure[deva]:3052/bridge
 ~
 E
 gate~
-games[deva]:3052/gate
+adventure[deva]:3052/gate
 ~
 E
 tower towers~
-games[deva]:3052/towers
+adventure[deva]:3052/towers
 ~
 E
 wall~
-games[deva]:3052/wall
+adventure[deva]:3052/wall
 ~
 S
 #3053
 The East Gate~
-games[deva]:3053/main
+adventure[deva]:3053/main
 ~
 30 0 1
 D0
-games[deva]:3053/north
+adventure[deva]:3053/north
 ~
 ~
 0 -1 3908
 D1
-games[deva]:3053/north
+adventure[deva]:3053/north
 ~
 ~
 0 -1 3503
 D3
-games[deva]:3053/west
+adventure[deva]:3053/west
 ~
 gate~
 1 3133 3041
 E
 bridge footbridge~
-games[deva]:3053/bridge
+adventure[deva]:3053/bridge
 ~
 E
 gate~
-games[deva]:3053/gate
+adventure[deva]:3053/gate
 ~
 E
 tower towers~
-games[deva]:3053/tower
+adventure[deva]:3053/tower
 ~
 E
 wall~
-games[deva]:3053/wall
+adventure[deva]:3053/wall
 ~
 S
 #3054
 The Offering Table~
-games[deva]:3054/main
+adventure[deva]:3054/main
 ~
 30 8 0
 D2
-games[deva]:3054/south
+adventure[deva]:3054/south
 ~
 ~
 0 -1 3001
 E
 offering table~
-games[deva]:3054/table
+adventure[deva]:3054/table
 ~
 E
 statue indra king god~
-games[deva]:3054/statue
+adventure[deva]:3054/statue
 ~
 S
 #3055
 The Store~
-games[deva]:3055/main
+adventure[deva]:3055/main
 ~
 30 8 0
 S
 #3100
 50 S. Wall Road~
-games[deva]:3100/main
+adventure[deva]:3100/main
 ~
 31 0 1
 D0
-games[deva]:3100/north
+adventure[deva]:3100/north
 ~
 ~
 0 -1 3051
 D1
-games[deva]:3100/east
+adventure[deva]:3100/east
 ~
 ~
 0 -1 3101
 D2
-games[deva]:3100/south
+adventure[deva]:3100/south
 ~
 ~
 0 -1 3127
 S
 #3101
 The Promenade~
-games[deva]:3101/main
+adventure[deva]:3101/main
 ~
 31 0 1
 D1
-games[deva]:3101/east
+adventure[deva]:3101/east
 ~
 ~
 0 -1 3102
 D2
-games[deva]:3101/south
+adventure[deva]:3101/south
 ~
 ~
 0 -1 3131
 D3
-games[deva]:3101/west
+adventure[deva]:3101/west
 ~
 ~
 0 -1 3100
 S
 #3102
 The Promenade~
-games[deva]:3102/main
+adventure[deva]:3102/main
 ~
 31 0 1
 D1
-games[deva]:3102/east
+adventure[deva]:3102/east
 ~
 ~
 0 -1 3103
 D2
-games[deva]:3102/south
+adventure[deva]:3102/south
 ~
 ~
 0 -1 3105
 D3
-games[deva]:3102/west
+adventure[deva]:3102/west
 ~
 ~
 0 -1 3101
 S
 #3103
 The Promenade~
-games[deva]:3103/main
+adventure[deva]:3103/main
 ~
 31 0 1
 D1
-games[deva]:3102/east
+adventure[deva]:3102/east
 ~
 ~
 0 -1 3104
 D2
-games[deva]:3102/south
+adventure[deva]:3102/south
 ~
 ~
 0 -1 3132
 D3
-games[deva]:3102/west
+adventure[deva]:3102/west
 ~
 ~
 0 -1 3102
 S
 #3104
 NE. Concourse~
-games[deva]:3104/main
+adventure[deva]:3104/main
 ~
 31 0 1
 D2
-games[deva]:3104/south
+adventure[deva]:3104/south
 ~
 ~
 0 -1 3130
 D3
-games[deva]:3104/west
+adventure[deva]:3104/west
 ~
 ~
 0 -1 3103
 E
 wall~
-games[deva]:3104/wall
+adventure[deva]:3104/wall
 ~
 S
 #3105
 Park Entrance~
-games[deva]:3105/main
+adventure[deva]:3105/main
 ~
 31 4 1
 D0
-games[deva]:3105/north
+adventure[deva]:3105/north
 ~
 ~
 0 -1 3102
 D1
-games[deva]:3105/east
+adventure[deva]:3105/east
 ~
 ~
 0 -1 3106
 D2
-games[deva]:3105/south
+adventure[deva]:3105/south
 ~
 ~
 0 -1 3108
 S
 #3106
 Park Cafe~
-games[deva]:3106/main
+adventure[deva]:3106/main
 ~
 31 8 0
 D3
-games[deva]:3106/west
+adventure[deva]:3106/west
 ~
 ~
 0 -1 3105
 S
 #3107
 Park Path~
-games[deva]:3107/main
+adventure[deva]:3107/main
 ~
 31 0 1
 D1
-games[deva]:3107/east
+adventure[deva]:3107/east
 ~
 ~
 0 -1 3108
 D2
-games[deva]:3107/south
+adventure[deva]:3107/south
 ~
 ~
 0 -1 3113
 S
 #3108
 Park Path~
-games[deva]:3108/main
+adventure[deva]:3108/main
 ~
 31 0 1
 D0
-games[deva]:3108/north
+adventure[deva]:3108/north
 ~
 ~
 0 -1 3105
 D1
-games[deva]:3108/east
+adventure[deva]:3108/east
 ~
 ~
 0 -1 3109
 D3
-games[deva]:3108/west
+adventure[deva]:3108/west
 ~
 ~
 0 -1 3107
 S
 #3109
 Park Path~
-games[deva]:3109/main
+adventure[deva]:3109/main
 ~
 31 0 1
 D2
-games[deva]:3109/south
+adventure[deva]:3109/south
 ~
 ~
 0 -1 3115
 D3
-games[deva]:3109/west
+adventure[deva]:3109/west
 ~
 ~
 0 -1 3108
 S
 #3110
 Indra.agency~
-games[deva]:3110/main
+adventure[deva]:3110/main
 ~
 31 8 0
 D1
-games[deva]:3110/east
+adventure[deva]:3110/east
 ~
 door~
 1 -1 3111
 D3
-games[deva]:3110/door
+adventure[deva]:3110/door
 ~
 door~
 1 3120 3142
 E
 sign~
-games[deva]:3110/sign
+adventure[deva]:3110/sign
 ~
 S
 #3111
 Park Avenue~
-games[deva]:3111/main
+adventure[deva]:3111/main
 ~
 31 0 1
 D0
-games[deva]:3111/north
+adventure[deva]:3111/north
 ~
 ~
 0 -1 3131
 D1
-games[deva]:3111/east
+adventure[deva]:3111/east
 ~
 ~
 0 -1 3112
 D2
-games[deva]:3111/south
+adventure[deva]:3111/south
 ~
 ~
 0 -1 3118
 D3
-games[deva]:3111/west
+adventure[deva]:3111/west
 ~
 door~
 1 -1 3110
 E
 building door sign~
-games[deva]:3111/door
+adventure[deva]:3111/door
 ~
 S
 #3112
 W. Park Entrance~
-games[deva]:3112/main
+adventure[deva]:3112/main
 ~
 31 4 1
 D1
-games[deva]:3112/east
+adventure[deva]:3112/east
 ~
 ~
 0 -1 3113
 D3
-games[deva]:3112/west
+adventure[deva]:3112/west
 ~
 ~
 0 -1 3111
 S
 #3113
 Park Path~
-games[deva]:3113/main
+adventure[deva]:3113/main
 ~
 31 0 1
 D0
-games[deva]:3113/north
+adventure[deva]:3113/north
 ~
 ~
 0 -1 3107
 D1
-games[deva]:3113/east
+adventure[deva]:3113/east
 ~
 ~
 0 -1 3114
 D3
-games[deva]:3113/west
+adventure[deva]:3113/west
 ~
 ~
 0 -1 3112
 S
 #3114
 The Pond~
-games[deva]:3114/main
+adventure[deva]:3114/main
 ~
 31 0 6
 D1
-games[deva]:3114/east
+adventure[deva]:3114/east
 ~
 ~
 0 -1 3115
 D3
-games[deva]:3114/west
+adventure[deva]:3114/west
 ~
 ~
 0 -1 3113
 S
 #3115
 A path in the park~
-games[deva]:3115/main
+adventure[deva]:3115/main
 ~
 31 0 1
 D0
-games[deva]:3115/north
+adventure[deva]:3115/north
 ~
 ~
 0 -1 3109
 D1
-games[deva]:3115/east
+adventure[deva]:3115/east
 ~
 ~
 0 -1 3116
 D3
-games[deva]:3115/west
+adventure[deva]:3115/west
 ~
 ~
 0 -1 3114
 S
 #3116
 E. Park Entrance~
-games[deva]:3116/main
+adventure[deva]:3116/main
 ~
 31 4 1
 D1
-games[deva]:3116/east
+adventure[deva]:3116/east
 ~
 ~
 0 -1 3117
 D3
-games[deva]:3116/west
+adventure[deva]:3116/west
 ~
 ~
 0 -1 3115
 S
 #3117
 Emerald Avenue~
-games[deva]:3117/main
+adventure[deva]:3117/main
 ~
 31 0 1
 D0
-games[deva]:3117/north
+adventure[deva]:3117/north
 ~
 ~
 0 -1 3132
 D1
-games[deva]:3117/east
+adventure[deva]:3117/east
 ~
 ~
 0 -1 3137
 D2
-games[deva]:3117/south
+adventure[deva]:3117/south
 ~
 ~
 0 -1 3119
 D3
-games[deva]:3117/west
+adventure[deva]:3117/west
 ~
 ~
 0 -1 3116
 S
 #3118
 10 S. Park Avenue~
-games[deva]:3118/main
+adventure[deva]:3118/main
 ~
 31 0 1
 D0
-games[deva]:3118/north
+adventure[deva]:3118/north
 ~
 ~
 0 -1 3111
 D1
-games[deva]:3118/east
+adventure[deva]:3118/east
 ~
 door oaken~
 2 3118 3300
 D2
-games[deva]:3118/south
+adventure[deva]:3118/south
 ~
 ~
 0 -1 3135
 D3
-games[deva]:3118/door~
+adventure[deva]:3118/door~
 door wooden~
 2 # 3307
 E
 plate name~
-games[deva]:3118/plate
+adventure[deva]:3118/plate
 ~
 S
 #3119
 Emerald Avenue~
-games[deva]:3119/main
+adventure[deva]:3119/main
 ~
 31 0 1
 D0
-games[deva]:3119/north
+adventure[deva]:3119/north
 ~
 ~
 0 -1 3117
 D3
-games[deva]:3119/west
+adventure[deva]:3119/west
 ~
 ~
 0 -1 3133
 S
 #3120
 Road Crossing~
-games[deva]:3120/main
+adventure[deva]:3120/main
 ~
 31 0 1
 D0
-games[deva]:3120/north
+adventure[deva]:3120/north
 ~
 ~
 0 -1 3133
 D1
-games[deva]:3120/east
+adventure[deva]:3120/east
 ~
 ~
 0 -1 3136
 D2
-games[deva]:3120/south
+adventure[deva]:3120/south
 ~
 ~
 0 -1 3134
 D3
-games[deva]:3120/west
+adventure[deva]:3120/west
 ~
 ~
 0 -1 3135
 D4
-games[deva]:3120/up
+adventure[deva]:3120/up
 ~
 ~
 0 -1 7914
 E
 sign~
-games[deva]:3120/sign
+adventure[deva]:3120/sign
 ~
 E
 tree~
-games[deva]:3120/tree
+adventure[deva]:3120/tree
 ~
 S
 #3121
@@ -1626,7 +1626,7 @@ says "Manxam".  Underneath it, someone has scribbled "and Fzoul".
 S
 #3125
 Emerald Avenue~
-games[deva]:3125/main
+adventure[deva]:3125/main
 ~
 31 0 1
 D0
@@ -1675,37 +1675,37 @@ It opens its mouth wide and gobbles 'Unlokk me!'
 S
 #3127
 60 S. Wall Road~
-games[deva]:3127/main
+adventure[deva]:3127/main
 ~
 31 0 1
 D0
-games[deva]:3127/north
+adventure[deva]:3127/north
 ~
 ~
 0 -1 3100
 D1
-games[deva]:3127/east
+adventure[deva]:3127/east
 ~
 ~
 0 -1 3128
 S
 #3128
 The Concourse~
-games[deva]:3128/main
+adventure[deva]:3128/main
 ~
 31 0 1
 D0
-games[deva]:3128/north
+adventure[deva]:3128/north
 ~
 ~
 0 -1 3125
 D1
-games[deva]:3128/east
+adventure[deva]:3128/east
 ~
 ~
 0 -1 3129
 D3
-games[deva]:3128/west
+adventure[deva]:3128/west
 ~
 ~
 0 -1 3127
@@ -1828,16 +1828,16 @@ D3
 S
 #3135
 20 S. Park Avenue~
-games[deva]:3135/main
+adventure[deva]:3135/main
 ~
 31 0 1
 D0
-games[deva]:3135/north
+adventure[deva]:3135/north
 ~
 ~
 0 -1 3118
 D1
-games[deva]:3135/east
+adventure[deva]:3135/east
 ~
 ~
 0 -1 3120
@@ -1847,7 +1847,7 @@ portal wall~
 2 3307 3303
 E
 wall~
-games[deva]:3135/wall
+adventure[deva]:3135/wall
 ~
 S
 #3136
@@ -2489,7 +2489,7 @@ D3
 S
 #3503
 City Entrance~
-games[deva]:3053/main
+adventure[deva]:3053/main
 ~
 30 4 1
 D1
@@ -12268,32 +12268,32 @@ D3
 S
 #7900
 Outside Indra's residence~
-games[deva]:7900/main
+adventure[deva]:7900/main
 ~
 79 516 0
 D0
-games[deva]:7900/north
+adventure[deva]:7900/north
 ~
 gate door huge arched~
 2 7901 7901
 D5
-games[deva]:7900/gate
+adventure[deva]:7900/gate
 ~
 ~
 0 -1 7918
 S
 #7901
 The Southern end of the hall~
-games[deva]:7901/main
+adventure[deva]:7901/main
 ~
 79 524 0
 D0
-games[deva]:7901/north
+adventure[deva]:7901/north
 ~
 ~
 0 -1 7904
 D1
-games[deva]:7901/east
+adventure[deva]:7901/east
 ~
 oak tall east oakdoor talldoor eastdoor~
 2 -1 7910
