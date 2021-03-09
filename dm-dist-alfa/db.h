@@ -57,17 +57,14 @@ menu[Enter Deva.world]:@mud > 1 \n\r\
 menu[Change your password]:@mud > 4 \n\r\
 menu[Edit your description]:@mud > 2 \n\r\
 menu[Our Story]:@mud > 3 \n\r\
-menu[Exit Deva.world]:@mud > 0 \n\r\
-\n\r"
+menu[Exit Deva.world]:@mud > 0\n\r"
 
 
 #define GREETINGS \
-"image:/public/games/deva/greetings.png \n\r\
-\n\r"
+"image:/public/games/deva/greetings.png \n\r"
 
 #define WELC_MESSG \
-"image:/public/games/deva/welcome.png \n\r\
-\n\r"
+"image:/public/games/deva/welcome.png \n\r"
 
 
 #define STORY \
