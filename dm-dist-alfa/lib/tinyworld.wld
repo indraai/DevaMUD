@@ -1315,7 +1315,7 @@ games[deva]:3110/sign
 ~
 S
 #3111
-Park Avenue~
+20 N. Park Avenue~
 games[deva]:3111/main
 ~
 31 0 1
@@ -1458,7 +1458,7 @@ D3
 0 -1 3116
 S
 #3118
-10 N. Park Ave.~
+10 N. Park Avenue~
 games[deva]:3118/main
 ~
 31 0 1
@@ -1471,7 +1471,7 @@ D1
 games[deva]:3118/east
 ~
 door oaken~
-1 -1 3300
+2 3118 3300
 D2
 games[deva]:3118/south
 ~
@@ -1480,7 +1480,7 @@ games[deva]:3118/south
 D3
 games[deva]:3118/door~
 door wooden~
-1 -1 3307
+2 3321 3307
 E
 plate name~
 games[deva]:3118/plate
@@ -1832,7 +1832,7 @@ D3
 0 -1 3121
 S
 #3135
-Park Road~
+Park Avenue~
 games[deva]:3135/main
 ~
 31 0 1
