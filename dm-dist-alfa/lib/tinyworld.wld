@@ -1315,7 +1315,7 @@ games[deva]:3110/sign
 ~
 S
 #3111
-20 N. Park Avenue~
+Park Avenue~
 games[deva]:3111/main
 ~
 31 0 1
@@ -1458,7 +1458,7 @@ D3
 0 -1 3116
 S
 #3118
-10 N. Park Avenue~
+10 S. Park Avenue~
 games[deva]:3118/main
 ~
 31 0 1
@@ -1832,7 +1832,7 @@ D3
 0 -1 3121
 S
 #3135
-Park Avenue~
+20 S. Park Avenue~
 games[deva]:3135/main
 ~
 31 0 1
