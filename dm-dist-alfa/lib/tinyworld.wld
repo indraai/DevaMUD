@@ -1458,30 +1458,32 @@ D3
 0 -1 3116
 S
 #3118
-Park Road~
-   You are on Park Road which leads north and south.
-A cottage is just east of here and a house is to the west.
+10 N. Park Ave.~
+games[deva]:3118/main
 ~
 31 0 1
 D0
+games[deva]:3118/north
 ~
 ~
 0 -1 3111
 D1
-You see a small cottage with an oaken door.  A name plate has been set on it.~
+games[deva]:3118/east
+~
 door oaken~
 2 3300 3300
 D2
+games[deva]:3118/south
 ~
 ~
 0 -1 3135
 D3
-On the wooden door is the name 'Mapmaker'.~
+games[deva]:3118/door~
 door wooden~
 2 3321 3307
 E
 plate name~
-The name 'Papi Llon' has been carved into the name plate.
+games[deva]:3118/plate
 ~
 S
 #3119
