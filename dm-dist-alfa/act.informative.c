@@ -743,12 +743,14 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		send_to_char("You are hungry.\n\r", ch);
 
 	sprintf(buf,
-		"score: hit %d/%d | mana %d/%d | move %d/%d | exp %d/%d | gold %d/%d\n\r",
+		"☰Stats: hit[%d|%d] | mana[%d|%d] | move[%d|%d]\n\r",
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
-		GET_MOVE(ch),GET_MAX_MOVE(ch),
-		GET_EXP(ch),GET_GOLD(ch));
+		GET_MOVE(ch),GET_MAX_MOVE(ch));
+	send_to_char(buf,ch);
 
+	sprintf(buf,"You have scored %d exp, and have %d gold coins.\n\r",
+		GET_EXP(ch),GET_GOLD(ch));
 	send_to_char(buf,ch);
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
