@@ -761,7 +761,6 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	send_to_char(buf, ch);
 
 	sprintf(buf,"rank: %s\n\rlevel: %d.\n\r",
-		GET_NAME(ch),
 		GET_TITLE(ch), GET_LEVEL(ch) );
 	send_to_char(buf,ch);
 
