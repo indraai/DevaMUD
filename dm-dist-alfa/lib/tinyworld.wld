@@ -1764,15 +1764,17 @@ D3
 0 -1 3129
 S
 #3131
-Park Road~
-   You are at Park Road which continues north and south.
+10 N. Park Avenue~
+adventure[deva]:3131/main
 ~
 31 0 1
 D0
+adventure[deva]:3131/north
 ~
 ~
 0 -1 3101
 D2
+adventure[deva]:3131/south
 ~
 ~
 0 -1 3111
