@@ -1296,22 +1296,22 @@ adventure[deva]:3109/west
 S
 #3110
 Indra.agency~
-adventure[deva]:3110/main
+adventure:3110/main
 ~
 31 8 0
 D1
-adventure[deva]:3110/east
+adventure:3110/east
 ~
 door~
 1 -1 3111
 D3
-adventure[deva]:3110/door
+adventure:3110/door
 ~
 door~
 1 3120 3142
 E
 sign~
-adventure[deva]:3110/sign
+adventure:3110/sign
 ~
 S
 #3111
