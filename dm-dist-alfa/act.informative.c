@@ -1133,10 +1133,10 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			    (world[i->in_room].zone == world[ch->in_room].zone))) {
 
 				if (IS_NPC(i))
-					sprintf(buf, "%-30s- %s ", i->player.short_descr,
+					sprintf(buf, "%s- %s ", i->player.short_descr,
 						world[i->in_room].name);
 				else
-					sprintf(buf, "%-30s- %s ", i->player.name,
+					sprintf(buf, "%s- %s ", i->player.name,
 						world[i->in_room].name);
 
 				if (GET_LEVEL(ch) >= 21)
@@ -1156,7 +1156,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		for (k = object_list; k; k = k->next)
 			if (isname(name, k->name) && CAN_SEE_OBJ(ch, k) &&
 				(k->in_room != NOWHERE)) {
-					sprintf(buf, "%-30s- %s [%d]\n\r",
+					sprintf(buf, "%s - %s [%d]\n\r",
 						k->short_description,
 						world[k->in_room].name,
 						world[k->in_room].number);
@@ -1165,7 +1165,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 	}
 
 	if (!*buf)
-		send_to_char("Couldn't find any such thing.\n\r", ch);
+		send_to_char("Nothing found\n\r", ch);
 }
 
 
