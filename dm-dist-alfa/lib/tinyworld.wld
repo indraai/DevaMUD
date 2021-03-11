@@ -1562,19 +1562,21 @@ adventure:3121/south
 S
 #3122
 Park Road~
-   You are on Park Road which leads south and north.  Elm Street is east of
-here.
+adventure:3122/main
 ~
 31 0 1
 D0
+adventure:3122/north
 ~
 ~
 0 -1 3136
 D1
+adventure:3211/east
 ~
 ~
 0 -1 3123
 D2
+adventure:3122/south
 ~
 ~
 0 -1 3126
