@@ -1295,7 +1295,7 @@ adventure:3109/west
 0 -1 3108
 S
 #3110
-Indra.agency~
+The Agency~
 adventure:3110/main
 ~
 31 8 0
@@ -1970,14 +1970,14 @@ D2
 S
 #3142
 SecurityPRIME's Office~
-You are in the Office of SecurityPRIME, the Head of Indra.agency.
+You are in the Office of SecurityPRIME, the Head of The Agency.
 
 The Amaravati Coat of Arms is hanging on the north wall and a heavy steel
 door is to the south.
 ~
 31 8 0
 D1
-You see the Indra.agency Headquarters.
+You see the The Agency Headquarters.
 ~
 door~
 1 3120 3110

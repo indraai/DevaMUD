@@ -1112,7 +1112,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 						  world[d->character->in_room].number,
 						  fname(d->character->player.name));
 					else
-						sprintf(buf, "%-20s - %s [%d]\n\r",
+						sprintf(buf, "%s - %s [%d]\n\r",
 						  d->character->player.name,
 						  world[d->character->in_room].name,
 						  world[d->character->in_room].number);
