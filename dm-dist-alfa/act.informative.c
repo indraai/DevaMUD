@@ -1106,13 +1106,13 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			for (d = descriptor_list; d; d = d->next) {
 				if (d->character && (d->connected == CON_PLYNG) && (d->character->in_room != NOWHERE)) {
 					if (d->original)   /* If switched */
-						sprintf(buf, "%-20s - %s [%d] In body of %s\n\r",
+						sprintf(buf, "%s: %s [%d] In body of %s\n\r",
 						  d->original->player.name,
 						  world[d->character->in_room].name,
 						  world[d->character->in_room].number,
 						  fname(d->character->player.name));
 					else
-						sprintf(buf, "%s - %s [%d]\n\r",
+						sprintf(buf, "%s: %s [%d]\n\r",
 						  d->character->player.name,
 						  world[d->character->in_room].name,
 						  world[d->character->in_room].number);
@@ -1133,10 +1133,10 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			    (world[i->in_room].zone == world[ch->in_room].zone))) {
 
 				if (IS_NPC(i))
-					sprintf(buf, "%s- %s ", i->player.short_descr,
+					sprintf(buf, "%s: %s ", i->player.short_descr,
 						world[i->in_room].name);
 				else
-					sprintf(buf, "%s- %s ", i->player.name,
+					sprintf(buf, "%s: %s ", i->player.name,
 						world[i->in_room].name);
 
 				if (GET_LEVEL(ch) >= 21)
@@ -1156,7 +1156,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		for (k = object_list; k; k = k->next)
 			if (isname(name, k->name) && CAN_SEE_OBJ(ch, k) &&
 				(k->in_room != NOWHERE)) {
-					sprintf(buf, "%s - %s [%d]\n\r",
+					sprintf(buf, "%s: %s [%d]\n\r",
 						k->short_description,
 						world[k->in_room].name,
 						world[k->in_room].number);
