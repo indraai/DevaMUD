@@ -1599,33 +1599,30 @@ adventure:3123/west
 S
 #3124
 End of Elm Street~
-   You are at the end of Elm Street.  A white bungalow lies to the east.
-An old elm tree grows here.
+adventure:3124/main
 ~
 31 0 1
 D1
+adventure:3124/east
 ~
 door~
 2 3302 3301
 D3
+adventure:3124/door
 ~
 ~
 0 -1 3123
 E
 elm tree~
-The fresh young leaves of the elm tree wave gently in the wind.
+adventure:3124/treebun
 ~
 E
 bungalow~
-A beautiful bungalow, made of white marble.  It's not very large, but it
-looks like a nice place to live in.  As your eyes linger on the house, you
-see a faint glow coming from the door.
+adventure:3124/bungalow
 ~
 E
 door~
-The door looks sturdy enough to keep everyone but a tree out.  When you look
-closer you see the name of the owner of the house in blueglowing letters.  It
-says "Manxam".  Underneath it, someone has scribbled "and Fzoul".
+adventure:3124/door
 ~
 S
 #3125
@@ -1634,10 +1631,12 @@ adventure:3125/main
 ~
 31 0 1
 D0
+adventure:3125/north
 ~
 ~
 0 -1 3121
 D2
+adventure:3125/south
 ~
 ~
 0 -1 3128
