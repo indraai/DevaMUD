@@ -1583,15 +1583,16 @@ adventure:3122/south
 S
 #3123
 Elm Street~
-   You are on Elm street.  Park Road is to the west and Elm Street continues
-in eastward direction.
+adventure:3123/main
 ~
 31 0 1
 D1
+adventure:3123/east
 ~
 ~
 0 -1 3124
 D3
+adventure:3123/west
 ~
 ~
 0 -1 3122
