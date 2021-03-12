@@ -32,7 +32,7 @@ void do_say(struct char_data *ch, char *argument, int cmd)
 		send_to_char("Yes, but WHAT do you want to say?\n\r", ch);
 	else
 	{
-		sprintf(buf,"chat[$n]:%s", argument + i);
+		sprintf(buf,"$n says... %s", argument + i);
 		act(buf,FALSE,ch,0,0,TO_ROOM);
 		send_to_char("Ok.\n\r", ch);
 	}
