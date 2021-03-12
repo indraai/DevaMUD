@@ -2494,14 +2494,16 @@ D3
 S
 #3503
 City Entrance~
-adventure:3053/main
+adventure:3503/main
 ~
 30 4 1
 D1
+adventure:3503/north
 ~
 ~
 0 0 3502
 D3
+adventure:3503/west
 ~
 ~
 0 0 3053

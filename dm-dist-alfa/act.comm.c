@@ -32,7 +32,7 @@ void do_say(struct char_data *ch, char *argument, int cmd)
 		send_to_char("Yes, but WHAT do you want to say?\n\r", ch);
 	else
 	{
-		sprintf(buf,"$n says '%s'", argument + i);
+		sprintf(buf,"chat[$n]:%s", argument + i);
 		act(buf,FALSE,ch,0,0,TO_ROOM);
 		send_to_char("Ok.\n\r", ch);
 	}
@@ -185,7 +185,7 @@ void do_write(struct char_data *ch, char *argument, int cmd)
 		return;
 
 	if (!*papername)  /* nothing was delivered */
-	{   
+	{
 		send_to_char(
 			"Write? with what? ON what? what are you trying to do??\n\r", ch);
 		return;
@@ -206,7 +206,7 @@ void do_write(struct char_data *ch, char *argument, int cmd)
 		}
 	}
 	else  /* there was one arg.let's see what we can find */
-	{			
+	{
 		if (!(paper = get_obj_in_list_vis(ch, papername, ch->carrying)))
 		{
 			sprintf(buf, "There is no %s in your inventory.\n\r", papername);
@@ -236,13 +236,13 @@ void do_write(struct char_data *ch, char *argument, int cmd)
 			send_to_char("The stuff in your hand is invisible! Yeech!!\n\r", ch);
 			return;
 		}
-		
+
 		if (pen)
 			paper = ch->equipment[HOLD];
 		else
 			pen = ch->equipment[HOLD];
 	}
-			
+
 	/* ok.. now let's see what kind of stuff we've found */
 	if (pen->obj_flags.type_flag != ITEM_PEN)
 	{
@@ -257,7 +257,7 @@ void do_write(struct char_data *ch, char *argument, int cmd)
 	else
 	{
 		/* we can write - hooray! */
-				
+
 		send_to_char("Ok.. go ahead and write.. end the note with a @.\n\r",
 			ch);
 		act("$n begins to jot down a note.", TRUE, ch, 0,0,TO_ROOM);
