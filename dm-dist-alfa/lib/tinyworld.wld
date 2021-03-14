@@ -8904,7 +8904,7 @@ The Triple Junction~
 You stand in the middle of a huge junction of concrete sewer pipes. The
 pipes lead into three different directions : east, south and west.
 ~
-70 9 1
+70 8 1
 D3
 To the west you can just make out another junction similar to the one
 you are standing in.
@@ -8969,7 +8969,7 @@ S
 A triple junction~
 You stand in a junction with pipes leading west, north and east.
 ~
-70 9 1
+70 8 1
 D0
 To the north there's a ENORMOUS quadruple sewer junction, all lit up by
 an odd light.
@@ -9027,7 +9027,7 @@ You stand in a section of a pipe that leads to a dead end. In the floor
 there's a pit leading down. There are bars set in the side of the pit wall
 functioning as a ladder.
 ~
-70 9 5
+70 8 5
 D3
 West. You can see a dimly lit quadruple junction with an exit up.
 ~
