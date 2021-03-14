@@ -271,7 +271,7 @@ Buildings in Amaravati~
 3399 120 0
 *
 D 0 3300 3 2          Close and lock from Papi to street
-D 0 3118 1 2          Close and lock from street to Papi.
+D 0 3131 1 2          Close and lock from street to Papi.
 M 0 3300 1 3300         Papi's kitten.
 O 0 3100 777 3300       A cup of tea.
 *
