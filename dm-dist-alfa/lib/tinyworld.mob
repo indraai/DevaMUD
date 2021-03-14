@@ -210,27 +210,26 @@ He is a specially trained warrior belonging to the military order of Monks.
 2000 80000
 8 8 1
 #3026
-assassin~
-the Assassin~
-An assassin is guarding the entrance.
+devaguard guard deva~
+the DevaGuard~
+A DevaGUARD is guarding the entrance.
 ~
-He is a thief who has specialized in killing others as effectively as possible,
-using all sorts of weapons.  His superior knowledge of how and where to use
-them combined with his extraordinary stealth makes him a deadly opponent.
+He is specialized in combat, using all sorts of weapons.  His superior knowledge
+of how and where to use them combined with his extraordinary stealth makes him a
+formidable opponent.
 ~
 2 0 800 S
 23 4 4 6d10+390 1d8+12
 2000 80000
 8 8 1
 #3027
-knight~
-the Knight~
-A knight is guarding the entrance.
+knight devaknight deva~
+the DevaGuard~
+A DevaKNIGHT is guarding the entrance.
 ~
-He is an expert warrior who has attained knighthood through countless
-chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
-extreme skill combined with his experience in warfare makes him a deadly
-opponent.
+He is an expert warrior who has attained knighthood through countless chivalrous
+deeds.  His duty is to protect, and his extreme skill combined with his
+experience in warfare makes him a formidable opponent.
 ~
 2 0 800 S
 23 0 0 6d10+390 1d8+12
