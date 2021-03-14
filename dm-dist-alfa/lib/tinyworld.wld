@@ -3417,7 +3417,7 @@ good breath, it may be your last mouthful of air in a long, long time that
 others haven't breathed before you.
 To the north a small tunnel continues into the mountain.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -3440,7 +3440,7 @@ protruding from the walls threathen to scratch and cut you.
 To the south you sense a freshness in the air which is rather unusual in these
 damp, stuffy tunnels. To the north the tunnel continues.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3456,7 +3456,7 @@ The tunnel~
 that it goes in a east-north direction. To the north the tunnel widens into
 a cave.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3471,7 +3471,7 @@ The tunnel~
    This tunnel, leading east-west, seems to be seldomly used. A thick layer
 of dust covers the floor making the air stuffy and dry.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3489,7 +3489,7 @@ the flickering light. To the south the tunnel narrows even more making it
 almost impossible to pass. To the north it slowly widens into a cave. There
 is a branch of the tunnel going west.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3507,7 +3507,7 @@ S
 The tunnel~
    You are in a small tunnel, the tunnel continues west.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3522,7 +3522,7 @@ The large cave~
    You are in a large cave, the cave continues east and west, to the south
 you notice a small tunnel.
 ~
-40 9 2
+40 8 2
 D1
 ~
 ~
@@ -3540,7 +3540,7 @@ S
 The large cave~
    You are in the east end of the large cave.
 ~
-40 9 2
+40 8 2
 D3
 ~
 ~
@@ -3551,7 +3551,7 @@ The cave~
    You are in the south end of a cave, to the south you see a tunnel. You
 notice a large pile of bones in the corner.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -3569,7 +3569,7 @@ S
 The tunnel~
    You are in a north-south leading tunnel.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3613,7 +3613,7 @@ The damp tunnel~
 to the north, to the west you see a hole in the floor and to the east
 there is a large cave.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3632,7 +3632,7 @@ The large cave~
    You are in the western part of the large cave, to the west you see
 a damp tunnel.
 ~
-40 9 2
+40 8 2
 D1
 ~
 ~
@@ -3646,7 +3646,7 @@ S
 The damp tunnel~
    You are in a damp tunnel, that leads west.
 ~
-40 9 3
+40 8 3
 D2
 ~
 ~
@@ -3661,7 +3661,7 @@ The cave~
    You are in the north end of a cave. To the east you see some tunnels
 which leads in many directions.
 ~
-40 9 2
+40 8 2
 D1
 ~
 ~
@@ -3675,7 +3675,7 @@ S
 The many tunnels~
    You are in a tunnel, that leads of in all directions.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3698,7 +3698,7 @@ The tunnel~
    You are in a north-south leading tunnel, you also notice a tunnel to
 the west. From the north you sense the fresh air!
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3717,7 +3717,7 @@ The smelly tunnel~
    You are in a north-south leading tunnel, you see a small light
 to the north. You notice a strange smell from the north..
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3733,7 +3733,7 @@ The cave~
 wind blowing from the north. To the south you see a small tunnel
 continue into the mountain.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -3780,7 +3780,7 @@ The tunnel~
    You are in a tunnel, which turns here. The tunnel continues to the
 east and the south.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3795,7 +3795,7 @@ The tunnel~
    You are in an east-west leading tunnel. The tunnel is very narrow
 here.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3809,7 +3809,7 @@ S
 The tunnel~
    You are in an east-west leading tunnel.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3823,7 +3823,7 @@ S
 The tunnel~
    You are at a turn, the tunnel continues north and east.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3857,7 +3857,7 @@ The maze~
    You are in a maze of small damp tunnels. Only exit is west to a
 light cave.
 ~
-40 9 3
+40 8 3
 D3
 ~
 ~
@@ -3887,7 +3887,7 @@ The maze~
    You are in a maze of small damp tunnels. Exits leads both north
 and south.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3901,7 +3901,7 @@ S
 The maze~
    You are in a maze of small damp tunnels. Exits leads west and south.
 ~
-40 9 3
+40 8 3
 D2
 ~
 ~
@@ -3927,7 +3927,7 @@ The tunnel~
    You are in a small tunnel, to the west the tunnel continues and
 to the east you see some light.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3960,7 +3960,7 @@ S
 The maze~
    You are in a maze of small damp tunnels. Exits leads east and west.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -3974,7 +3974,7 @@ S
 The maze~
    You are in a maze of small damp tunnels. Exits leads north and east.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -3989,7 +3989,7 @@ The tunnel~
    You are in a tunnel, only exit is west - Only exit, well there is
 also a hole in the ceiling.
 ~
-40 9 3
+40 8 3
 D3
 ~
 ~
@@ -4004,7 +4004,7 @@ The maze~
    You are in a maze of small damp tunnels. The tunnel continues east.
 To the north there is a light cave.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -4019,7 +4019,7 @@ The maze~
    You are in a maze of small damp tunnels. Exits leads east and
 north. To the south is a large cave.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -4038,7 +4038,7 @@ The maze~
    You are in a maze of small damp tunnels. Exits leads west and
 north.
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
@@ -4052,7 +4052,7 @@ S
 The large cave~
    You are in the northwest end of a large cave.
 ~
-40 9 2
+40 8 2
 D1
 ~
 ~
@@ -4067,7 +4067,7 @@ The large cave~
    You are in the northeast end of a large cave. To the north the
 is a small damp tunnel.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -4085,7 +4085,7 @@ S
 The large cave~
    You are in the southwest end of a large cave.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -4100,7 +4100,7 @@ The large cave~
    You are in the southeast end of a large cave. To the east you
 notice a small tunnel.
 ~
-40 9 2
+40 8 2
 D0
 ~
 ~
@@ -4120,7 +4120,7 @@ The tunnel~
 south. There is also an exit towards the west, where you see a large
 cave.
 ~
-40 9 3
+40 8 3
 D1
 ~
 ~
@@ -4139,7 +4139,7 @@ End of tunnel~
    The tunnel stops here. There is no other exits than the one you
 came from.
 ~
-40 9 3
+40 8 3
 D3
 ~
 ~
@@ -4150,7 +4150,7 @@ The hole~
    You are at a small hole in the floor, you can either leave north
 or try your luck and leave down into the unknown!
 ~
-40 9 3
+40 8 3
 D0
 ~
 ~
