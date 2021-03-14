@@ -760,7 +760,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		playing_time.hours);
 	send_to_char(buf, ch);
 
-	sprintf(buf,"----\n\nrank: %s\nrlevel: %d.\n\r",
+	sprintf(buf,"----\n\nrank: %s\nlevel: %d.\n\r",
 		GET_TITLE(ch), GET_LEVEL(ch) );
 	send_to_char(buf,ch);
 
