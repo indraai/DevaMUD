@@ -4,7 +4,7 @@ LIMBO~
 M 0 1 1 2		Garuda
 S
 #30
-Northern Amaravati Main City~
+Northern Amaravati~
 3099 30 2
 *
 O 0 3300 2 3055       Papi's Key
@@ -198,7 +198,7 @@ O 0 3099 1 3001       Bulletin board in Temple (limbo for starters)
 *
 S
 #31
-Southern part of Amaravati~
+Southern Amaravati~
 3199 40 2
 *
 D 0 3110 3 2          Lock SecurityPRIME's door from outside
@@ -262,12 +262,12 @@ O 0 3136 1 3141       20 coins on Penny Lane
 *
 S
 #32
-River of Amaravati~
+Amaravati River~
 3299 40 0
 *
 S
 #33
-Buildings in Amaravati~
+Amaravati Buildings~
 3399 120 0
 *
 D 0 3300 3 2          Close and lock from Papi to street
@@ -510,7 +510,7 @@ G 1 4150 6         Give him a cure critical potion
 M 0 4160 2 4161    An orc
 S
 #50
-Plains north of City of Amaravati.~
+Northern Plains~
 5500 240 2
 M 0 5005 1 5044  Giant worm
 G 1 5010 5					give template to worm
