@@ -827,7 +827,7 @@ P 1 7208 6 7910        Put the Light stick in the Chest
 O 0 7909 10 7903         MONEY
 S
 #80
-Main matrix~
+Svarga~
 8099 10 2
 M 0 8000 1 8020		the Shredder
 M 0 8001 10 8010	the Bugs
@@ -867,7 +867,7 @@ D 0 8045 5 1		close trapdoor
 D 0 8071 3 1		close tower
 S
 #81
-Main_matrix_auxiliary~
+Svarga Underground~
 8899 5 1
 M 0 8003 1 8150		the Daemon
 O 0 8100 1 -1			Key to Daemons lair
