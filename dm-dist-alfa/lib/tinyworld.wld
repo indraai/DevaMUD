@@ -1469,10 +1469,6 @@ D0
 adventure:3111/look~
 ~
 0 -1 3111
-D1
-adventure:3300/look~
-door oaken~
-2 3118 3300
 D2
 adventure:3135/look~
 ~
@@ -1773,15 +1769,15 @@ adventure:3101/look
 ~
 ~
 0 -1 3101
+D1
+adventure:3300/look~
+door oaken~
+2 3118 3300
 D2
 adventure:3111/look
 ~
 ~
 0 -1 3111
-D3
-adventure:3300/look~
-door oaken~
-2 3131 3300
 S
 #3132
 Emerald Avenue~
