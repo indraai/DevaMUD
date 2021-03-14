@@ -1469,6 +1469,10 @@ D0
 adventure:3111/look~
 ~
 0 -1 3111
+D1
+adventure:3300/look~
+door oaken~
+2 3118 3300
 D2
 adventure:3135/look~
 ~
