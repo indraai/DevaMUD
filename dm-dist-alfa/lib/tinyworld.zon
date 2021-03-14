@@ -9,8 +9,8 @@ Northern Amaravati Main City~
 *
 O 0 3300 2 3055       Papi's Key
 O 0 3301 2 3055       Quifael's Key
-O 0 7900 2 3055       Avati's Key 1
-O 0 7901 2 3055       Avati's Key 2
+O 0 7900 2 3055       Indra's Key 1
+O 0 7901 2 3055       Indra's Key 2
 O 0 3302 2 3055       Manxam's Key
 O 0 3307 2 3055       Gimli's Key
 O 0 3310 2 3055       Doz' Key
@@ -135,16 +135,16 @@ M 0 3021 1 3002       The Monks Guildmaster
 M 0 3022 1 3029       The Thieves Guildmaster
 M 0 3023 1 3023       The Warrior's Guildmaster
 *
-M 0 3024 1 3017       The Sorcerer Guard
+M 0 3024 1 3017       The GuardDEVA
 E 1 3022 100 16            wields a longsword
 *
-M 0 3025 1 3004       The Priest Guard
+M 0 3025 1 3004       The GuardDEVA
 E 1 3022 100 16            wields a longsword
 *
-M 0 3026 1 3027       The Assasin Guard
+M 0 3026 1 3027       The GuardDEVA
 E 1 3022 100 16            wields a longsword
 *
-M 0 3027 1 3021       The Knight Guard
+M 0 3027 1 3021       The GuardDEVA
 E 1 3022 100 16            wields a longsword
 *
 M 0 3060 10 3004      SecurityDeva 1
@@ -175,7 +175,7 @@ E 1 3022 100 16            wields a longsword
 M 0 3063 5 3026       A Mercenary (at Dark Alley)
 E 1 3021 100 16            wields a shortsword
 *
-M 0 3064 3 3007       A Happy Drunk (at Inn)
+M 0 3064 3 3007       A Happy Monk (at Inn)
 M 0 3065 2 3044       A Beggar in poor alley
 M 0 3065 2 3048       A Beggar in Grubby Inn
 *
@@ -185,7 +185,7 @@ M 0 3062 15 3016      The Cute Little Doggy Fido (at Main Street)
 M 0 3062 15 3012      The Cute Little Doggy Fido (at Main Street)
 M 0 3066 1 3026       The Cute Little Odif Yggod (at Dark Alley)
 *
-M 0 3061 5 3006       The Janitor (at Inn Entrance)
+M 0 3061 5 3006       The ServiceDeva (at Inn Entrance)
 M 0 7012 1 3025       Madame Esther at Common Square
 *
 M 0 3090 1 3032       Kitten
@@ -201,8 +201,8 @@ S
 Southern part of Amaravati~
 3199 40 2
 *
-D 0 3110 3 2          Lock Captain's door from outside
-D 0 3142 1 2          Lock Captain's door from inside
+D 0 3110 3 2          Lock SecurityPRIME's door from outside
+D 0 3142 1 2          Lock SecurityPRIME's door from inside
 D 0 3142 2 2          Lock jail from outside
 D 0 3143 0 2          Lock jail from inside
 D 0 3129 2 2          Lock graveyard from outside
@@ -212,7 +212,7 @@ O 0 3134 3 3101       Bench 1 at promenade
 O 0 3134 3 3102       Bench 2 at promenade
 O 0 3134 3 3103       Bench 3 at promenade
 *
-M 0 3100 1 3106       Maid in Park Cafe
+M 0 3100 1 3106       ServiceDEVA in Park Cafe
 G 1 3100 500             A cup of tea
 G 1 3101 500             A cup of coffee
 G 1 3102 500             A cup of water
@@ -226,13 +226,13 @@ M 0 3123 1 3109       Sparrow in Park
 M 0 3124 2 3113       Duck 1 in Park
 M 0 3124 2 3115       Duck 2 in Park
 *
-M 0 3140 1 3142       Captain of the Guard in H.Q.
-G 1 3122 2               Give Captain A wooden key to the desk.
-G 1 3137 2               Give Captain A steel key to the jail.
-M 0 3141 4 3142       Mad Guard in H.Q.
-M 1 3141 4 3142       Mad Guard in H.Q.
-M 1 3141 4 3142       Mad Guard in H.Q.
-M 1 3141 4 3142       Mad Guard in H.Q.
+M 0 3140 1 3142       SecurityPRIME in H.Q.
+G 1 3122 2               Give SecurityPRIME A wooden key to the desk.
+G 1 3137 2               Give SecurityPRIME A steel key to the jail.
+M 0 3141 4 3142       GuardDEVA in H.Q.
+M 1 3141 4 3142       GuardDEVA in H.Q.
+M 1 3141 4 3142       GuardDEVA in H.Q.
+M 1 3141 4 3142       GuardDEVA in H.Q.
 *
 *R 0 3142 3130         Remove the desk (if any)
 *R 0 3142 3131         Remove the safe (if any)
@@ -251,7 +251,7 @@ E 1 3022 100 16            wields a longsword
 M 0 3060 20 3111      SecurityDeva 4
 E 1 3022 100 16            wields a longsword
 *
-M 0 3142 1 3137       Secretary at town hall
+M 0 3142 1 3137       ServiceDEVA at town hall
 M 0 3143 1 3138       Mayor at town hall
 E 1 3133 1 17              Has the City Key
 *
@@ -271,7 +271,7 @@ Buildings in Amaravati~
 3399 120 0
 *
 D 0 3300 3 2          Close and lock from Papi to street
-D 0 3131 1 2          Close and lock from street to Papi.
+D 0 3118 1 2          Close and lock from street to Papi.
 M 0 3300 1 3300         Papi's kitten.
 O 0 3100 777 3300       A cup of tea.
 *

@@ -417,13 +417,12 @@ should remember to include himself in the group.
 
 Example:
 
-Quifael and Avati wishes to group with Dragon.
+Quifael wishes to group with Dragon.
 
 Quifael : "follow dragon"
 Avati: "follow dragon"
 (Dragon should be following no one but himself)
 Dragon  : "group dragon"
-Dragon  : "group avati"
 Dragon  : "group quifael"
 
 Later when Dragon get upset at Quifael (because he is sleeping all the time)
