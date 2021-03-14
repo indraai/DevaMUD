@@ -4176,7 +4176,7 @@ The long tunnel~
    You are in a long east-west leading tunnel. The tunnel is quite
 wide at this point.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4191,7 +4191,7 @@ The long tunnel~
    You are in a long east-west leading tunnel. The tunnel becomes
 narrow to the west.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4206,7 +4206,7 @@ The long tunnel~
    You are in a long east-west leading tunnel. The tunnel is quite
 narrow at this point. You notice a small hole leading south.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4225,7 +4225,7 @@ The long tunnel~
    You are in a long east-west leading tunnel. The tunnel starts sloping
 down towards the west.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4283,7 +4283,7 @@ The passage~
    You are in a small passage, it leads south, to the west is a golden
 cave.
 ~
-41 9 3
+41 8 3
 D2
 ~
 ~
@@ -4359,7 +4359,7 @@ S
 The tunnel~
    You are in a small tunnel, it leads from east to the west.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4373,7 +4373,7 @@ S
 The tunnel~
    You are in a larger tunnel, it leads from west to east.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4388,7 +4388,7 @@ The passage~
    You are in a passage that leads towards the south. To the east
 you see a tunnel.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4427,7 +4427,7 @@ The dark passage.~
    You are in a dark passage, that leads east. In the ceiling you notice
 a small hole, just big enough to pass through.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4442,7 +4442,7 @@ The passage~
    You are in a passage that leads north-south. You notice a small
 light to the south.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4461,7 +4461,7 @@ The secret tunnel~
    You are in a secret tunnel that leads north, to the south you see
 a small chamber.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4515,7 +4515,7 @@ The passage~
    You are in a north-south leading passage. To the south you see
 light.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4534,7 +4534,7 @@ The secret tunnel~
    You are in a secret tunnel that leads west, you feel evilness
 approaching you as you continue west.
 ~
-41 9 3
+41 8 3
 D3
 ~
 ~
@@ -4545,7 +4545,7 @@ The secret chamber~
    You are in a secret chamber, the room is filled with an evil
 feeling.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4592,7 +4592,7 @@ The passage~
 cave lights up the passage. To the north the passage leads into
 the darkness..
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4625,7 +4625,7 @@ The small passage~
    You are in a small passage, to the north you see a hole, and to
 the south you see a large tunnel. The air is damp in this area.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4659,7 +4659,7 @@ The large tunnel~
    You are in a large tunnel leading from the south to the east. The
 air is damp in the area.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4674,7 +4674,7 @@ The large tunnel~
    You are in a large east-west leading tunnel, the air is damp and
 the floor is wet.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4689,7 +4689,7 @@ The large tunnel~
    You are in a large tunnel, the tunnel leads west, and to the east
 you notice a T-crossing. The air is damp in this area.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4705,7 +4705,7 @@ The T-crossing~
 to the south and west, to the north a small passage leads off into
 the darkness. The air is damp and your clothes wet.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4724,7 +4724,7 @@ The wet tunnel~
    You are in a wet, north-south leading tunnel, the floor is
 partly covered by water.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4739,7 +4739,7 @@ The small maze~
    You are in a small maze, exits leads off to the east,  south
 and west. The floor is partly covered by water.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4758,7 +4758,7 @@ The small maze~
    You are in a small maze, exits leads off only to the south
 and west. The air is damp in this maze.
 ~
-41 9 3
+41 8 3
 D2
 ~
 ~
@@ -4773,7 +4773,7 @@ In the tunnel at the inscription~
    You are in a north-south leading tunnel, the air is damp. On
 the wall there is an inscription.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4800,7 +4800,7 @@ The wet tunnel~
    You are in a north-south leading tunnel, the floor is fully
 covered by water. To the west you notice a small passage.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4815,7 +4815,7 @@ The small maze~
    You are in a small maze. The floor is mainly covered by
 water, exits leads north, east and south.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4834,7 +4834,7 @@ The small maze~
    You are in a small maze, where the air is damp. Exits
 leads to the north and east.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4849,7 +4849,7 @@ The entrace to the small maze~
    You are in a north-south leading tunnel, and the air is damp.
 To the west you see a small maze.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4868,7 +4868,7 @@ In the water~
    You are standing in water, the tunnel continues both to the
 north and south.
 ~
-41 9 6
+41 8 6
 D0
 ~
 ~
@@ -4883,7 +4883,7 @@ The wet maze~
    You are in a part of the maze where the floor is fully covered
 by water. The maze continues to the north, east and south.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4902,7 +4902,7 @@ The wet maze~
    You are in a small maze, the floor is covered by water, the
 maze continues east, west and south.
 ~
-41 9 3
+41 8 3
 D1
 ~
 ~
@@ -4921,7 +4921,7 @@ The end of the tunnel~
    The tunnel suddenly stops here, only exit is back to the
 north. The air is damp here.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
@@ -4932,7 +4932,7 @@ In the water~
    You are standning in the water, exits leads both north and
 east.
 ~
-41 9 6
+41 8 6
 D0
 ~
 ~
@@ -4947,7 +4947,7 @@ In the water~
    You are standing in the water, it continues west. To the
 east you see a small cliff.
 ~
-41 9 6
+41 8 6
 D1
 ~
 ~
@@ -4977,7 +4977,7 @@ At the cliff~
    You are on a little cliff in the water, to the north you
 see the end of the main tunnel.
 ~
-41 9 3
+41 8 3
 D0
 ~
 ~
