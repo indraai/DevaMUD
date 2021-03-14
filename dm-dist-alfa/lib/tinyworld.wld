@@ -1466,24 +1466,21 @@ adventure:3118/main
 ~
 31 0 1
 D0
-adventure:3111/look
-~
+adventure:3111/look~
 ~
 0 -1 3111
 D1
-adventure:3300/look
-~
+adventure:3300/look~
 door oaken~
 2 3118 3300
 D2
-adventure:3135/look
-~
+adventure:3135/look~
 ~
 0 -1 3135
 D3
-adventure:3307/door~
+adventure:3307/look~
 door wooden~
-2 # 3307
+2 3321 3307
 E
 plate name~
 adventure:3307/plate
