@@ -3583,7 +3583,7 @@ S
 The hole~
    You are by a hole in the floor, you can leave down, or north.
 ~
-40 13 3
+40 12 3
 D0
 ~
 ~
@@ -3597,7 +3597,7 @@ S
 The hole~
    You are by a hole in the floor, exits are down or east.
 ~
-40 13 3
+40 12 3
 D1
 ~
 ~
@@ -3916,7 +3916,7 @@ The tunnel~
    You are in a tunnel, only exit is to the east. You sense that the
 tunnel leads slightly down.
 ~
-40 13 3
+40 12 3
 D1
 ~
 ~
