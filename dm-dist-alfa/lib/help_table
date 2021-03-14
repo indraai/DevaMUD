@@ -256,41 +256,22 @@ skills, strength, mana, hitpoints etc.
 you're in.
 #
 ORDER
-In bars etc you can order things.
-
-In addition, you can order people who're under your charm to do things:
-
-   order Sober say I'm a jerk and I know it.
-
-Or you can order all the people who're charmed by you, like this:
-
-   order followers say We worship you, leader!!
+adventure:help/order
 #
 BUY SELL
-Commands for the shops - very useful too !
+adventure:help/buysell
 #
 WEATHER
-If you're uncertain whether the sun is shining or the rain is pouring down.
+adventure:help/weather
 #
 READ
-When you want to read something.
+adventure:help/read
 #
 REMOVE
-If you tire of wearing some armor or wielding a weapon.
-Example : remove sword
+adventure:help/remove
 #
 SHOPS
-Shops are places where the adventurer may purchase equipment for his quests,
-and where he may sell his treasure if he should manage to survive the perils
-with his life and sanity intact. Many shops trade only in a specific type of
-merchandise. Thus, a baker may well refuse to buy your armor, even if it is of
-high quality!
-   To some people, the prospect of obtaining the entire inventory of a shop by
-murdering the keeper may appear tempting - but beware: The shopkeepers are
-often rugged, capable men; roughened by years of trading and, indeed, surviving
-in a world where the only safe prospect is death in the end.
-
-See also: BUY, SELL, LIST, VALUE
+adventure:help/shops
 #
 SOCIAL ACTIONS
 adventure:help/social
