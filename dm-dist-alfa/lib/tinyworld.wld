@@ -10891,7 +10891,7 @@ S
 The sewer bend.~
 You find yourself in an ordinary sewer bend, which bend from west to north.
 ~
-72 9 3
+72 8 3
 D0
 You see a sewer drain.
 ~
@@ -10932,7 +10932,7 @@ You are in a sewer, where the slimy water runs down through a tiny hole.
 You see some odd scrates on the pipe wall, as from a gigantic rat. There
 is a sewer drain south.
 ~
-72 9 3
+72 8 3
 D2
 You see a sewer drain.
 ~
@@ -11048,7 +11048,7 @@ The Wall of the Abyss~
 You hang onto some steps leading down into utter darkness. There's an exit
 leading up as well, though you'll have to open the tiny rock again to do so.
 ~
-72 9 5
+72 8 5
 D4
 ~
 rock~
