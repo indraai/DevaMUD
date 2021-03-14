@@ -1466,27 +1466,27 @@ adventure:3118/main
 ~
 31 0 1
 D0
-Looking North at 3111~
-adventure:3118/north
+adventure:3111/look
+~
 ~
 0 -1 3111
 D1
-adventure:3118/east
+adventure:3300/look
 ~
 door oaken~
 2 3118 3300
 D2
-adventure:3118/south
+adventure:3135/look
 ~
 ~
 0 -1 3135
 D3
-adventure:3118/door~
+adventure:3307/door~
 door wooden~
 2 # 3307
 E
 plate name~
-adventure:3118/plate
+adventure:3307/plate
 ~
 S
 #3119
