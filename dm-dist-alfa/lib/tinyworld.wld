@@ -1469,6 +1469,10 @@ D0
 adventure:3111/look~
 ~
 0 -1 3111
+D1
+adventure:3300/look~
+door oaken~
+2 3118 3300
 D2
 adventure:3135/look~
 ~
@@ -1765,20 +1769,19 @@ adventure:3131/main
 ~
 31 0 1
 D0
-adventure:3131/north
+adventure:3101/look
 ~
 ~
 0 -1 3101
-D1
-adventure:3300/look~
-door oaken
-~
-2 3131 3300
 D2
-adventure:3131/south
+adventure:3111/look
 ~
 ~
 0 -1 3111
+D1
+adventure:3300/look~
+door oaken~
+2 3131 3300
 S
 #3132
 Emerald Avenue~
@@ -2118,7 +2121,7 @@ the eastern wall, just between two windows.  A fire crackels in the fireplace wh
 D3
 ~
 door~
-2 3300 3131
+2 3300 3118
 S
 #3301
 Manxam's livingroom~
