@@ -1,143 +1,56 @@
 "PICK LOCKS"
-
-Thieves only.
-For picking locks. Not all locks can be picked. Example:
-
-> pick door
-> pick safe
-
-See Also : OPEN, CLOSE, LOCK, UNLOCK
+adventure:help/picklocks
 #
 SNEAK
-
-Thieves Only.
-
-Used for sneaking (moving in and out of rooms without anyone taking notice).
-When you type sneak, there is no way to know if you actually sneak. If you
-sucessfully sneak, then you'll continue to sneak for a little while.
-
-Example:
-
-  > sneak
-
-See Also : HIDE
+adventure:help/sneak
 #
 HIDE
-
-Thieves Only.
-When you type hide there is a chance that you hide in the room. If hidden
-you can only be "sensed" by the "sense life" spell. Even if sensed your
-identity will remain hidden. Hide is broken by pressing return, regardless
-of wherther you typed a command or not.
-
-Example:
-
-  > hide
-  Ok.
-  >  (you wait for ex. 5 mins and remain hidden for 5 mins)
-
-  >  (You pressed enter and no longer hide)
+adventure:help/hide
 #
 LOOK
-For studying your surroundings. Examples:
-look
-look AT the angel
-look IN the bag
-look to the south   (or just: look south)
-
-Note that if you LOOK AT CORPSE you will not see its inventory.
-To see what's inside a container (e.i. Corpse) use LOOK IN <OBJECT>.
-
-See also : EXAMINE or READ
-#
-AC "-----------"
-
-Is you armor class, it is defined roughly as follows:
-
-  100 Naked person
-    0 Very Heavily armored (Plate mail, and "two shields")
- -100 Armored battle tank
-
+adventur:help/look
 #
 OPEN CLOSE LOCK UNLOCK
-Usage (example):
- > open portal
-or
- > open portal to the south
-   (if there's more than one to choose from)
+adventure:help/opencloselockunlock
 #
-NORTH SOUTH WEST EAST UP DOWN
-To walk in a given direction.
+NORTH EAST SOUTH WEST UP DOWN
+adventure:help/northeastsouthwestupdown
 #
 EAT DRINK SIP TASTE
-If you're hungry or thirsty. Example: eat hamburger.
+adventure:help/eatdrinksiptaste
 #
 WHO
-Lists the people currently in the game. Some people may choose to remain
-unseen.
+adventure:help/who
 #
 GIVE
-If you feel benevolent, you may give some stuff to someone in need. Example:
-give bread to the beggar.
+adventure:help/give
 #
 SAVE
-Save your persona. This includes experience points, strength, gold, etc. Any
-equipment you may have gathered is NOT saved.
+adventure:help/save
 #
 STRING
-For changing the text-strings associated with objects and characters. The
-format is:
-
-string <type> <name> <field> [<string> | <keyword>]
-
-Type is either 'obj' or 'char'.
-Field is one of the following(the names may be abbreviated):
-Name                  (the call-name of an obj/char - kill giant)
-Short                 (for inventory lists (obj's) and actions (char's))
-Long                  (for when obj/character is seen in room)
-Title                 (for players)
-Description           (For look at. For obj's, must be followed by a keyword)
-Delete-description    (only for obj's. Must be followed by keyword)
-
-Where a string is expected as the last argument, a newline will make you enter
-a string mode, and the game will prompt you for new lines to the string until
-you exceed the maximum length for the string or you end a line with a '@'.
+adventure:help/string
 #
 LOAD
-For loading new objects or characters from the database. The format is:
-load <type> <number>
-Where <type> is either 'obj' or 'char', and number is the number of the object
-or character you wish to create.
+adventure:help/load
 #
 INVENTORY
-If you're uncertain about what you're carrying, or simply want to check
-that no thieves have got to your backpack.
-
-See also: EQUIPMENT
+adventure:help/inventory
 #
 EQUIPMENT
-When you want to know what armor, weapon, charms etc. you're wearing.
-
-See also: INVENTORY
+adventure:help/equipment
 #
 KISS
-Well can't you guess ?
+adventure:help/kiss
 #
 WEAR
-If you want to wear some clothes, armor or the likes.
-For example : wear boots
-
-See also: REMOVE, EQUIPMENT
+adventure:help/wear
 #
 WIELD
-When you get tired of bashing monsters with your fists, you might consider
-wielding a weapon. Example : wield sword
-
-See also: REMOVE, EQUIPMENT
+adventure:help/wield
 #
 SCORE
-Whenever you want to check whether you're still alive and healthy
-or simply want to see how much money you have left.
+adventure:help/score
 #
 SAY TELL WHISPER SHOUT ASK
 If you consider communicating with other beings, you might be understood
@@ -308,20 +221,10 @@ You can improve your spells by using the practice command.
 See also: PRACTICE
 #
 "MAGIC USER" WIZARD MAGE
-This is the class of powerful and violent magic, but the magic user do not
-control the nature, and can therefore not bless and such. You can improve
-your spells by using the practice command.
-
-See also: PRACTICE
+adventure:help/magicuser
 #
-PRACTICE PRACTISE
-Practice is the way you improve your spells and skills. You must go to
-your guildmaster to let him/her help you improve.
-If you type practice, you will see which skills you can improve upon, and
-how good you already are at these.
-You can then use practice <skill>, to practice the appropriate skill.
-You can only practise a certain amount for each level you gain, and you
-do not have to save this, it can be accumulated.
+PRACTICE
+adventure:help/practice
 #
 EXITS
 Gives you a list of the obvious exits from your location. Of course, the less
@@ -542,56 +445,16 @@ Is used to "read" a magical scroll. Target can be an object, character or
 nothing (which may be yourself).
 #
 USE WAND STAFF STAFFS WANDS
-
-Use : Use <Staff>
-      Use <Wand> <Target>
-
-Using staff's will automatically target everybody (or everything) in a
-room, execpt yourself. Therefore staff's are naturally very powerful, and
-yet may be very dangerous to use around other players.
-
-Using wands require that you point it at a target, which can be eihter a
-character or an object.
-
-Both staff's and wand's must be HELD in the hand prior to use! (Use the
-grab or hold commands). You must still supply the name of the staff or
-wand to avoid confusion.
+adventure:help/use
 #
 ARMOR
-
-Usage       : cast 'armor' <victim>
-Accumulative: No
-Duration    : 24 Hours
-
-The Armor spell will improve your AC by 20.
-
-See Also: AC
+adventure:help/armor
 #
 TELEPORT
-
-Usage       : cast 'teleport' [self]
-Accumulative: -
-Duration    : Instant
-
-Teleport (with error) will instantly transfer you to another location
-in the world. This location is random, and thus there will always be
-a risk of landing in a fatal location.
-
-See Also: -
+adventure:help/teleport
 #
 BLESS
-Usage       : cast 'bless' <victim or object>
-Accumulative: No
-Duration    : 6 Hours, permanent for objects.
-
-Bless on a victim will improve the victims saving throw versus spells
-by 1, and furthermore improve the hitroll by 1.
-
-Bless on an item currently has no defined action. It is only possible
-to bless non-evil items, and the object blessed may weight no more
-than five pounds per level of caster.
-
-See Also: -
+adventure:help/bless
 #
 BLINDNESS
 Usage       : cast 'blindness' <victim>
@@ -941,7 +804,7 @@ HELP
 adventure:help/help
 #
 SPELL SPELLS
-adventure:help/magic
+adventure:help/spells
 #
 ADVANCE
 adventure:help/advance
