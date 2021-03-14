@@ -749,18 +749,18 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
 	send_to_char(buf,ch);
 
-	sprintf(buf,"----\n\rexperience: %d\n\rgold: %d\n\r",
+	sprintf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
 		GET_EXP(ch),GET_GOLD(ch));
 	send_to_char(buf,ch);
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
 	   ch->player.time.played, 0);
-	sprintf(buf,"----\n\rtime: %dd %dh.\n\r",
+	sprintf(buf,"\n----\n\ntime: %dd %dh.\n\r",
 		playing_time.day,
 		playing_time.hours);
 	send_to_char(buf, ch);
 
-	sprintf(buf,"----\n\rrank: %s\n\rlevel: %d.\n\r",
+	sprintf(buf,"----\n\nrank: %s\nrlevel: %d.\n\r",
 		GET_TITLE(ch), GET_LEVEL(ch) );
 	send_to_char(buf,ch);
 
