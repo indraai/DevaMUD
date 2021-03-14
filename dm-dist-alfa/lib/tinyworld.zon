@@ -782,15 +782,15 @@ M 0 7007 3 7422         Load Evil Wanderer
 M 0 7008 4 7401         Load Homonculus
 S
 #78
-Avati's fridge and larder~
+Indra's Kitchen~
 7899 3 2
 O 0 6013 10 7908           The barrel with water
 O 0 7090 40 7907           The Waybread
 S
 #79
-Avati's Residence~
+Indra's Residence~
 7999 100 2
-D 0 7900 0 1     Close the Grand Gate to the Mansion of Avati
+D 0 7900 0 1     Close the Grand Gate to the Mansion of Indra
 D 0 7901 2 1     Close the same from the inside
 D 0 7902 1 1     Close the Ashen door from the Library to the Hallway
 D 0 7901 3 1     Close the Ashen door from the Hallway to the Library
