@@ -157,7 +157,7 @@ adventure:3005/up
 0 -1 3001
 S
 #3006
-The Inn~
+indra.academy~
 adventure:3006/main
 ~
 30 8 0
@@ -178,7 +178,7 @@ adventure:3006/up
 0 -1 3008
 S
 #3007
-The Café~
+ufo.cafe~
 adventure:3007/main
 ~
 30 8 0
@@ -395,7 +395,7 @@ adventure:3016/west
 0 -1 3015
 S
 #3017
-The Builders~
+indra.academy~
 adventure:3017/main
 ~
 30 8 0
@@ -411,7 +411,7 @@ adventure:3017/south
 0 -1 3018
 S
 #3018
-The Builder Bistro~
+ufo.cafe~
 adventure:3018/main
 ~
 30 12 0
@@ -427,7 +427,7 @@ adventure:3018/east
 0 -1 3019
 S
 #3019
-The Builder Lab~
+thegame93.club~
 adventure:3019/main
 ~
 30 12 0
@@ -578,7 +578,7 @@ adventure:3026/guild
 ~
 S
 #3027
-The Collective~
+indra.academy~
 adventure:3027/main
 ~
 30 8 0
@@ -594,7 +594,7 @@ adventure:3027/east
 0 -1 3028
 S
 #3028
-The Collective Bar~
+ufo.cafe~
 adventure:3028/main
 ~
 30 12 0
@@ -745,7 +745,7 @@ adventure:3035/sign
 ~
 S
 #3040
-Main St. & Wall Rd.~
+indra.guide w.~
 adventure:3040/main
 ~
 30 0 1
@@ -782,7 +782,7 @@ adventure:3040/wall
 ~
 S
 #3041
-30 E. Main Street~
+indra.guide e.~
 adventure:3041/main
 ~
 30 0 1
@@ -1007,7 +1007,7 @@ adventure:3051/wall
 ~
 S
 #3052
-The West Gate~
+indra.directory w.~
 adventure:3052/main
 ~
 30 0 1
@@ -1044,7 +1044,7 @@ adventure:3052/wall
 ~
 S
 #3053
-The East Gate~
+indra.directory E.~
 adventure:3053/main
 ~
 30 0 1
@@ -1435,7 +1435,7 @@ adventure:3116/west
 0 -1 3115
 S
 #3117
-Emerald Avenue~
+indra.team~
 adventure:3117/main
 ~
 31 0 1
@@ -1461,7 +1461,7 @@ adventure:3117/west
 0 -1 3116
 S
 #3118
-10 S. Park Avenue~
+indra.business~
 adventure:3118/main
 ~
 31 0 1
@@ -1483,7 +1483,7 @@ adventure:3307/plate
 ~
 S
 #3119
-Emerald Avenue~
+indra.expert~
 adventure:3119/main
 ~
 31 0 1
@@ -1575,7 +1575,7 @@ adventure:3134/look
 0 -1 3134
 S
 #3123
-Elm Street~
+indra.marketing~
 adventure:3123/main
 ~
 31 0 1
@@ -1903,7 +1903,7 @@ a Cray II look like a laptop.
 ~
 S
 #3138
-The Mayors Office~
+indra.ninja~
    You are in the not very big office of the Mayor of Amaravati.  A large and
 polished but completely empty desk is standing in front of an armchair that
 looks so comfortable that it most of all resembles a bed with the head end
