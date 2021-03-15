@@ -1504,27 +1504,27 @@ adventure:3120/main
 ~
 31 0 1
 D0
-adventure:3120/north
+adventure:3133/look
 ~
 ~
 0 -1 3133
 D1
-adventure:3120/east
+adventure:3136/look
 ~
 ~
 0 -1 3136
 D2
-adventure:3120/south
+adventure:3134/look
 ~
 ~
 0 -1 3134
 D3
-adventure:3120/west
+adventure:3135/look
 ~
 ~
 0 -1 3135
 D4
-adventure:3120/up
+adventure:7914/look
 ~
 ~
 0 -1 7914
@@ -1543,12 +1543,12 @@ adventure:3121/main
 ~
 31 0 1
 D1
-adventure:3121/east
+adventure:3134/look
 ~
 ~
 0 -1 3134
 D2
-adventure:3121/south
+adventure:3125/look
 ~
 ~
 0 -1 3125
@@ -1600,6 +1600,14 @@ adventure:3124/east
 ~
 door~
 2 3302 3301
+D2
+~
+portal wall~
+2 3307 3303
+E
+wall~
+adventure:3135/wall
+~
 D3
 adventure:3124/door
 ~
@@ -1820,6 +1828,7 @@ adventure:3134/main
 ~
 31 0 1
 D0
+adventure:3120/look
 ~
 ~
 0 -1 3120
@@ -1834,24 +1843,16 @@ S
 adventure:3135/main
 ~
 31 0 1
-D0
-adventure:3135/north
-~
-~
-0 -1 3118
 D1
-adventure:3135/east
+adventure:3120/look
 ~
 ~
 0 -1 3120
-D2
+D3
+adventure:3121/look
 ~
-portal wall~
-2 3307 3303
-E
-wall~
-adventure:3135/wall
 ~
+0 -1 3121
 S
 #3136
 Park Road~
