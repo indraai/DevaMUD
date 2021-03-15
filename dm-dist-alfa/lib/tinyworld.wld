@@ -1499,7 +1499,7 @@ adventure:3136/look
 0 -1 3136
 S
 #3120
-Indra.center~
+indra.center~
 adventure:3120/main
 ~
 31 0 1
@@ -1807,7 +1807,7 @@ D2
 0 -1 3117
 S
 #3133
-Emerald Avenue~
+indra.services~
 adventure:3133/main
 ~
 31 0 1
@@ -1823,7 +1823,7 @@ adventure:3118/look
 0 -1 3118
 S
 #3134
-Emerald Avenue~
+indra.solutions~
 adventure:3134/main
 ~
 31 0 1
@@ -1839,7 +1839,7 @@ adventure:3122/look
 0 -1 3122
 S
 #3135
-20 S. Park Avenue~
+indra.support~
 adventure:3135/main
 ~
 31 0 1
@@ -1855,7 +1855,7 @@ adventure:3121/look
 0 -1 3121
 S
 #3136
-Park Road~
+indra.systems~
 adventure:3136/main
 ~
 31 0 1
