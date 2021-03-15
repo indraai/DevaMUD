@@ -1469,10 +1469,10 @@ D0
 adventure:3111/look~
 ~
 0 -1 3111
-D2
-adventure:3135/look~
+D1
+adventure:3133/look~
 ~
-0 -1 3135
+0 -1 3133
 D3
 adventure:3307/look~
 door wooden~
@@ -1800,18 +1800,19 @@ D2
 S
 #3133
 Emerald Avenue~
-   You are standing at a bend on Emerald Avenue.  To the east the road goes on
-and to the south is the Road Crossing.
+adventure:3133/main
 ~
 31 0 1
-D1
-~
-~
-0 -1 3119
 D2
+adventure:3120/look
 ~
 ~
 0 -1 3120
+D3
+adventure:3118/look
+~
+~
+0 -1 3118
 S
 #3134
 Emerald Avenue~
