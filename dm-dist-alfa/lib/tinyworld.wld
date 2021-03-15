@@ -12598,12 +12598,8 @@ adventure:3120/look
 0 -1 3120
 S
 #7915
-The Chain where it's too windy~
-Hanging on to the chain you figure out that there's no way of leaving down
-from here. The wind pulls you from left to right and back. This seems like a
-totally impossible task. The ascend is the only way ahead for you.
-Otherwise you would risk death by falling to the hard ground below. DO NOT
-DESCEND NOW OR YOU'LL SURELY DIE!!!!
+The Kalpavriksha~
+adventure:7915/main
 ~
 79 4 5
 D4

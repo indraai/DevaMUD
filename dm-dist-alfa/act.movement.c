@@ -66,7 +66,7 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 			if (obj->obj_flags.type_flag == ITEM_BOAT)
 				has_boat = TRUE;
 		if (!has_boat) {
-			send_to_char("feecting:games/deva/info/needaboat\n\r", ch);
+			send_to_char("adventure:info/needaboat\n\r", ch);
 			return(FALSE);
 		}
 	}
@@ -74,9 +74,9 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 	if(GET_MOVE(ch)<need_movement && !IS_NPC(ch))
 	{
 		if(!following)
-			send_to_char("feecting:games/deva/info/tooexhausted\n\r",ch);
+			send_to_char("adventure:info/tooexhausted\n\r",ch);
 		else
-			send_to_char("feecting:games/deva/info/tooexhaustedfollow\n\r",ch);
+			send_to_char("adventure:info/tooexhaustedfollow\n\r",ch);
 
 		return(FALSE);
 	}
@@ -106,6 +106,8 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 		return(-1);
 	}
 
+	do_exits(ch,"\0",15);
+
 	return(1);
 }
 
@@ -119,7 +121,7 @@ void do_move(struct char_data *ch, char *argument, int cmd)
 	--cmd;
 
 	if (!world[ch->in_room].dir_option[cmd]) {
-		send_to_char("feecting:games/deva/info/cannotgothatway\n\r", ch);
+		send_to_char("adventure:info/cannotgothatway\n\r", ch);
 	} else {          /* Direction is possible */
 
 		if (IS_SET(EXIT(ch, cmd)->exit_info, EX_CLOSED)) {
@@ -128,24 +130,24 @@ void do_move(struct char_data *ch, char *argument, int cmd)
 					fname(EXIT(ch, cmd)->keyword));
 				send_to_char(tmp, ch);
 			} else {
-				send_to_char("feecting:games/deva/info/seemsclosed\n\r", ch);
+				send_to_char("adventure:info/seemsclosed\n\r", ch);
 			}
 		} else if (EXIT(ch, cmd)->to_room == NOWHERE)
-			send_to_char("feecting:games/deva/info/cannotgothatway\n\r", ch);
+			send_to_char("adventure:info/cannotgothatway\n\r", ch);
 		else if (!ch->followers && !ch->master)
 			do_simple_move(ch,cmd,FALSE);
 		else {
 
 			if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master) &&
 			   (ch->in_room == ch->master->in_room)) {
-				send_to_char("feecting:games/deva/info/leavingmaster\n\r", ch);
+				send_to_char("adventure:info/leavingmaster\n\r", ch);
 				act("$n bursts into tears.", FALSE, ch, 0, 0, TO_ROOM);
 			} else {
 
 				was_in = ch->in_room;
 				if (do_simple_move(ch, cmd, TRUE) == 1) { /* Move the character */
-					if (ch->followers) {							      /* If succes move followers */
 
+					if (ch->followers) {							      /* If succes move followers */
 						for(k = ch->followers; k; k = next_dude) {
 							next_dude = k->next;
 							if ((was_in == k->follower->in_room) &&
@@ -185,7 +187,7 @@ int find_door(struct char_data *ch, char *type, char *dir)
 	{
 		if ((door = search_block(dir, dirs, FALSE)) == -1) /* Partial Match */
 		{
-			send_to_char("feecting:games/deva/info/notdirection\n\r", ch);
+			send_to_char("adventure:info/notdirection\n\r", ch);
 			return(-1);
 		}
 
