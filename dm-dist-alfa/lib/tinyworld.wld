@@ -1558,11 +1558,6 @@ Park Road~
 adventure:3122/main
 ~
 31 0 1
-D0
-adventure:3122/north
-~
-~
-0 -1 3136
 D1
 adventure:3122/east
 ~
@@ -1573,6 +1568,11 @@ adventure:3122/south
 ~
 ~
 0 -1 3126
+D3
+adventure:3134/look
+~
+~
+0 -1 3134
 S
 #3123
 Elm Street~
@@ -1824,10 +1824,11 @@ D0
 ~
 ~
 0 -1 3120
-D3
+D1
+adventure:3122/look
 ~
 ~
-0 -1 3121
+0 -1 3122
 S
 #3135
 20 S. Park Avenue~
