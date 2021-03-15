@@ -1542,11 +1542,11 @@ Emerald Avenue~
 adventure:3121/main
 ~
 31 0 1
-D1
-adventure:3134/look
+D0
+adventure:3135/look
 ~
 ~
-0 -1 3134
+0 -1 3135
 D2
 adventure:3125/look
 ~
