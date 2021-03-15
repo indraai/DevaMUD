@@ -147,29 +147,29 @@ E 1 3022 100 16            wields a longsword
 M 0 3027 1 3021       The GuardDEVA
 E 1 3022 100 16            wields a longsword
 *
-M 0 3060 10 3004      SecurityDeva 1
+M 0 3060 10 3004      SecurityDEVA 1
 E 1 3022 100 16            wields a longsword
 *
-M 0 3060 10 3014      SecurityDeva 2
+M 0 3060 10 3014      SecurityDEVA 2
 E 1 3022 100 16            wields a longsword
 *
-M 0 3060 10 3017      SecurityDeva 3
+M 0 3060 10 3017      SecurityDEVA 3
 E 1 3022 100 16            wields a longsword
 *
-M 0 3060 10 3021      SecurityDeva 4
+M 0 3060 10 3021      SecurityDEVA 4
 E 1 3022 100 16            wields a longsword
 *
-M 0 3060 10 3027      SecurityDeva 5
+M 0 3060 10 3027      SecurityDEVA 5
 E 1 3022 100 16            wields a longsword
 *
-M 0 3067 4 3041      SecurityDeva 1 at east gate
+M 0 3067 4 3041      SecurityDEVA 1 at east gate
 E 1 3022 100 16            wields a longsword
-M 0 3067 4 3041      SecurityDeva 2 at east gate
+M 0 3067 4 3041      SecurityDEVA 2 at east gate
 E 1 3022 100 16            wields a longsword
 *
-M 0 3067 4 3040      SecurityDeva 1 at west gate
+M 0 3067 4 3040      SecurityDEVA 1 at west gate
 E 1 3022 100 16            wields a longsword
-M 0 3067 4 3040      SecurityDeva 2 at west gate
+M 0 3067 4 3040      SecurityDEVA 2 at west gate
 E 1 3022 100 16            wields a longsword
 *
 M 0 3063 5 3026       A Mercenary (at Dark Alley)
@@ -241,14 +241,14 @@ P 1 3123 1 3130         Put brass key in desk
 O 0 3131 1 3142       Load the safe
 P 1 3132 1 3131       Put money in safe
 *
-M 0 3060 20 3111      SecurityDeva 1
+M 0 3060 20 3111      SecurityDEVA 1
 E 1 3022 100 16            wields a longsword
 G 1 3120 2                 Has an iron key to Captain's Office
-M 0 3060 20 3111      SecurityDeva 2
+M 0 3060 20 3111      SecurityDEVA 2
 E 1 3022 100 16            wields a longsword
-M 0 3060 20 3111      SecurityDeva 3
+M 0 3060 20 3111      SecurityDEVA 3
 E 1 3022 100 16            wields a longsword
-M 0 3060 20 3111      SecurityDeva 4
+M 0 3060 20 3111      SecurityDEVA 4
 E 1 3022 100 16            wields a longsword
 *
 M 0 3142 1 3137       ServiceDEVA at town hall
