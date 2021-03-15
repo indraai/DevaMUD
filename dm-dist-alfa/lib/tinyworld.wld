@@ -1844,10 +1844,9 @@ adventure:3135/east
 ~
 ~
 0 -1 3120
-D3
+D2
 ~
-portal wall
-~
+portal wall~
 2 3307 3303
 E
 wall~
