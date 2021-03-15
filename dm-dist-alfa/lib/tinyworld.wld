@@ -1,5 +1,5 @@
 #0
-Deva.space~
+0:deva.space~
 adventure:0/main
 ~
 0 8 1
@@ -10,7 +10,7 @@ adventure:0/down
 0 -1 1
 S
 #1
-Deva.cloud~
+1:deva.cloud~
 adventure:1/main
 ~
 0 8 1
@@ -26,7 +26,7 @@ adventure:1/down
 0 -1 2
 S
 #2
-Deva.world~
+2:deva.world~
 adventure:2/main
 ~
 0 8 1
@@ -48,19 +48,19 @@ adventure:1200/main
 0 520 0
 S
 #1201
-Indra.house~
+1201:indra.guru~
 adventure:1201/main
 ~
 0 520 0
 S
 #1202
-The Center of the Universe.~
+1202:indra.house~
 adventure:1202/main
 ~
 0 520 0
 S
 #3001
-The Temple~
+3001:indra.house~
 adventure:3001/main
 ~
 30 12 0
@@ -79,7 +79,7 @@ adventure:3001/down~
 0 -1 3005
 S
 #3002
-The Sanctuary~
+3002:rahula.guru~
 adventure:3002/main
 ~
 30 12 0
@@ -95,7 +95,7 @@ adventure:3002/down
 0 -1 7026
 S
 #3003
-rahula.club~
+3003:rahula.club~
 adventure:3003/main
 ~
 30 12 0
@@ -115,7 +115,7 @@ adventure:3003/sign
 ~
 S
 #3004
-indra.church~
+3004:rahula.me~
 adventure:3004/main
 ~
 30 8 0
@@ -131,7 +131,7 @@ adventure:3004/east
 0 -1 3005
 S
 #3005
-indra.life~
+3005:indra.site~
 adventure:3005/main
 ~
 30 0 1
@@ -157,7 +157,7 @@ adventure:3005/up
 0 -1 3001
 S
 #3006
-indra.academy~
+3006:indra.academy~
 adventure:3006/main
 ~
 30 8 0
@@ -178,7 +178,7 @@ adventure:3006/up
 0 -1 3008
 S
 #3007
-ufo.cafe~
+3007:indra.blue~
 adventure:3007/main
 ~
 30 8 0
@@ -197,7 +197,7 @@ adventure:3007/symbols
 ~
 S
 #3008
-The Reception~
+3008:indra.academy~
 adventure:3008/main
 ~
 30 8 0
@@ -212,7 +212,7 @@ adventure:3008/sign
 ~
 S
 #3009
-The Bakery~
+3009:indra.store~
 adventure:3009/main
 ~
 30 8 0
@@ -231,7 +231,7 @@ adventure:3009/sign
 ~
 S
 #3010
-The Store~
+3010:indra.store~
 adventure:3010/main
 ~
 30 8 0
@@ -246,7 +246,7 @@ adventure:3010/note
 ~
 S
 #3011
-The Shop~
+3011:indra.store~
 adventure:3011/main
 ~
 30 8 0
@@ -261,7 +261,7 @@ adventure:3011/note
 ~
 S
 #3012
-indra.life~
+3012:indra.life~
 adventure:3012/main
 ~
 30 0 1
@@ -287,7 +287,7 @@ adventure:3012/west
 0 -1 3040
 S
 #3013
-life~
+3013:indra.life~
 adventure:3013/main
 ~
 30 0 1
@@ -313,7 +313,7 @@ adventure:3013/west
 0 -1 3012
 S
 #3014
-indra.city~
+3014:indra.city~
 adventure:3014/main
 ~
 30 0 1
@@ -343,7 +343,7 @@ adventure:3014/statue
 ~
 S
 #3015
-indra.life~
+3015:indra.life~
 adventure:3015/main
 ~
 30 0 1
@@ -369,7 +369,7 @@ adventure:3015/west
 0 -1 3014
 S
 #3016
-indra.life~
+3016:indra.life~
 adventure:3016/main
 ~
 30 0 1
@@ -411,7 +411,7 @@ adventure:3017/south
 0 -1 3018
 S
 #3018
-ufo.cafe~
+3018:indra.blue~
 adventure:3018/main
 ~
 30 12 0
@@ -443,7 +443,7 @@ adventure:3019/down
 0 -1 7017
 S
 #3020
-The Outfitter~
+3020:indra.store~
 adventure:3020/main
 ~
 30 8 0
@@ -458,7 +458,7 @@ adventure:3020/note
 ~
 S
 #3021
-The Union~
+3021:indra.academy~
 adventure:3021/main
 ~
 30 8 0
@@ -474,7 +474,7 @@ adventure:3021/east
 0 -1 3022
 S
 #3022
-The Union Bar~
+3022:indra.blue~
 adventure:3022/main
 ~
 30 12 0
@@ -490,7 +490,7 @@ adventure:3022/west
 0 -1 3021
 S
 #3023
-The Tournament and Practise Yard~
+3023:thegame93.club~
 adventure:3023/main
 ~
 30 12 0
@@ -594,7 +594,7 @@ adventure:3027/east
 0 -1 3028
 S
 #3028
-ufo.cafe~
+3028:indra.blue~
 adventure:3028/main
 ~
 30 12 0
@@ -672,7 +672,7 @@ adventure:3032/main
 30 8 0
 S
 #3033
-The Toy Box~
+3033:indra.store~
 adventure:3033/main
 ~
 30 8 0
@@ -695,7 +695,7 @@ adventure:3033/case
 ~
 S
 #3034
-The Jewel Palace~
+3034:indra.store~
 adventure:3034/main
 ~
 30 8 0
@@ -1106,7 +1106,7 @@ adventure:3055/main
 30 8 0
 S
 #3100
-50 S. Wall Road~
+3100:indra.today~
 adventure:3100/main
 ~
 31 0 1
@@ -1127,7 +1127,7 @@ adventure:3100/south
 0 -1 3127
 S
 #3101
-20 N. Park Avenue~
+3101:indra.pet~
 adventure:3101/main
 ~
 31 0 1
@@ -1148,7 +1148,7 @@ adventure:3101/west
 0 -1 3100
 S
 #3102
-The Promenade~
+3102:indra.buzz~
 adventure:3102/main
 ~
 31 0 1
@@ -1169,7 +1169,7 @@ adventure:3102/west
 0 -1 3101
 S
 #3103
-The Promenade~
+3103:indra.lovet~
 adventure:3103/main
 ~
 31 0 1
@@ -1190,7 +1190,7 @@ adventure:3102/west
 0 -1 3102
 S
 #3104
-NE. Concourse~
+3104:indra.ninja~
 adventure:3104/main
 ~
 31 0 1
@@ -1315,7 +1315,7 @@ adventure:3110/sign
 ~
 S
 #3111
-3111:indra.work~
+3111:indra.video~
 adventure:3111/main
 ~
 31 0 1
@@ -1678,7 +1678,7 @@ It opens its mouth wide and gobbles 'Unlokk me!'
 ~
 S
 #3127
-60 S. Wall Road~
+3127:feecting.com~
 adventure:3127/main
 ~
 31 0 1
@@ -1694,7 +1694,7 @@ adventure:3127/east
 0 -1 3128
 S
 #3128
-indra.fit~
+3128:indra.fit~
 adventure:3128/main
 ~
 31 0 1
@@ -1715,7 +1715,7 @@ adventure:3128/west
 0 -1 3127
 S
 #3129
-On the Concourse~
+3129:indra.ninja~
    The Concourse continues both east and west.  Park Road is north of here
 and an iron grate leads south to the graveyard.
 A bronze sign has been set on the wall next to the grate.
@@ -1753,7 +1753,7 @@ The sign says :-
 ~
 S
 #3130
-On the Concourse~
+3130:indra.ninja~
    You are at the southeast corner of the city wall.  The Concourse leads
 both north and west.
 ~
@@ -1768,7 +1768,7 @@ D3
 0 -1 3129
 S
 #3131
-10 N. Park Avenue~
+3131:indra.dog~
 adventure:3131/main
 ~
 31 0 1
