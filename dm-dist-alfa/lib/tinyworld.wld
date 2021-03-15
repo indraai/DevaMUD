@@ -1210,7 +1210,7 @@ adventure:3104/wall
 ~
 S
 #3105
-Park Entrance~
+3105:indra.fun~
 adventure:3105/main
 ~
 31 4 1
@@ -1231,7 +1231,7 @@ adventure:3105/south
 0 -1 3108
 S
 #3106
-Park Cafe~
+3106:indra.blue~
 adventure:3106/main
 ~
 31 8 0
@@ -1242,7 +1242,7 @@ adventure:3106/west
 0 -1 3105
 S
 #3107
-Park Path~
+3107:indra.fun~
 adventure:3107/main
 ~
 31 0 1
@@ -1258,7 +1258,7 @@ adventure:3107/south
 0 -1 3113
 S
 #3108
-Park Path~
+3108:indra.fun~
 adventure:3108/main
 ~
 31 0 1
@@ -1279,7 +1279,7 @@ adventure:3108/west
 0 -1 3107
 S
 #3109
-Park Path~
+3109:indra.fun~
 adventure:3109/main
 ~
 31 0 1
@@ -1295,7 +1295,7 @@ adventure:3109/west
 0 -1 3108
 S
 #3110
-The Agency~
+3110:indra.agency~
 adventure:3110/main
 ~
 31 8 0
@@ -1315,7 +1315,7 @@ adventure:3110/sign
 ~
 S
 #3111
-indra.work~
+3111:indra.work~
 adventure:3111/main
 ~
 31 0 1
@@ -1345,7 +1345,7 @@ adventure:3111/door
 ~
 S
 #3112
-indra.work~
+3112:indra.fun~
 adventure:3112/main
 ~
 31 4 1
@@ -1361,7 +1361,7 @@ adventure:3112/west
 0 -1 3111
 S
 #3113
-Park Path~
+3113:indra.fun~
 adventure:3113/main
 ~
 31 0 1
@@ -1382,7 +1382,7 @@ adventure:3113/west
 0 -1 3112
 S
 #3114
-The Pond~
+3114:indra.fun~
 adventure:3114/main
 ~
 31 0 6
@@ -1398,7 +1398,7 @@ adventure:3114/west
 0 -1 3113
 S
 #3115
-A path in the park~
+3115:indra.fun~
 adventure:3115/main
 ~
 31 0 1
@@ -1419,7 +1419,7 @@ adventure:3115/west
 0 -1 3114
 S
 #3116
-E. Park Entrance~
+3116:indra.fun~
 adventure:3116/main
 ~
 31 4 1
@@ -1435,7 +1435,7 @@ adventure:3116/west
 0 -1 3115
 S
 #3117
-indra.work~
+3117:indra.work~
 adventure:3117/main
 ~
 31 0 1
@@ -1461,7 +1461,7 @@ adventure:3117/west
 0 -1 3116
 S
 #3118
-indra.business~
+3118:indra.business~
 adventure:3118/main
 ~
 31 0 1
@@ -1483,7 +1483,7 @@ adventure:3307/plate
 ~
 S
 #3119
-indra.expert~
+3119:indra.expert~
 adventure:3119/main
 ~
 31 0 1
@@ -1499,7 +1499,7 @@ adventure:3136/look
 0 -1 3136
 S
 #3120
-indra.center~
+3120:indra.center~
 adventure:3120/main
 ~
 31 0 1
@@ -1538,7 +1538,7 @@ adventure:3120/tree
 ~
 S
 #3121
-indra.care~
+3121:indra.care~
 adventure:3121/main
 ~
 31 0 1
@@ -1554,7 +1554,7 @@ adventure:3125/look
 0 -1 3125
 S
 #3122
-indra.design~
+3122:indra.design~
 adventure:3122/main
 ~
 31 0 1
@@ -1575,7 +1575,7 @@ adventure:3134/look
 0 -1 3134
 S
 #3123
-indra.art~
+3123:indra.art~
 adventure:3123/main
 ~
 31 0 1
@@ -1591,7 +1591,7 @@ adventure:3123/west
 0 -1 3122
 S
 #3124
-indra.marketing~
+3124:indra.marketing~
 adventure:3124/main
 ~
 31 0 1
@@ -1627,7 +1627,7 @@ adventure:3124/door
 ~
 S
 #3125
-indra.coach~
+3125:indra.coach~
 adventure:3125/main
 ~
 31 0 1
@@ -1643,7 +1643,7 @@ adventure:3125/south
 0 -1 3128
 S
 #3126
-events~
+3126:indra.events~
    You are on Park Road which continues north.  The Concourse is south of
 here.
 An old two-storey house is to the east.
