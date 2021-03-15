@@ -708,15 +708,15 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 			if (EXIT(ch, door)->to_room != NOWHERE &&
 			    !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
 				if (IS_DARK(EXIT(ch, door)->to_room))
-					sprintf(buf + strlen(buf), "%s: Too dark to tell\n\r", exits[door]);
+					sprintf(buf + strlen(buf), "\n%s: Too dark to tell\n\r", exits[door]);
 				else
-					sprintf(buf + strlen(buf), "exit[%s]: %s\n\r", exits[door],
+					sprintf(buf + strlen(buf), "\nexit[%s]: %s\n\r", exits[door],
 						world[EXIT(ch, door)->to_room].name);
 
 	if (*buf)
 		send_to_char(buf, ch);
 	else
-		send_to_char("None.\n\r", ch);
+		send_to_char("\nexit: None.\n\r", ch);
 }
 
 
