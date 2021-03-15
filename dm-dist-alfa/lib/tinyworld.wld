@@ -1499,7 +1499,7 @@ adventure:3136/look
 0 -1 3136
 S
 #3120
-Road Crossing~
+Indra.center~
 adventure:3120/main
 ~
 31 0 1
@@ -12582,20 +12582,17 @@ door cage metal pen~
 2 -1 7904
 S
 #7914
-On the Huge Chain~
-This place has quite a good view over Amaravati. Your possibilities of movement
-seems to extend only to up and down. Unless you want to let go of the secure
-and seemingly unmoveable chain, then those are the directions you should take
-from here.
+The Kalpavriksha~
+adventure:7914/main
 ~
 79 4 5
 D4
-Up the way you see the chain dissappearing into the clouds above.
+adventure:7915/look7915
 ~
 ~
 0 -1 7915
 D5
-Down below you see the huge chain anchored to the ground in the Road Crossing.
+adventure:3120/look
 ~
 ~
 0 -1 3120
