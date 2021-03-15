@@ -1948,7 +1948,7 @@ Penny Lane~
    You are on Penny Lane.  The narrow road continues north and west.
 ~
 31 0 1
-D0
+D1
 ~
 ~
 0 -1 3141
@@ -1962,7 +1962,7 @@ End of Penny Lane~
    You are at the end of Penny Lane.  The only exit appears to be south.
 ~
 31 0 1
-D2
+D3
 ~
 ~
 0 -1 3140
