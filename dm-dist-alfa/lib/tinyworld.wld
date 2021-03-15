@@ -95,7 +95,7 @@ adventure:3002/down
 0 -1 7026
 S
 #3003
-The Table~
+rahula.club~
 adventure:3003/main
 ~
 30 12 0
@@ -115,7 +115,7 @@ adventure:3003/sign
 ~
 S
 #3004
-The Monastery~
+indra.church~
 adventure:3004/main
 ~
 30 8 0
@@ -131,7 +131,7 @@ adventure:3004/east
 0 -1 3005
 S
 #3005
-The Circle~
+indra.life~
 adventure:3005/main
 ~
 30 0 1
@@ -261,7 +261,7 @@ adventure:3011/note
 ~
 S
 #3012
-20 W. Main Street~
+indra.life~
 adventure:3012/main
 ~
 30 0 1
@@ -287,7 +287,7 @@ adventure:3012/west
 0 -1 3040
 S
 #3013
-10 W. Main Street~
+life~
 adventure:3013/main
 ~
 30 0 1
@@ -313,7 +313,7 @@ adventure:3013/west
 0 -1 3012
 S
 #3014
-The Square~
+indra.city~
 adventure:3014/main
 ~
 30 0 1
@@ -343,7 +343,7 @@ adventure:3014/statue
 ~
 S
 #3015
-10 E. Main Street~
+indra.life~
 adventure:3015/main
 ~
 30 0 1
@@ -369,7 +369,7 @@ adventure:3015/west
 0 -1 3014
 S
 #3016
-20 E. Main Street~
+indra.life~
 adventure:3016/main
 ~
 30 0 1
@@ -506,7 +506,7 @@ adventure:3023/down
 0 -1 7048
 S
 #3024
-10 W. Artist Alley~
+indra.gallery~
 adventure:3024/main
 ~
 30 0 1
@@ -527,7 +527,7 @@ adventure:3024/west
 0 -1 3044
 S
 #3025
-The Spot~
+indra.cool~
 adventure:3025/main
 ~
 30 0 1
@@ -553,7 +553,7 @@ adventure:3025/west
 0 -1 3024
 S
 #3026
-10 E. Artist Alley~
+gallery~
 adventure:3026/main
 ~
 30 0 1
@@ -630,7 +630,7 @@ adventure:3029/down
 0 -1 7043
 S
 #3030
-The Recycling Center~
+indra.services~
 adventure:3030/main
 ~
 30 4 2
@@ -863,7 +863,7 @@ adventure:3043/wall
 ~
 S
 #3044
-20 W. Artist Alley~
+indra.gallery~
 adventure:3044/main
 ~
 30 0 1
@@ -884,7 +884,7 @@ adventure:3044/west
 0 -1 3043
 S
 #3045
-20 E. Artist Alley~
+indra.gallery~
 adventure:3045/main
 ~
 30 0 1
@@ -905,7 +905,7 @@ adventure:3045/west
 0 -1 3026
 S
 #3046
-30 E. Artist Alley~
+indra.gallery~
 adventure:3046/main
 ~
 30 0 1
@@ -968,7 +968,7 @@ adventure:3049/west
 0 -1 3203
 S
 #3050
-The Warehouse~
+indra.rocks~
 adventure:3050/main
 ~
 30 8 0
@@ -1315,7 +1315,7 @@ adventure:3110/sign
 ~
 S
 #3111
-Park Avenue~
+indra.work~
 adventure:3111/main
 ~
 31 0 1
@@ -1345,7 +1345,7 @@ adventure:3111/door
 ~
 S
 #3112
-W. Park Entrance~
+indra.work~
 adventure:3112/main
 ~
 31 4 1
@@ -1435,7 +1435,7 @@ adventure:3116/west
 0 -1 3115
 S
 #3117
-indra.team~
+indra.work~
 adventure:3117/main
 ~
 31 0 1
@@ -1538,7 +1538,7 @@ adventure:3120/tree
 ~
 S
 #3121
-Emerald Avenue~
+indra.care~
 adventure:3121/main
 ~
 31 0 1
@@ -1554,7 +1554,7 @@ adventure:3125/look
 0 -1 3125
 S
 #3122
-Park Road~
+indra.design~
 adventure:3122/main
 ~
 31 0 1
@@ -1575,7 +1575,7 @@ adventure:3134/look
 0 -1 3134
 S
 #3123
-indra.marketing~
+indra.art~
 adventure:3123/main
 ~
 31 0 1
@@ -1591,7 +1591,7 @@ adventure:3123/west
 0 -1 3122
 S
 #3124
-End of Elm Street~
+indra.marketing~
 adventure:3124/main
 ~
 31 0 1
@@ -1627,7 +1627,7 @@ adventure:3124/door
 ~
 S
 #3125
-Emerald Avenue~
+indra.coach~
 adventure:3125/main
 ~
 31 0 1
@@ -1643,7 +1643,7 @@ adventure:3125/south
 0 -1 3128
 S
 #3126
-Park Road~
+events~
    You are on Park Road which continues north.  The Concourse is south of
 here.
 An old two-storey house is to the east.
@@ -1694,7 +1694,7 @@ adventure:3127/east
 0 -1 3128
 S
 #3128
-The Concourse~
+indra.fit~
 adventure:3128/main
 ~
 31 0 1
@@ -1788,7 +1788,7 @@ adventure:3111/look
 0 -1 3111
 S
 #3132
-Emerald Avenue~
+indra.farm~
    You are standing on the north end of Emerald Avenue.  To the north is the
 promenade and to the east is the small street Penny Lane.
 ~
@@ -1870,7 +1870,7 @@ adventure:3120/look~
 0 -1 3120
 S
 #3137
-The Waiting Room~
+indra.work~
    You are standing in the waiting room at the town hall.  Wooden chairs stand
 along the walls and a long desk with a typewriter is placed in the middle of
 the room.
@@ -1903,7 +1903,7 @@ a Cray II look like a laptop.
 ~
 S
 #3138
-indra.ninja~
+indra.work~
    You are in the not very big office of the Mayor of Amaravati.  A large and
 polished but completely empty desk is standing in front of an armchair that
 looks so comfortable that it most of all resembles a bed with the head end
@@ -1928,7 +1928,7 @@ that there wouldn't be room for the students too, though.
 ~
 S
 #3139
-Penny Lane~
+indra.farm~
    You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
 continues in eastward direction.  To the north is a small shrine dedicated to
 Eru the creator.
@@ -1944,7 +1944,7 @@ D3
 0 -1 3132
 S
 #3140
-Penny Lane~
+indra.farm~
    You are on Penny Lane.  The narrow road continues north and west.
 ~
 31 0 1
@@ -1958,7 +1958,7 @@ D3
 0 -1 3139
 S
 #3141
-End of Penny Lane~
+indra.farm~
    You are at the end of Penny Lane.  The only exit appears to be south.
 ~
 31 0 1
