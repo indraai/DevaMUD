@@ -1492,11 +1492,11 @@ adventure:3119/north
 ~
 ~
 0 -1 3117
-D3
-adventure:3119/west
+D2
+adventure:3136/look
 ~
 ~
-0 -1 3133
+0 -1 3136
 S
 #3120
 Road Crossing~
@@ -1855,16 +1855,16 @@ adventure:3135/wall
 S
 #3136
 Park Road~
-   You are at a bend on Park Road.  To the south the road goes on and to the
-west is the Road Crossing.
+adventure:3136/main
 ~
 31 0 1
-D2
+D0
+adventure:3119/look
 ~
 ~
-0 -1 3122
+0 -1 3119
 D3
-~
+adventure:3120/look~
 ~
 0 -1 3120
 S
