@@ -1844,8 +1844,8 @@ adventure:3135/east
 ~
 ~
 0 -1 3120
-D2
-~
+D3
+adventure:3303/look~
 portal wall~
 2 3307 3303
 E
@@ -2196,10 +2196,7 @@ A large double-bed, with satin sheets.
 S
 #3303
 Entrance to Gimli's tunnels~
-This is a rather small chamber, dug right out off the cliffground.  It is
-dimly lit by some phosphorescent parts of the rock in walls and ceiling.
-A statue stands on a pedestal and there is an opening here, leading into the
-deeper parts of the tunnels.
+adventure:3303/main
 ~
 33 8 0
 D5
