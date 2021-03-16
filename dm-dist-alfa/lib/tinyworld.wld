@@ -1169,7 +1169,7 @@ adventure:3102/west
 0 -1 3101
 S
 #3103
-3103:indra.lovet~
+3103:indra.love~
 adventure:3103/main
 ~
 31 0 1
@@ -1190,7 +1190,7 @@ adventure:3102/west
 0 -1 3102
 S
 #3104
-3104:indra.ninja~
+3104:thegame93~
 adventure:3104/main
 ~
 31 0 1
@@ -1715,13 +1715,13 @@ adventure:3128/west
 0 -1 3127
 S
 #3129
-3129:indra.ninja~
+3129:thegame93~
    The Concourse continues both east and west.  Park Road is north of here
 and an iron grate leads south to the graveyard.
 A bronze sign has been set on the wall next to the grate.
 ~
 31 0 1
-D0
+D50
 ~
 ~
 0 -1 3126
@@ -1753,7 +1753,7 @@ The sign says :-
 ~
 S
 #3130
-3130:indra.ninja~
+3130:thegame93~
    You are at the southeast corner of the city wall.  The Concourse leads
 both north and west.
 ~
