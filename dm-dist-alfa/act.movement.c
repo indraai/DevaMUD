@@ -107,7 +107,8 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 	}
 
 	// added do exits so it will auto trigger exits on move
-	do_exits(ch,"\0",15);
+	do_where(ch,"",15);
+	do_exits(ch,"",15);
 
 	return(1);
 }
