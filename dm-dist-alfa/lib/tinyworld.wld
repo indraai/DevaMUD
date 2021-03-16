@@ -15,12 +15,12 @@ adventure:1/main
 ~
 0 8 1
 D4
-adventure:1/up
+adventure:0/look
 ~
 ~
 0 -1 0
 D5
-adventure:1/down
+adventure:2/look
 ~
 ~
 0 -1 2
@@ -31,12 +31,12 @@ adventure:2/main
 ~
 0 8 1
 D4
-adventure:2/up
+adventure:1/look
 ~
 ~
 0 -1 1
 D5
-adventure:2/down
+adventure:3001/look
 ~
 ~
 0 -1 3001
