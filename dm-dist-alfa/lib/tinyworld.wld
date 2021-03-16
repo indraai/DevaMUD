@@ -1320,28 +1320,28 @@ adventure:3111/main
 ~
 31 0 1
 D0
-adventure:3111/north
+adventure:3131/north
 ~
 ~
 0 -1 3131
 D1
-adventure:3111/east
+adventure:3112/look
 ~
 ~
 0 -1 3112
 D2
-adventure:3111/south
+adventure:3118/look
 ~
 ~
 0 -1 3118
 D3
-adventure:3111/west
+adventure:3110/look
 ~
 door~
 1 -1 3110
 E
 building door sign~
-adventure:3111/door
+adventure:3110/door
 ~
 S
 #3112

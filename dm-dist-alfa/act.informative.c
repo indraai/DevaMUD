@@ -701,7 +701,7 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 		"down"
 	};
 
-	*buf = '\n::exits::\n\r';
+	*buf = '\0';
 
 	for (door = 0; door <= 5; door++)
 		if (EXIT(ch, door))
