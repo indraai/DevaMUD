@@ -4,7 +4,7 @@ adventure:0/main
 ~
 0 8 1
 D5
-adventure:0/down
+adventure:1/look
 ~
 ~
 0 -1 1
@@ -65,16 +65,16 @@ adventure:3001/main
 ~
 30 12 0
 D0
-adventure:3001/north~
+adventure:3054/look~
 ~
 0 -1 3054
 D4
-adventure:3001/up
+adventure:2/look
 ~
 ~
 0 -1 2
 D5
-adventure:3001/down~
+adventure:3005/look~
 ~
 0 -1 3005
 S
