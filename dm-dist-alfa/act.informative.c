@@ -713,7 +713,6 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 					sprintf(buf + strlen(buf), "\nexit[%s]: %s\n\r", exits[door],
 						world[EXIT(ch, door)->to_room].name);
 
-	do_where(ch,"",15);
 	if (*buf)
 		send_to_char(buf, ch);
 	else

@@ -276,6 +276,7 @@ void do_goto(struct char_data *ch, char *argument, int cmd)
 	do_look(ch, "",15);
 
 	// added do exits so it will auto trigger
+	do_where(ch,"",15);
 	do_exits(ch,"",15);
 }
 
