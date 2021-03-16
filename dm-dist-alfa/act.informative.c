@@ -714,7 +714,7 @@ void do_exits(struct char_data *ch, char *argument, int cmd)
 						world[EXIT(ch, door)->to_room].name);
 
 	if (*buf)
-		send_to_char(buf, ch);
+		send_to_char("\n::exits::\n\r" + buf, ch);
 	else
 		send_to_char("\nexit: None.\n\r", ch);
 }
