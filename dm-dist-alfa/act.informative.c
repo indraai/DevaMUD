@@ -1132,14 +1132,14 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			    (world[i->in_room].zone == world[ch->in_room].zone))) {
 
 				if (IS_NPC(i))
-					sprintf(buf, "where[%s]: %s ", i->player.short_descr,
+					sprintf(buf, "map[%s]: %s ", i->player.short_descr,
 						world[i->in_room].name);
 				else
-					sprintf(buf, "where[%s]: %s ", i->player.name,
+					sprintf(buf, "map[%s]: %s ", i->player.name,
 						world[i->in_room].name);
 
 				if (GET_LEVEL(ch) >= 21)
-					sprintf(buf2,"[%d]\n\r", world[i->in_room].number);
+					sprintf(buf2,"map[%d]\n\r", world[i->in_room].number);
 				else
 					strcpy(buf2, "\n\r");
 
