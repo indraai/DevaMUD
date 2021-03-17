@@ -2859,23 +2859,21 @@ The gravel path continues eastwards towards a building of some sort.
 0 -1 3604
 D5
 ~
-tomb stone~
+water reservoir~
 1 -1 3619
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservoir~
+It is a large rectangular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3619
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservoir~
+Water Reservoir 3619
 ~
 36 8 1
 D4
 ~
-tomb stone~
+water reservoir~
 1 -1 3618
 S
 #3638
