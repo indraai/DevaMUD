@@ -309,17 +309,8 @@ O 0 3322 1 3307         Mapmaker's Coke Machine.
 P 1 3323 3 3322         Mapmaker's Can of Coke.
 *
 S
-#34
-The Graveyard~
-3499 40 2
-*
-D 0 3404 2 1          Close Chapel door from outside
-D 0 3405 0 1          Close Chapel door from inside
-O 0 3400 1 3405       Candlestick in Chapel
-*
-S
 #36
-The Graveyard~
+The Garden~
 3699 40 2
 *
 D 0 3604 2 1          Close Chapel door from outside

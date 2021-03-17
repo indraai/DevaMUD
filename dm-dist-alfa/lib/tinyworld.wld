@@ -1717,7 +1717,7 @@ S
 #3129
 3129:thegame93~
    The Concourse continues both east and west.  Park Road is north of here
-and an iron grate leads south to the graveyard.
+and an iron grate leads south to the garden.
 A bronze sign has been set on the wall next to the grate.
 ~
 31 0 1
@@ -1730,7 +1730,7 @@ D1
 ~
 0 -1 3130
 D2
-Through the solid iron bars you see the graveyard.
+Through the solid iron bars you see the garden.
 ~
 grate~
 2 3121 3600
@@ -2325,113 +2325,6 @@ D1
 ~
 0 -1 3307
 S
-#3400
-A Gravel Road on the Graveyard~
-  You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.  An iron
-grate is to the north.
-~
-34 0 1
-D0
-Through the solid iron bars you see the Concourse.
-~
-grate~
-2 3121 3129
-D2
-The gravel road continues southwards.
-~
-~
-0 -1 3401
-S
-#3401
-A Gravel Road on the Graveyard~
-  You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
-~
-34 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3400
-D2
-The gravel road continues southwards.
-~
-~
-0 -1 3402
-S
-#3402
-A Gravel Road on the Graveyard~
-  You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
-~
-34 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3401
-D2
-The gravel road continues southwards.
-~
-~
-0 -1 3403
-S
-#3403
-A Gravel Road on the Graveyard~
-  You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
-~
-34 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3402
-D2
-The gravel road continues southwards to an open space before a small
-building.
-~
-~
-0 -1 3404
-S
-#3404
-In front of the Chapel~
-  You are on an open space before a small chapel.  A gravel road leads north
-through the graveyard and the chapel entrance is to the south.
-~
-34 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3403
-D2
-The chapel door is made of dark wood.
-~
-door~
-1 -1 3405
-S
-#3405
-Inside the Chapel~
-   You are in a small, dark chapel.  The dark brown glass in the tiny windows
-do not let much light through.  A few rows of worn wooden benches stand here.
-~
-34 0 1
-D0
-The chapel door is made of dark wood.
-~
-door~
-1 -1 3404
-E
-glass windows~
-The windows must be meant to be dark.  At least they are completely clean.
-~
-E
-benches rows~
-The benches are not of the comfortable kind.
-~
-S
 #3500
 The Plains~
    You are standing on the plains. This is a vast desolate place where the
@@ -2634,9 +2527,9 @@ The benches are not of the comfortable kind.
 ~
 S
 #3606
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  An old tomb is here.
+the graveyard.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2668,9 +2561,9 @@ water reservoir~
 1 -1 3606
 S
 #3608
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  An old tomb is here.
+the graveyard.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2703,9 +2596,9 @@ water reservoir~
 1 -1 3608
 S
 #3610
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads east and south.  An old tomb is here.
+the graveyard.  The path leads east and south.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2738,7 +2631,7 @@ water reservoir~
 1 -1 3610
 S
 #3612
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
 the graveyard.  The path leads north and east.  A small shed is to the west.
 ~
@@ -2771,9 +2664,9 @@ door~
 1 -1 3612
 S
 #3614
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads south and west.  An old tomb is here.
+the graveyard.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
 D2
@@ -2806,9 +2699,9 @@ water reservoir~
 1 -1 3614
 S
 #3616
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and south.  An old tomb is here.
+the graveyard.  The path leads north and south.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2842,9 +2735,9 @@ water reservoir~
 1 -1 3616
 S
 #3618
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and east.  An old tomb is here.
+the graveyard.  The path leads north and east.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2863,7 +2756,7 @@ water reservoir~
 1 -1 3619
 E
 water reservoir~
-It is a large rectangular slab of grey stone that has been placed face up in the ground.
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3619
@@ -2877,9 +2770,9 @@ water reservoir~
 1 -1 3618
 S
 #3638
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  An old tomb is here.
+the graveyard.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2894,29 +2787,27 @@ The gravel path continues westwards towards a building of some sort.
 0 -1 3604
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3639
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservoior~
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3639
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservoir~
+Water Reservoir 3669
 ~
-36 8 1
+36 8 7
 D4
 ~
-tomb stone~
+water reservior~
 1 -1 3638
 S
 #3640
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and south.  An old tomb is here.
+the graveyard.  The path leads north and south.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2931,29 +2822,28 @@ The gravel path continues southwards.
 0 -1 3638
 D5
 ~
-tomb stone~
+water reservoior~
 1 -1 3641
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservior~
+It is a large circular slab of grey stone that has been placed face
+up in the ground.
 ~
 S
 #3641
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior~
+Water Reservior 3641
 ~
-36 8 1
+36 8 7
 D4
 ~
-tomb stone~
+waer reservior~
 1 -1 3640
 S
 #3642
-A Gravel Path on the Graveyard~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads east and south.  An old tomb is here.
+Garden Path~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads east and south.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2968,29 +2858,27 @@ The gravel path continues southwards.
 0 -1 3640
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3643
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservior~
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3643
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior~
+Water Reservior 3643
 ~
-36 8 1
+36 8 7
 D4
 ~
-tomb stone~
+water reservior~
 1 -1 3642
 S
 #3644
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  An old tomb is here.
+the graveyard.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -3005,29 +2893,27 @@ The gravel path continues westwards.
 0 -1 3642
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3645
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservior~
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3645
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior~
+Water Reservior 3645
 ~
-36 8 1
+36 8 7
 D4
 ~
-tomb stone~
+water reservior~
 1 -1 3644
 S
 #3646
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads south and west.  An old tomb is here.
+the garden.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
 D2
@@ -3042,29 +2928,27 @@ The gravel path continues westwards.
 0 -1 3648
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3647
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservior~
+It is a large circular slab of dark grey stone that has been placed face up in the ground.
 ~
 S
 #3647
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior~
+Water Reservior 3647
 ~
-36 8 1
+36 8 7
 D4
 ~
 tomb stone~
 1 -1 3646
 S
 #3648
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and east.  An old tomb is here.
+the garden.  The path leads north and east.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -3079,29 +2963,27 @@ The gravel path continues eastwards.
 0 -1 3646
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3649
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
+water reservior~
+It is a large circular slab of dark grey stone that has been placed face up in the ground.
 ~
 S
 #3649
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior~
+Water Reservior 3649
 ~
-36 8 1
+36 8 7
 D4
 ~
 tomb stone~
 1 -1 3648
 S
 #3650
-A Gravel Path on the Graveyard~
+Garden Path~
   You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads south and west.  An old tomb is here.
+the garden.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
 D2
