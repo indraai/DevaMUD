@@ -2651,23 +2651,20 @@ The gravel path continues southwards.
 0 -1 3608
 D5
 ~
-tomb stone~
+water reservior~
 1 -1 3607
 E
-tomb stone~
-It is a large rectangular slab of dark grey stone that has been placed face
-up in the ground.  The name has been erased by the ravages of time.
-~
+water reservior~
+It is a large circular slab of grey stone that has been placed face up in the ground.  ~
 S
 #3607
-In a dusty Tomb~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservoir~
+Garden Water Reservoir 3607
 ~
-36 8 1
+36 8 7
 D4
 ~
-tomb stone~
+water reservoir~
 1 -1 3606
 S
 #3608
@@ -3142,7 +3139,7 @@ Garden Water Reservoir 3651
 36 8 7
 D4
 ~
-tomb stone~
+water reservoir~
 1 -1 3650
 S
 #3900
