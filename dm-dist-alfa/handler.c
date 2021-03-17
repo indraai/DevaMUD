@@ -1021,7 +1021,8 @@ void extract_char(struct char_data *ch)
 
 	if (ch->desc) {
 		ch->desc->connected = CON_SLCT;
-		SEND_TO_Q(MENU, ch->desc);
+		char_to_room(ch, real_room(0));
+		// SEND_TO_Q(MENU, ch->desc);
 	}
 }
 
