@@ -42,13 +42,13 @@ adventure:3001/look
 0 -1 3001
 S
 #1200
-The Lounge~
+1200:indra.house~
 adventure:1200/main
 ~
 0 520 0
 S
 #1201
-1201:indra.guru~
+1201:indra.house~
 adventure:1201/main
 ~
 0 520 0
@@ -84,12 +84,12 @@ adventure:3002/main
 ~
 30 12 0
 D1
-adventure:3002/east
+adventure:3003/look
 ~
 ~
 0 -1 3003
 D5
-adventure:3002/down
+adventure:7026/look
 ~
 ~
 0 -1 7026
@@ -100,12 +100,12 @@ adventure:3003/main
 ~
 30 12 0
 D2
-adventure:3003/south
+adventure:3004/look
 ~
 ~
 0 -1 3004
 D3
-adventure:3003/west
+adventure:3002/look
 ~
 ~
 0 -1 3002
