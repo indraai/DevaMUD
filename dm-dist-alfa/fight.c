@@ -82,7 +82,7 @@ void load_messages(void)
 	}
 
 	for (i = 0; i < MAX_MESSAGES; i++)
-	{ 
+	{
 		fight_messages[i].a_type = 0;
 		fight_messages[i].number_of_attacks=0;
 		fight_messages[i].msg = 0;
@@ -169,7 +169,7 @@ void stop_fighting(struct char_data *ch)
 	   combat_list = ch->next_fighting;
 	else
 	{
-		for (tmp = combat_list; tmp && (tmp->next_fighting != ch); 
+		for (tmp = combat_list; tmp && (tmp->next_fighting != ch);
 			tmp = tmp->next_fighting);
 		if (!tmp) {
 			slog("Char fighting not found Error (fight.c, stop_fighting)");
@@ -189,10 +189,10 @@ void stop_fighting(struct char_data *ch)
 #define MAX_NPC_CORPSE_TIME 5
 #define MAX_PC_CORPSE_TIME 10
 
-void make_corpse(struct char_data *ch)
+void make_tackled(struct char_data *ch)
 {
 	struct obj_data *corpse, *o;
-	struct obj_data *money;	
+	struct obj_data *money;
 	char buf[MAX_STRING_LENGTH];
 	int i;
 
@@ -201,16 +201,16 @@ void make_corpse(struct char_data *ch)
 	CREATE(corpse, struct obj_data, 1);
 	clear_object(corpse);
 
-	
+
 	corpse->item_number = NOWHERE;
 	corpse->in_room = NOWHERE;
 	corpse->name = strdup("corpse");
 
-	sprintf(buf, "Corpse of %s is lying here.", 
+	sprintf(buf, "%s has been tackled.",
 	  (IS_NPC(ch) ? ch->player.short_descr : GET_NAME(ch)));
 	corpse->description = strdup(buf);
 
-	sprintf(buf, "Corpse of %s",
+	sprintf(buf, "%s is a victim of your tackle.",
 	  (IS_NPC(ch) ? ch->player.short_descr : GET_NAME(ch)));
 	corpse->short_description = strdup(buf);
 
@@ -277,13 +277,13 @@ void death_cry(struct char_data *ch)
 	struct char_data *victim;
 	int door, was_in;
 
-	act("Your blood freezes as you hear $ns death cry.", FALSE, ch,0,0,TO_ROOM);
+	act("Your hear $ns being tackled.", FALSE, ch,0,0,TO_ROOM);
 	was_in = ch->in_room;
 
 	for (door = 0; door <= 5; door++) {
 		if (CAN_GO(ch, door))	{
 			ch->in_room = world[was_in].dir_option[door]->to_room;
-			act("Your blood freezes as you hear someones death cry.",FALSE,ch,0,0,TO_ROOM);
+			act("Your hearing someone getting tackled.",FALSE,ch,0,0,TO_ROOM);
 			ch->in_room = was_in;
 		}
 	}
@@ -291,16 +291,17 @@ void death_cry(struct char_data *ch)
 
 
 
-void raw_kill(struct char_data *ch)
+void raw_tackle(struct char_data *ch)
 {
 	if (ch->specials.fighting)
 		stop_fighting(ch);
 
 	death_cry(ch);
 
-	make_corpse(ch);
-	affect_total(ch); 
-	extract_char(ch);
+	make_tackled(ch);
+	affect_total(ch);
+  /*extract_char(ch);*/
+  char_to_room(ch, real_room(0));
 }
 
 
@@ -308,7 +309,7 @@ void raw_kill(struct char_data *ch)
 void die(struct char_data *ch)
 {
 	gain_exp(ch, -(GET_EXP(ch)/2));
-	raw_kill(ch);
+	raw_tackle(ch);
 }
 
 
@@ -367,7 +368,7 @@ char *replace_string(char *str, char *weapon)
 	for (; *str; str++) {
 		if (*str == '#') {
 			switch(*(++str)) {
-				case 'W' : 
+				case 'W' :
 					for (; *weapon; *(cp++) = *(weapon++));
 					break;
 				default :
@@ -402,9 +403,9 @@ void dam_message(int dam, struct char_data *ch, struct char_data *victim,
 	  "You miss $N with your #W.",
 	  "$n miss you with $s #W." },
 
-   {"$n tickles $N with $s #W.",                          /*  1.. 2  */
-    "You tickle $N as you #W $M.",
-    "$n tickle you as $e #W you." },
+   {"$n tackles $N with $s #W.",                          /*  1.. 2  */
+    "You tackle $N as you #W $M.",
+    "$n tackles you as $e #W you." },
 
    {"$n barely #W $N.",                                   /*  3.. 4  */
     "You barely #W $N.",
@@ -412,7 +413,7 @@ void dam_message(int dam, struct char_data *ch, struct char_data *victim,
 
 	 {"$n #W $N.",                                          /*  5.. 6  */
     "You #W $N.",
-    "$n #W you."}, 
+    "$n #W you."},
 
 	 {"$n #W $N hard.",                                     /*  7..10  */
 	  "You #W $N hard.",
@@ -426,9 +427,9 @@ void dam_message(int dam, struct char_data *ch, struct char_data *victim,
 	  "You #W $N extremely hard.",
 	  "$n #W you extremely hard."},
 
-	 {"$n massacre $N to small fragments with $s #W.",     /* > 20    */
-	  "You massacre $N to small fragments with your #W.",
-	  "$n massacre you to small fragments with $s #W."}
+	 {"$n sends $N to Garuda with $s #W.",     /* > 20    */
+	  "You send $N to Garudas with your #W.",
+	  "$n sends you to Garuda with $s #W."}
 	};
 
 	w_type -= TYPE_HIT;   /* Change to base of table with text */
@@ -509,7 +510,7 @@ void damage(struct char_data *ch, struct char_data *victim,
 
 	if ((GET_LEVEL(victim)>20) && !IS_NPC(victim)) /* You can't damage an immortal! */
 		dam=0;
-		
+
 	if (victim != ch) {
 		if (GET_POS(victim) > POSITION_STUNNED) {
 			if (!(victim->specials.fighting))
@@ -535,7 +536,7 @@ void damage(struct char_data *ch, struct char_data *victim,
 
 	if (victim->master == ch)
 		stop_follower(victim);
-			
+
 	if (IS_AFFECTED(ch, AFF_INVISIBLE))
 		appear(ch);
 
@@ -592,20 +593,20 @@ void damage(struct char_data *ch, struct char_data *victim,
 	}
 	switch (GET_POS(victim)) {
 		case POSITION_MORTALLYW:
-			act("$n is mortally wounded, and will die soon, if not aided.", TRUE, victim, 0, 0, TO_ROOM);
-			act("You are mortally wounded, and will die soon, if not aided.", FALSE, victim, 0, 0, TO_CHAR);
+			act("$n is tackled, and will see Garuda, if not aided.", TRUE, victim, 0, 0, TO_ROOM);
+			act("You are tackled, and will see Garuda soon, if not aided.", FALSE, victim, 0, 0, TO_CHAR);
 			break;
 		case POSITION_INCAP:
-			act("$n is incapacitated and will slowly die, if not aided.", TRUE, victim, 0, 0, TO_ROOM);
-			act("You are incapacitated an will slowly die, if not aided.", FALSE, victim, 0, 0, TO_CHAR);
+			act("$n is on their way to Garuda, if not aided.", TRUE, victim, 0, 0, TO_ROOM);
+			act("You are on your way to Garuda, if not aided.", FALSE, victim, 0, 0, TO_CHAR);
 			break;
 		case POSITION_STUNNED:
-			act("$n is stunned, but will probably regain conscience again.", TRUE, victim, 0, 0, TO_ROOM);
-			act("You're stunned, but will probably regain conscience again.", FALSE, victim, 0, 0, TO_CHAR);
+			act("$n is seeing stars.", TRUE, victim, 0, 0, TO_ROOM);
+			act("You're seeing stars.", FALSE, victim, 0, 0, TO_CHAR);
 			break;
 		case POSITION_DEAD:
-			act("$n is dead! R.I.P.", TRUE, victim, 0, 0, TO_ROOM);
-			act("You are dead!  Sorry...", FALSE, victim, 0, 0, TO_CHAR);
+			act("$n went to Garuda.", TRUE, victim, 0, 0, TO_ROOM);
+			act("You are on your way to Garuda!", FALSE, victim, 0, 0, TO_CHAR);
 			break;
 
 		default:  /* >= POSITION SLEEPING */
@@ -617,12 +618,12 @@ void damage(struct char_data *ch, struct char_data *victim,
 
 			if (GET_HIT(victim) < (max_hit/5)) {
 
-				act("You wish that your wounds would stop BLEEDING that much!",FALSE,victim,0,0,TO_CHAR);
+				act("You wish that your tackle was stronger!",FALSE,victim,0,0,TO_CHAR);
 				if (IS_NPC(victim))
 					if (IS_SET(victim->specials.act, ACT_WIMPY))
 						do_flee(victim, "", 0);
 			}
-			break;		
+			break;
 	}
 
 	if (!IS_NPC(victim) && !(victim->desc)) {
@@ -659,7 +660,7 @@ void damage(struct char_data *ch, struct char_data *victim,
 				change_alignment(ch, victim);
 			}
 		if (!IS_NPC(victim)) {
-			sprintf(buf, "%s killed by %s at %s",
+			sprintf(buf, "%s tackled by %s at %s",
 				GET_NAME(victim),
 				(IS_NPC(ch) ? ch->player.short_descr : GET_NAME(ch)),
 				world[victim->in_room].name);

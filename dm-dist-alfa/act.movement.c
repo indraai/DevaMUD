@@ -102,7 +102,8 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 
 	if (IS_SET(world[ch->in_room].room_flags, DEATH) && GET_LEVEL(ch) < 21) {
 		death_cry(ch);
-		extract_char(ch);
+		char_to_room(ch, real_room(0));
+		/*extract_char(ch);*/
 		return(-1);
 	}
 

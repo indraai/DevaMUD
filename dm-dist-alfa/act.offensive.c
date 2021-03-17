@@ -22,7 +22,7 @@ extern struct descriptor_data *descriptor_list;
 extern struct room_data *world;
 
 
-void raw_kill(struct char_data *ch);
+void raw_tackle(struct char_data *ch);
 void stop_follower(struct char_data *ch);
 
 void do_hit(struct char_data *ch, char *argument, int cmd)
@@ -63,7 +63,7 @@ void do_hit(struct char_data *ch, char *argument, int cmd)
 
 
 
-void do_kill(struct char_data *ch, char *argument, int cmd)
+void do_tackle(struct char_data *ch, char *argument, int cmd)
 {
 	static char arg[MAX_STRING_LENGTH];
 	char buf[70];
@@ -78,7 +78,7 @@ void do_kill(struct char_data *ch, char *argument, int cmd)
 
 	if (!*arg)
 	{
-		send_to_char("Kill who?\n\r", ch);
+		send_to_char("Tackle who?\n\r", ch);
 	}
 	else
 	{
@@ -88,10 +88,10 @@ void do_kill(struct char_data *ch, char *argument, int cmd)
    		if (ch == victim)
       	send_to_char("Your mother would be so sad.. :(\n\r", ch);
    		else {
-				act("You chop $M to pieces! Ah! The blood!", FALSE, ch, 0, victim, TO_CHAR);
-				act("$N chops you to pieces!", FALSE, victim, 0, ch, TO_CHAR);
-				act("$n brutally slays $N", FALSE, ch, 0, victim, TO_NOTVICT);
-				raw_kill(victim);
+				act("You tackles $M to silly! Oh the humor!", FALSE, ch, 0, victim, TO_CHAR);
+				act("$N tackles you dizzy!", FALSE, victim, 0, ch, TO_CHAR);
+				act("$n tackles $N like a true hero", FALSE, ch, 0, victim, TO_NOTVICT);
+				raw_tackle(victim);
 			}
 	}
 }
@@ -257,7 +257,7 @@ void do_flee(struct char_data *ch, char *argument, int cmd)
 		if (CAN_GO(ch, attempt) &&
 		   !IS_SET(world[EXIT(ch, attempt)->to_room].room_flags, DEATH)) {
 			act("$n panics, and attempts to flee.", TRUE, ch, 0, 0, TO_ROOM);
-			if ((die = do_simple_move(ch, attempt, FALSE))== 1) { 
+			if ((die = do_simple_move(ch, attempt, FALSE))== 1) {
               /* The escape has succeded */
 				loose = GET_MAX_HIT(ch->specials.fighting)-GET_HIT(ch->specials.fighting);
 				loose *= GET_LEVEL(ch->specials.fighting);
@@ -435,4 +435,3 @@ void do_kick(struct char_data *ch, char *argument, int cmd)
 	}
 	WAIT_STATE(ch, PULSE_VIOLENCE*3);
 }
-

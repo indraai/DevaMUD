@@ -62,7 +62,7 @@ void do_who(struct char_data *ch, char *argument, int cmd);
 void do_emote(struct char_data *ch, char *argument, int cmd);
 void do_echo(struct char_data *ch, char *argument, int cmd);
 void do_trans(struct char_data *ch, char *argument, int cmd);
-void do_kill(struct char_data *ch, char *argument, int cmd);
+void do_tackle(struct char_data *ch, char *argument, int cmd);
 void do_stand(struct char_data *ch, char *argument, int cmd);
 void do_sit(struct char_data *ch, char *argument, int cmd);
 void do_rest(struct char_data *ch, char *argument, int cmd);
@@ -743,7 +743,7 @@ void assign_command_pointers ( void )
 	COMMANDO(22,POSITION_STANDING,do_action,0);
 	COMMANDO(23,POSITION_RESTING,do_action,0);
 	COMMANDO(24,POSITION_STANDING,do_action,0);
-	COMMANDO(25,POSITION_FIGHTING,do_kill,0);
+	COMMANDO(25,POSITION_FIGHTING,do_tackle,0);
 	COMMANDO(26,POSITION_RESTING,do_action,0);
 	COMMANDO(27,POSITION_RESTING,do_action,0);
 	COMMANDO(28,POSITION_RESTING,do_action,0);
