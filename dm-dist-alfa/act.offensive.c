@@ -88,9 +88,9 @@ void do_tackle(struct char_data *ch, char *argument, int cmd)
    		if (ch == victim)
       	send_to_char("Your mother would be so sad.. :(\n\r", ch);
    		else {
-				act("You tackles $M to silly! Oh the humor!", FALSE, ch, 0, victim, TO_CHAR);
-				act("$N tackles you dizzy!", FALSE, victim, 0, ch, TO_CHAR);
-				act("$n tackles $N like a true hero", FALSE, ch, 0, victim, TO_NOTVICT);
+				act("You tackle $M silly! Oh the humor!", FALSE, ch, 0, victim, TO_CHAR);
+				act("$N tackles you dizzy! Poor baby!", FALSE, victim, 0, ch, TO_CHAR);
+				act("$n tackles $N like a True Hero", FALSE, ch, 0, victim, TO_NOTVICT);
 				raw_tackle(victim);
 			}
 	}
