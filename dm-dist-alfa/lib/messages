@@ -280,7 +280,7 @@ Suffer god victim..~
 Suffer god room..~
 M
  56
-$N killed.~
+$N tackled.~
 You are burned to ash, as $n breathes on you.~
 $n makes $N to ash.~
 $N missed.~
@@ -294,7 +294,7 @@ $n warms you.~
 $n warms $N.~
 M
  57
-$N killed.~
+$N tackled.~
 You die from the gas $n breathes on you.~
 $n kills $N with a gas breath.~
 $N missed.~
@@ -308,7 +308,7 @@ $n want's to gas you, but can't.~
 $n tries to gas $N, but can't.~
 M
  58
-$N killed.~
+$N tackled.~
 You are frosen to ice, as $n breathes on you.~
 $n makes $N to ice.~
 $N missed.~
@@ -322,7 +322,7 @@ $n supplies you with airconditioning.~
 $n supplies $N with airconditioning.~
 M
  59
-$N killed.~
+$N tackled.~
 You are corroded to nothing, as $n breathes on you.~
 $n corrodes $N to nothing.~
 $N missed.~
@@ -336,8 +336,8 @@ $n helps you clean your hands with a little acid.~
 $n helps $N cleaning.~
 M
  60
-$N killed.~
-You are killed by $n lightning breath.~
+$N tackled.~
+You are tackled by $n lightning breath.~
 $n killes $N with a lightning breath.~
 $N missed.~
 $n breathes lightning at you, but you avoids it.~
