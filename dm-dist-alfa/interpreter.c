@@ -187,7 +187,7 @@ char *command[]=
   "bounce",
   "smile",
   "dance",
-  "kill",
+  "tackle",
   "cackle",
   "laugh",
   "giggle",
@@ -355,7 +355,6 @@ char *command[]=
   "snarl",
   "spank",       /* 191 */
   "steam",
-  "tackle",
   "taunt",
   "think",
   "whine",
