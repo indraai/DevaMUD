@@ -1289,19 +1289,6 @@ can coke~
 It is a small red and white can that has 'Keep MudLand tidy' written on its
 side and the name Mapmaker printed on its bottom.
 ~
-#3400
-candlestick~
-a candlestick~
-A pewter candlestick is standing here.~
-~
-1 0 16385
-0 0 24 0
-5 150 50
-E
-candlestick~
-It is a rather old-looking three-armed candlestick made from pewter.  Its
-candles are a yellowish white colour.
-~
 #3600
 candlestick~
 a candlestick~
