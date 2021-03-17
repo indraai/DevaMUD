@@ -1746,10 +1746,9 @@ E
 sign~
 The sign says :-
 
-                          Graveyard of Amaravati
+                          Garden of Amaravati
 
-    Many brave adventurers have found their final resting place here.
-          Please show respect and do not desecrate their tombs.
+    Peaful and breezy feeling
 ~
 S
 #3130
@@ -2400,10 +2399,9 @@ adventure:3503/west
 0 0 3053
 S
 #3600
-A Gravel Road on the Graveyard~
+Garden Path~
   You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.  An iron
-grate is to the north and narrow gravel paths lead east and west.
+garden.  On both sides of the road grow evergreen trees.  A grate is to the north and narrow gravel paths lead east and west.
 ~
 36 0 1
 D0
@@ -2428,9 +2426,9 @@ The gravel path leads westwards between the dark evergreen trees.
 0 -1 3606
 S
 #3601
-A Gravel Road on the Graveyard~
+Garden Path~
   You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
+garden.  On both sides of the road grow evergreen trees.
 ~
 36 0 1
 D0
@@ -2445,9 +2443,9 @@ The gravel road continues southwards.
 0 -1 3602
 S
 #3602
-A Gravel Road on the Graveyard~
+Garden Path~
   You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
+garden.  On both sides of the road grow evergreen trees.
 ~
 36 0 1
 D0
@@ -2462,9 +2460,9 @@ The gravel road continues southwards.
 0 -1 3603
 S
 #3603
-A Gravel Road on the Graveyard~
+Garden Path~
   You are on a well-kept gravel road that leads north-south through the
-graveyard.  On both sides of the road grow dark evergreen trees.
+garden.  On both sides of the road grow dark evergreen trees.
 ~
 36 0 1
 D0
@@ -2480,9 +2478,8 @@ building.
 0 -1 3604
 S
 #3604
-In front of the Chapel~
-  You are on an open space before a small chapel.  A gravel road leads north
-through the graveyard and the chapel entrance is to the south.
+In front of the Observatory~
+In front of the Observatory
 ~
 36 0 1
 D0
@@ -2496,40 +2493,39 @@ The gravel path leads eastwards between the dark evergreen trees.
 ~
 0 -1 3638
 D2
-The chapel door is made of dark wood.
+The observatory door is made of dark glass.
 ~
 door~
 1 -1 3605
 D3
-The gravel path leads westwards between the dark evergreen trees.
+The gravel path leads westwards between the evergreen trees.
 ~
 ~
 0 -1 3618
 S
 #3605
-Inside the Chapel~
-   You are in a small, dark chapel.  The dark brown glass in the tiny windows
-do not let much light through.  A few rows of worn wooden benches stand here.
+Inside the Observatory~
+Inside 3605
 ~
 36 8 1
 D0
-The chapel door is made of dark wood.
+The Observatory door is made of glass
 ~
 door~
 1 -1 3604
 E
 glass windows~
-The windows must be meant to be dark.  At least they are completely clean.
+The windows must be meant to let the light in.  They are completely clean.
 ~
 E
 benches rows~
-The benches are not of the comfortable kind.
+The benches are of the comfortable kind.
 ~
 S
 #3606
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2562,8 +2558,8 @@ water reservoir~
 S
 #3608
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  A water reservior is here.
+  You are on a gravel path winding its way between evergreen trees on
+the garden.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2582,12 +2578,12 @@ water reservior~
 1 -1 3609
 E
 water reservoir~
-It is a large rectangular slab of grey stone that has been placed face up in the ground.
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3609
 Water Reservoir~
-Water Resevoir 3609
+Water Reservoir 3609
 ~
 36 8 7
 D4
@@ -2597,8 +2593,8 @@ water reservoir~
 S
 #3610
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads east and south.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads east and south.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2617,7 +2613,7 @@ water reservoir~
 1 -1 3611
 E
 water reservoir~
-It is a large rectangular slab of grey stone that has been placed face up in the ground.
+It is a large circular slab of grey stone that has been placed face up in the ground.
 ~
 S
 #3611
@@ -2632,8 +2628,8 @@ water reservoir~
 S
 #3612
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and east.  A small shed is to the west.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and east.  A small shed is to the west.
 ~
 36 0 1
 D0
@@ -2653,7 +2649,7 @@ door~
 1 -1 3613
 S
 #3613
-In a shed on the Graveyard~
+In a shed on the Garden~
   You are in a small shed that looks as if it is used to store all sorts of
 gardening equipment.  The only exit appears to be through a door to the east.
 ~
@@ -2665,8 +2661,8 @@ door~
 S
 #3614
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads south and west.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
 D2
@@ -2700,8 +2696,8 @@ water reservoir~
 S
 #3616
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and south.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and south.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2725,8 +2721,7 @@ It is a large rectangular slab of grey stone that has been placed face up in the
 S
 #3617
 Water Reservoir~
-  You are in a dark burial chamber beneath a large tomb stone.
-The only exit appears to be up.
+Water Reservior 3617
 ~
 36 8 7
 D4
@@ -2736,8 +2731,8 @@ water reservoir~
 S
 #3618
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and east.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and east.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2771,8 +2766,8 @@ water reservoir~
 S
 #3638
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2806,8 +2801,8 @@ water reservior~
 S
 #3640
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and south.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and south.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2842,8 +2837,8 @@ waer reservior~
 S
 #3642
 Garden Path~
-You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads east and south.  A water reservior is here.
+You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads east and south.  A water reservior is here.
 ~
 36 0 1
 D1
@@ -2877,8 +2872,8 @@ water reservior~
 S
 #3644
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
-the graveyard.  The path leads north and west.  A water reservior is here.
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  The path leads north and west.  A water reservior is here.
 ~
 36 0 1
 D0
@@ -2912,7 +2907,7 @@ water reservior~
 S
 #3646
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
+  You are on a gravel path winding its way between beautiful evergreen trees on
 the garden.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
@@ -2942,12 +2937,12 @@ Water Reservior 3647
 36 8 7
 D4
 ~
-tomb stone~
+water reservior~
 1 -1 3646
 S
 #3648
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
+  You are on a gravel path winding its way between beautiful evergreen trees on
 the garden.  The path leads north and east.  A water reservior is here.
 ~
 36 0 1
@@ -2977,12 +2972,12 @@ Water Reservior 3649
 36 8 7
 D4
 ~
-tomb stone~
+water reservior~
 1 -1 3648
 S
 #3650
 Garden Path~
-  You are on a gravel path winding its way between dark evergreen trees on
+  You are on a gravel path winding its way between beautiful evergreen trees on
 the garden.  The path leads south and west.  A water reservior is here.
 ~
 36 0 1
