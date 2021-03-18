@@ -92,7 +92,6 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 	was_in = ch->in_room;
 
 	char_from_room(ch);
-
 	char_to_room(ch, world[was_in].dir_option[cmd]->to_room);
 
 	if (!IS_AFFECTED(ch, AFF_SNEAK))
@@ -106,10 +105,6 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 		/*extract_char(ch);*/
 		return(-1);
 	}
-
-	// added do exits so it will auto trigger on move
-	do_where(ch,"",15);
-	do_exits(ch,"",15);
 
 	return(1);
 }

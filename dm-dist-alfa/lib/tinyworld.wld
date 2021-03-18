@@ -120,12 +120,12 @@ adventure:3004/main
 ~
 30 8 0
 D0
-adventure:3004/north
+adventure:3003/look
 ~
 ~
 0 -1 3003
 D1
-adventure:3004/east
+adventure:3005/look
 ~
 ~
 0 -1 3005
@@ -136,12 +136,12 @@ adventure:3005/main
 ~
 30 0 1
 D1
-adventure:3005/east
+adventure:3006/look
 ~
 ~
 0 -1 3006
 D2
-adventure:3005/south
+adventure:3014/look
 ~
 ~
 0 -1 3014
