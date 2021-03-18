@@ -274,10 +274,6 @@ void do_goto(struct char_data *ch, char *argument, int cmd)
 	char_to_room(ch, location);
 	act("$n appears with an ear-splitting bang.", FALSE, ch, 0,0,TO_ROOM);
 	do_look(ch, "",15);
-
-	// added do exits so it will auto trigger
-	do_where(ch,"",15);
-	do_exits(ch,"",15);
 }
 
 
