@@ -6735,7 +6735,7 @@ You are in a natural cave.  Various sorts of debris cover the stone floor,
 emitting a rather unpleasant smell that makes the air thick and hard to
 breathe.  The only obvious exit is east.
 ~
-60 9 0
+60 8 0
 D1
 The cave opening is to the east.
 ~
@@ -6755,7 +6755,7 @@ Kind of transparent, but quite noticeable nevertheless.
 ~
 S
 #6023
-On a small, grassy field~
+6023:field~
 You are in a small, grassy field somewhere in the forest.  The tall grass
 nearly reaches your waist, and the surrounding oaks and beeches form an almost
 wall-like thicket on all sides of the field.  A small path leads south through
