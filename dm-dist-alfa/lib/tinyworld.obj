@@ -761,8 +761,8 @@ cup~
 It is a small simple cup.
 ~
 #3101
-coffee cup~
-a cup~
+tea cup~
+a tea~
 A cup has been set here.~
 ~
 17 0 1
@@ -2217,9 +2217,9 @@ A
 A
 19 2
 #6950
-coffee machine~
-a coffee machine~
-A coffee machine is standing here.~
+tea machine~
+a tea machine~
+A tea machine is here.~
 ~
 15 2 0
 3 0 -1 0
