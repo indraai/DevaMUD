@@ -6755,7 +6755,7 @@ Kind of transparent, but quite noticeable nevertheless.
 ~
 S
 #6023
-6023:field~
+6023:fieldOn a small, grassy field~
 You are in a small, grassy field somewhere in the forest.  The tall grass
 nearly reaches your waist, and the surrounding oaks and beeches form an almost
 wall-like thicket on all sides of the field.  A small path leads south through
@@ -10171,7 +10171,7 @@ The sewer line.~
 You are in a narrow part of the sewer. Down the sewer continues and to the
 north is the ledge.
 ~
-72 9 3
+72 8 3
 D0
 You can see the southern part of the ledge.
 ~
@@ -10189,7 +10189,7 @@ You are in an odd sewer pipe You see some odd scrates on the pipe wall, as
 from a gigantic rat. You can see some slimy water gently running down into
 a sewer drain, and north the drain continues.
 ~
-72 9 3
+72 8 3
 S
 #7190
 Mid-air~
@@ -10265,7 +10265,7 @@ The inner Lair~
 You are in a octagonal room with smooth purple stone walls.  The floor is
 made from black stone.  In the western wall you see a large black stone door.
 ~
-72 9 0
+72 8 0
 D2
 You look back through the door into the lair.
 ~
@@ -10503,7 +10503,7 @@ S
 The crawlway.~
 You are in a narrow crawlway. Here is very boring.
 ~
-72 9 3
+72 8 3
 D1
 You see a four-way junction.
 ~
@@ -10520,7 +10520,7 @@ The four-way function.~
 You are in a sewer junction. To the north is a small hole, to the west is a
 narrow crawlway and to the east and south the sewer continues.
 ~
-72 9 3
+72 8 3
 D0
 You can see a small cave-like room.
 ~
@@ -10546,7 +10546,7 @@ S
 The small cave.~
 You are in a collapsed sewer drain, which now is more like a small cave.
 ~
-72 9 3
+72 8 3
 D2
 You look back into the four-way junction.
 ~
@@ -10557,7 +10557,7 @@ S
 The sewer drain.~
 You are in a dry sewer drain which bends to the north.
 ~
-72 9 3
+72 8 3
 D0
 You can see the drain continuing north.
 ~
@@ -10573,7 +10573,7 @@ S
 The sewer drain.~
 You are in a dry sewer drain which bends to the east.
 ~
-72 9 3
+72 8 3
 D1
 You can see the drain continuing east.
 ~
@@ -10590,7 +10590,7 @@ The drain end.~
 You are at the end of the drain around you the sewer has collapsed, the only
 exit is west.
 ~
-72 9 3
+72 8 3
 D3
 You see the sewer drain.
 ~
@@ -10602,7 +10602,7 @@ The half-wet drain.~
 You are in a sewer drain where the floor is covered with water. To the north
 it looks more dry, south however the drain runs down into some water.
 ~
-72 9 4
+72 8 4
 D0
 To the north lies a dry four-way junction.
 ~
@@ -10624,7 +10624,7 @@ You swim in some dirty water and is holding you breath. You'll better
 continue before you drown. It is a good thing that you can hold your light
 above water-level.
 ~
-72 9 6
+72 8 6
 D0
 It is hard to see, but it looks like the drain runs slightly upwards.
 ~
@@ -10642,7 +10642,7 @@ You are in a half-dry sewer drain. To the north the drain runs a little bit
 downwards into some water to the east you can see a small hole. To the west
 you see another drain.
 ~
-72 9 4
+72 8 4
 D0
 You see the drain running down into some water.
 ~
@@ -10671,7 +10671,7 @@ S
 The very small room.~
 You are in a very small room, it is pretty uninteresting.
 ~
-72 9 3
+72 8 3
 D3
 Through the little hole you can see a half-dry drain.
 ~
@@ -10682,7 +10682,7 @@ S
 A dry sewer drain.~
 You are in a dry but dirty sewer drain. The drain continues east and south.
 ~
-72 9 3
+72 8 3
 D1
 You see a half-dry drain.
 ~
@@ -10698,7 +10698,7 @@ S
 A boring drain.~
 You are in yet another sewer drain.
 ~
-72 9 3
+72 8 3
 D0
 You see a sewer drain continuing to the north.
 ~
@@ -10715,7 +10715,7 @@ The sewer drain.~
 You are in a sewer drain, there is nothing special inhere, exept for a
 loud echo.
 ~
-72 9 3
+72 8 3
 D1
 You can see another sewer drain.
 ~
@@ -10736,7 +10736,7 @@ S
 The sewer drain.~
 You are in a drain, with some slimy water on the floor.
 ~
-72 9 3
+72 8 3
 D1
 You see a sewer bend.
 ~
@@ -10930,7 +10930,7 @@ staring at you from inside the walls. In the middle of the room
 there is a small altar. To the north there is a small round
 door.
 ~
-72 9 1
+72 8 1
 D0
 A beam of red light seeps through a hole in the door.
 ~
