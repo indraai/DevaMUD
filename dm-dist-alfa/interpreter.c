@@ -1159,10 +1159,10 @@ void nanny(struct descriptor_data *d, char *arg)
 				slog(buf);
 
 /*
+				SEND_TO_Q(motd, d);
 				SEND_TO_Q("[PRESS RETURN]", d);
 				STATE(d) = CON_RMOTD;
 */
-				SEND_TO_Q(motd, d);
 				SEND_TO_Q(MENU, d);
 				STATE(d) = CON_SLCT;
 
