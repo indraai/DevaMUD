@@ -1007,22 +1007,22 @@ adventure:3051/wall
 ~
 S
 #3052
-indra.directory w.~
+3052:indra.directory~
 adventure:3052/main
 ~
 30 0 1
 D0
-adventure:3052/north
+adventure:3900/look
 ~
 ~
 0 -1 3900
 D1
-adventure:3052/east
+adventure:3040/look
 ~
 gate~
 1 3133 3040
 D3
-adventure:3052/west
+adventure:6000/look
 ~
 ~
 0 -1 6000
@@ -1044,22 +1044,22 @@ adventure:3052/wall
 ~
 S
 #3053
-indra.directory E.~
+3053:indra.directory~
 adventure:3053/main
 ~
 30 0 1
 D0
-adventure:3053/north
+adventure:3908/look
 ~
 ~
 0 -1 3908
 D1
-adventure:3053/north
+adventure:3503/look
 ~
 ~
 0 -1 3503
 D3
-adventure:3053/west
+adventure:3041/look
 ~
 gate~
 1 3133 3041
