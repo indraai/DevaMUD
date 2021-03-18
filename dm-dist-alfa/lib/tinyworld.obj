@@ -1069,32 +1069,32 @@ The small mithril key is a sample of exquisite workmanship.  It has the
 letter "G" inscribed.
 ~
 #3308
-coke machine~
-a Coke machine~
-A Coke machine is standing here.~
+beverage dispenser~
+a Beverage Dispenser~
+A Beverage Dispenser is here.~
 ~
 15 2 0
 3 0 -1 0
 100 3000 300
 E
-coke machine~
+beverage dispenser~
 It is a big old-fashioned thing that most of all resembles a cupboard with a
-slot large enough to hold three cans of Coke at once.  It doesn't appear to
+slot large enough to hold three beverages (water, juice, tea).  It doesn't appear to
 have any buttons or any other means of control.  Golden letters on its front
-tell that this is a Quifatronic K-1000 mk I.
+tell that this is a Indra Z-9300 MK I.
 ~
 #3309
-can coke~
-a can of Coke~
-A can of Coke been left here.~
+glass water~
+a glass of water~
+A glass of water has been left here.~
 ~
 17 0 1
 3 3 15 0
 1 6 3
 E
-can coke~
-It is a small red and white can that has 'Keep MudLand tidy' written on its
-side and the name Gimli printed on its bottom.
+glass water~
+It is a small glass that has 'Keep DevaWorld tidy' written on its
+side and the name Indra printed on its bottom.
 ~
 #3310
 key iron~
@@ -1109,20 +1109,20 @@ item_for_doz~
 ~
 E
 key iron~
-The small iron key has the letter "D" inscribed on its surface.
+The small iron key has the letter "I" inscribed on its surface.
 ~
 #3311
-pit~
-the pit~
-A pit for sacrifices is in the north part of the hall.~
+table~
+the table~
+A table for offerings is in the north part of the hall.~
 ~
 15 0 0
 1000 0 0 0
 0 0 0
 E
-pit~
-This is where you put money and items to help Doz expand this shrine and
-convert more people to the belief of Eru our creator.
+offerings~
+This is where you put money and items to help Indra expand this shrine and
+convert more people to the belief of Indu our creator.
 ~
 #3312
 golden breast plate~
@@ -1135,7 +1135,7 @@ A golden breast plate is lying on the ground.~
 E
 golden breast plate~
 This breast plate is made of solid gold, yet it seems to be as hard as a
-normal steel plate. The name 'Doz' is engraved in silver letters on it.
+normal steel plate. The name 'Indra' is engraved in gold letters on it.
 ~
 #3313
 golden helmet~
@@ -1148,7 +1148,7 @@ A golden helmet is lying on the ground.~
 E
 golden helmet~
 This helmet is made of solid gold. On the inside of it you find the name
-'Doz' engraved in silver letters.
+'Indra' engraved in gold letters.
 ~
 #3314
 golden sleeves~
@@ -1160,8 +1160,8 @@ A pair of golden sleeves is lying on the ground.~
 8 0 1000000
 E
 golden sleeves~
-These sleeves are made of gold and they have the name 'Doz' engraved in
-silver letters on them.
+These sleeves are made of gold and they have the name 'Indra' engraved in
+gold letters on them.
 ~
 #3315
 golden cloak~
@@ -1174,7 +1174,7 @@ A golden cloak is lying on the ground.~
 E
 golden cloak~
 This cloak is woven from the finest threads of gold, and it shimmers as you
-look at it. You find the name 'Doz' written on the inside of it.
+look at it. You find the name 'Indra' written on the inside of it.
 ~
 A
 17 -10
@@ -1188,9 +1188,7 @@ A golden shield is lying on the ground.~
 15 0 1000000
 E
 golden shield~
-This shield is made of gold and it's covered with strange silver runes
-which you guess must be of protection. The name 'Doz' is also to be found
-on the shield.
+This shield is made of gold. The name 'Indra' is also to be found on the shield.
 ~
 #3317
 golden gauntlets~
@@ -1202,8 +1200,8 @@ A pair of golden gauntlets is lying on the ground.~
 8 0 1000000
 E
 golden gauntlets~
-These gauntlets are made of gold and they have the name 'Doz' engraved in
-silver letters on them.
+These gauntlets are made of gold and they have the name 'Indra' engraved in
+gold letters on them.
 ~
 #3318
 golden leggings~
@@ -1215,36 +1213,36 @@ A pair of golden leggings is lying on the ground.~
 8 0 1000000
 E
 golden leggings~
-These leggings are made of solid gold, and the name 'Doz' is engraved in
-silver letters on them.
+These leggings are made of solid gold, and the name 'Indra' is engraved in
+gold letters on them.
 ~
 #3319
-coke machine~
-a Coke machine~
-A Coke machine is standing here.~
+beverage dispenser~
+a Beverage Dispenser~
+A Beverage Dispenser here.~
 ~
 15 2 0
 3 0 -1 0
 100 3000 300
 E
-coke machine~
+beverage dispenser~
 It is a big old-fashioned thing that most of all resembles a cupboard with a
-slot large enough to hold three cans of Coke at once.  It doesn't appear to
+slot large enough to hold three beverages (water, juice, tea).  It doesn't appear to
 have any buttons or any other means of control.  Golden letters on its front
-tell that this is a Quifatronic K-1000 mk I.
+tell that this is a Indra Z-9300 MK I.
 ~
 #3320
-can coke~
-a can of Coke~
-A can of Coke been left here.~
+glass juice~
+a glass of juice~
+A glass of Orange Juice has been left here.~
 ~
 17 0 1
 3 3 15 0
 1 6 3
 E
-can coke~
-It is a small red and white can that has 'Keep MudLand tidy' written on its
-side and the name Doz printed on its bottom.
+glass juice~
+It is a small glass that has 'Keep MudLand tidy' written on its
+side and the name Indra printed on its bottom.
 ~
 #3321
 key iron~
@@ -1262,32 +1260,32 @@ key iron~
 The small iron key has the letter "M" inscribed on its surface.
 ~
 #3322
-coke machine~
-a Coke machine~
-A Coke machine is standing here.~
+beverage dispenser~
+a Beverage Dispenser~
+A Beverage Dispenser is here.~
 ~
 15 2 0
 3 0 -1 0
 100 3000 300
 E
-coke machine~
+beverage dispenser~
 It is a big old-fashioned thing that most of all resembles a cupboard with a
-slot large enough to hold three cans of Coke at once.  It doesn't appear to
+slot large enough to hold three beverages (water, juice, tea).  It doesn't appear to
 have any buttons or any other means of control.  Golden letters on its front
-tell that this is a Quifatronic K-1000 mk I.
+tell that this is a Indra Z-9300 MK I.
 ~
 #3323
-can coke~
-a can of Coke~
-A can of Coke been left here.~
+cup tea~
+a cup of Tea~
+A cup of Tea has been left here.~
 ~
 17 0 1
 3 3 15 0
 1 6 3
 E
-can coke~
-It is a small red and white can that has 'Keep MudLand tidy' written on its
-side and the name Mapmaker printed on its bottom.
+cup tea~
+It is a small cup that has 'Keep MudLand tidy' written on its side and the name
+Mapmaker printed on its bottom.
 ~
 #3600
 candlestick~
@@ -2227,24 +2225,24 @@ A coffee machine is standing here.~
 3 0 -1 0
 100 3000 300
 E
-coffee machine~
+beverage dispenser~
 It is a big old-fashioned thing that most of all resembles a cupboard with a
-slot large enough to hold three coffee cups at once.  It doesn't appear to
+slot large enough to hold three beverages (water, juice, tea).  It doesn't appear to
 have any buttons or any other means of control.  Golden letters on its front
-tell that this is a Quifatronic C-1000 mk I.
+tell that this is a Indra Z-9300 MK I.
 ~
 #6951
-coffee cup~
-a coffee cup~
-A coffee cup has been left here.~
+tea cup~
+a tea cup~
+A tea cup has been left here.~
 ~
 17 0 1
 3 3 12 0
 1 6 3
 E
-coffee cup~
-It is a small white throwaway cup that has 'Keep MudLand tidy' written on its
-side and 'Quifatronic C-1000 mk I' on its bottom.
+tea cup~
+It is a small white elegant cup that has 'Keep MudLand tidy' written on its
+side and 'Indra Z-9300 MK I' on its bottom.
 ~
 #6999
 scythe~
