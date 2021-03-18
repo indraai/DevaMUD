@@ -9989,10 +9989,9 @@ D2
 ~
 0 -1 7117
 D5
-Secret Trap Door
-~
-~
-0 0 7280
+Trap Door~
+trap door~
+0 -1 7280
 E
 ground ledge rock~
 The ground here seems a little different from all the other ledges along the
@@ -10925,7 +10924,7 @@ D5
 0 -1 7399
 S
 #7280
-The entrance.~
+The Entrance~
 You are in a very dark room. You notice that some faces are
 staring at you from inside the walls. In the middle of the room
 there is a small altar. To the north there is a small round
@@ -10954,7 +10953,7 @@ never seen before.
 ~
 S
 #7281
-The corridor.~
+The Corridor~
 The corridor is glowing oppressively in a red hue. You can hear wailing
 through an open black hole to the east. To the south there is a round door.
 ~
@@ -10962,7 +10961,7 @@ through an open black hole to the east. To the south there is a round door.
 D2
 ~
 small round door~
-1 -1 7280
+0 -1 7280
 D1
 The hole seems more black than the night. It is appears to be "eating" the
 red light around it.
