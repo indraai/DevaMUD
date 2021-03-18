@@ -1319,12 +1319,12 @@ void nanny(struct descriptor_data *d, char *arg)
 					d->character->next = character_list;
 					character_list = d->character;
 					if (d->character->in_room == NOWHERE)
-						char_to_room(d->character, real_room(6010));
+						char_to_room(d->character, real_room(3001));
 					else {
 						if (real_room(d->character->in_room) > -1)
 							char_to_room(d->character, real_room(d->character->in_room));
 						else
-	            char_to_room(d->character, real_room(6010));
+	            char_to_room(d->character, real_room(3001));
 					}
 
 					act("$n has entered the game.", TRUE, d->character, 0, 0, TO_ROOM);
