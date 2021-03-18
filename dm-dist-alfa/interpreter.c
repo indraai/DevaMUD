@@ -1298,8 +1298,11 @@ void nanny(struct descriptor_data *d, char *arg)
 		} break;
 
 		case CON_RMOTD:		/* read CR after printing motd	*/
-			SEND_TO_Q(MENU, d);
-			STATE(d) = CON_SLCT;
+			char_to_room(d->character, real_room(6010));
+			STATE(d) = CON_PLYNG;
+
+			// SEND_TO_Q(MENU, d);
+			// STATE(d) = CON_SLCT;
 		break;
 
 		case CON_SLCT:		/* get selection from main menu	*/
