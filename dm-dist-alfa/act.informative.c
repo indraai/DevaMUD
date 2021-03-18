@@ -1113,9 +1113,9 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 						  fname(d->character->player.name));
 					else
 						sprintf(buf, "map[%d]: %s %s\n\r",
-							world[d->character->in_room].number),
-							world[d->character->in_room].name
-						  d->character->player.name;
+							world[d->character->in_room].number,
+							world[d->character->in_room].name,
+						  d->character->player.name);
 					send_to_char(buf, ch);
 				}
 			}
