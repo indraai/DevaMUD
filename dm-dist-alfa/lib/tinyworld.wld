@@ -9989,9 +9989,9 @@ D2
 ~
 0 -1 7117
 D5
-~
+Secret Trap Door~
 secret trapdoor entrance~
-2 -1 7280
+0 -1 7280
 E
 ground ledge rock~
 The ground here seems a little different from all the other ledges along the
@@ -10937,9 +10937,9 @@ A beam of red light seeps through a hole in the door.
 small round door~
 1 -1 7281
 D4
-~
+Secret Door~
 secret door~
-1 -1 7116
+0 -1 7116
 E
 altar~
 This altar are very special. Faces are smiling from it. There
