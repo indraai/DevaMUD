@@ -9992,7 +9992,7 @@ D5
 Secret Trap Door
 ~
 ~
-0 -1 7280
+0 0 7280
 E
 ground ledge rock~
 The ground here seems a little different from all the other ledges along the
@@ -10941,7 +10941,7 @@ D4
 Secret Door
 ~
 ~
-0 -1 7116
+0 0 7116
 E
 altar~
 This altar are very special. Faces are smiling from it. There
