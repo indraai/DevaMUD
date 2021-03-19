@@ -1129,7 +1129,7 @@ S
 #3101
 3101:indra.pet~
 adventure:3101/main
-coordinates:10/50~
+~
 31 0 1
 D1
 adventure:3102/look
@@ -1297,7 +1297,7 @@ S
 #3110
 3110:indra.agency~
 adventure:3110/main
-~
+coordinates[31]:10|50~
 31 8 0
 D1
 adventure:3111/look
@@ -1542,7 +1542,7 @@ S
 adventure:3121/main
 ~
 31 0 1
-D0
+D1
 adventure:3135/look
 ~
 ~
@@ -1847,7 +1847,7 @@ adventure:3120/look
 ~
 ~
 0 -1 3120
-D3
+D2
 adventure:3121/look
 ~
 ~
