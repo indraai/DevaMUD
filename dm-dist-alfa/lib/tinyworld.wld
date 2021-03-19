@@ -599,12 +599,12 @@ adventure:3028/main
 ~
 30 12 0
 D2
-adventure:3028/south
+adventure:3029/look
 ~
 ~
 0 -1 3029
 D3
-adventure:3028/west
+adventure:3027/look
 ~
 ~
 0 -1 3027
@@ -614,17 +614,17 @@ adventure:3028/furniture
 ~
 S
 #3029
-The Collective Studio~
+3029:indra.studio~
 adventure:3029/main
 ~
 30 12 0
 D0
-adventure:3029/north
+adventure:3028/look
 ~
 ~
 0 -1 3028
 D5
-adventure:3029/down
+adventure:7043/look
 ~
 ~
 0 -1 7043
@@ -635,28 +635,28 @@ adventure:3030/main
 ~
 30 4 2
 D0
-adventure:3030/north
+adventure:3025/look
 ~
 ~
 0 -1 3025
 D2
-adventure:3030/south
+adventure:3025/unknown
 ~
 ~
 0 -1 -1
 D5
-adventure:3030/down
+adventure:7030/look
 ~
 ~
 0 -1 7030
 S
 #3031
-The Pet Shop~
+3031:indra.pet~
 adventure:3031/main
 ~
 30 8 0
 D2
-adventure:3031/south
+adventure:3045/look
 ~
 ~
 0 -1 3045
@@ -666,7 +666,7 @@ adventure:3031/sign
 ~
 S
 #3032
-Pet Shop Store~
+3032:indra.pet~
 adventure:3032/main
 ~
 30 8 0
@@ -677,7 +677,7 @@ adventure:3033/main
 ~
 30 8 0
 D2
-adventure:3033/south
+adventure:3012/look
 ~
 ~
 0 -1 3012
@@ -700,7 +700,7 @@ adventure:3034/main
 ~
 30 8 0
 D0
-adventure:3034/north
+adventure:3015/look
 ~
 ~
 0 -1 3015
@@ -718,12 +718,12 @@ adventure:3034/sign
 ~
 S
 #3035
-The Leather Shop~
+3035:indra.store~
 adventure:3035/main
 ~
 30 8 0
 D2
-adventure:3035/south
+adventure:3044/look
 ~
 ~
 0 -1 3044
@@ -745,22 +745,22 @@ adventure:3035/sign
 ~
 S
 #3040
-indra.guide w.~
+3040:indra.guide~
 adventure:3040/main
 ~
 30 0 1
 D1
-adventure:3040/east
+adventure:3012/look
 ~
 ~
 0 -1 3012
 D2
-adventure:3040/south
+adventure:3042/look
 ~
 ~
 0 -1 3042
 D3
-adventure:3040/west
+adventure:3052/look
 ~
 gate~
 1 3133 3052
@@ -782,7 +782,7 @@ adventure:3040/wall
 ~
 S
 #3041
-indra.guide e.~
+3041:indra.guide~
 adventure:3041/main
 ~
 30 0 1
@@ -1688,38 +1688,38 @@ adventure:3127/east
 0 -1 3128
 S
 #3128
-3128:indra.fit~
+3128:main~
 adventure:3128/main
 ~
 31 0 1
 D0
-adventure:3128/north
+adventure:3125/look
 ~
 ~
 0 -1 3125
 D1
-adventure:3128/east
+adventure:3125/look
 ~
 ~
 0 -1 3129
 D3
-adventure:3128/west
+adventure:3127/look
 ~
 ~
 0 -1 3127
 S
 #3129
-3129:thegame93~
-   The Concourse continues both east and west.  Park Road is north of here
-and an iron grate leads south to the garden.
-A bronze sign has been set on the wall next to the grate.
+3129:main~
+adventure:3129/main
 ~
 31 0 1
 D0
+adventure:3126/look
 ~
 ~
 0 -1 3126
 D1
+adventure:3130/look
 ~
 ~
 0 -1 3130
@@ -1742,7 +1742,7 @@ The sign says :-
 
                           Garden of Amaravati
 
-    Peaful and breezy feeling
+    Peaceful and breezy feeling
 ~
 S
 #3130
