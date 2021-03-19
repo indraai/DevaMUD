@@ -1580,12 +1580,12 @@ adventure:3123/main
 ~
 31 0 1
 D1
-adventure:3123/east
+adventure:3124/look
 ~
 ~
 0 -1 3124
 D3
-adventure:3123/west
+adventure:3122/look
 ~
 ~
 0 -1 3122
@@ -1632,49 +1632,43 @@ adventure:3125/main
 ~
 31 0 1
 D0
-adventure:3125/north
+adventure:3121/look
 ~
 ~
 0 -1 3121
 D2
-adventure:3125/south
+adventure:3128/look
 ~
 ~
 0 -1 3128
 S
 #3126
 3126:indra.events~
-   You are on Park Road which continues north.  The Concourse is south of
-here.
-An old two-storey house is to the east.
+adventure:3126/main
 ~
 31 0 1
 D0
+adventure:3122/look
 ~
 ~
 0 -1 3122
 D1
-A heavy oaken door is to the east.~
+adventure:3126/door
+~
 door~
 2 3301 6904
 D2
+adventure:3129/look
 ~
 ~
 0 -1 3129
 E
 house~
-The house is obviously very old and needs painting.  The heavy oaken door is
-equipped with a brass door knocker shaped as a goblin's head.  No name plate
-is to be seen anywhere.
+adventure:3126/house
 ~
 E
 door knocker~
-As you look at it, the goblin door knocker comes alive!
-
-The head splutters 'Tiz iz da houze uff Kwiff... Kuiffe... Qwiff... Erhm...'
-The head splutters 'Quiff... Quiffil...  Ne'er mind!  Quiffy livez ere!'
-
-It opens its mouth wide and gobbles 'Unlokk me!'
+adventure:3126/knocker
 ~
 S
 #3127
