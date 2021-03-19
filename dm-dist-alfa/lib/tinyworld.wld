@@ -146,12 +146,12 @@ adventure:3014/look
 ~
 0 -1 3014
 D3
-adventure:3005/west
+adventure:3004/look
 ~
 ~
 0 -1 3004
 D4
-adventure:3005/up
+adventure:3001/look
 ~
 ~
 0 -1 3001
@@ -162,17 +162,17 @@ adventure:3006/main
 ~
 30 8 0
 D1
-adventure:3006/east
+adventure:3007/look
 ~
 ~
 0 -1 3007
 D3
-adventure:3006/west
+adventure:3005/look
 ~
 ~
 0 -1 3005
 D4
-adventure:3006/up
+adventure:3008/look
 ~
 ~
 0 -1 3008
@@ -183,7 +183,7 @@ adventure:3007/main
 ~
 30 8 0
 D3
-adventure:3007/west
+adventure:3006/look
 ~
 ~
 0 -1 3006
@@ -202,7 +202,7 @@ adventure:3008/main
 ~
 30 8 0
 D5
-adventure:3008/down
+adventure:3006/look
 ~
 ~
 0 -1 3006
@@ -217,7 +217,7 @@ adventure:3009/main
 ~
 30 8 0
 D2
-adventure:3009/south
+adventure:3013/look
 ~
 ~
 0 -1 3013
@@ -236,7 +236,7 @@ adventure:3010/main
 ~
 30 8 0
 D2
-adventure:3010/south
+adventure:3015/look
 ~
 ~
 0 -1 3015
@@ -251,7 +251,7 @@ adventure:3011/main
 ~
 30 8 0
 D2
-adventure:3011/south
+adventure:3016/look
 ~
 ~
 0 -1 3016
@@ -266,22 +266,22 @@ adventure:3012/main
 ~
 30 0 1
 D0
-adventure:3012/north
+adventure:3033/look
 ~
 ~
 0 -1 3033
 D1
-adventure:3012/east
+adventure:3013/look
 ~
 ~
 0 -1 3013
 D2
-adventure:3012/south
+adventure:3017/look
 ~
 ~
 0 -1 3017
 D3
-adventure:3012/west
+adventure:3040/look
 ~
 ~
 0 -1 3040
@@ -292,22 +292,22 @@ adventure:3013/main
 ~
 30 0 1
 D0
-adventure:3013/north
+adventure:3009/look
 ~
 ~
 0 -1 3009
 D1
-adventure:3013/east
+adventure:3014/look
 ~
 ~
 0 -1 3014
 D2
-adventure:3013/south
+adventure:3020/look
 ~
 ~
 0 -1 3020
 D3
-adventure:3013/west
+adventure:3012/look
 ~
 ~
 0 -1 3012
@@ -318,22 +318,22 @@ adventure:3014/main
 ~
 30 0 1
 D0
-adventure:3014/north
+adventure:3005/look
 ~
 ~
 0 -1 3005
 D1
-adventure:3014/east
+adventure:3015/look
 ~
 ~
 0 -1 3015
 D2
-adventure:3014/south
+adventure:3025/look
 ~
 ~
 0 -1 3025
 D3
-adventure:3014/west
+adventure:3013/look
 ~
 ~
 0 -1 3013
@@ -348,22 +348,22 @@ adventure:3015/main
 ~
 30 0 1
 D0
-adventure:3015/north
+adventure:3010/look
 ~
 ~
 0 -1 3010
 D1
-adventure:3015/east
+adventure:3016/look
 ~
 ~
 0 -1 3016
 D2
-adventure:3015/south
+adventure:3034/look
 ~
 ~
 0 -1 3034
 D3
-adventure:3015/west
+adventure:3014/look
 ~
 ~
 0 -1 3014
@@ -374,22 +374,22 @@ adventure:3016/main
 ~
 30 0 1
 D0
-adventure:3016/north
+adventure:3011/look
 ~
 ~
 0 -1 3011
 D1
-adventure:3016/east
+adventure:3041/look
 ~
 ~
 0 -1 3041
 D2
-adventure:3016/south
+adventure:3021/look
 ~
 ~
 0 -1 3021
 D3
-adventure:3016/west
+adventure:3015/look
 ~
 ~
 0 -1 3015
@@ -400,12 +400,12 @@ adventure:3017/main
 ~
 30 8 0
 D0
-adventure:3017/north
+adventure:3012/look
 ~
 ~
 0 -1 3012
 D2
-adventure:3017/south
+adventure:3018/look
 ~
 ~
 0 -1 3018
@@ -416,12 +416,12 @@ adventure:3018/main
 ~
 30 12 0
 D0
-adventure:3018/north
+adventure:3017/look
 ~
 ~
 0 -1 3017
 D1
-adventure:3018/east
+adventure:3019/look
 ~
 ~
 0 -1 3019
