@@ -1132,17 +1132,17 @@ adventure:3101/main
 ~
 31 0 1
 D1
-adventure:3101/east
+adventure:3102/look
 ~
 ~
 0 -1 3102
 D2
-adventure:3101/south
+adventure:3131/look
 ~
 ~
 0 -1 3131
 D3
-adventure:3101/west
+adventure:3100/look
 ~
 ~
 0 -1 3100
