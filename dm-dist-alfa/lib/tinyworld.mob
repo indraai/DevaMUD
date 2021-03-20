@@ -191,7 +191,7 @@ guarddeva~
 the GuardDEVA~
 A GuardDEVA is guarding the entrance.
 ~
-He is an experienced mage who has specialized in the field of Combat.
+He is an experienced hero who has specialized in the field of Combat.
 His superior knowledge of offensive and defensive strategy make him a fierce opponent.
 ~
 2 0 800 S
@@ -203,7 +203,7 @@ guarddeva~
 the GuardDEVA~
 A GuardDEVA is guarding the entrance.
 ~
-He is a specially trained warrior belonging to the military order of Monks.
+He is a specially trained hero belonging to the military order of Heroes.
 ~
 2 0 800 S
 23 2 2 6d10+390 1d8+12
@@ -223,11 +223,11 @@ formidable opponent.
 2000 80000
 8 8 1
 #3027
-knight GuardDEVA deva~
+guarddeva deva~
 the GuardDEVA~
 A GuardDEVA is guarding the entrance.
 ~
-He is an expert warrior who has attained knighthood through countless chivalrous
+He is an expert hero who has attained knighthood through countless chivalrous
 deeds.  His duty is to protect, and his extreme skill combined with his
 experience in warfare makes him a formidable opponent.
 ~
@@ -392,7 +392,7 @@ guarddeva~
 the GuardDEVA~
 A GuardDEVA is here, guarding the gate.
 ~
-A big, strong, helpful, trustworthy guard.
+A big, strong, helpful, trustworthy hero guard.
 ~
 67 0 1000 S
 10 10 2 1d12+123 1d8+3
@@ -693,21 +693,20 @@ He looks dreadful.
 200 4000
 8 8 1
 #4050
-warrior~
-the warrior~
-A tall dangerous warrior. He has more scares than anyone you have
-seen before.
+hero~
+the hero~
+A tall intelligent capable Hero. He will be there when duty calls to fight the great fight that all Heros are born to fight.
 ~
-Well surely a strong, brainless fighter.
+Well surely a strong, capable, truly intelligent hero.
 ~
 102 0 -300 S
 12 8 4 10d10+50 2d8+1
 1000 12000
 8 8 1
 #4051
-warrior~
-the warrior~
-A tall warrior.
+hero~
+the hero~
+A tall hero.
 ~
 He seems to know his way with weapons.
 ~
@@ -838,11 +837,11 @@ Well it doesn't seem to pay any attention towards you.
 0 1500
 8 8 0
 #4106
-warrior~
-the Warrior~
-A human warrior is here. He has a evil grin in his face.
+hero~
+the Hero~
+A human hero is here. He has a strong hero grin on his face.
 ~
-He doesn't look friendly at all...
+He looks very friendly.
 ~
 100 0 -300 S
 9 10 3 3d10+100 2d6+1
@@ -1311,14 +1310,12 @@ he is having great fun.
 1000 9000
 8 8 1
 #6900
-bug~
-the computer bug~
-A little, hairy computer bug is here, trying to mess things up.
+bird~
+the hug bird~
+A little, friendly hug bird is here, looking for something to hug.
 ~
-It is one of those irritating little creatures that like to infect innocent
-and defenceless programs, trying to make them act weird.  Programmers spend
-countless hours trying to eliminate them, but they are indeed very hardy.
-Deva.world is known to be one of their favourite habitats.
+It is one of those little creatures that like to find sad/weakpoints in our system. They do act a little weird.  Programmers spend countless hours working with them to identify problems, but they are indeed very friendly.
+Deva.world is known to be one of their favorite habitats.
 ~
 64 0 -50 S
 1 10 0 1d4+1 1d2+0
