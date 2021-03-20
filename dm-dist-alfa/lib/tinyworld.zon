@@ -283,8 +283,6 @@ P 1 3304 1 3303         Manxam's Mace.
 P 1 3305 1 3303         Manxam's Plate.
 P 1 3306 1 3303         Manxam's Leggings.
 *
-D 0 3303 0 2          Close and lock from Gimli to street
-D 0 3124 2 2          Close and lock from street to Gimli.
 O 0 3308 1 3303         Gimli's Coke Machine into Entrance.
 P 1 3309 3 3308         Gimli's Can of Coke.
 *
