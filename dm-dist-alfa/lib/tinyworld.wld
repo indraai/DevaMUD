@@ -1588,10 +1588,10 @@ adventure:3124/main
 ~
 31 0 1
 D1
-adventure:3301/look
+adventure:3300/look
 ~
 ~
-2 3302 3301
+0 -1 3300
 D3
 adventure:3123/look
 ~
@@ -2087,6 +2087,10 @@ D2
 adventure:3307/look~
 ~
 0 -1 3307
+D3
+adventure:3307/look~
+~
+0 -1 3124
 S
 #3301
 3301:main~
