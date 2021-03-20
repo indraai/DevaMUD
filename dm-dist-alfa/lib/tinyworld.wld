@@ -2235,10 +2235,10 @@ adventure:3303/look
 ~
 0 -1 3303
 D2
-adventure:3305/look
+adventure:3308/look
 ~
 ~
-0 -1 3305
+0 -1 3308
 D3
 adventure:3307/look
 ~
@@ -2295,10 +2295,10 @@ adventure:3308/main
 ~
 33 8 0
 D0
-adventure:3308/look
+adventure:3305/look
 ~
 ~
-0 -1 3308
+0 -1 3305
 D1
 adventure:3304/look
 ~
