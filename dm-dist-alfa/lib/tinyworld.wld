@@ -2225,31 +2225,25 @@ adventure:3305/main
 ~
 33 8 0
 D0
-adventure:3308/look
+adventure:3301/look
 ~
 ~
-0 -1 3308
+0 -1 3301
 D1
-adventure:3304/look
+adventure:3303/look
 ~
 ~
-0 -1 3304
+0 -1 3303
+D2
+adventure:3305/look
+~
+~
+0 -1 3305
 D3
-adventure:3306/look~
+adventure:3307/look
 ~
-0 -1 3306
-E
-painting paintings~
-adventure:3305/painting
 ~
-E
-plate~
-adventure:3305/plate
-~
-E
-door~
-adventure:3306/doord
-~
+0 -1 3307
 S
 #3306
 3306:main~
@@ -2301,25 +2295,28 @@ adventure:3308/main
 ~
 33 8 0
 D0
-adventure:3301/look
+adventure:3308/look
 ~
 ~
-0 -1 3301
+0 -1 3308
 D1
-adventure:3303/look
+adventure:3304/look
 ~
 ~
-0 -1 3303
-D2
-adventure:3305/look
-~
-~
-0 -1 3305
+0 -1 3304
 D3
-adventure:3307/look
+adventure:3306/look~
 ~
-~
-0 -1 3307
+0 -1 3306
+E
+painting paintings~
+adventure:3305/painting~
+E
+plate~
+adventure:3305/plate~
+E
+door~
+adventure:3306/door~
 S
 #3500
 The Plains~
