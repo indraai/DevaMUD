@@ -270,13 +270,9 @@ S
 Amaravati Buildings~
 3399 120 0
 *
-D 0 3300 3 2          Close and lock from Papi to street
-D 0 3131 1 2          Close and lock from street to Papi.
 M 0 3300 1 3300         Papi's kitten.
 O 0 3100 777 3300       A cup of tea.
 *
-D 0 6904 3 2          Close and lock from Quifael to street
-D 0 3126 1 2          Close and lock from street to Quifael.
 *
 O 0 3303 1 3302       Load Manxam's Chest into Bedroom.
 P 1 3304 1 3303         Manxam's Mace.
@@ -286,8 +282,6 @@ P 1 3306 1 3303         Manxam's Leggings.
 O 0 3308 1 3303         Gimli's Coke Machine into Entrance.
 P 1 3309 3 3308         Gimli's Can of Coke.
 *
-D 0 3305 1 2          Close and lock from Doz to Shrine Hall.
-D 0 3306 3 2          Close and lock from Shrine Hall to Doz.
 O 0 3311 1 3305         Pit in Shrine Hall.
 O 0 3312 1 3306         Doz' Breast Plate.
 O 0 3313 1 3306         Doz' Helmet.
@@ -299,8 +293,6 @@ O 0 3318 1 3306         Doz' Leggings.
 O 0 3319 1 3306         Doz' Coke Machine.
 P 1 3320 3 3319         Doz' Can of Coke.
 *
-D 0 3307 1 2          Close and lock from Mapmaker to street.
-D 0 3118 3 2          Close and lock from street to Mapmaker.
 O 0 3322 1 3307         Mapmaker's Coke Machine.
 P 1 3323 3 3322         Mapmaker's Can of Coke.
 *
