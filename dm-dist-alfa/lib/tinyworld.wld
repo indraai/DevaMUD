@@ -2075,7 +2075,7 @@ D3
 0 -1 3204
 S
 #3300
-Home of SecurityPRIME ~
+3300:main~
 adventure:3300/main
 ~
 33 8 0
@@ -2108,11 +2108,6 @@ adventure:3308/look
 ~
 0 -1 3308
 D3
-adventure:3308/look
-~
-~
-0 -1 3308
-D4
 adventure:3300/look
 ~
 ~
@@ -2151,7 +2146,7 @@ adventure:3301/window
 ~
 S
 #3302
-Manxam's bedroom~
+3302:main~
 adventure:3302/main
 ~
 33 8 0
@@ -2171,7 +2166,7 @@ adventure:3302/bed
 ~
 S
 #3303
-Entrance to Gimli's tunnels~
+3303:main~
 adventure:3303/main
 ~
 33 8 0
@@ -2200,7 +2195,7 @@ adventure:3303/inscription
 ~
 S
 #3304
-Gimli's chamber~
+3304:main~
 adventure:3304/main
 ~
 33 8 0
@@ -2220,7 +2215,7 @@ adventure:3304/throne
 ~
 S
 #3305
-The Shrine of Eru~
+3305:main~
 adventure:3305/main
 ~
 33 8 0
@@ -2252,7 +2247,7 @@ adventure:3306/doord
 ~
 S
 #3306
-Doz' private quarters~
+3306:main~
 adventure:3306/main
 ~
 33 8 0
@@ -2276,7 +2271,7 @@ adventure:3306/bookcase
 ~
 S
 #3307
-Mapmaker's Entrance Hall~
+3307:main~
 adventure:3307/main
 ~
 33 8 0
@@ -2296,7 +2291,7 @@ adventure:3306/look
 0 -1 3306
 S
 #3308
-Mapmaker's Living Room~
+3308:main~
 adventure:3308/main
 ~
 33 8 0
