@@ -1473,14 +1473,6 @@ D1
 adventure:3133/look~
 ~
 0 -1 3133
-D3
-adventure:3307/look~
-door wooden~
-2 3321 3307
-E
-plate name~
-adventure:3307/plate
-~
 S
 #3119
 3119:indra.expert~
@@ -2115,6 +2107,14 @@ adventure:3302/look
 ~
 ~
 0 -1 3302
+D1
+adventure:3307/look~
+door wooden~
+2 3321 3307
+E
+plate name~
+adventure:3307/plate
+~
 D2
 adventure:3303/look
 ~
@@ -2272,21 +2272,21 @@ adventure:3307/main
 ~
 33 8 0
 D1
-adventure:3118/look
-~
-~
-2 3321 3118
-D3
 adventure:3008/look~
 ~
 0 -1 3308
+D3
+adventure:3301/look
+~
+~
+2 3321 3301
 S
 #3308
 Mapmaker's Living Room~
 adventure:3308/main
 ~
 33 8 0
-D1
+D3
 ~
 ~
 0 -1 3307
