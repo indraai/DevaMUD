@@ -2178,33 +2178,32 @@ Entrance to Gimli's tunnels~
 adventure:3303/main
 ~
 33 8 0
-D5
-adventure:3304/look~
+D2
+adventure:3304/look
+~
 ~
 0 -1 3304
 D0
+adventure:3124/look
 ~
-door~
-2 3307 3135
+~
+2 3307 3124
 E
 statue~
-The statue is picturing a gryphoon.
-There is an inscription on the pedestal, below the statue.
+adventure:3303/statue
 ~
 E
 inscription~
-The inscription reads 'JAS 39'.
+adventure:3303/inscription
 ~
 S
 #3304
 Gimli's chamber~
-This is an exact replica of the thronehall of Moria, before the dark ages of
-destruction.  It is dominated by a throne on a platform in the center of the
-room.  The walls still contain uncut gems and to the east you can see that
-the stone contains Mithril.
+adventure:3304/main
 ~
 33 8 0
-D4
+D0
+adventure:3303/look
 ~
 ~
 0 -1 3303
