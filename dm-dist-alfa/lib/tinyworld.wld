@@ -2270,26 +2270,22 @@ You don't dare take out any of the old books from it.
 S
 #3307
 Mapmaker's Entrance Hall~
-   You are in a huge hall.  A beautiful chandelier is hanging from the roof
-and many closets are standing against the walls.  Bearskin covers the floor
-and looks like a nice place to rest.
+adventure:3307/main
 ~
 33 8 0
 D1
+adventure:3118/look
 ~
-door~
+~
 2 3321 3118
 D3
-~
+adventure:3008/look~
 ~
 0 -1 3308
 S
 #3308
 Mapmaker's Living Room~
-   You have arrived to Mapmaker's living room.  There's a fireplace on the
-western wall and standing by it is a huge book-shelf.  In the middle of the
-room is a purple sofa (what a terrible color) and near it against the wall
-is Mapmaker's working table.
+adventure:3308/main
 ~
 33 8 0
 D1
