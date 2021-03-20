@@ -1111,20 +1111,25 @@ adventure:3100/main
 ~
 31 0 1
 D0
-adventure:3100/north
+adventure:3151/look
 ~
 ~
 0 -1 3051
 D1
-adventure:3100/east
+adventure:3101/look
 ~
 ~
 0 -1 3101
 D2
-adventure:3100/south
+adventure:3127/look
 ~
 ~
 0 -1 3127
+D4
+adventure:3300/look
+~
+~
+0 -1 3300
 S
 #3101
 3101:indra.pet~
@@ -2091,6 +2096,10 @@ D3
 adventure:3307/look~
 ~
 0 -1 3124
+D5
+adventure:3100/look~
+~
+0 -1 3100
 S
 #3301
 3301:main~
