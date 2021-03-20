@@ -1755,10 +1755,6 @@ adventure:3101/look
 ~
 ~
 0 -1 3101
-D1
-adventure:3300/look~
-door oaken~
-2 3118 3300
 D2
 adventure:3111/look
 ~
@@ -2092,10 +2088,10 @@ Home of SecurityPRIME ~
 adventure:3300/main
 ~
 33 8 0
-D3
-adventure:3131/look~
+D1
+adventure:3302/look~
 ~
-2 3300 3131
+2 3300 3302
 S
 #3301
 3301:main~
@@ -2164,6 +2160,11 @@ adventure:3301/look
 ~
 ~
 0 -1 3301
+D3
+adventure:3300/look
+~
+~
+2 3118 3300
 E
 bed~
 adventure:3302/bed
