@@ -2111,7 +2111,7 @@ D2
 adventure:3308/look
 ~
 ~
-0 -1 3308
+0 -1 3305
 D3
 adventure:3300/look
 ~
@@ -2186,7 +2186,7 @@ adventure:3304/look
 ~
 0 -1 3304
 D3
-adventure:3308/look
+adventure:3305/look
 ~
 ~
 0 -1 3308
@@ -2279,7 +2279,7 @@ adventure:3000/look~
 ~
 0 -1 3300
 D1
-adventure:3308/look
+adventure:3305/look
 ~
 ~
 0 -1 3308
