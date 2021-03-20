@@ -1751,10 +1751,12 @@ adventure:3130/main
 ~
 31 0 1
 D0
+adventure:3104/look
 ~
 ~
 0 -1 3104
 D3
+adventure/3129/look
 ~
 ~
 0 -1 3129
