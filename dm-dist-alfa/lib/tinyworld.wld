@@ -3009,11 +3009,10 @@ S
 adventure:3651/main
 ~
 36 8 7
-D1
-adventure:3601/look
+D4
 ~
-~
-0 -1 3601
+water reservoir~
+0 -1 3650
 S
 #3900
 West trail around Amaravati~
