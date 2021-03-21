@@ -205,8 +205,6 @@ D 0 3110 3 2          Lock SecurityPRIME's door from outside
 D 0 3142 1 2          Lock SecurityPRIME's door from inside
 D 0 3142 2 2          Lock jail from outside
 D 0 3143 0 2          Lock jail from inside
-D 0 3129 2 2          Lock graveyard from outside
-D 0 3600 0 2          Lock graveyard from inside
 *
 O 0 3134 3 3101       Bench 1 at promenade
 O 0 3134 3 3102       Bench 2 at promenade
