@@ -2497,20 +2497,10 @@ adventure:3605/look
 ~
 0 -1 3605
 D3
-The gravel path leads eastwards between the dark evergreen trees.
+adventure:3606/look
 ~
 ~
-0 -1 3638
-D2
-The observatory door is made of dark glass.
-~
-door~
-1 -1 3605
-D3
-The gravel path leads westwards between the evergreen trees.
-~
-~
-0 -1 3618
+0 -1 3606
 S
 #3605
 Inside the Observatory~
