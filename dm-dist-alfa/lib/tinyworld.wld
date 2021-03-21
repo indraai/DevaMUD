@@ -1195,17 +1195,22 @@ adventure:3102/west
 0 -1 3102
 S
 #3104
-3104:thegame93~
+3104:main~
 adventure:3104/main
 ~
 31 0 1
 D2
-adventure:3104/south
+adventure:3130/look
 ~
 ~
 0 -1 3130
 D3
-adventure:3104/west
+adventure:3103/look
+~
+~
+0 -1 3103
+D4
+adventure:3302/look
 ~
 ~
 0 -1 3103
@@ -1215,7 +1220,7 @@ adventure:3104/wall
 ~
 S
 #3105
-3105:indra.fun~
+3105:main~
 adventure:3105/main
 ~
 31 4 1
@@ -1675,6 +1680,11 @@ adventure:3127/east
 ~
 ~
 0 -1 3128
+D4
+adventure:3306/east
+~
+~
+0 -1 3306
 S
 #3128
 3128:main~
@@ -1749,6 +1759,11 @@ adventure/3129/look
 ~
 ~
 0 -1 3129
+D4
+adventure/3304/look
+~
+~
+0 -1 3304
 S
 #3131
 3131:indra.dog~
@@ -2163,6 +2178,11 @@ adventure:3301/look
 ~
 ~
 0 -1 3301
+D5
+adventure:3104/look
+~
+~
+0 -1 3104
 E
 bed~
 adventure:3302/bed
@@ -2212,6 +2232,11 @@ adventure:3305/look
 ~
 ~
 0 -1 3305
+D5
+adventure:3130/look
+~
+~
+0 -1 3130
 E
 throne~
 adventure:3304/throne
@@ -2258,6 +2283,11 @@ adventure:3305/look
 ~
 ~
 0 -1 3305
+D5
+adventure:3127/look
+~
+~
+0 -1 3127
 E
 desk~
 adventure:3306/desk
