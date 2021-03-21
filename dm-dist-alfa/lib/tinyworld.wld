@@ -1641,24 +1641,11 @@ adventure:3122/look
 ~
 ~
 0 -1 3122
-D1
-adventure:3126/door
-~
-door~
-2 3301 6904
 D2
 adventure:3129/look
 ~
 ~
 0 -1 3129
-E
-house~
-adventure:3126/house
-~
-E
-door knocker~
-adventure:3126/knocker
-~
 S
 #3127
 3127:main~
