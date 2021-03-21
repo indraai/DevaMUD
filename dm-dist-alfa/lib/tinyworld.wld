@@ -1767,20 +1767,22 @@ adventure:3111/look
 0 -1 3111
 S
 #3132
-indra.farm~
-   You are standing on the north end of Emerald Avenue.  To the north is the
-promenade and to the east is the small street Penny Lane.
+3132:main~
+adventure:3132/main
 ~
 31 0 1
 D0
+adventure:3103/look
 ~
 ~
 0 -1 3103
 D1
+adventure:3139/look
 ~
 ~
 0 -1 3139
 D2
+adventure:3137/look
 ~
 ~
 0 -1 3117
