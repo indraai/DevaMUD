@@ -1671,15 +1671,20 @@ adventure:3127/main
 ~
 31 0 1
 D0
-adventure:3127/north
+adventure:3100/look
 ~
 ~
 0 -1 3100
 D1
-adventure:3127/east
+adventure:3128/look
 ~
 ~
 0 -1 3128
+D3
+adventure:3600/look
+~
+~
+0 -1 3600
 D4
 adventure:3306/east
 ~
@@ -1701,6 +1706,11 @@ adventure:3125/look
 ~
 ~
 0 -1 3129
+D2
+adventure:3602/look
+~
+~
+0 -1 3602
 D3
 adventure:3127/look
 ~
@@ -2415,152 +2425,125 @@ adventure:3503/west
 0 0 3053
 S
 #3600
-Garden Path~
-  You are on a well-kept gravel road that leads north-south through the
-garden.  On both sides of the road grow evergreen trees.  A grate is to the north and narrow gravel paths lead east and west.
+3600:main~
+adventure:3600/main
 ~
 36 0 1
 D0
-Through the solid iron bars you see the Concourse.
+adventure:3127/look
 ~
-grate~
-2 3121 3129
+~
+2 3121 3127
 D1
-The gravel path leads eastwards between the dark evergreen trees.
-~
-~
-0 -1 3650
-D2
-The gravel road continues southwards.
+adventure:3601/look
 ~
 ~
 0 -1 3601
+D2
+adventure:3645/look
+~
+~
+0 -1 3645
+S
+#3601
+3601:main~
+~
+36 0 1
+D1
+adventure:3602/look
+~
+~
+0 -1 3602
 D3
-The gravel path leads westwards between the dark evergreen trees.
+adventure:3600/look
+~
+~
+0 -1 3600
+S
+#3602
+3602:main~
+adventure:3602/main
+~
+36 0 1
+D0
+adventure:3128/look
+~
+~
+0 -1 3128
+D1
+adventure:3603/look
+~
+~
+0 -1 3603
+D3
+adventure:3602/look
+~
+~
+0 -1 3602
+S
+#3603
+3603:main~
+adventure:3603/main
+~
+36 0 1
+D1
+adventure:3604/look
+~
+~
+0 -1 3604
+D3
+adventure:3602/look
+~
+~
+0 -1 3602
+S
+#3604
+3605:main~
+adventure:3604/main
+~
+36 0 1
+D1
+adventure:3605/look
+~
+~
+0 -1 3605
+D3
+adventure:3606/look
 ~
 ~
 0 -1 3606
 S
-#3601
-Garden Path~
-  You are on a well-kept gravel road that leads north-south through the
-garden.  On both sides of the road grow evergreen trees.
+#3605
+3605:main~
+adventure:3605/main
 ~
-36 0 1
+36 8 1
 D0
-The gravel road continues northwards.
+adventure:3129/look
 ~
 ~
-0 -1 3600
-D2
-The gravel road continues southwards.
-~
-~
-0 -1 3602
-S
-#3602
-Garden Path~
-  You are on a well-kept gravel road that leads north-south through the
-garden.  On both sides of the road grow evergreen trees.
-~
-36 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3601
-D2
-The gravel road continues southwards.
-~
-~
-0 -1 3603
-S
-#3603
-Garden Path~
-  You are on a well-kept gravel road that leads north-south through the
-garden.  On both sides of the road grow dark evergreen trees.
-~
-36 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3602
-D2
-The gravel road continues southwards to an open space before a small
-building.
+0 -1 3129
+D1
+adventure:3604/look
 ~
 ~
 0 -1 3604
 S
-#3604
-In front of the Observatory~
-In front of the Observatory
-~
-36 0 1
-D0
-The gravel road continues northwards.
-~
-~
-0 -1 3603
-D1
-The gravel path leads eastwards between the dark evergreen trees.
-~
-~
-0 -1 3638
-D2
-The observatory door is made of dark glass.
-~
-door~
-1 -1 3605
-D3
-The gravel path leads westwards between the evergreen trees.
-~
-~
-0 -1 3618
-S
-#3605
-Inside the Observatory~
-Inside 3605
-~
-36 8 1
-D0
-The Observatory door is made of glass
-~
-door~
-1 -1 3604
-E
-glass windows~
-The windows must be meant to let the light in.  They are completely clean.
-~
-E
-benches rows~
-The benches are of the comfortable kind.
-~
-S
 #3606
-Garden Path~
-  You are on a gravel path winding its way between beautiful evergreen trees on
-the garden.  A water reservior is here.
+3606:main~
+adventure:3606/main
 ~
 36 0 1
 D1
-The gravel path continues eastwards towards a gravel road.
+adventure:3607/look
 ~
 ~
-0 -1 3600
-D2
-The gravel path continues southwards.
+0 -1 3607
+D3
+adventure:3605/look
 ~
 ~
-0 -1 3608
-D5
-~
-water reservior~
-1 -1 3607
-E
-water reservior~
-It is a large circular slab of grey stone that has been placed face up in the ground.  ~
+0 -1 3605
 S
 #3607
 Water Reservoir~
