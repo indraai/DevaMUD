@@ -1916,67 +1916,63 @@ adventure:3132/look
 0 -1 3132
 S
 #3140
-indra.farm~
-   You are on Penny Lane.  The narrow road continues north and west.
+3140:main~
+adventure:3140/main
 ~
 31 0 1
 D1
+adventure:3141/look
 ~
 ~
 0 -1 3141
 D3
+adventure:3139/look
 ~
 ~
 0 -1 3139
 S
 #3141
-indra.farm~
-   You are at the end of Penny Lane.  The only exit appears to be south.
+3141:main~
+adventure:3141/main
 ~
 31 0 1
 D3
+adventure:3140/look
 ~
 ~
 0 -1 3140
 S
 #3142
-SecurityPRIME's Office~
-You are in the Office of SecurityPRIME, the Head of The Agency.
-
-The Amaravati Coat of Arms is hanging on the north wall and a heavy steel
-door is to the south.
+adventure:3142:main~
 ~
 31 8 0
 D1
-You see the The Agency Headquarters.
+adventure:3110/look
 ~
 door~
 1 3120 3110
 D2
-You see the heavy steel door.
+adventure:3142/door
 ~
 door~
 1 3137 3143
 E
 arms~
-The Coat of Arms is an excellent piece of work.
+adventure:3142/arms
 ~
 S
 #3143
-The Jail~
-   You are in a dark and humid jail.  The dark stone walls are hard and cold
-to the touch.  A heavy steel door is to the north.
+adventure:3143/main~
 ~
 31 8 0
 D0
-You see the heavy steel door.
+adventure:3143/door
 ~
 door~
 1 3137 3142
 E
 wall walls~
-The walls are marked with lots of scratches.  Some of them spell sentences
-like "JAIL IS BETTER THAN SQL" and "INGRES STRIKES AGAIN".
+adventure:3143/walls
 ~
 S
 #3200
