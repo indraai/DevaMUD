@@ -3009,10 +3009,14 @@ S
 adventure:3651/main
 ~
 36 0 1
-D4
+D1
 adventure:3601/look~
 ~
 0 -1 3601
+D3
+adventure:3601/look~
+~
+0 -1 3600
 S
 #3900
 West trail around Amaravati~
