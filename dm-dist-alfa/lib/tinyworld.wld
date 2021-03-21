@@ -1106,7 +1106,7 @@ adventure:3055/main
 30 8 0
 S
 #3100
-3100:indra.today~
+3100:main~
 adventure:3100/main
 ~
 31 0 1
@@ -1132,7 +1132,7 @@ adventure:3300/look
 0 -1 3300
 S
 #3101
-3101:indra.pet~
+3101:main~
 adventure:3101/main
 ~
 31 0 1
@@ -1153,7 +1153,7 @@ adventure:3100/look
 0 -1 3100
 S
 #3102
-3102:indra.buzz~
+3102:main~
 adventure:3102/main
 ~
 31 0 1
@@ -1174,7 +1174,7 @@ adventure:3102/west
 0 -1 3101
 S
 #3103
-3103:indra.love~
+3103:main~
 adventure:3103/main
 ~
 31 0 1
@@ -1241,7 +1241,7 @@ adventure:3105/south
 0 -1 3108
 S
 #3106
-3106:indra.blue~
+3106:main~
 adventure:3106/main
 ~
 31 8 0
@@ -1252,7 +1252,7 @@ adventure:3106/west
 0 -1 3105
 S
 #3107
-3107:indra.fun~
+3107:main~
 adventure:3107/main
 ~
 31 0 1
@@ -1268,7 +1268,7 @@ adventure:3107/south
 0 -1 3113
 S
 #3108
-3108:indra.fun~
+3108:main~
 adventure:3108/main
 ~
 31 0 1
@@ -1289,7 +1289,7 @@ adventure:3108/west
 0 -1 3107
 S
 #3109
-3109:indra.fun~
+3109:main~
 adventure:3109/main
 ~
 31 0 1
@@ -1305,7 +1305,7 @@ adventure:3109/west
 0 -1 3108
 S
 #3110
-3110:indra.agency~
+3110:main~
 adventure:3110/main
 ~
 31 8 0
@@ -1325,7 +1325,7 @@ adventure:3110/sign
 ~
 S
 #3111
-3111:indra.video~
+3111:main~
 adventure:3111/main
 ~
 31 0 1
@@ -1355,7 +1355,7 @@ adventure:3110/door
 ~
 S
 #3112
-3112:indra.fun~
+3112:main~
 adventure:3112/main
 ~
 31 4 1
@@ -1371,7 +1371,7 @@ adventure:3112/west
 0 -1 3111
 S
 #3113
-3113:indra.fun~
+3113:main~
 adventure:3113/main
 ~
 31 0 1
@@ -1392,7 +1392,7 @@ adventure:3113/west
 0 -1 3112
 S
 #3114
-3114:indra.fun~
+3114:main~
 adventure:3114/main
 ~
 31 0 6
@@ -1408,7 +1408,7 @@ adventure:3114/west
 0 -1 3113
 S
 #3115
-3115:indra.fun~
+3115:main~
 adventure:3115/main
 ~
 31 0 1
@@ -1429,7 +1429,7 @@ adventure:3115/west
 0 -1 3114
 S
 #3116
-3116:indra.fun~
+3116:main~
 adventure:3116/main
 ~
 31 4 1
@@ -1445,7 +1445,7 @@ adventure:3116/west
 0 -1 3115
 S
 #3117
-3117:indra.work~
+3117:main~
 adventure:3117/main
 ~
 31 0 1
@@ -1471,7 +1471,7 @@ adventure:3117/west
 0 -1 3116
 S
 #3118
-3118:indra.business~
+3118:main~
 adventure:3118/main
 ~
 31 0 1
@@ -1485,7 +1485,7 @@ adventure:3133/look~
 0 -1 3133
 S
 #3119
-3119:indra.expert~
+3119:main~
 adventure:3119/main
 ~
 31 0 1
@@ -1501,7 +1501,7 @@ adventure:3136/look
 0 -1 3136
 S
 #3120
-3120:indra.center~
+3120:main~
 adventure:3120/main
 ~
 31 0 1
@@ -1540,7 +1540,7 @@ adventure:3120/tree
 ~
 S
 #3121
-3121:indra.care~
+3121:main~
 adventure:3121/main
 ~
 31 0 1
@@ -1556,7 +1556,7 @@ adventure:3125/look
 0 -1 3125
 S
 #3122
-3122:indra.design~
+3122:main~
 adventure:3122/main
 ~
 31 0 1
@@ -1577,7 +1577,7 @@ adventure:3134/look
 0 -1 3134
 S
 #3123
-3123:indra.art~
+3123:main~
 adventure:3123/main
 ~
 31 0 1
@@ -1593,7 +1593,7 @@ adventure:3122/look
 0 -1 3122
 S
 #3124
-3124:indra.marketing~
+3124:main~
 adventure:3124/main
 ~
 31 0 1
@@ -1621,7 +1621,7 @@ adventure:3124/door
 ~
 S
 #3125
-3125:indra.coach~
+3125:main~
 adventure:3125/main
 ~
 31 0 1
@@ -1637,7 +1637,7 @@ adventure:3128/look
 0 -1 3128
 S
 #3126
-3126:indra.events~
+3126:main~
 adventure:3126/main
 ~
 31 0 1
@@ -1666,7 +1666,7 @@ adventure:3126/knocker
 ~
 S
 #3127
-3127:feecting.com~
+3127:main~
 adventure:3127/main
 ~
 31 0 1
@@ -1723,7 +1723,7 @@ adventure:3130/look
 ~
 0 -1 3130
 D2
-Through the solid iron bars you see the garden.
+adventure:3600/look
 ~
 grate~
 2 3121 3600
@@ -1737,15 +1737,11 @@ Looks heavy.
 ~
 E
 sign~
-The sign says :-
-
-                          Garden of Amaravati
-
-    Peaceful and breezy feeling
+adventure:3129/sign
 ~
 S
 #3130
-3130:thegame93~
+3130:main~
 adventure:3130/main
 ~
 31 0 1
@@ -1766,7 +1762,7 @@ adventure/3304/look
 0 -1 3304
 S
 #3131
-3131:indra.dog~
+3131:main~
 adventure:3131/main
 ~
 31 0 1
@@ -1803,7 +1799,7 @@ adventure:3137/look
 0 -1 3117
 S
 #3133
-indra.services~
+3133:main~
 adventure:3133/main
 ~
 31 0 1
@@ -1819,7 +1815,7 @@ adventure:3118/look
 0 -1 3118
 S
 #3134
-indra.solutions~
+3134:main~
 adventure:3134/main
 ~
 31 0 1
@@ -1835,7 +1831,7 @@ adventure:3122/look
 0 -1 3122
 S
 #3135
-indra.support~
+3135:main~
 adventure:3135/main
 ~
 31 0 1
@@ -1851,7 +1847,7 @@ adventure:3121/look
 0 -1 3121
 S
 #3136
-indra.systems~
+3136:main~
 adventure:3136/main
 ~
 31 0 1
@@ -1866,7 +1862,7 @@ adventure:3120/look~
 0 -1 3120
 S
 #3137
-indra.work~
+3137:main~
 adventure:3137/main
 ~
 30 8 0
@@ -1894,7 +1890,7 @@ adventure:3137/typewriter
 ~
 S
 #3138
-indra.work~
+3138:main~
 adventure:3138/main
 ~
 30 8 0
@@ -1909,9 +1905,7 @@ adventure/3139/desk
 ~
 E
 chair armchair~
-This chair is really a masterpiece.  A chair where one can sit as comfortably
-as in a bed.  All auditoriums should be equipped with these things.  A shame
-that there wouldn't be room for the students too, though.
+adventure:3138/chair
 ~
 S
 #3139
