@@ -2509,13 +2509,23 @@ adventure:3605/main
 ~
 36 8 1
 D1
-adventure:3604/look
+The Observatory door is made of glass
 ~
+door~
+1 -1 3604
+E
+glass windows~
+The windows must be meant to let the light in.  They are completely clean.
 ~
-0 -1 3604
+E
+benches rows~
+The benches are of the comfortable kind.
+~
 S
 #3606
-3606:main~
+Garden Path~
+  You are on a gravel path winding its way between beautiful evergreen trees on
+the garden.  A water reservior is here.
 ~
 36 0 1
 D1
