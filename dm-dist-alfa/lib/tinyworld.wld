@@ -1706,11 +1706,6 @@ adventure:3125/look
 ~
 ~
 0 -1 3129
-D2
-adventure:3602/look
-~
-~
-0 -1 3602
 D3
 adventure:3127/look
 ~
@@ -2465,11 +2460,6 @@ S
 adventure:3602/main
 ~
 36 0 1
-D0
-adventure:3128/look
-~
-~
-0 -1 3128
 D1
 adventure:3603/look
 ~
@@ -2518,11 +2508,6 @@ S
 adventure:3605/main
 ~
 36 8 1
-D0
-adventure:3129/look
-~
-~
-0 -1 3129
 D1
 adventure:3604/look
 ~
@@ -2531,19 +2516,25 @@ adventure:3604/look
 S
 #3606
 3606:main~
-adventure:3606/main
 ~
 36 0 1
 D1
-adventure:3607/look
+The gravel path continues eastwards towards a gravel road.
 ~
 ~
-0 -1 3607
-D3
-adventure:3605/look
+0 -1 3600
+D2
+The gravel path continues southwards.
 ~
 ~
-0 -1 3605
+0 -1 3608
+D5
+~
+water reservior~
+1 -1 3607
+E
+water reservior~
+It is a large circular slab of grey stone that has been placed face up in the ground.  ~
 S
 #3607
 Water Reservoir~
