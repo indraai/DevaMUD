@@ -352,8 +352,6 @@ O 0 3610 13 3647        Skeleton
 D 0 3648 5 1          Close Tomb 3649 from outside
 D 0 3649 4 1          Close Tomb 3649 from inside
 O 0 3610 13 3649        Skeleton
-D 0 3650 5 1          Close Tomb 3651 from outside
-D 0 3651 4 1          Close Tomb 3651 from inside
 *
 S
 #40
