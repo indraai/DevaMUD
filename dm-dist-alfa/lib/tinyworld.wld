@@ -1680,13 +1680,13 @@ adventure:3128/look
 ~
 ~
 0 -1 3128
-D3
+D2
 adventure:3600/look
 ~
 ~
 0 -1 3600
 D4
-adventure:3306/east
+adventure:3306/look
 ~
 ~
 0 -1 3306
