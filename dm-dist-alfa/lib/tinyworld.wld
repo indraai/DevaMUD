@@ -1900,17 +1900,17 @@ that there wouldn't be room for the students too, though.
 ~
 S
 #3139
-indra.farm~
-   You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
-continues in eastward direction.  To the north is a small shrine dedicated to
-Eru the creator.
+3139:main~
+adventure:3139:main
 ~
 31 0 1
 D1
+adventure:3140/look
 ~
 ~
 0 -1 3140
 D3
+adventure:3132/look
 ~
 ~
 0 -1 3132
