@@ -3005,14 +3005,14 @@ It is a large circular slab of grey stone that has been placed face up in the gr
 ~
 S
 #3651
-Water Reservoir~
+3651:main~
 adventure:3651/main
 ~
 36 8 7
-D4
-~
+D1
+adventure:3601/look~
 water reservoir~
-1 -1 3650
+0 -1 3601
 S
 #3900
 West trail around Amaravati~
