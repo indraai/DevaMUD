@@ -3009,9 +3009,8 @@ S
 adventure:3651/main
 ~
 36 0 1
-D1
-adventure:3601/look
-~
+D4
+adventure:3601/look~
 ~
 0 -1 3601
 S
