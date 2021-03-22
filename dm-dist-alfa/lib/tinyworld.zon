@@ -227,8 +227,33 @@ M 0 3124 2 3113       Duck 1 in Park
 M 0 3124 2 3115       Duck 2 in Park
 *
 M 0 3140 1 3142       SecurityPRIME in H.Q.
-G 1 3122 2               Give SecurityPRIME A wooden key to the desk.
-G 1 3137 2               Give SecurityPRIME A steel key to the jail.
+
+G 1 3122 2            Give SecurityPRIME A wooden key to the desk.
+G 1 3137 2            Give SecurityPRIME A steel key to the jail.
+G 1 3123 2            Give SecurityPRIME A brass key to the jail.
+G 1 3120 2            Give SecurityPRIME iron key to Captain's Office
+G 1 3133 2            Give SecurityPRIME the City Key
+
+G 1 3300 2            Papi's Key to SecurityPRIME
+G 1 3301 2            Quifael's Key to SecurityPRIME
+G 1 7900 2            Indra's Key 1 to SecurityPRIME
+G 1 7901 2            Indra's Key 2 to SecurityPRIME
+G 1 3302 2            Manxam's Key to SecurityPRIME
+G 1 3307 2            Gimli's Key to SecurityPRIME
+G 1 3310 2            Doz' Key to SecurityPRIME
+G 1 3321 2            Mapmaker's Key to SecurityPRIME
+
+G 1 6006 2            John's brass key to SecurityPRIME
+G 1 7205 2            Give master's key to SecurityPRIME
+
+G 1 7911 2            Give key to the safe to SecurityPRIME
+
+G 1 8100 2			      Key to Daemons lair for SecurityPRIME
+
+G 1 8001 2		        blue key for SecurityPRIME
+G 1 8002 2		        red key for SecurityPRIME
+
+
 M 0 3141 4 3142       GuardDEVA in H.Q.
 M 1 3141 4 3142       GuardDEVA in H.Q.
 M 1 3141 4 3142       GuardDEVA in H.Q.
@@ -243,7 +268,6 @@ P 1 3132 1 3131       Put money in safe
 *
 M 0 3060 20 3111      SecurityDEVA 1
 E 1 3022 100 16            wields a longsword
-G 1 3120 2                 Has an iron key to Captain's Office
 M 0 3060 20 3111      SecurityDEVA 2
 E 1 3022 100 16            wields a longsword
 M 0 3060 20 3111      SecurityDEVA 3
