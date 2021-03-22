@@ -1053,7 +1053,7 @@ Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,
 The worm is the protector of the treasure of G'harne and has been so
 for as long anyone can remember.
 ~
-34 8 -1000 S
+34 8 1000 S
 24 0 0 300d2+50 3d8+4
 13666 75000
 8 8 0
@@ -1265,7 +1265,7 @@ colossal body.  Numerous holes in its heavy wings tell of many fights as does
 the nicks in the horns on its head.  It smells as disgusting as only dragons
 do.
 ~
-98 8 -1000 S
+98 8 1000 S
 20 1 0 1d12+248 3d6+4
 0 40000
 8 8 0
@@ -1291,7 +1291,7 @@ This disgusting creature is at the size of a small elephant.  It has eight
 huge, hairy legs that would give it a tremendous speed on almost any surface
 if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
 ~
-99 8 -1000 S
+99 8 1000 S
 15 6 1 1d12+185 2d8+2
 0 28000
 8 8 2
@@ -1331,7 +1331,7 @@ and a short skirt made from black scales joined with silver threads.  Her back
 is covered by a large, hooded cloak as black as her skin and in her broad
 silver belt hangs a long, slender sword in a silver scabbard.
 ~
-1 524296 -1000 S
+1 524296 1000 S
 20 1 0 1d12+245 3d6+4
 5000 40000
 8 8 2
@@ -1342,7 +1342,7 @@ Death the Grim Reaper is observing you silently from empty eye sockets.
 ~
 The dark-robed skeletal figure radiates an unendurable coldness.
 ~
-2 524296 -1000 S
+2 524296 1000 S
 30 0 -10 1d1+665 1d100+0
 0 500000
 8 8
@@ -1380,7 +1380,7 @@ The Great Sewer Rat~
 The Huge Hungry-looking Sewer Rat sits here
 ~
 ~
-32 0 -1000 S
+32 0 1000 S
 5 16 5 1d12+48 2d4+0
 40 1000
 8 8 1
@@ -1431,7 +1431,7 @@ The evil wanderer stares at you
 ~
 The evil wanderer is very thin. He is dressed in a grey cloak.
 ~
-132 0 -1000 S
+132 0 1000 S
 10 11 2 4d10+100 2d6+1
 300 9500
 8 8 1
@@ -1523,7 +1523,7 @@ The red dragon stares at you, angrilly, as it wakes when you
 arrives.  It says 'Oh, human YOU woke me up...Hsssss', while
 it moves closer ,'Can one NEVER sleep in peace..Hssss'.
 ~
-35 8 -1000 S
+35 8 1000 S
 19 2 0 5d4+230 3d6+3
 10000 35100
 8 8 0
