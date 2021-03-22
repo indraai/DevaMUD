@@ -189,7 +189,7 @@ has a calm look on his face.
 #3024
 guarddeva~
 the GuardDEVA~
-A GuardDEVA is guarding the entrance.
+env:guard:stand
 ~
 He is an experienced hero who has specialized in the field of Combat.
 His superior knowledge of offensive and defensive strategy make him a fierce opponent.
@@ -201,7 +201,7 @@ His superior knowledge of offensive and defensive strategy make him a fierce opp
 #3025
 guarddeva~
 the GuardDEVA~
-A GuardDEVA is guarding the entrance.
+env:guard:entrance
 ~
 He is a specially trained hero belonging to the military order of Heroes.
 ~
@@ -225,7 +225,7 @@ formidable opponent.
 #3027
 guarddeva deva~
 the GuardDEVA~
-A GuardDEVA is guarding the entrance.
+env:guard:entrance
 ~
 He is an expert hero who has attained knighthood through countless chivalrous
 deeds.  His duty is to protect, and his extreme skill combined with his
@@ -313,7 +313,7 @@ but do not mess with him or else he'll get upset.
 #3060
 securitydeva~
 a SecurityDEVA~
-A SecurityDEVA is on patrol.
+env:security:patrol
 ~
 A big, strong, helpful, trustworthy SecurityDEVA.
 ~
@@ -390,7 +390,7 @@ Odif is a small dog that has been reversed by some god.
 #3067
 guarddeva~
 the GuardDEVA~
-A GuardDEVA is here, guarding the gate.
+env:guard:gate
 ~
 A big, strong, helpful, trustworthy hero guard.
 ~
@@ -456,7 +456,7 @@ The Wolf looks like a strong, fearless creature.
 #3100
 servicedeva~
 the ServiceDEVA~
-The ServiceDEVA is waiting for your order.
+env:service:waiting
 ~
 She is very polite, which is a good reason for coming here more often.
 ~
@@ -533,7 +533,7 @@ The very active SecurityPRIME.
 #3141
 securitydeva~
 a SecurityDEVA~
-A SecurityDEVA stands here, doing his job.
+env:security:stand
 ~
 A big, strong, capable SecurityDEVA.
 ~
@@ -542,36 +542,37 @@ A big, strong, capable SecurityDEVA.
 0 9000
 8 8 1
 #3142
-secretarydeva~
-the SecretaryDeva~
-A Secretary Deva is sitting at the desk, typing away on the keys.
+servicedeva~
+the ServiceDEVA~
+env:service:sitting:desk:typing
 ~
 She looks very busy.
 >
-The SecretaryDeva says 'Sorry, but the Mayor is extremely busy today.'
-The SecretaryDeva says 'Please sit down and have a seat in the meantime.'
+The ServiceDEVA says 'Sorry, but the Butthead Asshat is extremely sleeping.'
+The ServiceDEVA says 'You can wait, but it's going to be a while.'
 ~
 2 0 900 S
 12 9 2 1d12+148 2d7+1
 100 13000
 8 8 2
 #3143
-mayor~
-the Politician~
-The Politician is sitting in his huge chair, snoring loudly.
+asshat~
+the Butthead King Asshat~
+The Butthead King Asshat is sitting in his huge chair, snoring loudly.
 ~
-He is a stocky, middle-aged man with thin, grey hair.
+He is a stocky, fat, meat eating middle-aged man with thin, grey hair that just
+won't go away.
 ~
 3 0 900 S
 23 2 2 6d10+390 1d8+12
 1000 80000
 4 4 1
 #3144
-crier~
-the Town Crier~
-The Town Crier is here, weeping quietly.
+monk~
+the Traveling Monk~
+The Traveling Monk is here, chanting quietly.
 ~
-He is very good at his job - completely dissolved in tears.
+He is very good at his job - completely dissolved in meditation.
 ~
 128 0 900 S
 1 20 9 2d6+10 1d5+0
@@ -582,9 +583,7 @@ cat~
 the cat~
 Papi's favorite cat is resting here, purring gently.
 ~
-This is just about the most huggable cat you have ever seen! You notice
-that the cat has exceptionally big claws - guess it's nothing to worry
-about as long as you leave it alone.
+This is just about the most huggable cat you have ever seen!
 ~
 66 8 1000 S
 30 0 -10 1d1+500 20d20+100
@@ -593,7 +592,7 @@ about as long as you leave it alone.
 #3600
 gardner~
 the GardenDeva~
-Henry the GardenDeva is sitting here, looking happy.
+env:gardener:sitting
 ~
 He is a tall but bulky.  His features are heightened with decades of hard work
 and his somewhat crouched expression is one of deep contemplation. He is
@@ -694,7 +693,7 @@ He looks dreadful.
 8 8 1
 #4050
 hero~
-the hero~
+the HeroDeva~
 A tall intelligent capable Hero. He will be there when duty calls to fight the great fight that all Heros are born to fight.
 ~
 Well surely a strong, capable, truly intelligent hero.
@@ -705,7 +704,7 @@ Well surely a strong, capable, truly intelligent hero.
 8 8 1
 #4051
 hero~
-the hero~
+the HeroDeva~
 A tall hero.
 ~
 He seems to know his way with weapons.
