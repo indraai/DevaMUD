@@ -85,7 +85,7 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 		GET_MOVE(ch) -= need_movement;
 
 	if (!IS_AFFECTED(ch, AFF_SNEAK)) {
-		sprintf(tmp, "$n leaves %s.", dirs[cmd]);
+		sprintf(tmp, "env[leave]:$n:%s", dirs[cmd]);
 		act(tmp, TRUE, ch, 0,0,TO_ROOM);
 	}
 
@@ -95,7 +95,7 @@ int do_simple_move(struct char_data *ch, int cmd, int following)
 	char_to_room(ch, world[was_in].dir_option[cmd]->to_room);
 
 	if (!IS_AFFECTED(ch, AFF_SNEAK))
-		act("$n has arrived.", TRUE, ch, 0,0, TO_ROOM);
+		act("env[arrive]:$n", TRUE, ch, 0,0, TO_ROOM);
 
 	do_look(ch, "\0",15);
 
