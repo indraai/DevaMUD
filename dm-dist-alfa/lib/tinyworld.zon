@@ -136,44 +136,43 @@ M 0 3022 1 3029       The Thieves Guildmaster
 M 0 3023 1 3023       The Warrior's Guildmaster
 *
 M 0 3024 1 3017       The GuardDEVA
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3025 1 3004       The GuardDEVA
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3026 1 3027       The GuardDEVA
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3027 1 3021       The GuardDEVA
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3060 10 3004      SecurityDEVA 1
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3060 10 3014      SecurityDEVA 2
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3060 10 3017      SecurityDEVA 3
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3060 10 3021      SecurityDEVA 4
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3060 10 3027      SecurityDEVA 5
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3067 4 3041      SecurityDEVA 1 at east gate
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 M 0 3067 4 3041      SecurityDEVA 2 at east gate
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a staff
 *
 M 0 3067 4 3040      SecurityDEVA 1 at west gate
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a longsword
 M 0 3067 4 3040      SecurityDEVA 2 at west gate
-E 1 3022 100 16            wields a longsword
+E 1 3044 100 16            wields a longsword
 *
 M 0 3063 5 3026       A Mercenary (at Dark Alley)
-E 1 3021 100 16            wields a shortsword
 *
 M 0 3064 3 3007       A Happy Monk (at Inn)
 M 0 3065 2 3044       A Beggar in poor alley
@@ -195,6 +194,7 @@ M 0 3093 1 3032       Rottweiler
 M 0 3094 1 3032       Wolf
 *
 O 0 3099 1 3001       Bulletin board in Temple (limbo for starters)
+O 0 3099 1 3110       Bulletin board in Security Office
 *
 S
 #31

@@ -312,7 +312,7 @@ but do not mess with him or else he'll get upset.
 8 8 1
 #3060
 securitydeva~
-the SecurityDEVA~
+a SecurityDEVA~
 A SecurityDEVA is on patrol.
 ~
 A big, strong, helpful, trustworthy SecurityDEVA.
@@ -323,7 +323,7 @@ A big, strong, helpful, trustworthy SecurityDEVA.
 8 8 1
 #3061
 servicedeva~
-the ServiceDEVA~
+a ServiceDEVA~
 A ServiceDeva is cleaning up.
 ~
 The greatest at keeping things tidy. They report to The Amaravati Recycling Center.
@@ -521,8 +521,8 @@ The duck is quite fat.  It looks like it is enjoying life.
 8 8 0
 #3140
 SecurityPRIME~
-the SecurityPRIME~
-SecurityPrime is looking very active.
+the Nitro Ultra Hero SecurityPRIME~
+SecurityPrime is looking very buff.
 ~
 The very active SecurityPRIME.
 ~
@@ -532,10 +532,10 @@ The very active SecurityPRIME.
 8 8 1
 #3141
 securitydeva~
-the SecurityDEVA~
-A SecurityDEVA stands here, looking very happy.
+a SecurityDEVA~
+A SecurityDEVA stands here, doing his job.
 ~
-A big, strong, happy SecurityDEVA.
+A big, strong, capable SecurityDEVA.
 ~
 38 0 1000 S
 10 10 2 1d12+123 1d8+3
