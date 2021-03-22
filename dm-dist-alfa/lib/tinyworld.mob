@@ -339,7 +339,7 @@ Fido is here.
 ~
 Fido is a small dog that has a a happy go lucky bark for life. Always finding new friends, and hunting for treat.
 ~
-129 0 -200 S
+129 0 200 S
 0 20 10 1d6+4 1d4+0
 10 25
 8 8 1
@@ -350,7 +350,7 @@ A talented Artist waiting for a job.
 ~
 He looks very inspired.
 ~
-4 0 -200 S
+4 0 200 S
 5 16 5 2d6+60 1d8+0
 47 900
 8 8 1
@@ -383,7 +383,7 @@ Odif is here, walking backwards.
 ~
 Odif is a small dog that has been reversed by some god.
 ~
-161 0 -200 S
+161 0 200 S
 0 20 10 1d6+4 1d4+0
 10 25
 8 8 1
@@ -609,7 +609,7 @@ A rotting corpse is staggering towards you with outstretched hands.
 ~
 Maggots crawl all over its decaying body.
 ~
-34 0 -750 S
+34 0 750 S
 4 16 5 2d6+60 1d8+2
 0 1200
 8 8 0
@@ -621,7 +621,7 @@ A ghastly ghoul is here.
 It is a walking corpse with long fangs and long, sharp nails that most of
 resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
 ~
-34 0 -750 S
+34 0 750 S
 6 15 4 2d6+72 1d10+2
 0 2000
 8 8 0
@@ -632,7 +632,7 @@ A large dreadful snake.
 ~
 It looks hungry.
 ~
-35 8 -200 S
+35 8 200 S
 11 7 4 5d10+50 3d6+0
 0 12000
 8 8 0
@@ -643,7 +643,7 @@ A small green snake.
 ~
 It looks harmless.
 ~
-3 0 -100 S
+3 0 100 S
 7 12 4 3d10+30 2d6+1
 0 2500
 8 8 0
@@ -665,7 +665,7 @@ A ugly kobold.
 ~
 It looks ugly.
 ~
-68 0 -100 S
+68 0 100 S
 4 16 5 2d10+40 1d8+1
 50 1000
 8 8 0
@@ -676,7 +676,7 @@ The orc walks around, looking for someone to kill.
 ~
 You notice an evil look in his eyes
 ~
-100 0 -400 S
+100 0 400 S
 5 15 5 2d10+60 2d4+0
 100 1300
 8 8 1
@@ -687,7 +687,7 @@ A large orc, really mean.
 ~
 He looks dreadful.
 ~
-68 0 -500 S
+68 0 500 S
 7 11 2 3d20+50 2d6+2
 200 4000
 8 8 1
@@ -698,7 +698,7 @@ A tall intelligent capable Hero. He will be there when duty calls to fight the g
 ~
 Well surely a strong, capable, truly intelligent hero.
 ~
-102 0 -300 S
+102 0 300 S
 12 8 4 10d10+50 2d8+1
 1000 12000
 8 8 1
@@ -709,7 +709,7 @@ A tall hero.
 ~
 He seems to know his way with things.
 ~
-100 0 -400 S
+100 0 400 S
 7 13 5 3d10+80 2d5+0
 200 3500
 8 8 1
@@ -720,7 +720,7 @@ A small hobgoblin stands here.
 ~
 The hobgoblin looks quite lost.
 ~
-68 0 -300 S
+68 0 300 S
 6 12 6 3d8+70 2d4+0
 100 2000
 8 8 1
@@ -731,7 +731,7 @@ A brown snake watches you.
 ~
 The snake looks quite mean.
 ~
-35 0 -600 S
+35 0 600 S
 10 10 4  3d10+50 3d5+1
 0 10000
 8 8 0
@@ -742,7 +742,7 @@ A white centipede is here.
 ~
 The centipede doesn't really seem to notice you.
 ~
-2 0 -100 S
+2 0 100 S
 5 17 5 1d10+50 1d7+0
 0 1300
 8 8 0
@@ -753,7 +753,7 @@ A large hobgoblin is here.
 ~
 The hobgoblin looks quite dangerous.
 ~
-68 0 -500 S
+68 0 500 S
 10 11 2 1d10+120 2d6+1
 300 10000
 8 8 1
@@ -764,7 +764,7 @@ An orc is here, looking for something (or perhaps someone ? ) to eat.
 ~
 Well he doesn't seem to be friendly.
 ~
-100 0 -800 S
+100 0 800 S
 8 13 2 3d10+100 2d5+2
 150 7000
 8 8 1
@@ -776,7 +776,7 @@ knows his way with the magic.
 ~
 His IQ makes almost any Deva.world player think he's stupid..
 ~
-39 8 -100 S
+39 8 100 S
 13 10 2 3d20+100 2d6+0
 1500 17000
 8 8 1
@@ -787,7 +787,7 @@ A large mean-looking troll is here.
 ~
 Well looks dangerous.!
 ~
-38 0 -800 S
+38 0 800 S
 12 8 1 2d10+100 2d7+1
 500 15000
 8 8 1
@@ -798,7 +798,7 @@ A large green snake, looks like a guardian for an evil force.
 ~
 You see a evil creature.
 ~
-39 0 -700 S
+39 0 700 S
 10 8 5 2d30+50 2d5+2
 0 9000
 8 8 1
@@ -820,7 +820,7 @@ A ugly orc is standing here.
 ~
 Yrkk..
 ~
-228 0 -200 S
+228 0 200 S
 7 14 4 1d5+90 2d4+1
 200 2250
 8 8 1
@@ -842,7 +842,7 @@ A hero is here. He has a strong hero grin on his face.
 ~
 He looks very friendly.
 ~
-100 0 -300 S
+100 0 300 S
 9 10 3 3d10+100 2d6+1
 500 9000
 8 8 1
@@ -853,7 +853,7 @@ A green kobold is here.
 ~
 It looks slimy..
 ~
-100 0 -100 S
+100 0 100 S
 7 14 4 2d10+20 1d10+0
 20 3000
 8 8 1
@@ -864,7 +864,7 @@ A blue bat is here.
 ~
 It looks electric.
 ~
-35 0 -100 S
+35 0 100 S
 7 15 4 3d10+70 1d7+1
 0 2200
 8 8 0
@@ -875,7 +875,7 @@ A red bat is here.
 ~
 It looks warm.
 ~
-35 0 -100 S
+35 0 100 S
 7 15 4 3d10+70 1d7+1
 0 2200
 8 8 0
@@ -886,7 +886,7 @@ A green bat is here.
 ~
 It looks poisonous.
 ~
-35 0 -100 S
+35 0 100 S
 7 15 4 3d10+70 1d7+1
 0 2200
 8 8 0
@@ -897,7 +897,7 @@ A white bat is here.
 ~
 It looks cold.
 ~
-35 0 -100 S
+35 0 100 S
 7 15 4 3d10+70 1d7+1
 0 2200
 8 8 0
@@ -908,7 +908,7 @@ A black bat is here.
 ~
 It looks corrosive.
 ~
-35 0 -100 S
+35 0 100 S
 7 15 4 3d10+70 1d7+1
 0 2200
 8 8 0
@@ -930,7 +930,7 @@ A large ugle troll is here.
 ~
 He looks quite mean.
 ~
-38 0 -700 S
+38 0 700 S
 14 8 1 8d20+140 2d7+1
 3000 20000
 8 8 1
@@ -941,7 +941,7 @@ A small mage is here.
 ~
 He is reading in his magic books.
 ~
-101 0 -200 S
+101 0 200 S
 11 10 2 4d10+80 2d5+1
 800 11000
 8 8 1
@@ -963,7 +963,7 @@ A small troll is here.
 ~
 He looks like a normal troll, the standard mud troll..
 ~
-101 0 -300 S
+101 0 300 S
 8 13 3 3d10+80 2d5+2
 500 5000
 8 8 1
@@ -974,7 +974,7 @@ A large orc is here.
 ~
 He looke quite aggressive.
 ~
-101 0 -200 S
+101 0 200 S
 9 12 3 1d20+100 2d5+1
 500 6000
 8 8 1
@@ -986,7 +986,7 @@ Aruncus the Druid is walking around here, searching for herbs.
 Aruncus is a tall, skinny druid with a face marked by nature.
 He seems to be in peace with himself and his surroundings.
 ~
-192 8 -500 S
+192 8 500 S
 13 8 2 6d6+150 3d5+2
 500 15000
 8 8 1
@@ -1092,7 +1092,7 @@ An Innkeeper is here waiting for your order.
 The Innkeeper looks skilled in brewing different beers and mixing the
 weirdest drinks known. He also looks very big.
 ~
-3 0 -100 S
+3 0 100 S
 23 0 0 1d1+30000 2d10+1
 100 80000
 8 8 1
@@ -1141,7 +1141,7 @@ A big, brown, angry-looking bear is here.
 The bear is a big, brown, furry animal with very large claws and very sharp
 teeth.  It doesn't resemble those cute little thingies from toy shops at all.
 ~
-96 0 -50 S
+96 0 50 S
 8 13 3 1d12+98 2d6+2
 0 4000
 4 8 0
@@ -1154,7 +1154,7 @@ This small, furry creature with long ears and big feet has been attacked by
 the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
 rabbits into ferocious and bloodthirsty monsters.
 ~
-96 0 -150 S
+96 0 150 S
 3 17 6 1d4+26 1d8+0
 0 350
 4 8 0
@@ -1177,7 +1177,7 @@ A brown fox is here, looking for some rabbits to chew up.
 ~
 It is a large fox with beautiful, red-brown fur and a long, thick brush.
 ~
-64 0 -50 S
+64 0 50 S
 2 18 6 1d4+18 1d6+0
 0 200
 8 8 0
@@ -1189,7 +1189,7 @@ A vicious warg is here, snarling angrily at you.
 It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
 quickly from its long, white fangs.  It looks quite dangerous and very angry.
 ~
-96 0 -350 S
+96 0 350 S
 5 16 5 1d12+60 2d4+0
 0 1000
 8 8 0
@@ -1201,7 +1201,7 @@ A ferocious warg is here, snarling angrily at you.
 It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
 quickly from its long, white fangs.  It looks quite dangerous and very angry.
 ~
-96 0 -350 S
+96 0 350 S
 5 16 5 1d12+60 2d4+0
 0 1000
 8 8 0
@@ -1212,7 +1212,7 @@ A large, grey wolf is here, glaring hungrily at you.
 ~
 The large, grey wolf eyes you with interest while licking its lips.
 ~
-96 0 -150 S
+96 0 150 S
 3 18 7 1d12+35 1d7+0
 0 450
 8 8 0
@@ -1223,7 +1223,7 @@ A large, black wolf is here, glaring hungrily at you.
 ~
 The large, black wolf eyes you with interest while licking its lips.
 ~
-96 0 -150 S
+96 0 150 S
 3 18 7 1d12+35 1d7+0
 0 450
 8 8 0
@@ -1278,7 +1278,7 @@ This disgusting creature is at the size of a human crawling on all four.  It
 has eight hairy legs that gives it a tremendous speed on almost any surface and
 sharp poisonous fangs to paralyze or kill its prey.
 ~
-99 0 -350 S
+99 0 350 S
 8 13 2 1d12+98 2d5+1
 0 6000
 8 8 0
@@ -1316,7 +1316,7 @@ A little, friendly hug bird is here, looking for something to hug.
 It is one of those little creatures that like to find sad/weakpoints in our system. They do act a little weird.  Programmers spend countless hours working with them to identify problems, but they are indeed very friendly.
 Deva.world is known to be one of their favorite habitats.
 ~
-64 0 -50 S
+64 0 50 S
 1 10 0 1d4+1 1d2+0
 0 200
 8 8 0
@@ -1357,7 +1357,7 @@ a huge figure made up from mud alone, and it sure looks like it had human
 flesh for breakfast and is strongly intent on having the same for dinner
 - Perhaps you?
 ~
-64 524288 -250 S
+64 524288 250 S
 12 9 2 4d6+140 2d7+1
 100 15000
 5 5 0
@@ -1370,7 +1370,7 @@ You have never in your entire life seen such a mean looking small creature,
 though it looks rather peaceful, hanging there, sleeping. The thought of
 arousing this cruel creature doesn't seem appealing.
 ~
-96 524288 -500 S
+96 524288 500 S
 1 20 4 5d2+6 1d5+0
 0 200
 4 4 0
@@ -1390,7 +1390,7 @@ The small Spider~
 The small hairy Spider
 ~
 ~
-32 524288 -700 S
+32 524288 700 S
 1 20 3 1d12+8 1d4+0
 1 100
 8 8 1
@@ -1400,7 +1400,7 @@ The giant earth beetle~
 The Giant Mean-looking Earth Beetle
 ~
 ~
-0 0 -300 S
+0 0 300 S
 8 13 3 2d10+98 2d5+1
 1000 5000
 4 4 1
@@ -1420,7 +1420,7 @@ The slithering snake~
 The snake slithers towards you
 ~
 ~
-33 0 -500 S
+33 0 500 S
 4 16 7 2d5+40 1d9+0
 1 1000
 8 8 0
@@ -1444,7 +1444,7 @@ The Homonculus appears in a man-like form, about 18'' tall, it has a
 greenish, reptilian skin, leathery wings, and a batlike mouth, with
 teeth gleaming yellow.
 ~
-0 8 -780 S
+0 8 780 S
 11 10 1 6d3+130 2d6+2
 500 11500
 8 8 0
@@ -1469,7 +1469,7 @@ The chr-eff'n are crawling here, looking around with it's yellow eyes.
 The head and torso of a chr-eff'n is copper-covered, with yellow
 ,glowing eyes. The lower body is in an orange shading.
 ~
-132 524296 -830 S
+132 524296 830 S
 12 9 2 2d26+148 2d7+1
 1500 13000
 8 8 0
@@ -1482,7 +1482,7 @@ It's a five feet tall, shadow monster. The shape of this creature lies
 somewhere between a human and a rat. It breaths very heavily, while staring
 at you with such a glint in the eyes that reminds you of immense hunger.
 ~
-160 0 -900 S
+160 0 900 S
 10 12 3 1d20+120 2d6+0
 1 9000
 8 8 0
@@ -1510,7 +1510,7 @@ a huge figure made up from mud alone, and it sure looks like it had human
 flesh for breakfast and is strongly intent on having the same for dinner
 - Perhaps you?
 ~
-96 524288 -250 S
+96 524288 250 S
 12 9 2 4d6+140 2d7+1
 1000 15000
 5 5 0
@@ -1537,7 +1537,7 @@ fear: Big yellow eyes and sharp teeths. Its ears are very big,
 and it have small sharp horns. This type of monsters are one of
 the greatest haters of beauty (Next after Medusa).
 ~
-32 0 -800 S
+32 0 800 S
 14 7 1 1d8+172 2d8+1
 0 18000
 8 8 2
@@ -1564,7 +1564,7 @@ The basilisk is a reptilian monster. It has eight legs, and a strong
 toothy jaws. It is dull brown with yellowish underbell. It's eyes are
 glowing pale green.
 ~
-36 8 -250 S
+36 8 250 S
 13 11 0 1d12+160 2d7+2
 350 16000
 8 8 0
@@ -1577,7 +1577,7 @@ mouth going a little bit out from the face. The lemure does not look
 interested in you at all, but anyway it attackes. It looks like it's
 mind has been burned out.
 ~
-32 4194304 -500 S
+32 4194304 500 S
 5 16 6 3d5+57 2d4+0
 0 1000
 8 8 0
@@ -1589,7 +1589,7 @@ At the first sight you thought Jones was an Orc, but when it came
 closer you saw his second head. He wears an animal skinn dress,
 filthy and moth eaten. Jones really stinks...
 ~
-36 0 -480 S
+36 0 480 S
 10 11 2 1d5+130 2d6+2
 60 11000
 5 5 1
@@ -1614,7 +1614,7 @@ It's a seven foot tall humanoid dressed in a purple cloak, and swinging a
 black and purple rod above its head as if it was going to attack you any
 moment now. In the middle of its head are four tentacles with sharp points.
 ~
-36 8 -800 S
+36 8 800 S
 14 7 0 1d10+170 3d4+4
 0 18000
 8 8 0
@@ -1627,7 +1627,7 @@ This is a horrifying monster indeed, 6'6" high. Dressed in purple and black,
 and carrying a large mace in its hand. In the center of its head are four large
 tentacles with very sharp points.
 ~
-4 8 -600 S
+4 8 600 S
 8 13 2 1d10+100 2d4+3
 400 3750
 8 8 0
@@ -1640,7 +1640,7 @@ This mindflayer is six foot high. It has a small mace in its belt, and is
 dressed in purple and black cloth. It has four small tentacles in the
 center of its head.
 ~
-132 8 -350 S
+132 8 350 S
 6 15 4 1d10+75 1d4+2
 200 1500
 8 8 0
@@ -1652,7 +1652,7 @@ An ugly wererat is here, looking at you with a strange flick in his eyes.
 The wererat is about four foot tall. It looks very much like rat, exept
 that it is standing.
 ~
-100 0 -700 S
+100 0 700 S
 6 15 3 4d6+69 2d4+2
 50 1500
 8 8 0
@@ -1664,7 +1664,7 @@ There is a gigantic rat here, looking at you with a hungry look.
 The gigantic rat is about ten foot long from head to tail and has claws
 the size of your head looking very nasty.
 ~
-34 0 -800 S
+34 0 800 S
 12 9 2 1d10+150 2d6+2
 2513 13000
 4 8 1
@@ -1678,7 +1678,7 @@ blades, claws and edges makes it near impossible to see its actual
 body. It is gleaming, a metallic black, although occasionally a claw or
 blade changes colour for a while, becoming a neon yellow.
 ~
-64 0 -500 S
+64 0 500 S
 9 11 -3 9d6+81 1d20+0
 0 9000
 8 8 0
