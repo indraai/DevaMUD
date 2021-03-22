@@ -1939,6 +1939,7 @@ adventure:3140/look
 0 -1 3140
 S
 #3142
+3142:main~
 adventure:3142:main~
 ~
 31 8 0
@@ -1958,7 +1959,7 @@ adventure:3142/arms
 ~
 S
 #3143
-3143:main
+3143:main~
 adventure:3143/main~
 ~
 31 8 0
