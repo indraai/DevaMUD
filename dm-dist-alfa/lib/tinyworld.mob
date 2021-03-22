@@ -189,7 +189,7 @@ has a calm look on his face.
 #3024
 guarddeva~
 the GuardDEVA~
-env:guard:stand
+GuardDEVA is standing here.
 ~
 He is an experienced hero who has specialized in the field of Combat.
 His superior knowledge of offensive and defensive strategy make him a fierce opponent.
@@ -201,7 +201,7 @@ His superior knowledge of offensive and defensive strategy make him a fierce opp
 #3025
 guarddeva~
 the GuardDEVA~
-env:guard:entrance
+GuardDEVA is guarding the entrance.
 ~
 He is a specially trained hero belonging to the military order of Heroes.
 ~
@@ -225,7 +225,7 @@ formidable opponent.
 #3027
 guarddeva deva~
 the GuardDEVA~
-env:guard:entrance
+GuardDEVA is guarding the entrance.
 ~
 He is an expert hero who has attained knighthood through countless chivalrous
 deeds.  His duty is to protect, and his extreme skill combined with his
@@ -313,7 +313,7 @@ but do not mess with him or else he'll get upset.
 #3060
 securitydeva~
 a SecurityDEVA~
-env:security:patrol
+SecurityDeva is on patrol
 ~
 A big, strong, helpful, trustworthy SecurityDEVA.
 ~
@@ -324,7 +324,7 @@ A big, strong, helpful, trustworthy SecurityDEVA.
 #3061
 servicedeva~
 a ServiceDEVA~
-A ServiceDeva is cleaning up.
+ServiceDeva is cleaning up.
 ~
 The greatest at keeping things tidy. They report to The Amaravati Recycling Center.
 ~
@@ -390,7 +390,7 @@ Odif is a small dog that has been reversed by some god.
 #3067
 guarddeva~
 the GuardDEVA~
-env:guard:gate
+GuardDEVA is guarding the gate.
 ~
 A big, strong, helpful, trustworthy hero guard.
 ~
@@ -456,7 +456,7 @@ The Wolf looks like a strong, fearless creature.
 #3100
 servicedeva~
 the ServiceDEVA~
-env:service:waiting
+ServiceDEVA is waiting for your request.
 ~
 She is very polite, which is a good reason for coming here more often.
 ~
@@ -533,7 +533,7 @@ The very active SecurityPRIME.
 #3141
 securitydeva~
 a SecurityDEVA~
-env:security:stand
+SecurityDEVA is standing here.
 ~
 A big, strong, capable SecurityDEVA.
 ~
@@ -544,7 +544,7 @@ A big, strong, capable SecurityDEVA.
 #3142
 servicedeva~
 the ServiceDEVA~
-env:service:sitting:desk:typing
+ServiceDEVA is sitting at the desk typing away at the keys.
 ~
 She looks very busy.
 >
@@ -591,8 +591,8 @@ This is just about the most huggable cat you have ever seen!
 5 5 0
 #3600
 gardner~
-the GardenDeva~
-env:gardener:sitting
+the GardenDEVA~
+The GardenerDEVA is happy thinking about all the herbs, fruits, and vegetables he is growing.
 ~
 He is a tall but bulky.  His features are heightened with decades of hard work
 and his somewhat crouched expression is one of deep contemplation. He is
@@ -707,7 +707,7 @@ hero~
 the HeroDeva~
 A tall hero.
 ~
-He seems to know his way with weapons.
+He seems to know his way with things.
 ~
 100 0 -400 S
 7 13 5 3d10+80 2d5+0
@@ -837,8 +837,8 @@ Well it doesn't seem to pay any attention towards you.
 8 8 0
 #4106
 hero~
-the Hero~
-A human hero is here. He has a strong hero grin on his face.
+the HeroDEVA~
+A hero is here. He has a strong hero grin on his face.
 ~
 He looks very friendly.
 ~
