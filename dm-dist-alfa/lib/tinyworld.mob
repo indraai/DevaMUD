@@ -7,7 +7,7 @@ Grauda the Great Eagle is here, contemplating a higher reality.
 1 0 1000 S
 26 1 -1 5d10+550 4d6+3
 10000 155000
-8 8 2
+8 8 1
 #3000
 wizard~
 the Wizard~
@@ -311,7 +311,7 @@ but do not mess with him or else he'll get upset.
 2000 80000
 8 8 1
 #3060
-securitydeva~
+security securitydeva~
 a SecurityDEVA~
 SecurityDEVA is on patrol
 ~
@@ -339,7 +339,7 @@ Fido is here.
 ~
 Fido is a small dog that has a a happy go lucky bark for life. Always finding new friends, and hunting for treat.
 ~
-161 0 -200 S
+129 0 -200 S
 0 20 10 1d6+4 1d4+0
 10 25
 8 8 1
@@ -372,7 +372,7 @@ A novice monk is here collecting offerings.
 ~
 The novice looks like she is very happy with life.
 ~
-2 0 400 S
+0 0 400 S
 1 20 9 2d6+10 1d5+0
 0 100
 8 8 2
@@ -526,7 +526,7 @@ SecurityPRIME is looking very buff.
 ~
 The very active SecurityPRIME.
 ~
-38 8 1000 S
+36 8 1000 S
 17 4 1 1d12+210 1d8+8
 0 28000
 8 8 1
