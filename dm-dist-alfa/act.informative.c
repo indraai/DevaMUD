@@ -1135,7 +1135,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 					sprintf(buf, "\n%s: %s", i->player.short_descr,
 						world[i->in_room].name);
 				else
-					sprintf(buf, "\n%s: %s", i->player.name,
+					sprintf(buf, "\n'%s': %s", i->player.name,
 						world[i->in_room].name);
 
 				// if (GET_LEVEL(ch) >= 21)
