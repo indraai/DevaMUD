@@ -244,24 +244,24 @@ G 1 8001 2		        blue key for SecurityPRIME
 G 1 8002 2		        red key for SecurityPRIME
 
 
-M 0 3141 20 3142       Security in H.Q.
+M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3142       Security in H.Q.
+M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3142       Security in H.Q.
+M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3142       Security in H.Q.
+M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
 *
-M 0 3141 20 3110       Security in H.Q.
+M 0 3141 5 3110       Security in 3110
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3110       Security in H.Q.
+M 0 3141 5 3600       Security in 3600
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3110       Security in H.Q.
+M 0 3141 5 3001       Security in 3001
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3110       Security in H.Q.
+M 0 3141 5 3300       Security in 3300
 E 1 3044 100 16            wields a staff
-M 0 3141 20 3110       Security in H.Q.
+M 0 3141 5 3600       Security in 3600
 E 1 3044 100 16            wields a staff
 *
 *R 0 3142 3130         Remove the desk (if any)
