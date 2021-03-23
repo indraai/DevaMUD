@@ -317,7 +317,7 @@ img:3110/emoji.png
 ~
 A big, strong, helpful, trustworthy SecurityDEVA.
 ~
-193 0 1000 S
+0 12 1000 S
 10 10 2 1d12+123 1d8+3
 500 9000
 8 8 1
@@ -526,7 +526,7 @@ SecurityPRIME is looking very buff.
 ~
 The very active SecurityPRIME.
 ~
-36 8 1000 S
+0 12 1000 S
 17 4 1 1d12+210 1d8+8
 0 28000
 8 8 1
@@ -537,7 +537,7 @@ SecurityDEVA is standing here.
 ~
 A big, strong, capable SecurityDEVA.
 ~
-38 0 1000 S
+0 12 1000 S
 10 10 2 1d12+123 1d8+3
 0 9000
 8 8 1
@@ -563,7 +563,7 @@ The Butthead King Asshat is sitting in his huge chair, snoring loudly.
 He is a stocky, fat, meat eating middle-aged man with thin, grey hair that just
 won't go away.
 ~
-3 0 900 S
+2 0 900 S
 23 2 2 6d10+390 1d8+12
 1000 80000
 4 4 1
