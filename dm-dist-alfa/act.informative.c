@@ -1132,7 +1132,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			    (world[i->in_room].zone == world[ch->in_room].zone))) {
 
 				if (IS_NPC(i))
-					sprintf(buf, "\n%s: %s", i->player.short_descr,
+					sprintf(buf, "\n'%s': %s", i->player.short_descr,
 						world[i->in_room].name);
 				else
 					sprintf(buf, "\n'%s': %s", i->player.name,
