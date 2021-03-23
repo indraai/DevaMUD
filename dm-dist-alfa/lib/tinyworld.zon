@@ -264,12 +264,6 @@ P 1 3132 1 3131       Put money in safe
 *
 M 0 3060 5 3001       Security in 3001
 E 1 3044 100 16            wields a staff
-M 0 3060 5 3301       Security in 3301
-E 1 3044 100 16            wields a staff
-M 0 3060 5 3601       Security in 3601
-E 1 3044 100 16            wields a staff
-M 0 3060 5 7285       Security in 7285
-E 1 3044 100 16            wields a staff
 *
 M 0 3060 5 3111      SecurityDEVA 1
 E 1 3044 100 16            wields a staff

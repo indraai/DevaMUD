@@ -42,25 +42,25 @@ adventure:3001/look
 0 -1 3001
 S
 #1200
-1200:indra.house~
+1200:main~
 adventure:1200/main
 ~
 0 520 0
 S
 #1201
-1201:indra.house~
+1201:main~
 adventure:1201/main
 ~
 0 520 0
 S
 #1202
-1202:indra.house~
+1202:main~
 adventure:1202/main
 ~
 0 520 0
 S
 #3001
-3001:indra.house~
+3001:main~
 adventure:3001/main
 ~
 30 12 0
@@ -79,7 +79,7 @@ adventure:3005/look~
 0 -1 3005
 S
 #3002
-3002:rahula.guru~
+3002:main~
 adventure:3002/main
 ~
 30 12 0
@@ -95,7 +95,7 @@ adventure:7026/look
 0 -1 7026
 S
 #3003
-3003:rahula.club~
+3003:main~
 adventure:3003/main
 ~
 30 12 0
@@ -115,7 +115,7 @@ adventure:3003/sign
 ~
 S
 #3004
-3004:rahula.me~
+3004:main~
 adventure:3004/main
 ~
 30 8 0
@@ -131,7 +131,7 @@ adventure:3005/look
 0 -1 3005
 S
 #3005
-3005:indra.site~
+3005:main~
 adventure:3005/main
 ~
 30 0 1
@@ -157,7 +157,7 @@ adventure:3001/look
 0 -1 3001
 S
 #3006
-3006:indra.academy~
+3006:main~
 adventure:3006/main
 ~
 30 8 0
@@ -178,7 +178,7 @@ adventure:3008/look
 0 -1 3008
 S
 #3007
-3007:indra.blue~
+3007:main~
 adventure:3007/main
 ~
 30 8 0
@@ -197,7 +197,7 @@ adventure:3007/symbols
 ~
 S
 #3008
-3008:indra.academy~
+3008:main~
 adventure:3008/main
 ~
 30 8 0

@@ -312,10 +312,10 @@ but do not mess with him or else he'll get upset.
 8 8 1
 #3060
 security securitydeva~
-a SecurityDEVA~
+SecurityDEVA~
 img:3110/emoji.png
 ~
-A big, strong, helpful, trustworthy SecurityDEVA.
+Our favorte goto SecurityDEVA for everyday needs. They are always around when you need them and are excellent at spotting evil doers.
 ~
 0 12 1000 S
 10 10 2 1d12+123 1d8+3
@@ -531,19 +531,19 @@ Managing indra.agency SecurityPRIME handles a large team of SecurityDEVA, GuardD
 0 28000
 8 8 1
 #3141
-security securitydeva~
-a SecurityDEVA~
-SecurityDEVA is standing here.
+elite security securitydeva~
+Elite SecurityDEVA~
+Elite SecurityDEVA is standing here.
 ~
-A big, strong, capable SecurityDEVA.
+Elite SecurityDEVA are members of SecurityPRIME elite teams.
 ~
 0 12 1000 S
 10 10 2 1d12+123 1d8+3
 0 9000
 8 8 1
 #3142
-servicedeva~
-the ServiceDEVA~
+service servicedeva~
+ServiceDEVA~
 ServiceDEVA is sitting at the desk typing away at the keys.
 ~
 She looks very busy.
