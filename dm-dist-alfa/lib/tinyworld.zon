@@ -244,13 +244,24 @@ G 1 8001 2		        blue key for SecurityPRIME
 G 1 8002 2		        red key for SecurityPRIME
 
 
-M 0 3141 4 3142       GuardDEVA in H.Q.
+M 0 3141 20 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 1 3141 4 3142       GuardDEVA in H.Q.
+M 0 3141 20 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 1 3141 4 3142       GuardDEVA in H.Q.
+M 0 3141 20 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
-M 1 3141 4 3142       GuardDEVA in H.Q.
+M 0 3141 20 3142       Security in H.Q.
+E 1 3044 100 16            wields a staff
+*
+M 0 3141 20 3110       Security in H.Q.
+E 1 3044 100 16            wields a staff
+M 0 3141 20 3110       Security in H.Q.
+E 1 3044 100 16            wields a staff
+M 0 3141 20 3110       Security in H.Q.
+E 1 3044 100 16            wields a staff
+M 0 3141 20 3110       Security in H.Q.
+E 1 3044 100 16            wields a staff
+M 0 3141 20 3110       Security in H.Q.
 E 1 3044 100 16            wields a staff
 *
 *R 0 3142 3130         Remove the desk (if any)
