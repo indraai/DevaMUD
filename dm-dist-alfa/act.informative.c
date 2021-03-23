@@ -1145,7 +1145,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 				// else
 				strcpy(buf2, "\n\r");
 
-				strcat(buf, buf2);
+				strcat("\n\r", buf, buf2);
 				send_to_char(buf, ch);
 
 				if (GET_LEVEL(ch) < 21)
