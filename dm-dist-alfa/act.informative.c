@@ -1123,7 +1123,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		}
 	}
 
-	*buf = '\0';
+	*buf = '\-\-\n\0';
 
 	for (i = character_list; i; i = i->next)
 		if (isname(name, i->player.name) && CAN_SEE(ch, i) )
