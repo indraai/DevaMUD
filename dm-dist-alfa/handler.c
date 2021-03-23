@@ -982,14 +982,13 @@ void extract_char(struct char_data *ch)
 	was_in = ch->in_room;
 	char_from_room(ch);
 
-	/* clear equipment_list */
+	/* clear equipment_list
 	for (l = 0; l < MAX_WEAR; l++)
 		if (ch->equipment[l])
 			obj_to_room(unequip_char(ch,l), was_in);
-
+	*/
 
 	/* pull the char from the list */
-
 	if (ch == character_list)
 	   character_list = ch->next;
 	else
@@ -1022,7 +1021,7 @@ void extract_char(struct char_data *ch)
 	if (ch->desc) {
 		ch->desc->connected = CON_SLCT;
 		char_to_room(ch, real_room(0));
-		// SEND_TO_Q(MENU, ch->desc);
+		SEND_TO_Q(MENU, ch->desc);
 	}
 }
 
