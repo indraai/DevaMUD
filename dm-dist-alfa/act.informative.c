@@ -1138,10 +1138,10 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 					sprintf(buf, "\n%s: %s", i->player.name,
 						world[i->in_room].name);
 
-				if (GET_LEVEL(ch) >= 21)
-					sprintf(buf2,"\n%d", world[i->in_room].number);
-				else
-					strcpy(buf2, "\n\r");
+				// if (GET_LEVEL(ch) >= 21)
+				// 	sprintf(buf2,"\n%d", world[i->in_room].number);
+				// else
+				// 	strcpy(buf2, "\n\r");
 
 				strcat(buf, buf2);
 				send_to_char(buf, ch);
