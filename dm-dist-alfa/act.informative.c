@@ -1132,14 +1132,14 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 			    (world[i->in_room].zone == world[ch->in_room].zone))) {
 
 				if (IS_NPC(i))
-					sprintf(buf, "where[%s]:%s\n\r", i->player.short_descr,
+					sprintf(buf, "\n%s: %s", i->player.short_descr,
 						world[i->in_room].name);
 				else
-					sprintf(buf, "where[%s]:%s\n\r", i->player.name,
+					sprintf(buf, "\n%s: %s", i->player.name,
 						world[i->in_room].name);
 
 				if (GET_LEVEL(ch) >= 21)
-					sprintf(buf2,"where[%d]\n\r", world[i->in_room].number);
+					sprintf(buf2,"\n%d", world[i->in_room].number);
 				else
 					strcpy(buf2, "\n\r");
 
@@ -1155,10 +1155,10 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		for (k = object_list; k; k = k->next)
 			if (isname(name, k->name) && CAN_SEE_OBJ(ch, k) &&
 				(k->in_room != NOWHERE)) {
-					sprintf(buf, "where[%s]:%s [%d]\n\r",
-						k->short_description,
+					sprintf(buf, "%d:%s %s\n\r",
+						world[k->in_room].number,
 						world[k->in_room].name,
-						world[k->in_room].number);
+						k->short_description);
 						send_to_char(buf, ch);
 				}
 	}
