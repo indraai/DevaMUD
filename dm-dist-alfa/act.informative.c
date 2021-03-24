@@ -736,11 +736,11 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	send_to_char(buf, ch);
 
 	if (GET_COND(ch,DRUNK)>10)
-		send_to_char("You are intoxicated.\n\r", ch);
+		send_to_char("🥴", ch);
 	if (!GET_COND(ch,THIRST))
-		send_to_char("You are thirsty.\n\r", ch);
+		send_to_char("🧃", ch);
 	if (!GET_COND(ch,FULL))
-		send_to_char("You are hungry.\n\r", ch);
+		send_to_char("🥣", ch);
 
 	sprintf(buf,
 		"\n# Score\n--\n\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
