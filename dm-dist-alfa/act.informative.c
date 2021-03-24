@@ -825,7 +825,7 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	else
 		suf = "th";
 
-	sprintf(buf, "\n# Time\n=\ntime[clock]: %s %d%s - %s %d%s, %d\n\r",
+	sprintf(buf, "time: %s %d%s - %s %d%s, %d\n\r",
 		weekdays[weekday],
 		((time_info.hours % 12 == 0) ? 12 : ((time_info.hours) % 12)),
 		((time_info.hours >= 12) ? "pm" : "am"),
