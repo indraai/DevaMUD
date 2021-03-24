@@ -803,15 +803,8 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	extern const char *weekdays[];
 	extern const char *month_name[];
 
-	sprintf(buf, "\ntime[clock]: %d%s",
-		((time_info.hours % 12 == 0) ? 12 : ((time_info.hours) % 12)),
-		((time_info.hours >= 12) ? "pm" : "am") );
-	send_to_char(buf,ch);
-
 	weekday = ((35*time_info.month)+time_info.day+1) % 7;/* 35 days in a month */
-	sprintf(buf, "\ntime[day]: %s",
-		weekdays[weekday]);
-	send_to_char(buf,ch);
+
 
 	day = time_info.day + 1;   /* day in [1..35] */
 
@@ -832,13 +825,17 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	else
 		suf = "th";
 
-	sprintf(buf, "\ntime[date]:%s %d%s, %d",
+	sprintf(buf, "\ntime[clock]: %s %d%s - %s %d%s, %d\n\r",
+		weekdays[weekday],
+		((time_info.hours % 12 == 0) ? 12 : ((time_info.hours) % 12)),
+		((time_info.hours >= 12) ? "pm" : "am"),
 		month_name[time_info.month],
 		day,
 		suf,
 		time_info.year);
 
 	send_to_char(buf,ch);
+
 }
 
 
