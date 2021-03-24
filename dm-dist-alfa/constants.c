@@ -100,32 +100,32 @@ const char *dirs[] =
 };
 
 const char *weekdays[7] = {
-	"the Day of the Moon",
-	"the Day of the Bull",
-	"the Day of the Deception",
-	"the Day of Thunder",
-	"the Day of Freedom",
-	"the day of the Great Gods",
-	"the Day of the Sun" };
+	"Mon",
+	"Tue",
+	"Wed",
+	"Thu",
+	"Fri",
+	"Sat",
+	"Sun" };
 
 const char *month_name[17] = {
-	"Month of Winter",           /* 0 */
-	"Month of the Winter Wolf",
-	"Month of the Frost Giant",
-	"Month of the Old Forces",
-	"Month of the Grand Struggle",
-	"Month of the Spring",
-	"Month of Nature",
-	"Month of Futility",
-	"Month of the Dragon",
-	"Month of the Sun",
-	"Month of the Heat",
-	"Month of the Battle",
-	"Month of the Dark Shades",
-	"Month of the Shadows",
-	"Month of the Long Shadows",
-	"Month of the Ancient Darkness",
-	"Month of the Great Evil"
+	"Ekam",           /* 0 */
+	"Dve",
+	"Treeni",
+	"Chatvaari",
+	"Pancha",
+	"Shat",
+	"Sapta",
+	"Ashta",
+	"Nava",
+	"Dasha",
+	"Ekaadasha",
+	"Dvaadasha",
+	"Trayodasha",
+	"Chaturdasha",
+	"Panchadasha",
+	"Shodash",
+	"Saptadasha"
 };
 
 const int sharp[] = {
@@ -252,12 +252,12 @@ const char *fullness[] =
 
 const struct title_type titles[4][25] = {
 { {"the Man","the Woman",0},
-  {"the Apprentice of Magic","the Apprentice of Magic",1},
-  {"the Spell Student","the Spell Student",2500},
-  {"the Scholar of Magic","the Scholar of Magic",5000},
-  {"the Delver in Spells","the Delveress in Spells",10000},
-  {"the Medium of Magic","the Medium of Magic",20000},
-  {"the Scribe of Magic","the Scribess of Magic",40000},
+  {"the Apprentice","the Apprentice",1},
+  {"the Student","the Student",2500},
+  {"the Scholar","the Scholar",5000},
+  {"the Delver","the Delveress",10000},
+  {"the Medium","the Medium",20000},
+  {"the Scribe","the Scribess",40000},
   {"the Seer","the Seeress",60000},
   {"the Sage","the Sage",90000},
   {"the Illusionist","the Illusionist",135000},
