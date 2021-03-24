@@ -825,8 +825,9 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	else
 		suf = "th";
 
-	sprintf(buf, "time: %d %s %s %d%s %d\n\r",
-		time_info.hours,
+	sprintf(buf, "time: %d%s %s %s %d%s, %d\n\r",
+		((time_info.hours % 12 == 0) ? 12 : ((time_info.hours) % 12)),
+		((time_info.hours >= 12) ? "pm" : "am"),
 		weekdays[weekday],
 		month_name[time_info.month],
 		day,
