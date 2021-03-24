@@ -136,6 +136,9 @@ struct time_info_data mud_time_passed(time_t t2, time_t t1)
   now.hours = (secs/SECS_PER_MUD_HOUR) % 24;  /* 0..23 hours */
   secs -= SECS_PER_MUD_HOUR*now.hours;
 
+	now.minutes = (secs/SECS_PER_REAL_HOUR);
+	now.seconds = secs;
+
   now.day = (secs/SECS_PER_MUD_DAY) % 35;     /* 0..34 days  */
   secs -= SECS_PER_MUD_DAY*now.day;
 
