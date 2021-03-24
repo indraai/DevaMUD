@@ -244,7 +244,7 @@ G 1 8001 2		        blue key for SecurityPRIME
 G 1 8002 2		        red key for SecurityPRIME
 
 
-M 0 3141 5 3142       Security in H.Q.
+M 0 3141 5 z       Security in H.Q.
 E 1 3044 100 16            wields a staff
 M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
@@ -255,8 +255,6 @@ E 1 3044 100 16            wields a staff
 M 0 3141 5 3142       Security in H.Q.
 E 1 3044 100 16            wields a staff
 *
-*R 0 3142 3130         Remove the desk (if any)
-*R 0 3142 3131         Remove the safe (if any)
 O 0 3130 1 3142       Load the desk
 P 1 3123 1 3130         Put brass key in desk
 O 0 3131 1 3142       Load the safe
