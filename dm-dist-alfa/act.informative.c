@@ -839,7 +839,7 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	send_to_char(buf,ch);
 
 	sprintf(buf, "time[day]: %s\n\r",
-		weekday);
+		weekdays[weekday]);
 
 	send_to_char(buf,ch);
 
