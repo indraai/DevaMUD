@@ -826,7 +826,7 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 		suf = "th";
 
 	sprintf(buf, "time: %d %s %s %d%s %s\n\r",
-		time_info.hours
+		time_info.hours,
 		weekdays[weekday],
 		month_name[time_info.month],
 		day,
