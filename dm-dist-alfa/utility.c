@@ -27,7 +27,7 @@ int MAX(int a, int b)
 }
 
 /* creates a random number in interval [from;to] */
-int number(int from, int to) 
+int number(int from, int to)
 {
 	return((random() % (to - from + 1)) + from);
 }
@@ -35,7 +35,7 @@ int number(int from, int to)
 
 
 /* simulates dice roll */
-int dice(int number, int size) 
+int dice(int number, int size)
 {
   int r;
   int sum = 0;
@@ -59,7 +59,7 @@ void slog(char *str)
 	*(tmstr + strlen(tmstr) - 1) = '\0';
 	fprintf(stderr, "%s :: %s\n", tmstr, str);
 }
-	
+
 
 
 void sprintbit(long vektor, char *names[], char *result)
@@ -110,6 +110,9 @@ struct time_info_data real_time_passed(time_t t2, time_t t1)
 
   now.hours = (secs/SECS_PER_REAL_HOUR) % 24;  /* 0..23 hours */
   secs -= SECS_PER_REAL_HOUR*now.hours;
+
+  now.minutes = (secs/SECS_PER_REAL_HOUR);
+	now.seconds = secs;
 
   now.day = (secs/SECS_PER_REAL_DAY);          /* 0..34 days  */
   secs -= SECS_PER_REAL_DAY*now.day;
