@@ -836,7 +836,7 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	//
 	// send_to_char(buf,ch);
 
-	sprintf(buf, "time: %d:%d:%s\n\r",
+	sprintf(buf, "time: %d:%d:%d\n\r",
 		time_info.hours,
 		time_info.minutes,
 		time_info.seconds);
