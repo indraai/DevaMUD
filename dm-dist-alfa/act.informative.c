@@ -832,10 +832,10 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	else
 		suf = "th";
 
-	sprintf(buf, "The %d%s Day of the %s, Year %d.\n\r",
+	sprintf(buf, "date:%s %d%s, %d\n\r",
+		month_name[time_info.month],
 		day,
 		suf,
-		month_name[time_info.month],
 		time_info.year);
 
 	send_to_char(buf,ch);
