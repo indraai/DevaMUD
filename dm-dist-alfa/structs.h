@@ -398,7 +398,7 @@ struct room_data
 /* and return information about time (real or mudwise).            */
 struct time_info_data
 {
-	byte hours, minutes, seconds, day, month;
+	byte hours, day, month;
 	sh_int year;
 };
 
