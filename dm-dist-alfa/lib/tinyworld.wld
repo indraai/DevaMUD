@@ -1325,7 +1325,7 @@ adventure:3110/sign
 ~
 S
 #3111
-indra.dog~
+3111:main~
 adventure:3111/main
 ~
 31 0 1
@@ -1749,7 +1749,7 @@ adventure/3304/look
 0 -1 3304
 S
 #3131
-3131:main~
+indra.dog~
 adventure:3131/main
 ~
 31 0 1
