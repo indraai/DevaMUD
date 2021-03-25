@@ -741,16 +741,14 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		send_to_char("🥣", ch);
 
 	sprintf(buf,
-		"\n# Score\n--\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
+		"\n# Score\n--\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n----\n\nexperience: %d\ngold: %d\n\r",
 		GET_AGE(ch),
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
-		GET_MOVE(ch),GET_MAX_MOVE(ch));
-	send_to_char(buf,ch);
-
-	sprintf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
+		GET_MOVE(ch),GET_MAX_MOVE(ch),
 		GET_EXP(ch),GET_GOLD(ch));
 	send_to_char(buf,ch);
+
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
 	   ch->player.time.played, 0);
