@@ -742,8 +742,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) + ch->player.time.played, 0);
 
 	sprintf(buf,
-		"\n\
-		# Score\n\
+		"# Score\n\
 		=\n\n\
 		age: %dy\n\
 		hit: %d/%d\n\
