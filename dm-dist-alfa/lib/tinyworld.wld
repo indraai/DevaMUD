@@ -1305,7 +1305,7 @@ adventure:3109/west
 0 -1 3108
 S
 #3110
-3110:main~
+indra.agency~
 adventure:3110/main
 ~
 31 8 0
@@ -1939,7 +1939,7 @@ adventure:3140/look
 0 -1 3140
 S
 #3142
-3142:main~
+indra.agency~
 adventure:3142:main~
 ~
 31 8 0
@@ -1959,7 +1959,7 @@ adventure:3142/arms
 ~
 S
 #3143
-3143:main~
+indra.agency~
 adventure:3143/main~
 ~
 31 8 0
