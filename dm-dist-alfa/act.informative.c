@@ -740,27 +740,20 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	if (!GET_COND(ch,FULL))
 		send_to_char("🥣", ch);
 
+	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
+	   ch->player.time.played, 0);
+
 	sprintf(buf,
 		"\n# Score\n=\n\n\
-		🗓 %dy\n🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n\
-		🚴: %d\n💰: %d\n\r",
-		GET_AGE(ch),
+		🗓 %dy\n ⏱ %dd %dh\n\
+		🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n\
+		🚴 %d\n💰 %d\n\r",
+		GET_AGE(ch)playing_time.day,playing_time.hours,
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch),
-		GET_EXP(ch),GET_GOLD(ch));
+		GET_EXP(ch),GET_GOLD(ch);
 	send_to_char(buf,ch);
-
-	sprintf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
-		GET_EXP(ch),GET_GOLD(ch));
-	send_to_char(buf,ch);
-
-	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
-	   ch->player.time.played, 0);
-	sprintf(buf,"\n----\n\ntime: %dd %dh.\n\r",
-		playing_time.day,
-		playing_time.hours);
-	send_to_char(buf, ch);
 
 	sprintf(buf,"----\n\nrank: %s\nlevel: %d.\n\r",
 		GET_TITLE(ch), GET_LEVEL(ch) );
