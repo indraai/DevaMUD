@@ -747,7 +747,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
 
-	sprinf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
+	sprintf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
 		GET_EXP(ch),GET_GOLD(ch));
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
