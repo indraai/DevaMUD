@@ -750,9 +750,6 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		playing_time.day,
 		playing_time.hours);
 
-	sprintf(buf,"",
-		);
-
 	sprintf(buf,
 		"\n# Score\n--\n\nage: %dy\nrank: %s\nlevel: %d\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n",
 		GET_AGE(ch),
