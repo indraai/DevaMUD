@@ -740,25 +740,25 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	if (!GET_COND(ch,FULL))
 		send_to_char("🥣", ch);
 
-	strcat(buf,
+	sprintf(buf,
 		"\n# Score\n--\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
 		GET_AGE(ch),
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
 
-	strcat(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
+	sprinf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
 		GET_EXP(ch),GET_GOLD(ch));
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
 	   ch->player.time.played, 0);
 
-	strcat(buf,"\n----\n\ntime: %dd %dh.\n\r",
+	sprintf(buf,"\n----\n\ntime: %dd %dh.\n\r",
 		playing_time.day,
 		playing_time.hours);
 
-	strcat(buf,"----\n\nrank: %s\nlevel: %d.\n\r",
-		GET_TITLE(ch), GET_LEVEL(ch) );
+	sprintf(buf,"----\n\nrank: %s\nlevel: %d.\n\r",
+		GET_TITLE(ch), GET_LEVEL(ch));
 
 	send_to_char(buf,ch);
 
