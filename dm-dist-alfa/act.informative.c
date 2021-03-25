@@ -727,10 +727,11 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	struct time_info_data real_time_passed(time_t t2, time_t t1);
 
-
 	if ((age(ch).month == 0) && (age(ch).day == 0))
 		strcat(buf," It's your birthday today.\n\r");
-		send_to_char(buf, ch);
+	else
+		strcat(buf,"\n\r");
+	send_to_char(buf, ch);
 
 	if (GET_COND(ch,DRUNK)>10)
 		send_to_char("🥴", ch);
@@ -739,22 +740,28 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	if (!GET_COND(ch,FULL))
 		send_to_char("🥣", ch);
 
-	playing_time = real_time_passed((time(0)-ch->player.time.logon) + ch->player.time.played, 0);
-
-	sprintf(buf, "# Score\n=\n\nage: %dy\nhit: %d|%d\nmana: %d|%d\nmove: %d|%d\nexp: %d\ngold: %d\nrank: %s\nlevel: %d\n\r",
+	sprintf(buf,
+		"\n# Score\n--\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
 		GET_AGE(ch),
-		GET_HIT(ch),
-		GET_MAX_HIT(ch),
-		GET_MANA(ch),
-		GET_MAX_MANA(ch),
-		GET_MOVE(ch),
-		GET_MAX_MOVE(ch),
-		GET_EXP(ch),
-		GET_GOLD(ch),
-		GET_TITLE(ch),
-		GET_LEVEL(ch));
+		GET_HIT(ch),GET_MAX_HIT(ch),
+		GET_MANA(ch),GET_MAX_MANA(ch),
+		GET_MOVE(ch),GET_MAX_MOVE(ch));
 	send_to_char(buf,ch);
 
+	sprintf(buf,"\n----\n\nexperience: %d\ngold: %d\n\r",
+		GET_EXP(ch),GET_GOLD(ch));
+	send_to_char(buf,ch);
+
+	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
+	   ch->player.time.played, 0);
+	sprintf(buf,"\n----\n\ntime: %dd %dh.\n\r",
+		playing_time.day,
+		playing_time.hours);
+	send_to_char(buf, ch);
+
+	sprintf(buf,"----\n\nrank: %s\nlevel: %d.\n\r",
+		GET_TITLE(ch), GET_LEVEL(ch) );
+	send_to_char(buf,ch);
 
 	switch(GET_POS(ch)) {
 		case POSITION_DEAD :
@@ -783,6 +790,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		default :
 			send_to_char("You are floating.\n\r",ch); break;
 	}
+
 }
 
 
@@ -795,6 +803,7 @@ void do_time(struct char_data *ch, char *argument, int cmd)
 	extern const char *month_name[];
 
 	weekday = ((35*time_info.month)+time_info.day+1) % 7;/* 35 days in a month */
+
 
 	day = time_info.day + 1;   /* day in [1..35] */
 
