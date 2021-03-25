@@ -745,9 +745,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		age: %dy\n\
 		hit: %d/%d\n\
 		mana: %d/%d\n\
-		move: %d/%d\n\
-		exp: exp\n\
-		gold: gold\n\r",
+		move: %d/%d\n\r",
 		GET_AGE(ch),
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
