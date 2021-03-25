@@ -1134,9 +1134,9 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 						world[i->in_room].name,
 						i->player.short_descr);
 				else
-					sprintf(buf, "\n%d:%s %s\n\r",
-						world[i->in_room].number,
+					sprintf(buf, "\n%s[%d]:%s\n\r",
 						world[i->in_room].name,
+						world[i->in_room].number,
 						i->player.name);
 
 				// if (GET_LEVEL(ch) >= 21)
@@ -1156,9 +1156,9 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 		for (k = object_list; k; k = k->next)
 			if (isname(name, k->name) && CAN_SEE_OBJ(ch, k) &&
 				(k->in_room != NOWHERE)) {
-					sprintf(buf, "\n%d:%s %s\n\r",
-						world[k->in_room].number,
+					sprintf(buf, "\n%s[%d]:%s\n\r",
 						world[k->in_room].name,
+						world[k->in_room].number,
 						k->short_description);
 						send_to_char(buf, ch);
 				}
