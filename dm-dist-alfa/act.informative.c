@@ -741,7 +741,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) + ch->player.time.played, 0);
 
-	sprintf(buf, "# Score\n=\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\rexp: %d\ngold: %d\nplaying: %dd %dh\nrank: %s\nlevel: %d",
+	sprintf(buf, "# Score\n=\n\nage: %dy\nhit: %d|%d\nmana: %d|%d\nmove: %d|%d\nexp: %d\ngold: %d\nrank: %s\nlevel: %d",
 		GET_AGE(ch),
 		GET_HIT(ch),
 		GET_MAX_HIT(ch),
@@ -751,9 +751,8 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		GET_MAX_MOVE(ch),
 		GET_EXP(ch),
 		GET_GOLD(ch),
-		playing_time.day,
-		playing_time.hours,
-		GET_TITLE(ch), GET_LEVEL(ch));
+		GET_TITLE(ch),
+		GET_LEVEL(ch));
 	send_to_char(buf,ch);
 
 
