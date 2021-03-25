@@ -740,8 +740,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	if (!GET_COND(ch,FULL))
 		send_to_char("🥣", ch);
 
-	sprintf(buf,
-		"\n# Score\n--\n\n\
+	sprintf(buf, "\n# Score\n--\n\n\
 		age: %dy\n\
 		hit: %d/%d\n\
 		mana: %d/%d\n\
