@@ -742,13 +742,12 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	playing_time = real_time_passed((time(0)-ch->player.time.logon) +
 	   ch->player.time.played, 0);
-	sprintf(buf,"\n----\n\ntime: %dd %dh.\n\r",
+	sprintf(buf,"\ntime: %dd %dh.\n\r",
 		playing_time.day,
 		playing_time.hours);
 	send_to_char(buf, ch);
 
-	sprintf(buf,
-		"\n🎂 %dy\n🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n🚴 %d\n💰 %d\n\r",
+	sprintf(buf, "🎂 %dy\n🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n🚴 %d\n💰 %d\n\r",
 		GET_AGE(ch),
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
