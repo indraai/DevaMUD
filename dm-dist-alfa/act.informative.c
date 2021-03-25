@@ -1135,7 +1135,7 @@ void do_where(struct char_data *ch, char *argument, int cmd)
 						i->player.short_descr);
 				else
 					sprintf(buf, "\nroom[%d:%s]: %s",
-						world[i->in_room].number
+						world[i->in_room].number,
 						world[i->in_room].name,
 						i->player.name);
 
