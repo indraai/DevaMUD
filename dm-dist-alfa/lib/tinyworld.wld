@@ -432,7 +432,7 @@ adventure:3019/main
 ~
 30 12 0
 D3
-adventure:3019/west
+adventure:3018/look
 ~
 ~
 0 -1 3018
@@ -448,7 +448,7 @@ adventure:3020/main
 ~
 30 8 0
 D0
-adventure:3020/north
+adventure:3013/look
 ~
 ~
 0 -1 3013
@@ -463,12 +463,12 @@ adventure:3021/main
 ~
 30 8 0
 D0
-adventure:3021/north
+adventure:3016/look
 ~
 ~
 0 -1 3016
 D1
-adventure:3021/east
+adventure:3022/look
 ~
 ~
 0 -1 3022
@@ -479,28 +479,28 @@ adventure:3022/main
 ~
 30 12 0
 D2
-adventure:3022/south
+adventure:3023/look
 ~
 ~
 0 -1 3023
 D3
-adventure:3022/west
+adventure:3021/look
 ~
 ~
 0 -1 3021
 S
 #3023
-3023:thegame93.club~
+3023:main~
 adventure:3023/main
 ~
 30 12 0
 D0
-adventure:3023/north
+adventure:3022/look
 ~
 ~
 0 -1 3022
 D5
-adventure:3023/down
+adventure:7048/look
 ~
 ~
 0 -1 7048
@@ -511,17 +511,17 @@ adventure:3024/main
 ~
 30 0 1
 D1
-adventure:3024/east
+adventure:3025/look
 ~
 ~
 0 -1 3025
 D2
-adventure:3024/south
+adventure:3048/look
 ~
 ~
 0 -1 3048
 D3
-adventure:3024/west
+adventure:3044/look
 ~
 ~
 0 -1 3044
@@ -532,22 +532,22 @@ adventure:3025/main
 ~
 30 0 1
 D0
-adventure:3025/north
+adventure:3014/look
 ~
 ~
 0 -1 3014
 D1
-adventure:3025/east
+adventure:3026/look
 ~
 ~
 0 -1 3026
 D2
-adventure:3025/south
+adventure:3030/look
 ~
 ~
 0 -1 3030
 D3
-adventure:3025/west
+adventure:3024/look
 ~
 ~
 0 -1 3024
@@ -558,17 +558,17 @@ adventure:3026/main
 ~
 30 0 1
 D1
-adventure:3026/east
+adventure:3045/look
 ~
 ~
 0 -1 3045
 D2
-adventure:3026/south
+adventure:3027/look
 ~
 ~
 0 -1 3027
 D3
-adventure:3026/west
+adventure:3025/look
 ~
 ~
 0 -1 3025
@@ -583,12 +583,12 @@ adventure:3027/main
 ~
 30 8 0
 D0
-adventure:3027/north
+adventure:3026/look
 ~
 ~
 0 -1 3026
 D1
-adventure:3027/east
+adventure:3028/look
 ~
 ~
 0 -1 3028
@@ -787,12 +787,12 @@ adventure:3041/main
 ~
 30 0 1
 D1
-adventure:3041/east
+adventure:3053/look
 ~
 gate~
 1 3133 3053
 D3
-adventure:3041/west
+adventure:3016/look
 ~
 ~
 0 -1 3016
@@ -819,12 +819,12 @@ adventure:3042/main
 ~
 30 0 1
 D0
-adventure:3042/north
+adventure:3040/look
 ~
 ~
 0 -1 3040
 D2
-adventure:3042/south
+adventure:3043/look
 ~
 ~
 0 -1 3043
@@ -839,17 +839,17 @@ adventure:3043/main
 ~
 30 0 1
 D0
-adventure:3043/north
+adventure:3042/look
 ~
 ~
 0 -1 3042
 D1
-adventure:3043/east
+adventure:3044/look
 ~
 ~
 0 -1 3044
 D2
-adventure:3043/south
+adventure:3047/look
 ~
 ~
 0 -1 3047
@@ -868,17 +868,17 @@ adventure:3044/main
 ~
 30 0 1
 D0
-adventure:3044/north
+adventure:3035/look
 ~
 ~
 0 -1 3035
 D1
-adventure:3044/east
+adventure:3024/look
 ~
 ~
 0 -1 3024
 D3
-adventure:3044/west
+adventure:3043/look
 ~
 ~
 0 -1 3043
@@ -889,17 +889,17 @@ adventure:3045/main
 ~
 30 0 1
 D1
-adventure:3045/east
+adventure:3046/look
 ~
 ~
 0 -1 3046
 D2
-adventure:3045/south
+adventure:3049/look
 ~
 ~
 0 -1 3049
 D3
-adventure:3045/west
+adventure:3026/look
 ~
 ~
 0 -1 3026
@@ -910,12 +910,12 @@ adventure:3046/main
 ~
 30 0 1
 D2
-adventure:3046/west
+adventure:3050/look
 ~
 ~
 0 -1 3050
 D3
-adventure:3046/south
+adventure:3045/look
 ~
 ~
 0 -1 3045
@@ -926,12 +926,12 @@ adventure:3047/main
 ~
 30 0 1
 D0
-adventure:3047/north
+adventure:3043/look
 ~
 ~
 0 -1 3043
 D2
-adventure:3047/south
+adventure:3051/look
 ~
 ~
 0 -1 3051
@@ -946,7 +946,7 @@ adventure:3048/main
 ~
 30 8 0
 D0
-adventure:3048/north
+adventure:3024/look
 ~
 ~
 0 -1 3024
@@ -957,12 +957,12 @@ adventure:3049/main
 ~
 30 0 1
 D0
-adventure:3049/north
+adventure:3045/look
 ~
 ~
 0 -1 3045
 D3
-adventure:3049/west
+adventure:3203/look
 ~
 ~
 0 -1 3203
@@ -973,7 +973,7 @@ adventure:3050/main
 ~
 30 8 0
 D0
-adventure:3050/north
+adventure:3046/look
 ~
 ~
 0 -1 3046
@@ -984,12 +984,12 @@ adventure:3051/main
 ~
 30 0 1
 D0
-adventure:3051/north
+adventure:3047/look
 ~
 ~
 0 -1 3047
 D2
-adventure:3051/south
+adventure:3100/look
 ~
 ~
 0 -1 3100
@@ -1158,17 +1158,17 @@ adventure:3102/main
 ~
 31 0 1
 D1
-adventure:3102/east
+adventure:3103/look
 ~
 ~
 0 -1 3103
 D2
-adventure:3102/south
+adventure:3105/look
 ~
 ~
 0 -1 3105
 D3
-adventure:3102/west
+adventure:3101/look
 ~
 ~
 0 -1 3101
@@ -1179,17 +1179,17 @@ adventure:3103/main
 ~
 31 0 1
 D1
-adventure:3102/east
+adventure:3104/look
 ~
 ~
 0 -1 3104
 D2
-adventure:3102/south
+adventure:3132/look
 ~
 ~
 0 -1 3132
 D3
-adventure:3102/west
+adventure:3102/look
 ~
 ~
 0 -1 3102
@@ -1225,17 +1225,17 @@ adventure:3105/main
 ~
 31 4 1
 D0
-adventure:3105/north
+adventure:3102/look
 ~
 ~
 0 -1 3102
 D1
-adventure:3105/east
+adventure:3106/look
 ~
 ~
 0 -1 3106
 D2
-adventure:3105/south
+adventure:3108/look
 ~
 ~
 0 -1 3108
@@ -1246,7 +1246,7 @@ adventure:3106/main
 ~
 31 8 0
 D3
-adventure:3106/west
+adventure:3105/look
 ~
 ~
 0 -1 3105
@@ -1257,12 +1257,12 @@ adventure:3107/main
 ~
 31 0 1
 D1
-adventure:3107/east
+adventure:3108/look
 ~
 ~
 0 -1 3108
 D2
-adventure:3107/south
+adventure:3113/look
 ~
 ~
 0 -1 3113
@@ -1273,17 +1273,17 @@ adventure:3108/main
 ~
 31 0 1
 D0
-adventure:3108/north
+adventure:3105/look
 ~
 ~
 0 -1 3105
 D1
-adventure:3108/east
+adventure:3105/look
 ~
 ~
 0 -1 3109
 D3
-adventure:3108/west
+adventure:3107/look
 ~
 ~
 0 -1 3107
@@ -1294,12 +1294,12 @@ adventure:3109/main
 ~
 31 0 1
 D2
-adventure:3109/south
+adventure:3115/look
 ~
 ~
 0 -1 3115
 D3
-adventure:3109/west
+adventure:3108/look
 ~
 ~
 0 -1 3108
@@ -1360,12 +1360,12 @@ adventure:3112/main
 ~
 31 4 1
 D1
-adventure:3112/east
+adventure:3113/look
 ~
 ~
 0 -1 3113
 D3
-adventure:3112/west
+adventure:3111/look
 ~
 ~
 0 -1 3111
@@ -1376,17 +1376,17 @@ adventure:3113/main
 ~
 31 0 1
 D0
-adventure:3113/north
+adventure:3107/look
 ~
 ~
 0 -1 3107
 D1
-adventure:3113/east
+adventure:3114/look
 ~
 ~
 0 -1 3114
 D3
-adventure:3113/west
+adventure:3112/look
 ~
 ~
 0 -1 3112
@@ -1397,12 +1397,12 @@ adventure:3114/main
 ~
 31 0 6
 D1
-adventure:3114/east
+adventure:3115/look
 ~
 ~
 0 -1 3115
 D3
-adventure:3114/west
+adventure:3113/look
 ~
 ~
 0 -1 3113
@@ -1413,17 +1413,17 @@ adventure:3115/main
 ~
 31 0 1
 D0
-adventure:3115/north
+adventure:3109/look
 ~
 ~
 0 -1 3109
 D1
-adventure:3115/east
+adventure:3116/look
 ~
 ~
 0 -1 3116
 D3
-adventure:3115/west
+adventure:3114/look
 ~
 ~
 0 -1 3114
@@ -1434,12 +1434,12 @@ adventure:3116/main
 ~
 31 4 1
 D1
-adventure:3116/east
+adventure:3117/look
 ~
 ~
 0 -1 3117
 D3
-adventure:3116/west
+adventure:3115/look
 ~
 ~
 0 -1 3115
@@ -1450,22 +1450,22 @@ adventure:3117/main
 ~
 31 0 1
 D0
-adventure:3117/north
+adventure:3132/look
 ~
 ~
 0 -1 3132
 D1
-adventure:3117/east
+adventure:3137/look
 ~
 ~
 0 -1 3137
 D2
-adventure:3117/south
+adventure:3119/look
 ~
 ~
 0 -1 3119
 D3
-adventure:3117/west
+adventure:3116/look
 ~
 ~
 0 -1 3116
@@ -1490,7 +1490,7 @@ adventure:3119/main
 ~
 31 0 1
 D0
-adventure:3119/north
+adventure:3117/look
 ~
 ~
 0 -1 3117
@@ -1561,12 +1561,12 @@ adventure:3122/main
 ~
 31 0 1
 D1
-adventure:3122/east
+adventure:3123/look
 ~
 ~
 0 -1 3123
 D2
-adventure:3122/south
+adventure:3126/look
 ~
 ~
 0 -1 3126
@@ -2393,12 +2393,12 @@ adventure:3503/main
 ~
 30 4 1
 D1
-adventure:3503/north
+adventure:3502/look
 ~
 ~
 0 0 3502
 D3
-adventure:3503/west
+adventure:3053/look
 ~
 ~
 0 0 3053
@@ -3037,7 +3037,7 @@ adventure:3900/look
 S
 #3902
 3902:main~
-adventure:3902/main
+adventure:3902
 ~
 30 0 2
 D1
@@ -3046,34 +3046,29 @@ adventure:3903/look
 ~
 0 -1 3903
 D2
-adventure:3901/look390
+adventure:3901/look
 ~
 ~
 0 -1 3901
 S
 #3903
-Dusty trail along north wall.~
-   You are walking on the trail following the outside of Amaravati's
-northern wall.
-~
+3903:main~
+adventure:3903/main~
 30 0 2
 D1
-The dusty trail is winding along the north wall of Amaravati.
+adventure:3904/look
 ~
 ~
 0 -1 3904
 D3
-The dusty trail turns left around the corner of the wall, behind it Haon-Dor.
+adventure:3902/look
 ~
 ~
 0 -1 3902
 S
 #3904
-The long dusty trail following the north wall.~
-You are walking along the north wall. This is the rear of the Temple.
-It is not as pompous and impressive from this side. To the north the plains
-extend towards the horizon.
-You notice some markings on the wall here.
+3904:main~
+adventure:3904/main
 ~
 30 0 2
 D0
@@ -3082,35 +3077,31 @@ A small path extends into the plains.
 ~
 0 -1 5000
 D1
-The dusty trail is winding along the north wall of Amaravati.
+adventure:3905/look
 ~
 ~
 0 -1 3905
 D3
-The dusty trail is winding along the north wall of Amaravati.
+adventure:3903/look
 ~
 ~
 0 -1 3903
 E
 wall markings writing~
-The markings are made with the hand of a child.
-They read : Tear down the Wall   -Pink Floyd
+adventure:3904/wall
 ~
 S
 #3905
-Dusty trail along north wall.~
-   You are walking on the trail following the outside of Amaravati's
-northern wall.
-~
+3905:main~
+adventure:3905/main~
 30 0 2
 D1
-The dusty trail turns right around the corner of the wall.
-You notice some mountains in the distance.
+adventure:3906/look
 ~
 ~
 0 -1 3906
 D3
-The dusty trail is winding along the north wall of Amaravati.
+adventure:3904/look
 ~
 ~
 0 -1 3904
@@ -5775,7 +5766,7 @@ adventure:5039/main
 ~
 50 0 2
 D3
-adventure:5039/west
+adventure:5037/look
 ~
 ~
 0 -1 5037
@@ -12122,7 +12113,7 @@ adventure:7900/main
 ~
 79 516 0
 D0
-adventure:7900/north
+adventure:7901
 ~
 gate door huge arched~
 2 7901 7901
@@ -12138,12 +12129,12 @@ adventure:7901/main
 ~
 79 524 0
 D0
-adventure:7901/north
+adventure:7904/look
 ~
 ~
 0 -1 7904
 D1
-adventure:7901/east
+adventure:7904/look
 ~
 oak tall east oakdoor talldoor eastdoor~
 2 -1 7910
