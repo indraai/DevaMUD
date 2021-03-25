@@ -727,7 +727,7 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	struct time_info_data real_time_passed(time_t t2, time_t t1);
 
-	sprintf(buf, "age: %dy\n\r", GET_AGE(ch));
+	sprintf(buf, "\n\r", );
 
 	if ((age(ch).month == 0) && (age(ch).day == 0))
 		strcat(buf," It's your birthday today.\n\r");
@@ -743,7 +743,9 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		send_to_char("🥣", ch);
 
 	sprintf(buf,
-		"\n# Score\n--\n\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
+		"\n# Score\n\
+		--\n\nage: %dy\nhit: %d/%d\nmana: %d/%d\nmove: %d/%d\n\r",
+		GET_AGE(ch),
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch));
