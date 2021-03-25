@@ -727,8 +727,6 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 
 	struct time_info_data real_time_passed(time_t t2, time_t t1);
 
-	sprintf(buf, "\n\r", );
-
 	if ((age(ch).month == 0) && (age(ch).day == 0))
 		strcat(buf," It's your birthday today.\n\r");
 	else
