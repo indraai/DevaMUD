@@ -748,11 +748,8 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 	send_to_char(buf, ch);
 
 	sprintf(buf,
-		"\n# Score\n=\n\n\🎂 %dy\n⏱ %dd %dh\n🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n\
-		🚴 %d\n💰 %d\n\r",
+		"\n🎂 %dy\n🥊 %d:%d\n🔋 %d:%d\n🚶 %d:%d\n🚴 %d\n💰 %d\n\r",
 		GET_AGE(ch),
-		playing_time.day,
-		playing_time.hours,
 		GET_HIT(ch),GET_MAX_HIT(ch),
 		GET_MANA(ch),GET_MAX_MANA(ch),
 		GET_MOVE(ch),GET_MAX_MOVE(ch),
