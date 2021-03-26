@@ -131,7 +131,7 @@ adventure:3005/look
 0 -1 3005
 S
 #3005
-3005:main~
+3005:indra.city~
 adventure:3005/main
 ~
 30 0 1
@@ -261,7 +261,7 @@ adventure:3011/note
 ~
 S
 #3012
-3012:main~
+3012:indra.city~
 adventure:3012/main
 ~
 30 0 1
@@ -287,7 +287,7 @@ adventure:3040/look
 0 -1 3040
 S
 #3013
-3013:main~
+3013:indra.city~
 adventure:3013/main
 ~
 30 0 1
@@ -313,7 +313,7 @@ adventure:3012/look
 0 -1 3012
 S
 #3014
-3014:main~
+3014:indra.city~
 adventure:3014/main
 ~
 30 0 1
@@ -343,7 +343,7 @@ adventure:3014/statue
 ~
 S
 #3015
-3015:main~
+3015:indra.city~
 adventure:3015/main
 ~
 30 0 1
@@ -369,7 +369,7 @@ adventure:3014/look
 0 -1 3014
 S
 #3016
-3016:main~
+3016:indra.city~
 adventure:3016/main
 ~
 30 0 1
@@ -506,7 +506,7 @@ adventure:7048/look
 0 -1 7048
 S
 #3024
-3024:main~
+3024:indra.gallery~
 adventure:3024/main
 ~
 30 0 1
@@ -527,7 +527,7 @@ adventure:3044/look
 0 -1 3044
 S
 #3025
-3025:main~
+3025:indra.city~
 adventure:3025/main
 ~
 30 0 1
@@ -553,7 +553,7 @@ adventure:3024/look
 0 -1 3024
 S
 #3026
-3026:main~
+3026:indra.gallery~
 adventure:3026/main
 ~
 30 0 1
@@ -630,7 +630,7 @@ adventure:7043/look
 0 -1 7043
 S
 #3030
-3030:main~
+3030:indra.services~
 adventure:3030/main
 ~
 30 4 2
@@ -745,7 +745,7 @@ adventure:3035/sign
 ~
 S
 #3040
-3040:main~
+3040:indra.life~
 adventure:3040/main
 ~
 30 0 1
@@ -782,7 +782,7 @@ adventure:3040/wall
 ~
 S
 #3041
-3041:main~
+3041:indra.city~
 adventure:3041/main
 ~
 30 0 1
@@ -814,7 +814,7 @@ adventure:3041/wall
 ~
 S
 #3042
-3042:main~
+3042:indra.life~
 adventure:3042/main
 ~
 30 0 1
@@ -834,7 +834,7 @@ adventure:3042/wall
 ~
 S
 #3043
-3043:main~
+3043:indra.life~
 adventure:3043/main
 ~
 30 0 1
@@ -863,7 +863,7 @@ adventure:3043/wall
 ~
 S
 #3044
-3044:main~
+3044:indra.gallery~
 adventure:3044/main
 ~
 30 0 1
@@ -884,7 +884,7 @@ adventure:3043/look
 0 -1 3043
 S
 #3045
-3045:main~
+3045:indra.gallery~
 adventure:3045/main
 ~
 30 0 1
@@ -905,7 +905,7 @@ adventure:3026/look
 0 -1 3026
 S
 #3046
-3046:main~
+3046:indra.gallery~
 adventure:3046/main
 ~
 30 0 1
@@ -921,7 +921,7 @@ adventure:3045/look
 0 -1 3045
 S
 #3047
-3047:main~
+3047:indra.life~
 adventure:3047/main
 ~
 30 0 1
@@ -979,7 +979,7 @@ adventure:3046/look
 0 -1 3046
 S
 #3051
-3051:main~
+3051:indra.life~
 adventure:3051/main
 ~
 30 0 1
