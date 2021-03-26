@@ -759,6 +759,34 @@ void do_score(struct char_data *ch, char *argument, int cmd)
 		GET_TITLE(ch), GET_LEVEL(ch) );
 	send_to_char(buf,ch);
 
+	// switch(GET_POS(ch)) {
+	// 	case POSITION_DEAD :
+	// 		send_to_char("You are DEAD!\n\r", ch); break;
+	// 	case POSITION_MORTALLYW :
+	// 		send_to_char("You are wounded!, you should seek help!\n\r", ch); break;
+	// 	case POSITION_INCAP :
+	// 		send_to_char("You are incapacitated, slowly fading away\n\r", ch); break;
+	// 	case POSITION_STUNNED :
+	// 		send_to_char("You are stunned! You can't move\n\r", ch); break;
+	// 	case POSITION_SLEEPING :
+	// 		send_to_char("You are sleeping.\n\r",ch); break;
+	// 	case POSITION_RESTING  :
+	// 		send_to_char("You are resting.\n\r",ch); break;
+	// 	case POSITION_SITTING  :
+	// 		send_to_char("You are sitting.\n\r",ch); break;
+	// 	case POSITION_FIGHTING :
+	// 		if (ch->specials.fighting)
+	// 			act("You are fighting $N.\n\r", FALSE, ch, 0,
+	// 			     ch->specials.fighting, TO_CHAR);
+	// 		else
+	// 			send_to_char("You are fighting thin air.\n\r", ch);
+	// 		break;
+	// 	case POSITION_STANDING :
+	// 		send_to_char("You are standing.\n\r",ch); break;
+	// 	default :
+	// 		send_to_char("You are floating.\n\r",ch); break;
+	// }
+
 }
 
 

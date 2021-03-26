@@ -5578,10 +5578,8 @@ You see a small crumbled Hut here, must be a hermit living here.
 2 -1 5031
 S
 #5031
-Hermits hut~
-   You are inside the hermits hut.  It is rather old, but serves it purpose
-It keeps its habitant from the rough winds and dangerous beasts of the
-plains and foothills. There is a small fireplace here.
+5031:main~
+adventure:5031/main
 ~
 50 8 0
 D1
@@ -5591,7 +5589,7 @@ Through the door you can see the foothills.
 2 -1 5030
 E
 fireplace~
-This is your typical fireplace, the hermit probably use it to cook on.
+adventure:5031/fireplace
 ~
 S
 #5032
@@ -5887,7 +5885,6 @@ S
 #5045
 Steep slope~
 You try too climb down the slope.
->
 You slip!
 You fall and tumble.....
 You hit your head HARD.

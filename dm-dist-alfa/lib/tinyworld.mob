@@ -214,7 +214,7 @@ guard guarddeva deva~
 GuardDEVA~
 A GuardDEVA is guarding the entrance.
 ~
-He is specialized in combat, using all sorts of weapons.  His superior knowledge
+He is specialized in combat, using all sorts of weapons. His superior knowledge
 of how and where to use them combined with his extraordinary stealth makes him a
 formidable opponent.
 ~
@@ -228,7 +228,7 @@ GuardDEVA~
 GuardDEVA is guarding the entrance.
 ~
 He is an expert hero who has attained knighthood through countless chivalrous
-deeds.  His duty is to protect, and his extreme skill combined with his
+deeds. His duty is to protect, and his extreme skill combined with his
 experience in warfare makes him a formidable opponent.
 ~
 2 0 800 S
@@ -513,7 +513,7 @@ duck~
 the Duck~
 A duck is here, quacking happily.
 ~
-The duck is quite fat.  It looks like it is enjoying life.
+The duck is quite fat. It looks like it is enjoying life.
 ~
 64 0 1000 S
 1 20 10 2d6+5 1d4+0
@@ -533,7 +533,7 @@ Nitro Ultra Hero SecurityPRIME handles a large team of SecurityDEVA, GuardDEVA, 
 #3141
 elite security securitydeva deva~
 SecurityDEVA Elite ~
-SecurityDEVA Elite  is standing here.
+SecurityDEVA Elite is standing here.
 ~
 Elite SecurityDEVA are members of SecurityPRIME elite teams.
 ~
@@ -594,7 +594,7 @@ gardner~
 the GardenerDEVA~
 The GardenerDEVA is happy thinking about all the herbs, fruits, and vegetables he is growing.
 ~
-He is a tall but bulky.  His features are heightened with decades of hard work
+He is a tall but bulky. His features are heightened with decades of hard work
 and his somewhat crouched expression is one of deep contemplation. He is
 inspired by memories of paradise.
 ~
@@ -619,7 +619,7 @@ the ghastly ghoul~
 A ghastly ghoul is here.
 ~
 It is a walking corpse with long fangs and long, sharp nails that most of
-resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+resemble claws. Its eyes are a dark yellow colour and glare hungrily at you.
 ~
 34 0 750 S
 6 15 4 2d6+72 1d10+2
@@ -732,7 +732,7 @@ A brown snake watches you.
 The snake looks quite mean.
 ~
 35 0 600 S
-10 10 4  3d10+50 3d5+1
+10 10 4 3d10+50 3d5+1
 0 10000
 8 8 0
 #4054
@@ -1115,7 +1115,7 @@ John the Lumberjack~
 John the Lumberjack is here, looking for some trees to chop down.
 ~
 He is six feet tall and looks quite strong, muscles bulging under his heavy,
-chequered shirt.  His features are worn with hard work and his expression is
+chequered shirt. His features are worn with hard work and his expression is
 one of a peaceful man leading a simple life.
 ~
 64 0 350 S
@@ -1139,7 +1139,7 @@ the brown bear~
 A big, brown, angry-looking bear is here.
 ~
 The bear is a big, brown, furry animal with very large claws and very sharp
-teeth.  It doesn't resemble those cute little thingies from toy shops at all.
+teeth. It doesn't resemble those cute little thingies from toy shops at all.
 ~
 96 0 50 S
 8 13 3 1d12+98 2d6+2
@@ -1186,8 +1186,8 @@ warg vicious~
 the vicious warg~
 A vicious warg is here, snarling angrily at you.
 ~
-It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
-quickly from its long, white fangs.  It looks quite dangerous and very angry.
+It is an exceptionally large wolf with thick, black fur. Saliva is dripping
+quickly from its long, white fangs. It looks quite dangerous and very angry.
 ~
 96 0 350 S
 5 16 5 1d12+60 2d4+0
@@ -1198,8 +1198,8 @@ warg ferocious~
 the ferocious warg~
 A ferocious warg is here, snarling angrily at you.
 ~
-It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
-quickly from its long, white fangs.  It looks quite dangerous and very angry.
+It is an exceptionally large wolf with thick, black fur. Saliva is dripping
+quickly from its long, white fangs. It looks quite dangerous and very angry.
 ~
 96 0 350 S
 5 16 5 1d12+60 2d4+0
@@ -1261,8 +1261,8 @@ the huge, green dragon~
 A huge green dragon is here, its narrow yellow eyes glowing with rage.
 ~
 This enormous winged serpent has dark green scales covering most of its
-colossal body.  Numerous holes in its heavy wings tell of many fights as does
-the nicks in the horns on its head.  It smells as disgusting as only dragons
+colossal body. Numerous holes in its heavy wings tell of many fights as does
+the nicks in the horns on its head. It smells as disgusting as only dragons
 do.
 ~
 98 8 1000 S
@@ -1274,7 +1274,7 @@ spider poisonous~
 the huge, poisonous spider~
 A huge, poisonous spider is here.
 ~
-This disgusting creature is at the size of a human crawling on all four.  It
+This disgusting creature is at the size of a human crawling on all four. It
 has eight hairy legs that gives it a tremendous speed on almost any surface and
 sharp poisonous fangs to paralyze or kill its prey.
 ~
@@ -1287,9 +1287,9 @@ queen spider~
 the Queen Spider~
 The huge, bulky Queen Spider is here.
 ~
-This disgusting creature is at the size of a small elephant.  It has eight
+This disgusting creature is at the size of a small elephant. It has eight
 huge, hairy legs that would give it a tremendous speed on almost any surface
-if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+if it wasn't so immensely fat. Its large, bulbous eyes stare back at you.
 ~
 99 8 1000 S
 15 6 1 1d12+185 2d8+2
@@ -1301,7 +1301,7 @@ Shargugh~
 Shargugh the Forest Brownie is here, grinning broadly at you.
 ~
 This little fellow is only three foot tall with wild matted brown hair and long
-tangled brown beard.  He wears ragged brown and green clothing and looks as if
+tangled brown beard. He wears ragged brown and green clothing and looks as if
 he is having great fun.
 ~
 148 524298 1000 S
@@ -1313,7 +1313,7 @@ bird~
 the hug bird~
 A little, friendly hug bird is here, looking for something to hug.
 ~
-It is one of those little creatures that like to find sad/weakpoints in our system. They do act a little weird.  Programmers spend countless hours working with them to identify problems, but they are indeed very friendly.
+It is one of those little creatures that like to find sad/weakpoints in our system. They do act a little weird. Programmers spend countless hours working with them to identify problems, but they are indeed very friendly.
 Deva.world is known to be one of their favorite habitats.
 ~
 64 0 50 S
@@ -1326,8 +1326,8 @@ Isha the Dark Elf~
 Isha the Dark Elf is here, observing you silently.
 ~
 She is no less than beautiful, skin as dark as the night and hair shining like
-silver in the moonlight.  Her slender body is adorned with a sleeveless shirt
-and a short skirt made from black scales joined with silver threads.  Her back
+silver in the moonlight. Her slender body is adorned with a sleeveless shirt
+and a short skirt made from black scales joined with silver threads. Her back
 is covered by a large, hooded cloak as black as her skin and in her broad
 silver belt hangs a long, slender sword in a silver scabbard.
 ~
@@ -1520,7 +1520,7 @@ The red dragon~
 The Red fierce-looking dragon stares at you angrily
 ~
 The red dragon stares at you, angrilly, as it wakes when you
-arrives.  It says 'Oh, human YOU woke me up...Hsssss', while
+arrives. It says 'Oh, human YOU woke me up...Hsssss', while
 it moves closer ,'Can one NEVER sleep in peace..Hssss'.
 ~
 35 8 1000 S
