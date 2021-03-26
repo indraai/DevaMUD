@@ -323,7 +323,7 @@ Our favorte goto SecurityDEVA for everyday needs. They are always around when yo
 8 8 1
 #3061
 service servicedeva deva~
-a ServiceDEVA~
+ServiceDEVA~
 ServiceDeva is cleaning up.
 ~
 The greatest at keeping things tidy. They report to The Amaravati Recycling Center.
@@ -455,7 +455,7 @@ The Wolf looks like a strong, fearless creature.
 8 8 0
 #3100
 service servicedeva deva~
-the ServiceDEVA~
+ServiceDEVA~
 ServiceDEVA is waiting for your request.
 ~
 She is very polite, which is a good reason for coming here more often.
@@ -693,7 +693,7 @@ He looks dreadful.
 8 8 1
 #4050
 hero herodeva deva~
-the HeroDeva~
+HeroDEVA~
 A tall intelligent capable Hero. He will be there when duty calls to fight the great fight that all Heros are born to fight.
 ~
 Well surely a strong, capable, truly intelligent hero.
@@ -704,7 +704,7 @@ Well surely a strong, capable, truly intelligent hero.
 8 8 1
 #4051
 hero herodeva deva~
-the HeroDeva~
+HeroDEVA~
 A tall hero.
 ~
 He seems to know his way with things.
@@ -837,7 +837,7 @@ Well it doesn't seem to pay any attention towards you.
 8 8 0
 #4106
 hero herodeva deva~
-the HeroDEVA~
+HeroDEVA~
 A hero is here. He has a strong hero grin on his face.
 ~
 He looks very friendly.
