@@ -5162,10 +5162,8 @@ Here you see the road go towards the intersection.
 0 -1 5013
 S
 #5015
-Gallow hill~
-   You walk in the grassy plains. On this litlle hill you can see
-two gallows, with rotting human tissue hanging from the robe.
-There is a sign here.
+5015:main~
+adventure:5015/main
 ~
 50 0 4
 D0
@@ -5190,14 +5188,7 @@ The plains extend far to the west.
 0 -1 5018
 E
 sign~
-The sign sais:
-
-  Loyal citizens of Amaravati. These are the earthly remains of the
-  two herretics 'Dim' and 'Gamma' of this world. Having forged them-
-  selves to immortality, they called upon themselves the anger of the
-  implementators. Let this be a lesson too all .....
-
-                                    -- the Powers that Be.
+adventure:5015/sign
 ~
 S
 #5016
