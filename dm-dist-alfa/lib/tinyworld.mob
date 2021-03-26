@@ -333,7 +333,7 @@ The greatest at keeping things tidy. They report to The Amaravati Recycling Cent
 34 100
 8 8 1
 #3062
-fido dog~
+fido dogs~
 Fido~
 Fido is here.
 ~
@@ -399,57 +399,57 @@ A big, strong, helpful, trustworthy hero guard.
 500 9000
 8 8 1
 #3090
-kitten~
+kitten cats~
 the Kitten~
 A small loyal Kitten is here.
 ~
 The Kitten looks like a cute, little, fierce fighter.
 ~
-6 0 400 S
+130 0 400 S
 1 20 9 1d6+11 1d4+0
 0 100
 8 8 0
 #3091
-puppy~
-the Puppy~
+puppy dogs~
+Puppy~
 A small loyal Puppy is here.
 ~
 The Puppy looks like a cute, little, cuddly puppy.
 ~
-6 0 400 S
+130 0 700 S
 1 20 9 1d6+11 1d4+0
 0 100
 8 8 0
 #3092
-beagle~
-the Beagle~
+beagle dog~
+Beagle~
 A small, quick, loyal Beagle is here.
 ~
 The Beagle looks like a very friendly.
 ~
-6 0 400 S
+130 0 400 S
 2 19 8 1d12+22 1d6+0
 0 200
 8 8 0
 #3093
-chowchow~
-the Chow Chow~
-A large, loyal Chow Chow is here.
+chowchow dogs~
+Chow Chow~
+A large, loyal, fluffy Chow Chow is here.
 ~
 The Chow Chow looks like a strong, loyal and fluffy companion.
 ~
-6 0 400 S
+130 0 400 S
 3 18 7 1d12+35 1d7+0
 0 800
 8 8 0
 #3094
-wolf~
-the Wolf~
-A large, trained Wolf is here.
+germanshepard dogs~
+German Shepard~
+A large, trained German Shepard is here.
 ~
-The Wolf looks like a strong, fearless creature.
+The German Shepard looks like a strong, fearless creature.
 ~
-6 0 0 S
+130 0 400 S
 4 17 6 1d12+47 1d8+0
 0 1600
 8 8 0

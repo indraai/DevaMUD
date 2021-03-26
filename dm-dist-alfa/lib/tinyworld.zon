@@ -182,11 +182,11 @@ M 0 3061 5 3030       The ServiceDeva (at Recycling Center)
 *
 M 0 7012 1 3025       Madame Esther at Common Square
 *
-M 0 3090 1 3032       Kitten
-M 0 3091 1 3032       Puppy
-M 0 3092 1 3032       Beagle
-M 0 3093 1 3032       Rottweiler
-M 0 3094 1 3032       Wolf
+M 0 3090 3 3131       Kitten
+M 0 3091 3 3131       Puppy
+M 0 3092 3 3131       Beagle
+M 0 3093 3 3131       Chow Chow
+M 0 3094 3 3131       German Shepard
 *
 O 0 3099 1 3001       Bulletin board in Temple (limbo for starters)
 O 0 3099 1 3110       Bulletin board in Security Office
