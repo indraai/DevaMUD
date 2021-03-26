@@ -188,7 +188,7 @@ has a calm look on his face.
 8 8 1
 #3024
 guard guarddeva deva~
-the GuardDEVA~
+GuardDEVA~
 GuardDEVA is standing here.
 ~
 He is an experienced hero who has specialized in the field of Combat.
@@ -200,7 +200,7 @@ His superior knowledge of offensive and defensive strategy make him a fierce opp
 8 8 1
 #3025
 guard guarddeva deva~
-the GuardDEVA~
+GuardDEVA~
 GuardDEVA is guarding the entrance.
 ~
 He is a specially trained hero belonging to the military order of Heroes.
@@ -210,9 +210,9 @@ He is a specially trained hero belonging to the military order of Heroes.
 2000 80000
 8 8 1
 #3026
-devaguard guard deva~
-the DevaGuard~
-A DevaGUARD is guarding the entrance.
+guard guarddeva deva~
+GuardDEVA~
+A GuardDEVA is guarding the entrance.
 ~
 He is specialized in combat, using all sorts of weapons.  His superior knowledge
 of how and where to use them combined with his extraordinary stealth makes him a
@@ -224,7 +224,7 @@ formidable opponent.
 8 8 1
 #3027
 guard guarddeva deva~
-the GuardDEVA~
+GuardDEVA~
 GuardDEVA is guarding the entrance.
 ~
 He is an expert hero who has attained knighthood through countless chivalrous
@@ -389,7 +389,7 @@ Odif is a small dog that has been reversed by some god.
 8 8 1
 #3067
 guard guarddeva deva~
-the GuardDEVA~
+GuardDEVA~
 GuardDEVA is guarding the gate.
 ~
 A big, strong, helpful, trustworthy hero guard.
