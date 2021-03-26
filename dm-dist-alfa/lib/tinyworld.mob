@@ -187,7 +187,7 @@ has a calm look on his face.
 8794 100000
 8 8 1
 #3024
-guarddeva~
+guard guarddeva deva~
 the GuardDEVA~
 GuardDEVA is standing here.
 ~
@@ -199,7 +199,7 @@ His superior knowledge of offensive and defensive strategy make him a fierce opp
 2000 80000
 8 8 1
 #3025
-guarddeva~
+guard guarddeva deva~
 the GuardDEVA~
 GuardDEVA is guarding the entrance.
 ~
@@ -223,7 +223,7 @@ formidable opponent.
 2000 80000
 8 8 1
 #3027
-guarddeva deva~
+guard guarddeva deva~
 the GuardDEVA~
 GuardDEVA is guarding the entrance.
 ~
@@ -311,7 +311,7 @@ but do not mess with him or else he'll get upset.
 2000 80000
 8 8 1
 #3060
-security securitydeva~
+security securitydeva deva~
 SecurityDEVA~
 img:3110/emoji.png
 ~
@@ -322,7 +322,7 @@ Our favorte goto SecurityDEVA for everyday needs. They are always around when yo
 500 9000
 8 8 1
 #3061
-servicedeva~
+service servicedeva deva~
 a ServiceDEVA~
 ServiceDeva is cleaning up.
 ~
@@ -388,7 +388,7 @@ Odif is a small dog that has been reversed by some god.
 10 25
 8 8 1
 #3067
-guarddeva~
+guard guarddeva deva~
 the GuardDEVA~
 GuardDEVA is guarding the gate.
 ~
@@ -454,7 +454,7 @@ The Wolf looks like a strong, fearless creature.
 0 1600
 8 8 0
 #3100
-servicedeva~
+service servicedeva deva~
 the ServiceDEVA~
 ServiceDEVA is waiting for your request.
 ~
@@ -520,7 +520,7 @@ The duck is quite fat.  It looks like it is enjoying life.
 0 75
 8 8 0
 #3140
-nitro ultra hero security securityprime SecurityPRIME~
+nitro ultra hero security securityprime SecurityPRIME deva~
 SecurityPRIME~
 Nitro Ultra Hero SecurityPRIME is here.
 ~
@@ -531,7 +531,7 @@ Nitro Ultra Hero SecurityPRIME handles a large team of SecurityDEVA, GuardDEVA, 
 0 28000
 8 8 1
 #3141
-elite security securitydeva~
+elite security securitydeva deva~
 SecurityDEVA Elite ~
 SecurityDEVA Elite  is standing here.
 ~
@@ -542,7 +542,7 @@ Elite SecurityDEVA are members of SecurityPRIME elite teams.
 0 9000
 8 8 1
 #3142
-service servicedeva~
+service servicedeva deva~
 ServiceDEVA~
 ServiceDEVA is sitting at the desk typing away at the keys.
 ~
@@ -692,7 +692,7 @@ He looks dreadful.
 200 4000
 8 8 1
 #4050
-hero~
+hero herodeva deva~
 the HeroDeva~
 A tall intelligent capable Hero. He will be there when duty calls to fight the great fight that all Heros are born to fight.
 ~
@@ -703,7 +703,7 @@ Well surely a strong, capable, truly intelligent hero.
 1000 12000
 8 8 1
 #4051
-hero~
+hero herodeva deva~
 the HeroDeva~
 A tall hero.
 ~
@@ -836,7 +836,7 @@ Well it doesn't seem to pay any attention towards you.
 0 1500
 8 8 0
 #4106
-hero~
+hero herodeva deva~
 the HeroDEVA~
 A hero is here. He has a strong hero grin on his face.
 ~
