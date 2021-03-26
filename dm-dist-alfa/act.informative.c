@@ -307,17 +307,17 @@ void show_char_to_char(struct char_data *i, struct char_data *ch, int mode)
 		else if (percent >= 90)
 			strcat(buffer, " has a few scratches.\n\r");
 		else if (percent >= 75)
-			strcat(buffer, " has some small wounds and bruises.\n\r");
+			strcat(buffer, " has some small scratches and bruises.\n\r");
 		else if (percent >= 50)
-			strcat(buffer, " has quite a few wounds.\n\r");
+			strcat(buffer, " has quite a few scratches.\n\r");
 		else if (percent >= 30)
-			strcat(buffer, " has some big nasty wounds and scratches.\n\r");
+			strcat(buffer, " has some big nasty bruises.\n\r");
 		else if (percent >= 15)
-			strcat(buffer, " looks pretty hurt.\n\r");
+			strcat(buffer, " looks pretty beat up.\n\r");
 		else if (percent >= 0)
-			strcat(buffer, " is in an awful condition.\n\r");
+			strcat(buffer, " is so dizzy they are seeing stars.\n\r");
 		else
-			strcat(buffer, " is bleeding awfully from big wounds.\n\r");
+			strcat(buffer, " is knocked out from your tackle.\n\r");
 
 		send_to_char(buffer, ch);
 
