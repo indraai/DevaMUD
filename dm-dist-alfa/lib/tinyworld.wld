@@ -961,7 +961,7 @@ adventure:3045/look
 ~
 ~
 0 -1 3045
-D3
+D2
 adventure:3203/look
 ~
 ~
@@ -1995,9 +1995,8 @@ some kind of mortar.  Looks pretty solid.
 ~
 S
 #3201
-On the River~
-   North of here you see the miserable buildings of the poor alley.  The
-river flows west towards the bridge.  The riverbanks are too steep to climb.
+3201:main~
+adventure:3201:main
 ~
 32 0 7
 D1
