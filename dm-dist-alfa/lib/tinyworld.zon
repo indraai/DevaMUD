@@ -192,9 +192,9 @@ S
 Southern Amaravati~
 3199 40 2
 *
-O 1 7300 1 3014           Load pack
-O 1 7300 1 3005           Load pack
-O 1 7300 1 3025           Load pack
+O 1 7300 5 3014           Load pack
+O 1 7300 5 3005           Load pack
+O 1 7300 5 3025           Load pack
 *
 *D 0 3110 3 2          Lock SecurityPRIME's door from outside
 *D 0 3142 1 2          Lock SecurityPRIME's door from inside
