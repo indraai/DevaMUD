@@ -963,7 +963,7 @@ A small troll is here.
 ~
 He looks like a normal troll, the standard mud troll..
 ~
-101 0 300 S
+100 0 300 S
 8 13 3 3d10+80 2d5+2
 500 5000
 8 8 1
@@ -974,7 +974,7 @@ A large orc is here.
 ~
 He looke quite aggressive.
 ~
-101 0 200 S
+100 0 200 S
 9 12 3 1d20+100 2d5+1
 500 6000
 8 8 1
