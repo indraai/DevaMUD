@@ -834,7 +834,7 @@ adventure:3042/wall
 ~
 S
 #3043
-3043:indra.life~
+3043:indra.city~
 adventure:3043/main
 ~
 30 0 1
@@ -1106,7 +1106,7 @@ adventure:3055/main
 30 8 0
 S
 #3100
-3100:indra.life~
+3100:indra.city~
 adventure:3100/main
 ~
 31 0 1
@@ -1674,7 +1674,7 @@ adventure:3306/look
 0 -1 3306
 S
 #3128
-3128:main~
+3128:indra.city~
 adventure:3128/main
 ~
 31 0 1
@@ -1695,7 +1695,7 @@ adventure:3127/look
 0 -1 3127
 S
 #3129
-3129:main~
+3129:indra.city~
 adventure:3129/main
 ~
 31 0 1
@@ -1728,7 +1728,7 @@ adventure:3129/sign
 ~
 S
 #3130
-3130:main~
+3130:indra.city~
 adventure:3130/main
 ~
 31 0 1
