@@ -745,7 +745,7 @@ adventure:3035/sign
 ~
 S
 #3040
-3040:indra.life~
+3040:indra.city~
 adventure:3040/main
 ~
 30 0 1
@@ -814,7 +814,7 @@ adventure:3041/wall
 ~
 S
 #3042
-3042:indra.life~
+3042:indra.city~
 adventure:3042/main
 ~
 30 0 1
@@ -1106,7 +1106,7 @@ adventure:3055/main
 30 8 0
 S
 #3100
-3100:main~
+3100:indra.life~
 adventure:3100/main
 ~
 31 0 1
