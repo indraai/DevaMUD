@@ -157,7 +157,7 @@ adventure:3001/look
 0 -1 3001
 S
 #3006
-3006:main~
+3006:indra.house~
 adventure:3006/main
 ~
 30 8 0
@@ -178,7 +178,7 @@ adventure:3008/look
 0 -1 3008
 S
 #3007
-3007:main~
+3007:ufo.cafe~
 adventure:3007/main
 ~
 30 8 0
@@ -231,7 +231,7 @@ adventure:3009/sign
 ~
 S
 #3010
-3010:main~
+3010:indra.store~
 adventure:3010/main
 ~
 30 8 0
@@ -246,7 +246,7 @@ adventure:3010/note
 ~
 S
 #3011
-3011:main~
+3011:indra.store~
 adventure:3011/main
 ~
 30 8 0
@@ -695,7 +695,7 @@ adventure:3033/case
 ~
 S
 #3034
-3034:main~
+3034:indra.store~
 adventure:3034/main
 ~
 30 8 0
